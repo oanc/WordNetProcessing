@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list word="smart.j" wn.version="3.1-2011-01-27">
+   <keys>
+      <key n="1" wn="smart%3:00:00::"/>
+      <key n="2" wn="smart%5:00:00:stylish:00"/>
+      <key n="3" wn="smart%5:00:00:intelligent:00"/>
+      <key n="4" wn="smart%5:00:00:forward:02"/>
+      <key n="5" wn="smart%5:00:00:intense:00"/>
+      <key n="6" wn="smart%5:00:00:fast:01"/>
+      <key n="7" wn="smart%5:00:00:automatic:00"/>
+   </keys>
+  <s path="[MASC]/data/written/20020731-nyt.anc" start="14639" end="14644" sStart="14545" offset="94" wn="7">The deal would be part of Microsoft's drive to sign up wireless carriers to use its so-called smart phone software -- a pared-down version of the Windows operating system -- and services that Microsoft is developing as part of its .Net Internet strategy.</s>
+  <s path="[MASC]/data/written/hotel-california.anc" start="3695" end="3700" sStart="3648" offset="47" wn="2147483644" comment="could be 1 or 2">Jefferson, he called himself, clean-shaven and smart, a picture of the perfect entrepreneur.</s>
+  <s path="[MASC]/data/written/jokes3.anc" start="9268" end="9273" sStart="9256" offset="12" wn="1">That is one smart dog,&quot; the man commented.</s>
+  <s path="[MASC]/data/written/jokes3.anc" start="9314" end="9319" sStart="9300" offset="14" wn="1">He's not that smart,&quot; said one of the losing players.</s>
+  <s path="[MASC]/data/written/jokes4.anc" start="6414" end="6419" sStart="6293" offset="126" wn="4">The cat is furious at being made a fool of and says, &quot;Here monkey, hop on my back and see what's going to happen to that smart aleck dog.</s>
+  <s path="[MASC]/data/written/jokes5.anc" start="7139" end="7144" sStart="7008" offset="131" wn="4">He said that in light of his bad landing, he had a hard time looking the passengers in the eye, thinking that someone would have a smart comment, but no one seemed annoyed.</s>
+  <s path="[MASC]/data/written/lists-003-2125109.anc" start="675" end="680" sStart="664" offset="11" wn="1">Also, it's smart enough to display the lower 128 for all incoming messages in the ISO-8859-X characters sets and greek the ones it can't if the character set of the receiving Pine is US-ASCII or ISO-8859-X. Thought that was what required for minimal MIME compliance.</s>
+  <s path="[MASC]/data/written/NYTnewswire9.anc" start="4184" end="4189" sStart="4174" offset="10" wn="1">Both were smart, disciplined, quiet men who thrived on efficiency, perfection and self-reliance.</s>
+  <s path="[MASC]/data/written/rybczynski-ch3.anc" start="50620" end="50625" sStart="50570" offset="50" wn="1">An architecture critic once described Gehry as “a smart man from Hollywood,” which nicely captures the architect’s blend of exuberant showmanship and canny behind-the-scenes savvy.</s>
+  <s path="[MASC]/data/written/tweets2.anc" start="68134" end="68139" sStart="68097" offset="37" wn="7">I will be using http://icerocket.com smart search engine all the time.</s>
+  <s path="[MASC]/data/written/warner1.anc" start="281" end="286" sStart="255" offset="26" wn="1">Finally television that’s smart enough for New Yorkers!</s>
+  <s path="[MASC]/data/spoken/2nd_Gore-Bush.anc" start="71911" end="71916" sStart="71898" offset="13" wn="1">And it was a smart move because there's gas reserves up there.</s>
+  <s path="[MASC]/data/spoken/3rd_Bush-Kerry.anc" start="19325" end="19330" sStart="19314" offset="11" wn="1">That's not smart.</s>
+</list>

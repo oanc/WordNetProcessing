@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list word="trace.n">
+   <keys>
+      <key n="1" wn="trace%1:23:00::"/>
+      <key n="2" wn="trace%1:10:00::"/>
+      <key n="3" wn="trace%1:10:01::"/>
+      <key n="4" wn="trace%1:06:00::"/>
+      <key n="5" wn="trace%1:06:01::"/>
+      <key n="6" wn="trace%1:10:02::"/>
+   </keys>
+  <s path="[OANC]/data/written_1/journal/slate/40/ArticleIP_2975.anc" start="7388" end="7394" sStart="7362" offset="31" sid="r7.trace.n.0103" wn="2">Yeats wants to leave his &quot;traces/ On Munster grass and Connemara skies.&quot;</s>
+  <s path="[OANC]/data/written_1/journal/verbatim/VOL21_1.anc" start="69538" end="69544" sStart="69532" offset="6" sid="r7.trace.n.0107" wn="2147483645" comment="trace is a verb here">Simes traces crime literature from the first beggar-books, the German Die Betrugnisse der Gyler (c.</s>
+  <s path="[OANC]/data/written_2/technical/biomed/1472-6793-1-15.anc" start="6267" end="6273" sStart="6233" offset="34" sid="r7.trace.n.0111" wn="2147483646" comment="there is no sense for the scientific use of &quot;trace&quot;">2Aand the corresponding traces of ICa 2+during a 50-ms depolarization to +30 mV and +90 mV delivered at the start of the line scan in the same cell.</s>
+  <s path="[OANC]/data/written_2/technical/biomed/gb-2002-3-12-research0079.anc" start="26292" end="26298" sStart="26279" offset="13" sid="r7.trace.n.0115" wn="2147483646" comment="there is no sense for the scientific use of trace">The sequence traces used in these assemblies are available from the GenBank trace repository and Release 3 offers a high-quality sequence for comparison, providing an important resource for testing new WGS assembly algorithms.</s>
+  <s path="[OANC]/data/written_2/travel_guides/berlitz1/IntroIndia.anc" start="3132" end="3138" sStart="2959" offset="173" sid="r7.trace.n.0119" wn="2">They’ve since been joined by Mongols, Aryans, Greeks, Arabs, Turks, Persians, and Afghans, while Dutch, British, Portuguese, and French have also left their traces.</s>
+</list>

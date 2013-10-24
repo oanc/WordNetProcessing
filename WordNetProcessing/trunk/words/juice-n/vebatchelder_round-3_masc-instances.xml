@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list word="juice.n" wn.version="3.1-2011-06-11">
+   <keys>
+      <key n="1" wn="juice%1:13:00::"/>
+      <key n="2" wn="juice%1:26:00::"/>
+      <key n="3" wn="juice%1:19:00::"/>
+      <key n="4" wn="juice%1:08:00::"/>
+   </keys>
+  <s path="[MASC]/data/written/A_Wasted_Day.anc" start="7025" end="7030" sStart="6959" offset="66" wn="1">The place was damp, the air acrid with the smell of stale tobacco juice, and foul with the presence of many unwashed humans.</s>
+  <s path="[MASC]/data/written/Fermentation_HR5034.anc" start="12440" end="12445" sStart="12364" offset="76" wn="1">Since I live in Texas Ill have to resort to buying O'Douls and Welchs grape juice after the Baptists take control of the law in the State legislature.</s>
+  <s path="[MASC]/data/written/hotel-california.anc" start="15090" end="15095" sStart="14994" offset="96" wn="1">Captain's cohort, she had a glass of orange-brown liquid in one hand; it might have been orange juice and some kind of berry liquor.</s>
+  <s path="[MASC]/data/written/jokes11.anc" start="5324" end="5329" sStart="5271" offset="53" wn="1">Every morning I put one in my granddaughter's orange juice, and now I can sleep like a baby.</s>
+  <s path="[MASC]/data/written/pirates.anc" start="95199" end="95204" sStart="95321" offset="0" wn="2147483644" comment="nothing is shown"></s>
+</list>

@@ -1,0 +1,183 @@
+
+@Grab('org.anc.wn:SentenceList:1.2.2-SNAPSHOT')
+import org.anc.wn.*
+
+@Grab('org.anc.osgi:wordnet:2.0.0-SNAPSHOT')
+import org.anc.wordnet.api.*
+
+@Grab('org.anc:common:3.0.0')
+import org.anc.util.SimpleBuffer
+
+@Grab('ch.qos.logback:logback-classic:1.0.0')
+import org.slf4j.*
+
+class ProcessSentences
+{
+   File root
+   SentenceListParser parser = new SentenceListParser()
+   Logger logger = LoggerFactory.getLogger(ProcessSentences)
+   
+   void run()
+   {
+      Cache cache = new Cache()
+      root.eachDir { subdir ->
+         logger.info subdir.name
+         def bySentence = [:]
+         subdir.eachFileMatch(~/.*\.xml/) { file ->
+            logger.debug file.name
+            def parts = file.name.replace('.xml', '').split('_')
+            String annotator = parts[0]
+            String round = parts[1]
+            String part = parts[2]
+            SentenceList slist = parser.parse(file)
+            SenseKeyIndex keyIndex = slist.getSenseKeyMap()
+            slist.each { s ->
+               String id = "${s.path}:${s.start}"
+               SentenceInfo info = bySentence[id]
+               if (info == null)
+               {
+                  info = new SentenceInfo()
+                  info.text = s.text
+                  info.path = s.path
+                  //info.start = s.getSentenceStart()
+                  //info.offset = s.start.toInteger() - s.getSentenceStart().toInteger()
+                  info.start = s.start.toInteger()
+                  info.end = s.end.toInteger()
+                  bySentence[id] = info
+               }
+               AssignedSense sense = new AssignedSense()
+               sense.annotator = annotator
+               sense.round = round
+               sense.part = part
+               sense.sense = keyIndex.get(s.getWNSense())
+               info.senses << sense
+            }
+         }
+         
+         PrintWriter writer = new PrintWriter(new File(subdir.parentFile, "${subdir.name}.txt"))
+         bySentence.each { id, info ->
+            try
+            {
+               writer.println info.text
+               info.senses.each { writer.println "\t${it}" }
+               
+               String text = cache.get(info.path)
+               if (text != null)
+               {
+                  //long start = s.start.toLong()
+                  //long end = s.end.toLong()
+                  int start = info.start
+                  int end = info.end
+                  if (end > text.length())
+                  {
+                     logger.warn("End : {} Text length: {}", end, text.length())
+                     end = text.length()
+                  }
+                  if (start < 0 || end < start)
+                  {
+                     logger.warn("Invalid offsets: {} {}", start, end)
+                     //logger.warn(s.toString())
+                  }
+                  else
+                  {
+                     //println text.substring(start, end)
+                     writer.println('\t' + text.substring(start, end))
+                  }
+               }
+               else
+               {
+                  logger.error "Unable to get content for ${info.path}"
+               }
+               
+            }
+            catch (Exception e)
+            {
+               logger.error "Unable to processes sentence: ${id}"
+               //logger.error s.toString()
+               throw e
+            }
+         }
+//       println()
+         writer.close()
+      }
+      
+      //println "All file paths used."
+      //allPaths.each { println it }
+      
+      /*
+      println()
+      println "By File"
+      byFile.each { path, list ->
+         println path
+         list.each { println "\t${it}" }
+      }
+      */
+   }
+   
+   
+   
+   static void usage()
+   {
+      println()
+      println "USAGE"
+      println "    groovy ProcessSentences.groovy /path/to/data/"
+      println ()
+   }
+   
+   static void main(args)
+   {
+      if (args.size() != 1)
+      {
+         usage()
+         return
+      }
+      def proc = new ProcessSentences()
+      proc.root = new File(args[0])
+      if (!proc.root.exists())
+      {
+         println "Input directory not found: ${proc.root.path}"
+         return
+      }
+      proc.run()
+   }
+}
+
+class SentenceInfo
+{
+   String path
+   String text
+   int start
+   int end
+   List<AssignedSense> senses = []
+}
+
+class AssignedSense
+{
+   String annotator
+   String round
+   String part
+   String sense
+   
+   String toString()
+   {
+      return "${annotator} ${round} ${part} ${sense}"
+   }
+}
+
+
+class Counter
+{
+   int count = 0
+   
+   void add(int n)
+   {
+      count += n
+   }
+   
+   void next()
+   {
+      ++count
+   }
+   
+   String toString() { return count.toString() }
+}
