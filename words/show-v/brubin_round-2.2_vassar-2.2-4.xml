@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list word="show.v">
+   <keys>
+      <key n="1" wn="show%2:39:02::"/>
+      <key n="2" wn="show%2:31:00::"/>
+      <key n="3" wn="show%2:32:00::"/>
+      <key n="4" wn="show%2:39:00::"/>
+      <key n="5" wn="show%2:36:00::"/>
+      <key n="6" wn="show%2:32:02::"/>
+      <key n="7" wn="show%2:32:01::"/>
+      <key n="8" wn="show_up%2:39:00::"/>
+      <key n="9" wn="show%2:32:04::"/>
+      <key n="10" wn="show%2:32:03::"/>
+      <key n="11" wn="show%2:38:00::"/>
+      <key n="12" wn="show%2:33:00::"/>
+   </keys>
+  <s path="/no/path" start="0" end="0" wn="">You do not need to annotate the sentences in this file.</s>
+</list>

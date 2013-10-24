@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list word="maturity.n" wn.version="3.1-2011-01-27">
+   <keys>
+      <key n="1" wn="maturity%1:28:00::"/>
+      <key n="2" wn="maturity%1:26:00::"/>
+      <key n="3" wn="maturity%1:28:01::"/>
+   </keys>
+  <s path="[MASC]/data/written/20020731-nyt.anc" start="21905" end="21913" sStart="21892" offset="13" wn="2">It taught me maturity.</s>
+</list>

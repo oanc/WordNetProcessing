@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list word="cool.j" wn.version="3.1-2011-06-11">
+   <keys>
+      <key n="1" wn="cool%3:00:01::"/>
+      <key n="2" wn="cool%5:00:00:composed:00"/>
+      <key n="3" wn="cool%3:00:03::"/>
+      <key n="4" wn="cool%3:00:02::"/>
+      <key n="5" wn="cool%5:00:00:satisfactory:00"/>
+      <key n="6" wn="cool%5:00:00:unqualified:02"/>
+      <key n="7" wn="cool%5:00:00:fashionable:00"/>
+   </keys>
+  <s path="[MASC]/data/written/1400.anc" start="20550" end="20554" sStart="20458" offset="92" wn="1">Until the moment they both reached into the bowl and found not only popcorn kernels but the cool touch of the other’s skin.</s>
+  <s path="[MASC]/data/written/tweets1.anc" start="25777" end="25781" sStart="25736" offset="41" wn="7">The new Outlook edition of Salesforce is cool.</s>
+  <s path="[MASC]/data/written/tweets1.anc" start="42375" end="42379" sStart="42464" offset="0" wn="2147483644" comment="nothing is shown"></s>
+  <s path="[MASC]/data/written/tweets2.anc" start="54000" end="54004" sStart="53980" offset="23" wn="7" comment="&quot;l li&quot; is highlighted instead of &quot;cool&quot;">evil laugh&lt; Thats a cool link!</s>
+  <s path="[MASC]/data/written/tweets2.anc" start="64769" end="64773" sStart="64760" offset="9" wn="7">That's a cool shirt.</s>
+  <s path="[MASC]/data/written/WhereToHongKong.anc" start="44044" end="44048" sStart="43991" offset="53" wn="3">For an authentic feel of old Portugal, slip into the cool entrance hall of theimpressive Leal Senado (“Loyal Senate” building), a fine example of colonial architecture.</s>
+</list>

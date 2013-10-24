@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list word="rip.v" wn.version="3.1-2011-06-11">
+   <keys>
+      <key n="1" wn="rip%2:35:00::"/>
+      <key n="2" wn="rip%2:38:00::"/>
+      <key n="3" wn="rip%2:35:01::"/>
+      <key n="4" wn="rip%2:40:00::"/>
+      <key n="5" wn="rip%2:32:00::"/>
+   </keys>
+  <s path="[MASC]/data/written/1403.anc" start="7556" end="7562" sStart="7535" offset="21" wn="1">Dirty green t-shirt, ripped, grass stained jeans, and mussed up hair.</s>
+  <s path="[MASC]/data/written/1403.anc" start="31135" end="31141" sStart="31128" offset="7" wn="1">Shards ripped at my clothing, hundred mile-per-hour winds immediately shooting me out into the opening, spinning me around and around until - Dark.</s>
+</list>
