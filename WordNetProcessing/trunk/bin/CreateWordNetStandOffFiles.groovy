@@ -39,16 +39,25 @@ import groovy.io.FileType;
 import org.xml.sax.SAXException;
 import groovy.xml.MarkupBuilder;
 
+//first import the right stuff
+import org.xces.graf.io.GrafRenderer;
+
+
+
 
 
 class CreateWordNetStandOffFiles {
     File root;
     File outDir;
 
+    IAnnotationSpace space = Factory.newAnnotationSpace("wn","http://wordnet.princeton.edu/");
+
     SentenceListParser parser = new SentenceListParser();
 
     IAnnotationSpace annotationSpace = Factory.newAnnotationSpace("wn", "http://wordnet.princton.edu/");
     Logger logger = LoggerFactory.getLogger(CreateWordNetStandOffFiles);
+
+
 
     void run()
     {
@@ -100,13 +109,14 @@ class CreateWordNetStandOffFiles {
         //starting in root cycle through all files
 
         root.eachFileMatch(~/.*\.xml/) {file->
-            println "Processing ${file.path}" ;
+            logger.info( "Processing ${file.path}" );
 
             //SentenceList sentenceList = parser.parse(file.path) ;
 
             try{
 
                 def list = new XmlParser().parse(file);
+                def sentenceDescMap = [:];
 
                 list.sentences.s.each {s->
 
@@ -121,9 +131,11 @@ class CreateWordNetStandOffFiles {
                     sen.wnkey = "${s.'@wnkey'}";
                     sen.text = "${s.'@text'}";
 
+                    println  "     ${sen.path} ${sen.start}   ${sen.end}    ${sen.wnkey}";
+
                     //sentenceDescList.add(sen);
 
-                    println "need to find ${sen.path}";
+                    //println "need to find ${sen.path} and ${sen.start}";
                     def FilePathArray =  sen.path.toString().split(File.separator);
                     String targetFileNameWithExtenstion = FilePathArray.last();
                     File targetFile = null;
@@ -151,45 +163,79 @@ class CreateWordNetStandOffFiles {
 
                     }
 
-                    println "targetFile Name is ${targetFileName.toString()}";
+                   // println "targetFile Name is ${targetFileName.toString()}";
 
                     if(targetFile != null)
                     {
 
                         IGraph graphFromFile = getLocalGraph(targetFile) ;
-                        def i = 1;
+                        def sentenceNumber = 1;
 
-                        graphFromFile.nodes().each { node ->
+                        //lets go through all the regions in this local graf file, and find the region
+                        //that matches the start and stop of the word that we are using now...
+                        graphFromFile.regions().each{region->
 
-                            if (node.getId().toString().contains("penn")  )
+                            sentenceNumber++;
+                            def regionStart = Integer.parseInt("${region.anchors[0]}");
+                            def regionEnd   = Integer.parseInt("${region.anchors[1]}");
+                            def sentenceStart = Integer.parseInt("${sen.start}");
+                            def sentenceEnd = Integer.parseInt("${sen.end}");
+
+
+                            //if we find something...cool, now through into our map
+                            if ((regionStart == sentenceStart) &&
+                                (regionEnd   == sentenceEnd  ))
                             {
-                                println "${i}: ${node.getId()}";
-                                i++;
+
+                                println ();
+                                println "found this region ${region.id} with anchors of ${region.anchors[0]} and ${region.anchors[1]} and the sentence states it starts at ${sen.start} and ends at ${sen.end}";
+ //   loger not working ??      logger.info("found this region ${region.id} with anchors of ${region.anchors[0]} and ${region.anchors[1]} and the sentence states it starts at ${sen.start} and ends at ${sen.end}");
 
 
+                                 //here is where the magic happens
+                             //   sentenceDescMap[sen.sid] = sen    ;
+
+ //                               region.nodes().each {node ->
+                                    //println "  ${node.getId()}";
+
+
+ //                               }
+                                //make a useless key, well not completely useless, just to keep things unique
+                                def senId = "s" + sentenceNumber.toString();
+
+                                //now put the sentence Object thingy in the map with the useless key
+                                sentenceDescMap[senId] = sen;
+
+
+
+                                //println();
                             }
-
-                            //the nodes' spans and if they match the start and end of the sen object, then start adding
-                            //annotations to that node...
-
-                           // node.
-
-
-
                         }
-
-
-
-
-
-
-
-
                     }
+                }   //end of this xml file's sentences
+
+                //ok we now have a filled map, send it off to make a graph
+        //        println "sentenceDescMap size is ${sentenceDescMap.size()}";
+                IGraph graph = createGraph(sentenceDescMap);
+                //graph.setContent(compiledText);    //this step is needed ?
 
 
-                    println "path in ${file.path} is ${sen.path}";
-                }
+                //ok...now to render the graph
+                //create an out File
+//                print "outDir is ${outDir.toString()}   ";
+//                print "file is ${file.toString()}   ";
+//                print "file Name is ${file.getName()}   ";
+
+
+
+                File outFile = new File(outDir, file.getName());
+                print "outFile is ${outFile.toString()}";
+                rendertheGraph(outFile,graph);
+
+
+
+
+
 
             }
             catch(SAXException e)
@@ -197,7 +243,34 @@ class CreateWordNetStandOffFiles {
                 println "SAXException in file ${file}";
 
             }
-        }
+            catch (FileNotFoundException e)
+            {
+                println "FileNotFoundException for ${file}" ;
+            }
+        }    //end of this dir's files
+    }
+
+
+    void rendertheGraph(File outputFile, IGraph graph)
+    {
+
+
+
+        //make an output stream
+        FileOutputStream outStream = new FileOutputStream(outputFile);
+
+        //use stream to make a streamWriter
+        OutputStreamWriter writer = new OutputStreamWriter(outStream, "UTF-8");
+
+        //make the renderer
+        GrafRenderer grafRenderer = new GrafRenderer(writer);
+
+        //render the graf
+        grafRenderer.render(graph);
+
+        //close the renderer
+        grafRenderer.close();
+
     }
 
 
@@ -218,7 +291,7 @@ class CreateWordNetStandOffFiles {
         if (localFile != null)
         {
 
-            println "Trying to get graph from file ${localFile}";
+          //  println "Trying to get graph from file ${localFile}";
 
             try {
                 graphFromFile = grafLoader.load(localFile);
@@ -230,22 +303,74 @@ class CreateWordNetStandOffFiles {
 
             }
 
+        }
+        return graphFromFile ;
+    }
+
+    IGraph createGraph(Map map)
+    {
+        IDGenerator id = new IDGenerator()
+        IGraph graph = Factory.newGraph()
+        graph.addAnnotationSpace(space)
 
 
+ //       map.each{k,v->
+
+ //           println "${k}:${v.start}";
+
+
+        map.each { senId,senDescription ->
+
+
+            //makes some nodes, regions, an annotation just for the sentence label s , attribute the annotation to a space
+//            INode wordNode = Factory.newNode(id.generate('s-n'));
+//            IRegion wordRegion = Factory.newRegion(id.generate('s-r'), senDescription.start, senDescription.end);
+//            IAnnotation wordAnnotation = Factory.newAnnotation(id.generate('a'), "w");
+//            wordAnnotation.setAnnotationSpace(space);
+
+//            //now connect all the things we just made, set the node to the region,
+//            wordNode.addRegion(wordRegion);
+//            //add the sentence Annotation to the sentence node
+//            wordNode.addAnnotation(wordAnnotation);
+//            //add the node to the graph
+//            graph.addNode(wordNode);
+//            //add the region to the graph also...
+//            graph.addRegion(wordRegion);
+
+            //make the words Node,
+            INode wordNode = Factory.newNode(id.generate('w-n')) ;
+            //add the node to the graph
+            graph.addNode(wordNode);
+
+
+            int startInt = Integer.parseInt(senDescription.start);
+            int endInt   = Integer.parseInt(senDescription.end);
+
+            //make a new region just for the word
+            IRegion wordRegion = Factory.newRegion(id.generate('w-r'), startInt, endInt);
+            //add this words region to the graph
+            graph.addRegion(wordRegion);
+            //connect the region to the word's node
+            wordNode.addRegion(wordRegion);
+
+
+            //make the annotation
+            IAnnotation wordAnnotation = Factory.newAnnotation(id.generate('a'), "w");
+            //connect it to the node
+            wordNode.addAnnotation(wordAnnotation);
+            //make the annotation part of the annotation space for wordnet
+            wordAnnotation.setAnnotationSpace(space);
+
+            wordAnnotation.addFeature(id.generate('f'),senDescription.wnkey);
+         //   wordAnnotation.addFeature(id.generate('f'),senDescription.text);
 
 
 
         }
 
-        return graphFromFile ;
 
-
-
-
-
+        return graph
     }
-
-
 
 
 
