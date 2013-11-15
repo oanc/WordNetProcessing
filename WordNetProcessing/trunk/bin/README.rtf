@@ -1,6 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 Noteworthy-Light;
+}
+{\colortbl;\red255\green255\blue255;\red1\green0\blue150;\red245\green131\blue76;\red253\green128\blue64;
+\red153\green51\blue5;}
 {\info
 {\author Keith Suderman}
 {\*\company The American National Corpus}
@@ -56,4 +58,71 @@ PathIndex.groovy\
 ProcessSentences.groovy\
 	Prints the text of each sentence with all sense tags assigned.\
 \
-	}
+	\
+\
+draft update:\
+\pard\pardeftab720
+
+\f1\fs24 \cf0 Goal:\
+Take the output of \'a0SentenceDB.groovy and make new a sentence file for each sentence, as the .txt file, and then take the annotations that he saved in the same output of the SentenceDBGroovy file and make a standoff annotation file where the senses are annotations and features etc\'85.\
+\pard\pardeftab720\sl440
+\cf0 \
+\pard\pardeftab720
+\cf0 Use sentence start and file name as unique identifier of sentences, if needed\
+\
+1.\
+\pard\pardeftab720\sl300
+
+\f2\fs30 \cf0 Need to run AllPaths first:\
+\'a0\'a0~/anc/sense-tagging/bin>groovy AllPaths.groovy ../data all-paths.txt\
+\pard\pardeftab720
+
+\fs28 \cf0 \
+\pard\pardeftab720\sa300
+\cf0 Delete ( or rename ) masc-index.txt if run on another machine or with old Masc dir structure. Needs to be re-created only as locations of Masc change
+\fs30 \
+\pard\pardeftab720\sa300
+
+\f0 \cf0 \
+\pard\pardeftab720
+
+\f2\fs28 \cf0 Update Masc-ind
+\fs30 ex.groovy generateIndex() to have local location of masc data\
+\
+2.\
+Need to run FindPaths second:\
+~/anc/sense-tagging/bin>groovy FindPaths.groovy all-paths.txt all-paths-index.txt\'a0\
+\
+3.\
+\'a0Create a /words dir in the same dir as /data. and Run\
+\pard\pardeftab720\sa300
+\cf0 ~/anc/sense-tagging/bin>groovy ListSentences.groovy ../data ../words\
+\'a0 this fills /word with a directory for each word-sense ( like able-j )\
+\'a0 \'a0and the /word/word-sense/ dir is filled with files like annotatior_round#_part.xml\'a0\
+\'a0 \'a0( like anfahmy_round-10_cv.xml)\
+\
+4.\
+Run, creating individual files in the /words dir that contain the sentences, the annotators, the word net sense key, etc\
+~/anc/sense-tagging/bin>groovy ProcessSentences.groovy ../words >> ProcessedSentencesOut.txt\
+\'a0\
+look at GraphFactory.java in UimaUtils to verify how to create Graphs with annotations and features.\'a0\
+Use ProcessSentences.groovy to create Graf objects\
+\
+5.\
+\pard\pardeftab720
+\cf0 Now that you have the sentences listed in single files, \'a0one file per word sense, now go through all those files and rearrange the information so there is one file per masc file. ie all annotations that are from file historygreek..hdr are all collected into one xml file. There might be only one or two word senses per original masc file, but that is ok\'85\'a0\
+\
+~/anc/sense-tagging/bin>groovy OrganizeToFiles.groovy ../words ../byGrafFileName\
+this produces a simple xml file with all the sentence object data intact, but one file per original masc graph\
+\
+keep in mind there are certain annotators that are excluded, and the files that are of interest are the ones that are in the annotators' trunk directories\'85\
+...like\'a0/Users/frankcascio/anc/sense-tagging/data/round-1/cv/branches/adelpriore/trunk. Only those "round,annotators" files with the keys are used. i.e.\
+\pard\pardeftab720\sa240
+
+\f0\fs24 \cf0 \'a0 \'a0\cf2 <keys>\cf0 \uc0\u8232 \'a0 \'a0 \'a0 \cf2 <key\cf3  n\cf4 =\cf5 "1"\cf3  wn\cf4 =\cf5 "development%1:04:01::"\cf2 />\cf0 \uc0\u8232 \'a0 \'a0 \'a0 \cf2 <key\cf3  n\cf4 =\cf5 "2"\cf3  wn\cf4 =\cf5 "development%1:22:02::"\cf2 />\cf5 \
+\pard\pardeftab720
+
+\f2\fs30 \cf0 \'a0 \'a0</keys>\
+\'a0\
+This means the data was manually annotated and churned through.\'a0\
+}
