@@ -279,8 +279,8 @@ class CreateWordNetStandOffFiles {
         File headerFile = new File('/Users/frankcascio/anc/corpora/OANC-1.2b1/resource-header.xml');
         //File headerFile = new File('/Users/frankcascio/anc/corpora/masc/MASC-3.0.0/resource-header.xml');
         ResourceHeader header = new ResourceHeader(headerFile);
-        GrafParser grafParser = new GrafParser(header);
-        GrafLoader grafLoader = new GrafLoader(header);
+        GrafParser grafParser = new GrafParser(header);                  //for a single stand-off file use parser use the GrafParser
+        GrafLoader grafLoader = new GrafLoader(header);                  //for loading a full graph with all dependencies use the GrafLoader
         //here is where you could use the set Types method so the loader only picks up the types that we want
         String[] listofTypesAsStringArray = ["f.s", "f.penn"];
        // grafLoader.setTypes(listofTypesAsStringArray[]);
