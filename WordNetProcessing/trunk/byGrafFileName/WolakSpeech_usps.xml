@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/government/Post_Rate_Comm/WolakSpeech_usps.anc" start="751" end="755" sStart="738" offset="13" sid="r11.true.j.0342" wn="1" wnkey="true%3:00:00::" text="Particularly true for household sector-E-mail, Electronic bill paying, FAX, long-distance call" />
+    <s path="[OANC]/data/written_2/technical/government/Post_Rate_Comm/WolakSpeech_usps.anc" start="11124" end="11129" sStart="null" offset="75" sid="r9.paper.n.0235" wn="5" wnkey="paper%1:10:02::" text="Economic and econometric theory underlying analysis available in technical paper by same title that can be downloaded from http://www-leland.stanford.edu/~wolak" />
+    <s path="[OANC]/data/written_2/technical/government/Post_Rate_Comm/WolakSpeech_usps.anc" start="10693" end="10702" sStart="null" offset="198" sid="r11.function.n.0201" wn="2" wnkey="function%1:07:00::" text="There is uncertainty associated with all of the numbers presented in this paper due to sampling error and estimation error in econometric estimation procedure used to recover household-level demand functions" />
+    <s path="[OANC]/data/written_2/technical/government/Post_Rate_Comm/WolakSpeech_usps.anc" start="2970" end="2979" sStart="null" offset="28" sid="r8.1.different.j.0333" wn="4" wnkey="different%5:00:01:other:00" text="Two surveys administered to different samples of households: (1) Quarterly Interview Survey and (2) Diary Survey" />
+    <s path="[OANC]/data/written_2/technical/government/Post_Rate_Comm/WolakSpeech_usps.anc" start="1517" end="1524" sStart="null" offset="11" sid="r9.appear.v.0514" wn="1" wnkey="appear%2:39:00::" text="This event appears to signal a leveling-off or decline in household-level use of USPS postal delivery services" />
+  </sentences>
+</list>

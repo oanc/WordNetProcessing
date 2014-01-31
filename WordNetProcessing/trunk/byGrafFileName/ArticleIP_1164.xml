@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/23/ArticleIP_1164.anc" start="2180" end="2184" sStart="2148" offset="32" sid="r8.way.n.0471" wn="2" wnkey="way%1:04:01::" text="A long, related story lists the ways that governments hype exports (exchange-rate manipulation, subsidized R&amp;D, trade missions, etc.), and bemoans their proliferation." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/23/ArticleIP_1164.anc" start="2150" end="2154" sStart="null" offset="0" sid="null" wn="2" wnkey="long%3:00:01::" text="A &lt;b&gt;long&lt;/b&gt;, related story lists the ways that governments hype exports (exchange-rate manipulation, subsidized R&amp;D, trade missions, etc.), and bemoans their proliferation." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/23/ArticleIP_1164.anc" start="7363" end="7367" sStart="null" offset="0" sid="null" wn="6" wnkey="land%1:26:00::" text="On the one hand, EO has pacified the &lt;b&gt;land&lt;/b&gt; and ended a bloody civil war." />
+  </sentences>
+</list>

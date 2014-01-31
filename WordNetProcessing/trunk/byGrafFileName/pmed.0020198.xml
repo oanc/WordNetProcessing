@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020198.anc" start="3185" end="3191" sStart="3113" offset="72" sid="r9.normal.j.0508" wn="1" wnkey="normal%3:00:01::" text="Still, the smoking-associated inflammatory response returned to normal within five years after smokers quit, suggesting that the vascular effects were reversible and that cardiovascular risk subsides gradually with reduced exposure." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020198.anc" start="1533" end="1539" sStart="null" offset="82" sid="r9.level.n.0276" wn="2" wnkey="level%1:26:01::" text="For example, few studies have examined the impact of smoking cessation on levels of inflammatory markers or on cardiovascular risk reduction; the level and rate at which the inflammatory response subsides following smoking cessation is also uncertain." />
+    <s path="file:/c:/OANC/data/written_2/technical/plos/pmed.0020198.anc" start="724" end="729" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" text="It is also well &lt;b&gt;known&lt;/b&gt; that when smokers quit, their risk of mortality and future cardiac events declines, but there is little data quantifying the rate of this risk reduction." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020198.anc" start="190" end="194" sStart="null" offset="25" sid="r9.kill.v.0873" wn="1" wnkey="kill%2:35:00::" text="Smoking-related diseases kill one in ten adults globally, i.e., 4 million deaths annually; by 2030, if current trends continue, smoking will kill one in six people." />
+  </sentences>
+</list>

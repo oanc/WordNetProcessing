@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_494.anc" start="3215" end="3220" sStart="3201" offset="14" sid="r10.wait.v.0294" wn="2" wnkey="wait%2:42:01::" text="But the piece waits until the tenth paragraph to note that this was reported yesterday in the Washington Times . (This story is also inside today's Post .)" />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_494.anc" start="2925" end="2930" sStart="null" offset="88" sid="r7.sound.n.0212" wn="2147483645" wnkey="null" text="The USAT headline--&quot;Biotech Firm to Aid Tobacco Probe&quot;--makes the whole thing sound like good citizenship rather than a plea bargain." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_494.anc" start="1209" end="1213" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" text="The WP seems to reveal that this juror ended up with at least a touch of militia-style animus against the feds when it quotes her remark: &quot;I think the government's attitude.is &lt;b&gt;part&lt;/b&gt; of where all this comes from in the first place." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_494.anc" start="1209" end="1213" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="The WP seems to reveal that this juror ended up with at least a touch of militia-style animus against the feds when it quotes her remark: &quot;I think the government's attitude.is &lt;b&gt;part&lt;/b&gt; of where all this comes from in the first place." />
+  </sentences>
+</list>

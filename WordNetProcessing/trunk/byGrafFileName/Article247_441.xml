@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_441.anc" start="2344" end="2354" sStart="-1" offset="0" sid="null" wn="1" wnkey="succession%1:07:00::" text="Last week, the WP ran a front-page story about the problems under welfare reform faced by a woman fresh off the rolls whose 15-year-old daughter has had two babies in rapid &lt;b&gt;succession&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_441.anc" start="2344" end="2354" sStart="null" offset="0" sid="null" wn="3" wnkey="succession%1:04:00::" text="Last week, the WP ran a front-page story about the problems under welfare reform faced by a woman fresh off the rolls whose 15-year-old daughter has had two babies in rapid &lt;b&gt;succession&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_441.anc" start="885" end="890" sStart="null" offset="114" sid="r11.refer.v.0128" wn="1" wnkey="refer%2:32:01::" text="In discussing crowd size, the Post uses as a reference the size of the Million Man March, but, curiously, doesn't refer to the Promise Keepers rally of a few weeks back--even though the paper gave PK massive front-page coverage." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_441.anc" start="2338" end="2343" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="Last week, the WP ran a front-page story about the problems under welfare reform faced by a woman fresh off the rolls whose 15-year-old daughter has had two babies in &lt;b&gt;rapid&lt;/b&gt; succession." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_441.anc" start="2338" end="2343" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="Last week, the WP ran a front-page story about the problems under welfare reform faced by a woman fresh off the rolls whose 15-year-old daughter has had two babies in &lt;b&gt;rapid&lt;/b&gt; succession." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_441.anc" start="3435" end="3441" sStart="null" offset="14" sid="r8.family.n.0174" wn="2" wnkey="family%1:14:00::" text="All have seen family members harassed, even persecuted to death.&quot;" />
+  </sentences>
+</list>

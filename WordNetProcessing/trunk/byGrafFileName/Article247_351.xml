@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_351.anc" start="1569" end="1575" sStart="1559" offset="10" sid="r8.state.n.0827" wn="2147483645" wnkey="null" text="The piece states this stance could set off a rift within Democratic ranks." />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_351.anc" start="268" end="275" sStart="null" offset="192" sid="r9.kill.v.0424" wn="1" wnkey="kill%2:35:00::" text="The biggest news today is a startling development: British commandos, with U.S. logistic support and full NATO and Hague backing, moved in on two Bosnian Serb officials accused of war crimes, killing one in a firefight and capturing the other." />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_351.anc" start="1978" end="1983" sStart="null" offset="5" sid="r8.1.great.j.0364" wn="4" wnkey="great%5:00:00:good:01" text="Some great details today in the Wall Street Journal 's front-page feature about the road to the tobacco settlement." />
+  </sentences>
+</list>

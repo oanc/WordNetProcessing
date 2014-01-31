@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22067.anc" start="2714" end="2720" sStart="2704" offset="10" sid="r10.wait.v.0542" wn="2" wnkey="wait%2:42:01::" text="One judge waited more than three years for confirmation." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22067.anc" start="7459" end="7463" sStart="null" offset="44" sid="r11.true.j.0354" wn="1" wnkey="true%3:00:00::" text="The president--and this has been especially true of Clinton--frequently nominates the least offensive nominee rather than the most qualified in order to pacify the Senate." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22067.anc" start="4419" end="4424" sStart="null" offset="102" sid="r8.state.n.0379" wn="8" wnkey="State%1:14:02::" text="Helms, for example, held up numerous ambassadorial appointments to pressure Clinton to reorganize the State Department." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22067.anc" start="4775" end="4781" sStart="null" offset="4" sid="r8.number.n.0103" wn="1" wnkey="number%1:07:00::" text="The number of presidential appointees has multiplied--including judges, there are more than 4,000, five times as many as in Kennedy's time--making it difficult for the Senate to find time to consider everyone." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_22067.anc" start="4051" end="4055" sStart="null" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" text="All Cabinet-level appointees are now &lt;b&gt;fair&lt;/b&gt; game for a confirmation challenge." />
+  </sentences>
+</list>

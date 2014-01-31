@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/cc1497.anc" start="7643" end="7650" sStart="7631" offset="0" sid="null" wn="2147483645" wnkey="null" text="Minitab for &lt;b&gt;Windows&lt;/b&gt; (Release 12." />
+    <s path="[OANC]/data/written_2/technical/biomed/cc1497.anc" start="8310" end="8314" sStart="null" offset="50" sid="r7.1.use.v.0879" wn="1" wnkey="use%2:34:01::" text="When the original diagnostic weight was used, APACHE II significantly overestimated mortality (predicted mortality 12." />
+    <s path="[OANC]/data/written_2/technical/biomed/cc1497.anc" start="4756" end="4760" sStart="null" offset="207" sid="r11.true.j.0310" wn="1" wnkey="true%3:00:00::" text="Most of these patients were still under the influence of postoperative sedation during the first 24 hours in ICU, and the worst GCS would reflect the effect of sedation more than the true underlying mental status." />
+    <s path="[OANC]/data/written_2/technical/biomed/cc1497.anc" start="2320" end="2326" sStart="null" offset="207" sid="r9.normal.j.0909" wn="1" wnkey="normal%3:00:01::" text="The APACHE II score consists of the Acute Physiology Score, which is calculated from 14 physiologic variables that are scored from 0 to 4 and depend upon the degree of deviation from normal." />
+    <s path="[OANC]/data/written_2/technical/biomed/cc1497.anc" start="14646" end="14650" sStart="null" offset="106" sid="r7.1.easy.j.0124" wn="1" wnkey="easy%3:00:01::" text="ICUs that use APACHE II as their database severity of illness scoring system will find it easy to apply the system to this subgroup of patients rather than implementing a special disease-specific system exclusively for OLTX patients." />
+    <s path="[OANC]/data/written_2/technical/biomed/cc1497.anc" start="2407" end="2416" sStart="null" offset="13" sid="r8.1.different.j.0629" wn="4" wnkey="different%5:00:01:other:00" text="There are 50 different diagnostic categories, each with a different weight used in calculating the predicted mortality." />
+    <s path="[OANC]/data/written_2/technical/biomed/cc1497.anc" start="9997" end="10003" sStart="null" offset="88" sid="r10.common.j.0669" wn="4" wnkey="common%5:00:00:familiar:02" text="Hepatitis C virus was more common, and alcohol-related liver disease was less common, as an underlying disease in patients in KFNGH than in those at UW." />
+  </sentences>
+</list>

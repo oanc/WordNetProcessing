@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4003.anc" start="4550" end="4555" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" text="And, true to my old profession, as I &lt;b&gt;write&lt;/b&gt; this I'm crashing to meet the deadline I was assigned by editor Michael Kinsley." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4003.anc" start="4577" end="4581" sStart="null" offset="0" sid="null" wn="4" wnkey="meet%2:34:00::" text="And, true to my old profession, as I write this I'm crashing to &lt;b&gt;meet&lt;/b&gt; the deadline I was assigned by editor Michael Kinsley." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4003.anc" start="3186" end="3191" sStart="null" offset="52" sid="r8.1.great.j.0299" wn="1" wnkey="great%5:00:01:large:00" text="I could see right away that Microsoft was home to a great deal of talent and creative drive." />
+  </sentences>
+</list>

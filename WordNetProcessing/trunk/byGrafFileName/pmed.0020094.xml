@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020094.anc" start="200" end="204" sStart="33" offset="167" sid="r8.life.n.0993" wn="1" wnkey="life%1:26:01::" text="The prevalence of asthma and allergy has risen in all industrialized countries during recent decades, and there is much debate about exposure to pets in early life and later development of asthma and allergy." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020094.anc" start="1064" end="1070" sStart="null" offset="57" sid="r9.level.n.0816" wn="2" wnkey="level%1:26:01::" text="The two mechanisms may be linked, since exposure to high levels of cat allergens may induce regulatory T cells." />
+  </sentences>
+</list>

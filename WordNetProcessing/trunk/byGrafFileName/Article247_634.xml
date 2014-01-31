@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_634.anc" start="2241" end="2246" sStart="2210" offset="31" sid="null" wn="3" wnkey="paper%1:10:03::" text="And, reports the Journal , the paper is changing the shape of Chinese media." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_634.anc" start="2241" end="2246" sStart="null" offset="31" sid="null" wn="3" wnkey="paper%1:10:03::" text="And, reports the Journal , the paper is changing the shape of Chinese media." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_634.anc" start="2241" end="2246" sStart="null" offset="31" sid="null" wn="6" wnkey="paper%1:14:00::" text="And, reports the Journal , the paper is changing the shape of Chinese media." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_634.anc" start="2241" end="2246" sStart="null" offset="31" sid="null" wn="3" wnkey="paper%1:10:03::" text="And, reports the Journal , the paper is changing the shape of Chinese media." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_634.anc" start="2241" end="2246" sStart="null" offset="31" sid="null" wn="3" wnkey="paper%1:10:03::" text="And, reports the Journal , the paper is changing the shape of Chinese media." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_634.anc" start="3855" end="3859" sStart="null" offset="60" sid="r8.life.n.0110" wn="1 3" wnkey="null" text="Cash: &quot;I'm not going to get upset over somebody else's life." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_634.anc" start="1149" end="1153" sStart="null" offset="0" sid="null" wn="6" wnkey="date%1:28:05::" text="(The NYT doesn't explain the significance of the &lt;b&gt;date&lt;/b&gt;, but the LAT does--it's Nigerian Independence Day.)" />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4055.anc" start="2034" end="2037" sStart="1814" offset="230" sid="r9.hit.v.0164" wn="2147483645" wnkey="null" text="The term &quot;spiking&quot; turned out to be ever-so-slightly inaccurate, because the nicotine put into the cigarettes had been taken out earlier in the manufacturing process; the way tobacco companies were boosting the nicotine hit was actually more complicated than that and involved the addition of ammonia." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4055.anc" start="5787" end="5792" sStart="null" offset="118" sid="r8.1.great.j.0631" wn="1" wnkey="great%5:00:01:large:00" text="What Hewitt neglected to point out, of course, is that apologizing for a perfectly good piece of journalism is not so great a sin as preventing that piece of journalism from coming to light in the first place." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4055.anc" start="6635" end="6638" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="** &quot;We now agree that we should not have reported that Philip Morris and Reynolds [which had also sued] &lt;b&gt;add&lt;/b&gt; significant amounts of nicotine from outside sources." />
+  </sentences>
+</list>

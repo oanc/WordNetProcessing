@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3951.anc" start="3325" end="3332" sStart="3307" offset="18" sid="r1.history.n.0046" wn="" wnkey="null" text="about art and art history to be able to appreciate a painter like Rothko?" />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3951.anc" start="3325" end="3332" sStart="null" offset="18" sid="r1.history.n.0046" wn="3" wnkey="history%1:09:00::" text="about art and art history to be able to appreciate a painter like Rothko?" />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3951.anc" start="3325" end="3332" sStart="null" offset="18" sid="r1.history.n.0046" wn="1" wnkey="history%1:28:00::" text="about art and art history to be able to appreciate a painter like Rothko?" />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3951.anc" start="3325" end="3332" sStart="null" offset="18" sid="r1.history.n.0046" wn="2147483647" wnkey="null" text="about art and art history to be able to appreciate a painter like Rothko?" />
+  </sentences>
+</list>

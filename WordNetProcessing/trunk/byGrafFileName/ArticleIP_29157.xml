@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29157.anc" start="4720" end="4723" sStart="4573" offset="147" sid="r8.way.n.0861" wn="6" wnkey="way%1:06:00::" text="In an interview Thursday with Yediot Aharanot , Israel's new prime minister, Labor Party leader Ehud Barak, thanked Tony Blair for showing him the way to his election victory." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29157.anc" start="5070" end="5073" sStart="null" offset="64" sid="r8.way.n.0809" wn="1" wnkey="way%1:07:01::" text="Blair insisted on finding out why they really lost, and in this way arrived at a victorious campaign.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29157.anc" start="5052" end="5056" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" text="Blair insisted on finding out why they really &lt;b&gt;lost&lt;/b&gt;, and in this way arrived at a victorious campaign.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29157.anc" start="4257" end="4264" sStart="null" offset="141" sid="r9.kill.v.0972" wn="1" wnkey="kill%2:35:00::" text="A document purporting to come from the Red Brigades, a guerrilla group thought to have been eliminated, later claimed responsibility for the killing." />
+  </sentences>
+</list>

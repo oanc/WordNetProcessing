@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2565.anc" start="1666" end="1673" sStart="1545" offset="121" sid="r8.suggest.v.0568" wn="1" wnkey="suggest%2:32:00::" text="I am writing only to indicate what pleasure the ballet, now readily available on videotape, has given this klutz, and to suggest that others like me might also get pleasure from it." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2565.anc" start="5822" end="5827" sStart="null" offset="9" sid="r7.sight.n.0150" wn="1" wnkey="sight%1:09:01::" text="At first sight they look easy, although further observation shows how precise and disciplined the movements are." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2565.anc" start="5133" end="5138" sStart="null" offset="5" sid="r9.sense.n.0378" wn="2" wnkey="sense%1:10:00::" text="In a sense, you get more ballet for your money in the Kirov version." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2565.anc" start="5838" end="5842" sStart="null" offset="25" sid="r7.1.easy.j.0100" wn="1" wnkey="easy%3:00:01::" text="At first sight they look easy, although further observation shows how precise and disciplined the movements are." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2565.anc" start="1140" end="1145" sStart="null" offset="0" sid="null" wn="3" wnkey="date%1:14:00::" text="One of my first &lt;b&gt;dates&lt;/b&gt; with the young woman who was to be my wife took us to Les Sylphides downtown in the Loop." />
+  </sentences>
+</list>

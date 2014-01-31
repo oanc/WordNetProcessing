@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3834.anc" start="2992" end="2997" sStart="2978" offset="14" sid="r9.sense.n.0104" wn="4" wnkey="sense%1:09:04::" text="It only makes sense to worry about the time it takes to put on a seat belt if it actually results in a delay in our progress." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3834.anc" start="6039" end="6043" sStart="null" offset="15" sid="r7.poor.j.0574" wn="5" wnkey="poor%5:00:00:insufficient:00" text="Poor teaching, poor motivation, lack of opportunity, and, very rarely, a failure of the treatment itself." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3834.anc" start="7335" end="7339" sStart="null" offset="0" sid="null" wn="4" wnkey="meet%2:34:00::" text="For these people there is evidence, but not proof persuasive enough to &lt;b&gt;meet&lt;/b&gt; the mythological standards of neutral rationality, a standard that no philosopher in his right mind would defend today." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3834.anc" start="1292" end="1297" sStart="null" offset="60" sid="r9.level.n.0910" wn="1" wnkey="level%1:07:00::" text="Restraint systems aren't perfect, but they do offer another level of protection." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3834.anc" start="7686" end="7689" sStart="null" offset="31" sid="r8.ask.v.0362" wn="2" wnkey="ask%2:32:02::" text="We can, of course, continue to ask why there is evil in the world." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1667.anc" start="59" end="66" sStart="-1" offset="0" sid="null" wn="3" wnkey="success%1:26:00::" text="The Sweet Problem of &lt;b&gt;Success&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1667.anc" start="59" end="66" sStart="null" offset="0" sid="null" wn="3" wnkey="success%1:26:00::" text="The Sweet Problem of &lt;b&gt;Success&lt;/b&gt;" />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1667.anc" start="1065" end="1069" sStart="null" offset="63" sid="r7.1.face.n.0933" wn="2147483645" wnkey="null" text="&quot;Isn't it nice,&quot; said a radiant Bob Schieffer (CBS's Face the Nation ), that the weekend's biggest problem was how to handle the extraordinary good news of a budget surplus?" />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1667.anc" start="1396" end="1400" sStart="null" offset="32" sid="r11.dark.j.0179" wn="2" wnkey="dark%3:00:02::" text="The Big Thinkers found only the dark lining in our silver cloud." />
+  </sentences>
+</list>

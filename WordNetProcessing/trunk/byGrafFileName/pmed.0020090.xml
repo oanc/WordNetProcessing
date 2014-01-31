@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020090.anc" start="920" end="929" sStart="860" offset="60" sid="r8.suggest.v.0932" wn="1" wnkey="suggest%2:32:00::" text="Since then, measurement of serum uric acid has been suggested as a predictor of CHD." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020090.anc" start="2911" end="2918" sStart="null" offset="170" sid="r8.suggest.v.0528" wn="1" wnkey="suggest%2:32:00::" text="What this paper does not do is directly address the question of whether or not serum uric acid is involved in causing CHD through intermediates; however, it does suggest that serum uric acid levels are unlikely to be a major determinant of CHD." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020090.anc" start="2454" end="2459" sStart="null" offset="4" sid="r9.paper.n.0880" wn="5" wnkey="paper%1:10:02::" text="The paper answers the question of the role of uric acid in prediction of CHD clearly: the risk ratio for prediction of disease was 1.13 (1." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020090.anc" start="3091" end="3097" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" text="Well, it is likely that improving diet, &lt;b&gt;losing&lt;/b&gt; weight, and controlling blood pressure may all contribute to reducing both one's risk of CHD and one's serum levels of uric acid." />
+  </sentences>
+</list>

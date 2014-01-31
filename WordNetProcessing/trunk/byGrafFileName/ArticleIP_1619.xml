@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1619.anc" start="3331" end="3338" sStart="-1" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" text="The proof of its &lt;b&gt;success&lt;/b&gt;, however, may well lie in the length of that petition." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1619.anc" start="3331" end="3338" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" text="The proof of its &lt;b&gt;success&lt;/b&gt;, however, may well lie in the length of that petition." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1619.anc" start="2683" end="2693" sStart="null" offset="0" sid="null" wn="2" wnkey="succeed%2:41:01::" text="And you're given an 800 number, which is left on-screen through the &lt;b&gt;succeeding&lt;/b&gt; scenes." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1619.anc" start="2683" end="2693" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="And you're given an 800 number, which is left on-screen through the &lt;b&gt;succeeding&lt;/b&gt; scenes." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1619.anc" start="1637" end="1643" sStart="null" offset="9" sid="r7.serve.v.0363" wn="6" wnkey="serve_up%2:34:00::" text="The spot serves up a sanitized, sitcom version of the grand melting pot; the images of diversity are carefully calibrated, almost disingenuously casual." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1619.anc" start="1120" end="1128" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" text="The initial visuals are fuzzy and sweet, and ring newish variations on familiar themes of family and friends, companionship and security." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1619.anc" start="1120" end="1128" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" text="The initial visuals are fuzzy and sweet, and ring newish variations on &lt;b&gt;familiar&lt;/b&gt; themes of family and friends, companionship and security." />
+  </sentences>
+</list>

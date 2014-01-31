@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/plos/journal.pbio.0020337.anc" start="1417" end="1421" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" text="That question has engaged my curiosity since the late 1970s, when English auditory physicist David Kemp first put a microphone to an ear and discovered the telltale sounds of the cochlea at &lt;b&gt;work&lt;/b&gt; (Kemp 1978)." />
+    <s path="file:/c:/OANC/data/written_2/technical/plos/journal.pbio.0020337.anc" start="7765" end="7770" sStart="null" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" text="The evidence of my ears &lt;b&gt;tells&lt;/b&gt; me that the cochlea is very highly tuned, and an active resonance theory of some sort seems to provide the most satisfying explanation." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020337.anc" start="10064" end="10072" sStart="null" offset="18" sid="r8.suggest.v.0163" wn="3" wnkey="suggest%2:32:02::" text="The paper suggests that the outer hair cells create a standing wave resonance, from which energy is delivered to inner hair cells (where neural transduction takes place)." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020337.anc" start="8880" end="8887" sStart="null" offset="0" sid="null" wn="3" wnkey="string%1:06:03::" text="To make these elements resonate is difficult, says Gold, because they are damped by surrounding fluid, just like the &lt;b&gt;strings&lt;/b&gt; of a piano submerged in water would be." />
+  </sentences>
+</list>

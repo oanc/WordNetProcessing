@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020024.anc" start="430" end="439" sStart="412" offset="18" sid="r8.suggest.v.0291" wn="3" wnkey="suggest%2:32:02::" text="Previous work has suggested that this recurring phenomenon can have a profound effect on the incidence of many diseases, including dengue, malaria, and diarrheal diseases." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020024.anc" start="2075" end="2079" sStart="null" offset="104" sid="r8.life.n.0635" wn="5" wnkey="life%1:28:00::" text="Previous works have suggested that the climate can work in a number of ways, by influencing the life cycle of both disease vectors and the disease-causing organism, and, as here perhaps, by affecting the resistance of the host." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3671.anc" start="3169" end="3173" sStart="-1" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" text="But the worst &lt;b&gt;part&lt;/b&gt; is that Giuliani is screwing his own city." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3671.anc" start="1914" end="1918" sStart="null" offset="17" sid="r10.help.v.0544" wn="1" wnkey="help%2:41:00::" text="Culturebox can't help but think that the mayor and the &quot;Sensation&quot; artists deserve one another, since they share a common goal of drawing as much attention to themselves as possible." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3671.anc" start="2012" end="2018" sStart="null" offset="125" sid="r10.common.j.0510" wn="3" wnkey="common%5:00:00:shared:00" text="Culturebox can't help but think that the mayor and the &quot;Sensation&quot; artists deserve one another, since they share a common goal of drawing as much attention to themselves as possible." />
+  </sentences>
+</list>

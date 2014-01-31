@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4075-ms98-a-trans.anc" start="4064" end="4069" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="and they have pretty economical &lt;b&gt;rates&lt;/b&gt; but now in South Carolina there is this" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4075-ms98-a-trans.anc" start="4064" end="4069" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="and they have pretty economical &lt;b&gt;rates&lt;/b&gt; but now in South Carolina there is this" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4075-ms98-a-trans.anc" start="712" end="717" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="and then they decided to go ahead and phase it in piece by piece so every year a different piece of the city gets &lt;b&gt;added&lt;/b&gt; to the list" />
+  </sentences>
+</list>

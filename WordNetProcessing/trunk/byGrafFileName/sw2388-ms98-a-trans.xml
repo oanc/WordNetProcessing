@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2388-ms98-a-trans.anc" start="90" end="96" sStart="-1" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="okay well uh so what do you think about golfing are you a spectator or a &lt;b&gt;player&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2388-ms98-a-trans.anc" start="132" end="138" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="oh i'm definitely a &lt;b&gt;player&lt;/b&gt; i guess uh there is some question about that when i total up the score but" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2388-ms98-a-trans.anc" start="90" end="96" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="okay well uh so what do you think about golfing are you a spectator or a &lt;b&gt;player&lt;/b&gt;" />
+  </sentences>
+</list>

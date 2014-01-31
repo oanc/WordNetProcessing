@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3684.anc" start="2133" end="2138" sStart="-1" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="Grilled on Fox by a hostile Brit Hume and Tony Snow, Buchanan calls George W. Bush's appeal to him to remain in the GOP &quot;gracious&quot; and &quot;&lt;b&gt;smart&lt;/b&gt;.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3684.anc" start="2133" end="2138" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="Grilled on Fox by a hostile Brit Hume and Tony Snow, Buchanan calls George W. Bush's appeal to him to remain in the GOP &quot;gracious&quot; and &quot;&lt;b&gt;smart&lt;/b&gt;.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3684.anc" start="2997" end="3003" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" text="Buchanan tells Snow that we should arm Taiwan but not necessarily declare war on China if it invades the &lt;b&gt;island&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3684.anc" start="2997" end="3003" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" text="Buchanan tells Snow that we should arm Taiwan but not necessarily declare war on China if it invades the &lt;b&gt;island&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3684.anc" start="6040" end="6044" sStart="null" offset="44" sid="r10.find.v.0705" wn="2" wnkey="find%2:39:02::" text="Stay tuned to &quot;Pundit Central&quot; to find out how Ifill handles the privileges and responsibilities of pundit fame." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3684.anc" start="2471" end="2475" sStart="null" offset="10" sid="r8.ask.v.0471" wn="4" wnkey="ask%2:32:04::" text="Snow then asks Buchanan: Does this imply we should not have gone to war with Germany over the Holocaust?" />
+  </sentences>
+</list>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3365.anc" start="1767" end="1776" sStart="1753" offset="14" sid="null" wn="2" wnkey="recommend%2:32:00::" text="I can't say I recommend it." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3365.anc" start="1767" end="1776" sStart="null" offset="14" sid="null" wn="2" wnkey="recommend%2:32:00::" text="I can't say I recommend it." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3365.anc" start="1767" end="1776" sStart="null" offset="14" sid="r11.recommend.v.0104" wn="2" wnkey="recommend%2:32:00::" text="I can't say I recommend it." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3365.anc" start="1767" end="1776" sStart="null" offset="14" sid="null" wn="1" wnkey="recommend%2:32:01::" text="I can't say I recommend it." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/10/Article247_3365.anc" start="4434" end="4438" sStart="null" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" text="The consumer-centric &quot;&lt;b&gt;long&lt;/b&gt; boom&quot; of the 1990s seems utterly distant from the dry post-industrial world Bell describes, full of references to Weber, Rousseau, Locke, and Lenin." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3365.anc" start="586" end="590" sStart="null" offset="9" sid="r8.live.v.0707" wn="1" wnkey="live%2:42:08::" text="Since we live in an Age of Information, I'll &quot;bullet point&quot; them for easier retrieval:" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3365.anc" start="3608" end="3613" sStart="null" offset="0" sid="null" wn="1" wnkey="greek%3:01:01::" text="It's similar to Norbert Weiner's thinking (the originator of the term &quot;cybernetics&quot; from the &lt;b&gt;Greek&lt;/b&gt; word for &quot;helmsman&quot;), which postulated that society would be increasingly governed by &quot;feedback,&quot; allowing elites to steer better." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3365.anc" start="4531" end="4535" sStart="null" offset="129" sid="r9.full.j.0783" wn="1" wnkey="full%3:00:00::" text="The consumer-centric &quot;long boom&quot; of the 1990s seems utterly distant from the dry post-industrial world Bell describes, full of references to Weber, Rousseau, Locke, and Lenin." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3365.anc" start="5768" end="5773" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="Bell's inability to see a world beyond the context of military and economic Big Stuff is what &lt;b&gt;dates&lt;/b&gt; this book most of all." />
+  </sentences>
+</list>

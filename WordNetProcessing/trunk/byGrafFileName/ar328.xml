@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/ar328.anc" start="10254" end="10260" sStart="10195" offset="59" sid="null" wn="6" wnkey="severe%5:00:01:bad:00" text="The development of RAD only in those patients with severe testicular dysfunction suggests that such dysfunction is one endogenous factor that predisposes to the development of RAD." />
+    <s path="[OANC]/data/written_2/technical/biomed/ar328.anc" start="10254" end="10260" sStart="null" offset="59" sid="null" wn="1" wnkey="severe%5:00:00:intense:00" text="The development of RAD only in those patients with severe testicular dysfunction suggests that such dysfunction is one endogenous factor that predisposes to the development of RAD." />
+    <s path="[OANC]/data/written_2/technical/biomed/ar328.anc" start="9305" end="9311" sStart="null" offset="72" sid="r11.severe.j.0431" wn="1" wnkey="severe%5:00:00:intense:00" text="Because the clinical picture of RAD in some of the patients was severe, with clear systemic and articular symptoms, their RAD had been diagnosed elsewhere." />
+    <s path="[OANC]/data/written_2/technical/biomed/ar328.anc" start="10254" end="10260" sStart="null" offset="59" sid="null" wn="1" wnkey="severe%5:00:00:intense:00" text="The development of RAD only in those patients with severe testicular dysfunction suggests that such dysfunction is one endogenous factor that predisposes to the development of RAD." />
+    <s path="[OANC]/data/written_2/technical/biomed/ar328.anc" start="10254" end="10260" sStart="null" offset="59" sid="r11.severe.j.0432" wn="1" wnkey="severe%5:00:00:intense:00" text="The development of RAD only in those patients with severe testicular dysfunction suggests that such dysfunction is one endogenous factor that predisposes to the development of RAD." />
+    <s path="[OANC]/data/written_2/technical/biomed/ar328.anc" start="3029" end="3036" sStart="null" offset="21" sid="r10.control.n.0673" wn="4" wnkey="control%1:09:02::" text="They and the control subjects were given a neuroendocrine, genetic, and clinic evaluation, including a physical exam, in addition to computed tomography of the sella turcica and karyotyping of peripheral leukocytes." />
+  </sentences>
+</list>

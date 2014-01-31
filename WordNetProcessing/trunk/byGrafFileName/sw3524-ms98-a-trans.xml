@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3524-ms98-a-trans.anc" start="5132" end="5138" sStart="-1" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" text="and so the second question i &lt;b&gt;forgot&lt;/b&gt; what the second question" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3524-ms98-a-trans.anc" start="2018" end="2025" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" text="yeah that &lt;b&gt;becomes&lt;/b&gt; a drudgery and when you" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3524-ms98-a-trans.anc" start="2018" end="2025" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" text="yeah that &lt;b&gt;becomes&lt;/b&gt; a drudgery and when you" />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4158.anc" start="2833" end="2838" sStart="2753" offset="80" sid="r7.serve.v.0686" wn="2" wnkey="serve%2:33:00::" text="The Croatian Constitution dictates that Parliament Speaker Vlatko Pavletic will serve as interim president until a new leader is selected." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4158.anc" start="3392" end="3397" sStart="null" offset="4" sid="r9.paper.n.0778" wn="3" wnkey="paper%1:10:03::" text="The paper indicates that Bradley received mild electrical shocks to treat his arrhythmia on three occasions prior to 1998." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4158.anc" start="3336" end="3340" sStart="null" offset="69" sid="r9.late.j.0981" wn="4" wnkey="late%5:00:00:dead:01" text="The LAT reefers the story but notes that health questions dogged the late Sen." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4158.anc" start="1974" end="1979" sStart="null" offset="0" sid="null" wn="5" wnkey="military_force%1:14:00::" text="(The EU also endorsed a plan to create a European rapid-reaction &lt;b&gt;force&lt;/b&gt; of 60,000 troops.)" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4158.anc" start="1974" end="1979" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="(The EU also endorsed a plan to create a European rapid-reaction &lt;b&gt;force&lt;/b&gt; of 60,000 troops.)" />
+  </sentences>
+</list>

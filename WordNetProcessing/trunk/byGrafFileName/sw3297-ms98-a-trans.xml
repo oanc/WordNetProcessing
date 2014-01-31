@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3297-ms98-a-trans.anc" start="1526" end="1538" sStart="-1" offset="0" sid="null" wn="5" wnkey="transfer%2:40:00::" text="and with our Visa that's really high interest we're in the process of &lt;b&gt;transferring&lt;/b&gt; from one account to another to get the lower interest on one of the cards" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3297-ms98-a-trans.anc" start="903" end="908" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="and i'm not paying the high interest &lt;b&gt;rates&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3297-ms98-a-trans.anc" start="903" end="908" sStart="null" offset="0" sid="null" wn="2 1" wnkey="null" text="and i'm not paying the high interest &lt;b&gt;rates&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3297-ms98-a-trans.anc" start="903" end="908" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="and i'm not paying the high interest &lt;b&gt;rates&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3297-ms98-a-trans.anc" start="903" end="908" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" text="and i'm not paying the high interest &lt;b&gt;rates&lt;/b&gt;" />
+  </sentences>
+</list>

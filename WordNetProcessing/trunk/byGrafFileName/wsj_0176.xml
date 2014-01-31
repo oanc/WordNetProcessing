@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/wsj_0176.anc" start="119" end="125" sStart="4" offset="119" sid="null" wn="1" wnkey="people%1:14:00::" text="Xerox Corp. has told employees in its Crum &amp; Forster personal insurance operations that it is laying off about 300 people, or 25% of the staff." />
+    <s path="[MASC]/data/written/wsj_0176.anc" start="245" end="254" sStart="null" offset="98" sid="r11.function.n.0090" wn="3" wnkey="function%1:04:00::" text="A spokeswoman for Crum &amp; Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move." />
+    <s path="[MASC]/data/written/wsj_0176.anc" start="245" end="254" sStart="null" offset="98" sid="r11.function.n.0090" wn="3" wnkey="function%1:04:00::" text="A spokeswoman for Crum &amp; Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move." />
+  </sentences>
+</list>

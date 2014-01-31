@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2675-ms98-a-trans.anc" start="5442" end="5448" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="oh i think a lot of &lt;b&gt;people&lt;/b&gt; are i think they've lost sight of some things that are very important to our country" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2675-ms98-a-trans.anc" start="5442" end="5448" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="oh i think a lot of &lt;b&gt;people&lt;/b&gt; are i think they've lost sight of some things that are very important to our country" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2675-ms98-a-trans.anc" start="5469" end="5473" sStart="null" offset="0" sid="null" wn="5" wnkey="lose%2:39:00::" text="oh i think a lot of people are i think they've &lt;b&gt;lost&lt;/b&gt; sight of some things that are very important to our country" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2675-ms98-a-trans.anc" start="4839" end="4845" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" text="and we often &lt;b&gt;forget&lt;/b&gt; about the one that the injustice has been done to" />
+  </sentences>
+</list>

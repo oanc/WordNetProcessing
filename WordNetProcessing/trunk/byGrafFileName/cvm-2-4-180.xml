@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/cvm-2-4-180.anc" start="1457" end="1461" sStart="1303" offset="154" sid="r7.1.use.v.0472" wn="1" wnkey="use%2:34:01::" text="To understand the role of such a committee, and to provide recommendations for future efforts, we reviewed the results of the CEC process used in the PURSUIT trial to identify and adjudicate suspected end-point MIs." />
+    <s path="[OANC]/data/written_2/technical/biomed/cvm-2-4-180.anc" start="13541" end="13545" sStart="null" offset="88" sid="r11.true.j.0875" wn="1" wnkey="true%3:00:00::" text="Trials that rely on investigator-reported MI probably underestimate the true event rate." />
+  </sentences>
+</list>

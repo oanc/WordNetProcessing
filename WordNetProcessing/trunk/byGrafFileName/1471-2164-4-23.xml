@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-4-23.anc" start="1958" end="1962" sStart="1940" offset="18" sid="r7.1.use.v.0816" wn="1" wnkey="use%2:34:01::" text="These primers are used to synthesize PCR products directly from genomic DNA, which serves as template during the first stage of PCR amplification." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2164-4-23.anc" start="17682" end="17693" sStart="null" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" text="Deionized water (10 ?l) was added to each of the reservoirs of a Telechem Hybridization Chamber, and the slide was &lt;b&gt;transferred&lt;/b&gt; to and enclosed within the chamber." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2164-4-23.anc" start="18016" end="18027" sStart="null" offset="0" sid="null" wn="3" wnkey="transfer%2:38:05::" text="The slide was &lt;b&gt;transferred&lt;/b&gt; quickly to a solution of 0.1X SSC, and 0.1% SDS, incubated for 10 minutes at room temperature with gentle agitation, and washed 5 additional times in 0.1X SSC for 1 min. at room temperature." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2164-4-23.anc" start="10988" end="10999" sStart="null" offset="0" sid="null" wn="3" wnkey="transfer%2:38:05::" text="Ten microliter of each product was &lt;b&gt;transferred&lt;/b&gt; to two sets of 384 Micro Array plates (Cat." />
+  </sentences>
+</list>

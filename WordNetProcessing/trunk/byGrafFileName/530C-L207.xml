@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/letters/icic/530C-L207.anc" start="1589" end="1599" sStart="1517" offset="72" sid="r10.particular.j.0860" wn="1" wnkey="particular%5:00:00:specific:00" text="Your gift may be designated for the school's general endowment, a particular scholarship or program, or a combination of needs." />
+    <s path="[OANC]/data/written_1/letters/icic/530C-L207.anc" start="1170" end="1175" sStart="null" offset="58" sid="r9.level.n.0805" wn="1" wnkey="level%1:07:00::" text="All alumni are being asked to increase their annual level of support." />
+    <s path="[OANC]/data/written_1/letters/icic/530C-L207.anc" start="1635" end="1646" sStart="null" offset="118" sid="r11.combination.n.0386" wn="1" wnkey="combination%1:14:00::" text="Your gift may be designated for the school's general endowment, a particular scholarship or program, or a combination of needs." />
+  </sentences>
+</list>

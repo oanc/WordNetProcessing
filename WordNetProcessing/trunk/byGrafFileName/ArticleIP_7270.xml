@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="6380" end="6387" sStart="6346" offset="0" sid="null" wn="2147483646" wnkey="null" text="And into lovable, family friendly &lt;b&gt;Windows&lt;/b&gt; ET." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="6317" end="6324" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="&quot;News Quiz&quot; now integrated into &lt;b&gt;Windows&lt;/b&gt; NT." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="5756" end="5763" sStart="null" offset="50" sid="r10.wait.v.0497" wn="1" wnkey="wait%2:42:00::" text="And perhaps there is a rich vein of Bush loathing waiting to be mined." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="174" end="181" sStart="null" offset="70" sid="r10.wait.v.0496" wn="2147483647" wnkey="null" text="A proposal introduced by the British government would impose a 15 day waiting period." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="4129" end="4135" sStart="null" offset="28" sid="r8.state.n.0692" wn="1" wnkey="state%1:15:01::" text="&quot;With their respective states' lethal injection machine.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="5914" end="5921" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:03::" text="Defeat of Al D'Amato means IRS less likely to audit returns of particularly vituperative &lt;b&gt;players&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="6753" end="6760" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="New &lt;b&gt;players&lt;/b&gt; drawn by hints that Gupta-Sherman flirtation is about to catch fire." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="8415" end="8419" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" text="&quot;Win if you can, &lt;b&gt;lose&lt;/b&gt; if you must, but always, always _____.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="5219" end="5223" sStart="null" offset="21" sid="r9.kill.v.0186" wn="2147483644" wnkey="null" text="&quot;Let's hunt and kill Chase Untermeyer.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_7270.anc" start="7702" end="7706" sStart="null" offset="37" sid="r7.1.face.n.0465" wn="3" wnkey="face%1:07:00::" text="&quot;There's no way to put a smiley face on it.&quot;" />
+  </sentences>
+</list>

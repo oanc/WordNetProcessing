@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_660.anc" start="3564" end="3571" sStart="-1" offset="0" sid="null" wn="1" wnkey="officer%1:18:03::" text="The writer, a long-time intelligence &lt;b&gt;officer&lt;/b&gt;, observes that, &quot;Most of our counter-terrorism &lt;b&gt;successes&lt;/b&gt; are against loners.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_660.anc" start="3564" end="3571" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" text="The writer, a long-time intelligence &lt;b&gt;officer&lt;/b&gt;, observes that, &quot;Most of our counter-terrorism &lt;b&gt;successes&lt;/b&gt; are against loners.&quot;" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/5/Article247_660.anc" start="2266" end="2270" sStart="null" offset="0" sid="null" wn="2" wnkey="long%3:00:01::" text="A LAT front-pager recaps the &lt;b&gt;long&lt;/b&gt; list of legal precedents set in the case." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_660.anc" start="244" end="251" sStart="null" offset="177" sid="r9.kill.v.0796" wn="9" wnkey="kill%2:35:02::" text="The New York Times and the Los Angeles Times lead with new terror in Northern Ireland: a car bomb exploded Saturday in a crowded shopping area in Omagh, a town west of Belfast, killing at least 28 people and injuring hundreds more." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_660.anc" start="349" end="353" sStart="null" offset="50" sid="r9.fold.v.0790" wn="" wnkey="null" text="The Washington Post , which runs the story at the fold, calls it &quot;the single worst terrorist incident in the 30-year history of sectarian warfare&quot; in the province." />
+  </sentences>
+</list>

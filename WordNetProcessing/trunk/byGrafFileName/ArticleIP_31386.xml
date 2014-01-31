@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_31386.anc" start="6337" end="6344" sStart="-1" offset="0" sid="null" wn="4" wnkey="success%1:18:00::" text="And check out his bio : &quot;Donald J. Trump is the very definition of the American &lt;b&gt;success&lt;/b&gt; story, continually setting the standards of excellence." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_31386.anc" start="6337" end="6344" sStart="null" offset="0" sid="null" wn="3" wnkey="success%1:26:00::" text="And check out his bio : &quot;Donald J. Trump is the very definition of the American &lt;b&gt;success&lt;/b&gt; story, continually setting the standards of excellence." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_31386.anc" start="6337" end="6344" sStart="null" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" text="And check out his bio : &quot;Donald J. Trump is the very definition of the American &lt;b&gt;success&lt;/b&gt; story, continually setting the standards of excellence." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_31386.anc" start="103" end="107" sStart="null" offset="0" sid="null" wn="4" wnkey="know%2:31:00::" text="By their Web sites ye shall &lt;b&gt;know&lt;/b&gt; them." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31386.anc" start="3567" end="3571" sStart="null" offset="117" sid="r11.dark.j.0311" wn="3" wnkey="dark%5:00:00:brunet:00" text="A page of media links invites disciples to write editors and create the illusion of a groundswell for their favorite dark horse." />
+  </sentences>
+</list>

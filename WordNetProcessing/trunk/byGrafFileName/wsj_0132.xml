@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/wsj_0132.anc" start="930" end="935" sStart="884" offset="46" sid="null" wn="2" wnkey="rate%1:21:00::" text="Also, substantially lower Dutch corporate tax rates helped the company keep its tax outlay flat relative to earnings growth, the company added." />
+    <s path="[MASC]/data/written/wsj_0132.anc" start="561" end="565" sStart="null" offset="27" sid="null" wn="2147483647" wnkey="null" text="The charges were offset in part by a gain from the sale of the company's construction division." />
+    <s path="[MASC]/data/written/wsj_0132.anc" start="936" end="942" sStart="null" offset="52" sid="r10.help.v.0359" wn="1" wnkey="help%2:41:00::" text="Also, substantially lower Dutch corporate tax rates helped the company keep its tax outlay flat relative to earnings growth, the company added." />
+    <s path="[MASC]/data/written/wsj_0132.anc" start="1021" end="1026" sStart="null" offset="137" sid="null" wn="2" wnkey="add%2:32:01::" text="Also, substantially lower Dutch corporate tax rates helped the company keep its tax outlay flat relative to earnings growth, the company added." />
+  </sentences>
+</list>

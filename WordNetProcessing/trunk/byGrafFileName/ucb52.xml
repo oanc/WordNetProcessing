@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/ucb52.anc" start="449" end="454" sStart="392" offset="57" sid="null" wn="1" wnkey="use%2:34:01::" text="This tracking system tells us, among others, if you are using your account from a different computer(s) than the one you registered on." />
+    <s path="[MASC]/data/written/ucb52.anc" start="754" end="764" sStart="null" offset="129" sid="null" wn="2" wnkey="suspicious%5:00:00:questionable:00" text="If you were traveling and you accessed your account from a foreign country we are sorry for the inconvenience, regardless, such suspicious action was treated as an attempt to obtain your personal information." />
+    <s path="[MASC]/data/written/ucb52.anc" start="915" end="920" sStart="null" offset="79" sid="null" wn="2147483646" wnkey="null" text="Please Sign In to your account as soon as possible and verify your identity in order to unlock your account" />
+    <s path="[MASC]/data/written/ucb52.anc" start="309" end="314" sStart="null" offset="57" sid="null" wn="2147483646" wnkey="null" text="Please understand that this drastic measure was taken in order to protect your online privacy." />
+    <s path="[MASC]/data/written/ucb52.anc" start="117" end="121" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" text="We regret to inform you that your Bank of America online banking account has been suspended." />
+  </sentences>
+</list>

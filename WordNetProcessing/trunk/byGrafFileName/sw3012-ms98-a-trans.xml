@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3012-ms98-a-trans.anc" start="6555" end="6561" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="um you know surrendering and &lt;b&gt;trying&lt;/b&gt; to get out of that situation and and the um uh you know" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3012-ms98-a-trans.anc" start="6555" end="6561" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="um you know surrendering and &lt;b&gt;trying&lt;/b&gt; to get out of that situation and and the um uh you know" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3012-ms98-a-trans.anc" start="5724" end="5729" sStart="null" offset="0" sid="null" wn="2147483644" wnkey="null" text="&lt;b&gt;power&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3012-ms98-a-trans.anc" start="5239" end="5242" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="you know and when you &lt;b&gt;add&lt;/b&gt; the um commercialization of the western world it sort of screws everything up for them and they have very basic life um" />
+  </sentences>
+</list>

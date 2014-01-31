@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/gb-2002-3-7-research0037.anc" start="35719" end="35726" sStart="-1" offset="0" sid="null" wn="8" wnkey="write%2:36:10::" text="Software for the implementation of the statistical estimation and testing procedures described above was &lt;b&gt;written&lt;/b&gt; in FORTRAN and run on desktop PCs [ 13]." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/gb-2002-3-7-research0037.anc" start="36123" end="36130" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="The additional data filesavailable or from [ 13] consist of several files for implementing the methods described here: NoSeCoLoR.exe is the executable file, compiled for &lt;b&gt;Windows&lt;/b&gt;, for the program itself; NoSe-CoLoR-The-Manual.pdf is the user's guide and contains information on input formatting and the interpretation of output files; README.txt contains instructions for installation and start-up;." />
+  </sentences>
+</list>

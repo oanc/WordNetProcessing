@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2296-3-18.anc" start="12377" end="12382" sStart="12347" offset="30" sid="r7.1.use.v.0866" wn="1" wnkey="use%2:34:01::" text="The analyses were interpreted using P &lt; 0.01 as the level of significance." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2296-3-18.anc" start="12731" end="12735" sStart="null" offset="17" sid="r7.1.use.v.0116" wn="1" wnkey="use%2:34:01::" text="Odds ratios were used to quantify risk in our population." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2296-3-18.anc" start="15397" end="15403" sStart="null" offset="12" sid="r11.refer.v.0383" wn="2" wnkey="refer%2:42:00::" text="Sensitivity refers to the percentage of obese or overweight participants who were correctly predicted to be at risk for either glucose or lipid profiles abnormalities." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2296-3-18.anc" start="20289" end="20294" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="On average, BMI seems to increase with stage of genital maturation in boys relative to fatness, and then, in contrast, decreases in the later stages of maturation reflecting the &lt;b&gt;rapid&lt;/b&gt; growth of fat free mass with puberty." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2296-3-18.anc" start="20289" end="20294" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="On average, BMI seems to increase with stage of genital maturation in boys relative to fatness, and then, in contrast, decreases in the later stages of maturation reflecting the &lt;b&gt;rapid&lt;/b&gt; growth of fat free mass with puberty." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2296-3-18.anc" start="3656" end="3662" sStart="null" offset="183" sid="r9.normal.j.0955" wn="3" wnkey="normal%3:00:03::" text="This study was conducted to determine the relationship between various indicators of adiposity and risk factors for cardiovascular diseases in Caucasian normal, overweight, and obese male and female adolescents." />
+  </sentences>
+</list>

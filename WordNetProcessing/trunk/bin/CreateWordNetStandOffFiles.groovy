@@ -129,7 +129,7 @@ class CreateWordNetStandOffFiles {
                         sen.annotator = "${s.'@annotator'}";
                         //new files should have the annotator !!
 
-                        println  " ${sen.path}   ${sen.start}   ${sen.end}   ${sen.wnkey}   ${sen.annotator}";
+                       // println  " ${sen.path}   ${sen.start}   ${sen.end}   ${sen.wnkey}   ${sen.annotator}";
 
                         //sentenceDescList.add(sen);
 
@@ -138,6 +138,7 @@ class CreateWordNetStandOffFiles {
                         //lets go through all the regions in this local graf file, and find the region
                         //that matches the start and stop of the word that we are using now...
 
+                        try{
 
                         graphFromFile.regions().each{region->
 
@@ -175,6 +176,14 @@ class CreateWordNetStandOffFiles {
                                     //make a useless key, well not completely useless, just to keep things unique
                                 }
                             }
+                        }
+
+                        }
+                        catch (Exception e)
+                        {
+
+                            println "Exception on cycling through regions of graph ${sen.path}\n"
+                            e.printStackTrace();
                         }
 
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0010067.anc" start="242" end="246" sStart="-1" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" text="And an essential &lt;b&gt;part&lt;/b&gt; of this work up is assessing whether or not there has been lymphatic spread." />
+    <s path="file:/c:/OANC/data/written_2/technical/plos/pmed.0010067.anc" start="964" end="968" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="The nanoparticles contain a central superparamagnetic iron oxide core and are covered by dextran, imparting &lt;b&gt;long&lt;/b&gt; circulation &lt;b&gt;times&lt;/b&gt; and biocompatibility." />
+    <s path="file:/c:/OANC/data/written_2/technical/plos/pmed.0010067.anc" start="964" end="968" sStart="null" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" text="The nanoparticles contain a central superparamagnetic iron oxide core and are covered by dextran, imparting &lt;b&gt;long&lt;/b&gt; circulation &lt;b&gt;times&lt;/b&gt; and biocompatibility." />
+  </sentences>
+</list>

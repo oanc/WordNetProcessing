@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020104.anc" start="3655" end="3662" sStart="3539" offset="116" sid="r10.wait.v.0893" wn="1" wnkey="wait%2:42:00::" text="And we can predict that as low-income countries achieve economic growth, the disease burden of NCDs will be waiting for them as well." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020104.anc" start="38" end="44" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Most &lt;b&gt;people&lt;/b&gt; believe that as societies advance economically they have higher levels of cardiovascular disease (CVD) and other noncommunicable disease (NCD) risks." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020104.anc" start="38" end="44" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Most &lt;b&gt;people&lt;/b&gt; believe that as societies advance economically they have higher levels of cardiovascular disease (CVD) and other noncommunicable disease (NCD) risks." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020104.anc" start="4899" end="4903" sStart="null" offset="0" sid="null" wn="7" wnkey="lose%2:40:00::" text="As populations assume more of an urban lifestyle, they should not be limited in their choices for healthy foods, suffer from lack of safe water, or &lt;b&gt;lose&lt;/b&gt; opportunities for physical activity." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020104.anc" start="1152" end="1158" sStart="null" offset="215" sid="r8.live.v.0249" wn="1" wnkey="live%2:42:08::" text="They looked at how these CVD risk indicators are predicted by three broad economic parameters: national income, average share of household expenditure spent on food, and proportion of the population living in urban areas." />
+  </sentences>
+</list>

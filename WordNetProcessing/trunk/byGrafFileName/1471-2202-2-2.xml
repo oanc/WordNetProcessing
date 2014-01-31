@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2202-2-2.anc" start="15407" end="15413" sStart="-1" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" text="05% collagenase and 0.25% trypsin (GIBCO, Grand &lt;b&gt;Island&lt;/b&gt;, NY) in Ca 2+/Mg 2+-free HBSS." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2202-2-2.anc" start="15407" end="15413" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="05% collagenase and 0.25% trypsin (GIBCO, Grand &lt;b&gt;Island&lt;/b&gt;, NY) in Ca 2+/Mg 2+-free HBSS." />
+  </sentences>
+</list>

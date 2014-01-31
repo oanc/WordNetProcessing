@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2994-ms98-a-trans.anc" start="2246" end="2250" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="you know they they charge you you know it's like a flat &lt;b&gt;rate&lt;/b&gt; i think for picking up your garbage" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2994-ms98-a-trans.anc" start="2246" end="2250" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="you know they they charge you you know it's like a flat &lt;b&gt;rate&lt;/b&gt; i think for picking up your garbage" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2994-ms98-a-trans.anc" start="3975" end="3978" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="and i don't know if they decided to do or not but i think they said it was gonna &lt;b&gt;add&lt;/b&gt; like either a dollar or three dollars a month to your bill" />
+  </sentences>
+</list>

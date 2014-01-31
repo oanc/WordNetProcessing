@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2148-1-6.anc" start="8277" end="8281" sStart="8247" offset="30" sid="r7.poor.j.0563" wn="5" wnkey="poor%5:00:00:insufficient:00" text="These areas are indicative of poor phylogenetic signal from one or both of the kinds of data - DNA and chromosomal inversion data." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2148-1-6.anc" start="1176" end="1186" sStart="null" offset="3" sid="r10.particular.j.0271" wn="2147483647" wnkey="null" text="In particular, extensive chromosomal phylogenies for flies in the picture wing [ 4 ] , melanogaster [ 5 ] , virilis [ 6 ] , and repleta [ 7 ] species groups exist." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2148-1-6.anc" start="7135" end="7139" sStart="null" offset="58" sid="r10.high.j.0374" wn="1" wnkey="high%3:00:02::" text="Together these analyses suggest that there is a high degree of agreement among classical chromosomal data and more recent DNA sequence data and that inversion data are extremely consistent with simultaneous analysis hypotheses of relationship in these groups of Drosophila ." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2148-1-6.anc" start="7987" end="7992" sStart="null" offset="44" sid="r8.1.great.j.0612" wn="1" wnkey="great%5:00:01:large:00" text="Our results suggest that there is a great deal of congruence among DNA sequence data and chromosomal inversion data." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2148-1-6.anc" start="58" end="64" sStart="null" offset="15" sid="r8.family.n.0485" wn="6" wnkey="family%1:14:03::" text="Species in the family Drosophilidae have been premier research subjects in evolutionary biology since T. H. Morgan first used Drosophila melanogaster as a genetic tool in the early part of the 20th Century." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_518.anc" start="3077" end="3082" sStart="3033" offset="44" sid="r10.wait.v.0392" wn="2" wnkey="wait%2:42:01::" text="The possible Iraq attack takes a number and waits." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/4/Article247_518.anc" start="2293" end="2304" sStart="null" offset="0" sid="null" wn="1" wnkey="transfer%2:41:00::" text="The NYT does a little better, saying the discussion was Mom's inquiry into why Monica was &lt;b&gt;transferred&lt;/b&gt; out of the White House." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_518.anc" start="4016" end="4021" sStart="null" offset="117" sid="r9.paper.n.0730" wn="3" wnkey="paper%1:10:03::" text="Which is particularly odd given the frequency with which Times readers are left seriously confused about many of the paper's more significant alleged redemptions and original sins." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_518.anc" start="909" end="915" sStart="null" offset="25" sid="r9.appear.v.0247" wn="7" wnkey="appear%2:41:03::" text="Lewinsky is scheduled to appear before the same grand jury later this week." />
+  </sentences>
+</list>

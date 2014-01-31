@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1472-6793-2-2.anc" start="17344" end="17350" sStart="17219" offset="0" sid="null" wn="5" wnkey="window%1:28:00::" text="These results are consistent with the cuvette studies and directly demonstrate that within a narrow time &lt;b&gt;window&lt;/b&gt; after MTX challenge, U73343 can rescue BAECs from oncotic cell death." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="8732" end="8737" sStart="null" offset="25" sid="r7.trace.v.0087" wn="2147483645" wnkey="null" text=", at 200 sec; trace e ), blocked both phases of the response." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="9132" end="9137" sStart="null" offset="22" sid="r7.trace.v.0008" wn="2147483645" wnkey="null" text=", 300 sec; trace d ), dye accumulation in the cells was immediately blocked." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="8636" end="8641" sStart="null" offset="241" sid="r7.trace.v.0268" wn="2147483645" wnkey="null" text="The same experimental protocol was employed for evaluation of ethidium uptake (Fig 3, lower panel ). Again, MTX-induced uptake of ethidium was biphasic in the absence of U73343 ( trace a ). Addition of the U-compound shortly after MTX (i.e." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="8732" end="8737" sStart="null" offset="25" sid="r7.trace.v.0087" wn="2147483645" wnkey="null" text=", at 200 sec; trace e ), blocked both phases of the response." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="9132" end="9137" sStart="null" offset="22" sid="r7.trace.v.0008" wn="2147483645" wnkey="null" text=", 300 sec; trace d ), dye accumulation in the cells was immediately blocked." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="8732" end="8737" sStart="null" offset="25" sid="r7.trace.v.0087" wn="2147483645" wnkey="null" text=", at 200 sec; trace e ), blocked both phases of the response." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="9132" end="9137" sStart="null" offset="22" sid="r7.trace.v.0008" wn="2147483645" wnkey="null" text=", 300 sec; trace d ), dye accumulation in the cells was immediately blocked." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="8898" end="8904" sStart="null" offset="39" sid="r7.trace.n.0098" wn="2147483646" wnkey="null" text=", at either 400 or 500 sec; traces b and c) had only a small effect on the magnitude and time course of subsequent ethidium uptake." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="8898" end="8904" sStart="null" offset="39" sid="r7.trace.n.0098" wn="2147483644" wnkey="null" text=", at either 400 or 500 sec; traces b and c) had only a small effect on the magnitude and time course of subsequent ethidium uptake." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6793-2-2.anc" start="8898" end="8904" sStart="null" offset="39" sid="r7.trace.n.0098" wn="2147483646" wnkey="null" text=", at either 400 or 500 sec; traces b and c) had only a small effect on the magnitude and time course of subsequent ethidium uptake." />
+  </sentences>
+</list>

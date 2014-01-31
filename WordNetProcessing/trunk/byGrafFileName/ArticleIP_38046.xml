@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_38046.anc" start="5094" end="5098" sStart="5083" offset="11" sid="r11.true.j.0439" wn="1" wnkey="true%3:00:00::" text="1 to 4 are true of all three programs." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_38046.anc" start="5173" end="5177" sStart="null" offset="38" sid="r11.true.j.0425" wn="1" wnkey="true%3:00:00::" text="5 and 6 are half-truths, of which the true portion applies to all three programs." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_38046.anc" start="2331" end="2335" sStart="null" offset="0" sid="null" wn="3" wnkey="land%1:15:01::" text="&quot;This &lt;b&gt;land&lt;/b&gt; is our &lt;b&gt;land&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_38046.anc" start="3129" end="3133" sStart="null" offset="115" sid="r10.find.v.0673" wn="2147483645" wnkey="null" text="The team dug up the head, which had partially thawed and decayed, then halted digging for fear of destroying their find." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_38046.anc" start="1712" end="1718" sStart="null" offset="0" sid="null" wn="2" wnkey="add%2:32:01::" text="Unfortunately, for reasons of space, I had to condense his remarks, &lt;b&gt;adding&lt;/b&gt; nothing, just making a few cuts and altering the punctuation to bring it into line with standard usage." />
+  </sentences>
+</list>

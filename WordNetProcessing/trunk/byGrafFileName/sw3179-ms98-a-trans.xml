@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3179-ms98-a-trans.anc" start="4995" end="5001" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="um &lt;b&gt;trying&lt;/b&gt; to think of some other shows do you like The Three Stooges" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3179-ms98-a-trans.anc" start="4995" end="5001" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="um &lt;b&gt;trying&lt;/b&gt; to think of some other shows do you like The Three Stooges" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3179-ms98-a-trans.anc" start="414" end="420" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" text="and um i like that show with Urkel i &lt;b&gt;forget&lt;/b&gt; what" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3179-ms98-a-trans.anc" start="816" end="822" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" text="i like The Price is Right too but i never get a &lt;b&gt;chance&lt;/b&gt; to watch it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3179-ms98-a-trans.anc" start="816" end="822" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" text="i like The Price is Right too but i never get a &lt;b&gt;chance&lt;/b&gt; to watch it" />
+  </sentences>
+</list>

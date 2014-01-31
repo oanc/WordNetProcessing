@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_56616.anc" start="2032" end="2036" sStart="1699" offset="343" sid="r9.full.j.0695" wn="3" wnkey="full%5:00:00:complete:00" text="And can this be explained without resorting to the phrase &quot;dumbing down&quot; or alluding to the questions on that Who Wants a Big Bucket of Money quiz show being multiple choice about the Brady Bunch , not like in the old days, when quiz show questions were so hard that you had to cheat to win, and presidential candidates all spoke in full sentences, in iambic pentameter, in Latin, while wearing complicated wigs and fancy hats and several layers of underwear with fastenings so elaborate you had to be like a genius just to undress for one of your Naked Fireside Chats from the Aero White House, a giant dirigible moored to Zelda Fitzgerald." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_56616.anc" start="4773" end="4777" sStart="null" offset="0" sid="null" wn="3" wnkey="date%1:14:00::" text="Sex first, stupidity second, drugs third--a reverse of the usual order on &lt;b&gt;date&lt;/b&gt; night." />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_56616.anc" start="4792" end="4798" sStart="null" offset="12" sid="r10.common.j.0161" wn="2147483647" wnkey="null" text="(This &quot;common denominator&quot; sponsored by the Partnership for a Drug Free America.)" />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_56616.anc" start="4198" end="4202" sStart="null" offset="119" sid="r10.book.n.0349" wn="1" wnkey="book%1:10:00::" text="&quot;Three Days of the Condor , the film, was adapted from the novel Six Days of the Condor . I had been a fan of the book before they made the movie, and, while exceptional, I always did miss those three extra days.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_56616.anc" start="3686" end="3691" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="*Final sentence &lt;b&gt;added&lt;/b&gt; by News Quiz." />
+  </sentences>
+</list>

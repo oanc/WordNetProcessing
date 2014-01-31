@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_590.anc" start="2102" end="2108" sStart="2008" offset="99" sid="r8.number.n.0811" wn="1" wnkey="number%1:07:00::" text="And it would &quot;radically alter the nature of the architecture of the business by shrinking the number of global competitors from&quot;--can you stand it?" />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_590.anc" start="806" end="813" sStart="null" offset="110" sid="r9.kill.v.0758" wn="1" wnkey="kill%2:35:00::" text="According to the dailies, the boy, Kipland Kinkel, shot up the school cafeteria with a rifle and two pistols, killing one student and wounding twenty-six." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_590.anc" start="3546" end="3550" sStart="null" offset="38" sid="r10.help.v.0945" wn="1" wnkey="help%2:41:00::" text="Ever wonder if congressional staffers help their bosses write their newspaper submissions?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/4/Article247_590.anc" start="593" end="601" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" text="The details of the Oregon shootings are, in the words of the WP , &quot;disturbingly &lt;b&gt;familiar&lt;/b&gt;&quot;: a kid well-known for trouble acts out prior threats via his access to tremendous firepower." />
+  </sentences>
+</list>

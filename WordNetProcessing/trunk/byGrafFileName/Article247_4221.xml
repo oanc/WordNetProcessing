@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/19/Article247_4221.anc" start="2556" end="2561" sStart="-1" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" text="Are the &quot;common man and woman&quot; capable of responding to &lt;b&gt;works&lt;/b&gt; of complexity?" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/19/Article247_4221.anc" start="2603" end="2607" sStart="null" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" text="Depends on the &lt;b&gt;work&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4221.anc" start="3651" end="3658" sStart="null" offset="195" sid="r7.strike.n.0125" wn="2147483645" wnkey="null" text="I believe I was too hard on the movie in my original review, and doubled back a little in a later TV program on animation, but the notion that most audience members picked up in its complexities strikes me as optimistic." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4221.anc" start="965" end="968" sStart="null" offset="123" sid="r9.hit.v.0170" wn="2147483645" wnkey="null" text="Reports from theaters indicate audiences, by and large, love it and are moved by it; it may emerge as the season's biggest hit." />
+  </sentences>
+</list>

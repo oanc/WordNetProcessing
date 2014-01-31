@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/29/ArticleIP_1741.anc" start="4033" end="4037" sStart="-1" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" text="Amid growing hopes of success for the Ulster peace agreement, the Irish Independent of Dublin &lt;b&gt;said&lt;/b&gt; in an editorial titled &quot;Peace in their grasp&quot; that &quot;Tony Blair made an excellent move when he invited his predecessor, John Major, to campaign with him in Northern Ireland for a Yes vote in the May 22 referendum.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1741.anc" start="2633" end="2640" sStart="null" offset="143" sid="r9.kill.v.0916" wn="9" wnkey="kill%2:35:02::" text="Prodi said U.S. aid for the victims would come from Aviano, the U.S. air base out of which an American plane recently sliced a ski-lift cable, killing 20 people and starting a wave of anti-Americanism in Italy." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1741.anc" start="3105" end="3111" sStart="null" offset="9" sid="r8.ask.v.0173" wn="1" wnkey="ask%2:32:01::" text="They are asking all their fellow dentists to sign an appeal against such fillings (even though, unfortunately, they are already in the teeth of around 30 million French people)." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1741.anc" start="3105" end="3111" sStart="null" offset="9" sid="r8.ask.v.0173" wn="" wnkey="null" text="They are asking all their fellow dentists to sign an appeal against such fillings (even though, unfortunately, they are already in the teeth of around 30 million French people)." />
+  </sentences>
+</list>

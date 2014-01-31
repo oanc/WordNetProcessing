@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/letters/icic/514C-L181.anc" start="657" end="667" sStart="499" offset="158" sid="r1.successful.j.0085" wn="1" wnkey="successful%3:00:00::" text="To a great extent this extraordinary growth was made possible by the generosity of our alumni and friends and their commitment to making SPEA the successful program it is today." />
+    <s path="[OANC]/data/written_1/letters/icic/514C-L181.anc" start="657" end="667" sStart="null" offset="158" sid="r1.successful.j.0085" wn="1" wnkey="successful%3:00:00::" text="To a great extent this extraordinary growth was made possible by the generosity of our alumni and friends and their commitment to making SPEA the successful program it is today." />
+    <s path="[OANC]/data/written_1/letters/icic/514C-L181.anc" start="657" end="667" sStart="null" offset="158" sid="r1.successful.j.0085" wn="1" wnkey="successful%3:00:00::" text="To a great extent this extraordinary growth was made possible by the generosity of our alumni and friends and their commitment to making SPEA the successful program it is today." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/514C-L181.anc" start="1542" end="1546" sStart="null" offset="0" sid="null" wn="6" wnkey="part%1:04:01::" text="Stay a &lt;b&gt;part&lt;/b&gt; of it by renewing your gift to SPEA and sending the enclosed contribution reply card." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/514C-L181.anc" start="1542" end="1546" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" text="Stay a &lt;b&gt;part&lt;/b&gt; of it by renewing your gift to SPEA and sending the enclosed contribution reply card." />
+    <s path="[OANC]/data/written_1/letters/icic/514C-L181.anc" start="2003" end="2011" sStart="null" offset="107" sid="r11.benefit.n.0177" wn="1" wnkey="benefit%1:21:00::" text="And remember, gifts made before December 31, 1992, will still provide you with maximum tax deduction benefits." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020117.anc" start="1145" end="1155" sStart="958" offset="187" sid="r10.particular.j.0672" wn="1" wnkey="particular%5:00:00:specific:00" text="Although it seems that current drugsÑdeveloped against subtype B virusÑare active against non-subtype-B virus, one critical issue is whether viruses from some subtypes or particular regions are more likely than others to develop resistance against certain drugs." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020117.anc" start="1642" end="1647" sStart="null" offset="5" sid="r9.paper.n.0884" wn="5" wnkey="paper%1:10:02::" text="In a paper in this month's PLoS Medicine , Rami Kantor and colleagues from a worldwide collaboration have looked at the mutations found in 3,686 people with non-subtype-B HIV-1 infections compared with those in 4,769 people with subtype B infections." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020117.anc" start="2307" end="2312" sStart="null" offset="10" sid="r10.find.v.0695" wn="8" wnkey="find%2:36:00::" text="What they found was that all of the 55 drug-resistance mutations that have been known to occur in subtype B also occurred in at least one non-subtype-B isolate, and most of these mutations were also statistically associated with antiretroviral treatment in at least one non-B subtype." />
+  </sentences>
+</list>

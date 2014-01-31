@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/IntroEgypt.anc" start="2594" end="2599" sStart="2340" offset="254" sid="r8.state.n.0945" wn="4" wnkey="state%1:14:00::" text="The longest river in the world brings abundant water from the heart of Africa to irrigate a narrow verdant valley snaking its way through the hundreds of thousands of square kilometers of parched desert that constitute the modern state." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/IntroEgypt.anc" start="3267" end="3272" sStart="null" offset="48" sid="r8.state.n.0395" wn="4" wnkey="state%1:14:00::" text="It is, however, the most liberal Muslim state in the Middle East with a constitution and judiciary based on western democratic models, not shariah Muslim law." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/IntroEgypt.anc" start="4542" end="4548" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Though most of its &lt;b&gt;people&lt;/b&gt; claim descent from the ancient Egyptians, modern religious practices and social protocols are totally divorced from those of their ancestors." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/IntroEgypt.anc" start="4542" end="4548" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Though most of its &lt;b&gt;people&lt;/b&gt; claim descent from the ancient Egyptians, modern religious practices and social protocols are totally divorced from those of their ancestors." />
+  </sentences>
+</list>

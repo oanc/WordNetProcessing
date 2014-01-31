@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4387.anc" start="1534" end="1539" sStart="-1" offset="0" sid="null" wn="3" wnkey="write%2:32:08::" text="A traffic engineer will &lt;b&gt;write&lt;/b&gt; in, noting that the signs cannot, in fact, be placed any higher due to some ordinance, which any moron would know about." />
+    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4387.anc" start="51" end="57" sStart="null" offset="13" sid="r7.strike.n.0149" wn="2" wnkey="strike%1:04:02::" text="A Preemptive Strike" />
+    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4387.anc" start="631" end="636" sStart="null" offset="55" sid="r7.sound.n.0159" wn="2147483645" wnkey="null" text="Maybe Nora Ephron and Kurt Andersen write e-mails that sound &quot;Breakfast Table&quot;-y all the time." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3061.anc" start="5037" end="5047" sStart="5011" offset="26" sid="r1.successful.j.0100" wn="1" wnkey="successful%3:00:00::" text="The campaign has grown so successful that Americans now think cigarettes are more deadly than they really are." />
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3061.anc" start="5037" end="5047" sStart="null" offset="26" sid="r1.successful.j.0100" wn="1" wnkey="successful%3:00:00::" text="The campaign has grown so successful that Americans now think cigarettes are more deadly than they really are." />
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3061.anc" start="5037" end="5047" sStart="null" offset="26" sid="r1.successful.j.0100" wn="1" wnkey="successful%3:00:00::" text="The campaign has grown so successful that Americans now think cigarettes are more deadly than they really are." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/41/ArticleIP_3061.anc" start="2535" end="2540" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" text="The tobacco cartel also fractured in 1996 when the runt of the litter, Liggett, sensed the &lt;b&gt;power&lt;/b&gt; shifting and cut a separate deal." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/41/ArticleIP_3061.anc" start="2535" end="2540" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" text="The tobacco cartel also fractured in 1996 when the runt of the litter, Liggett, sensed the &lt;b&gt;power&lt;/b&gt; shifting and cut a separate deal." />
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3061.anc" start="5246" end="5250" sStart="null" offset="17" sid="r8.life.n.0521" wn="5" wnkey="life%1:28:00::" text="5 years from his life span, when the &quot;true&quot; loss is between 3.6 and 7.2 years." />
+  </sentences>
+</list>

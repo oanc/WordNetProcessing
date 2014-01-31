@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33832.anc" start="1898" end="1902" sStart="1869" offset="34" sid="r11.true.j.0529" wn="1" wnkey="true%3:00:00::" text="&quot;Untrue in that none of it's true, or that some of it's true?&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33832.anc" start="2042" end="2046" sStart="null" offset="72" sid="r11.true.j.0936" wn="1" wnkey="true%3:00:00::" text="&quot;Yes, but what I'm saying, what I'm asking, is whether any of it's true.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33832.anc" start="4598" end="4604" sStart="null" offset="23" sid="r9.kill.v.0813" wn="10" wnkey="kill%2:35:01::" text="&quot;Two Turkish Jews killed in quake&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33832.anc" start="4495" end="4501" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="All from the Staten &lt;b&gt;Island&lt;/b&gt; Advance , Aug., 25 1999" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33832.anc" start="4495" end="4501" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="All from the Staten &lt;b&gt;Island&lt;/b&gt; Advance , Aug., 25 1999" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33832.anc" start="4495" end="4501" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="All from the Staten &lt;b&gt;Island&lt;/b&gt; Advance , Aug., 25 1999" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33832.anc" start="2120" end="2124" sStart="null" offset="0" sid="null" wn="2" wnkey="date%1:18:00::" text="&quot;&lt;b&gt;Date&lt;/b&gt; rape is bad.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33832.anc" start="2611" end="2615" sStart="null" offset="194" sid="r11.dark.j.0327" wn="2" wnkey="dark%3:00:02::" text="In an entirely unrelated development, ABC and parent company Disney have come under fire for a promotion run by their KLOS-FM radio station, in which morning disc jockeys Mark and Brian offered dark gardening implements to callers." />
+  </sentences>
+</list>

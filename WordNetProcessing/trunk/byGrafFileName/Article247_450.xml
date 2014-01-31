@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/3/Article247_450.anc" start="3312" end="3317" sStart="-1" offset="0" sid="null" wn="10" wnkey="show%2:32:03::" text="The latest circulation audit &lt;b&gt;shows&lt;/b&gt; that nine of the nation's fifteen largest newspapers recorded an increase in daily circulation, reports the WP . And nearly two-thirds of all papers with circulations over 200,000 recorded gains." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/3/Article247_450.anc" start="3312" end="3317" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" text="The latest circulation audit &lt;b&gt;shows&lt;/b&gt; that nine of the nation's fifteen largest newspapers recorded an increase in daily circulation, reports the WP . And nearly two-thirds of all papers with circulations over 200,000 recorded gains." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_450.anc" start="1770" end="1775" sStart="null" offset="24" sid="r9.paper.n.0584" wn="3" wnkey="paper%1:10:03::" text="Prior to yesterday, the paper explains, this rider was required because independent sellers could not be forced to charge the price in question." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_450.anc" start="2382" end="2386" sStart="null" offset="19" sid="r9.fold.v.0308" wn="2147483645" wnkey="null" text="But it's below the fold at USAT and on p." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_450.anc" start="2340" end="2344" sStart="null" offset="88" sid="r9.fold.v.0238" wn="" wnkey="null" text="The story is featured in the WSJ 's &quot;world-wide&quot; news box, and it's above the fold of the LAT front." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_450.anc" start="1685" end="1691" sStart="null" offset="65" sid="r10.common.j.0976" wn="4" wnkey="common%5:00:00:familiar:02" text="The LAT lead story on this decision includes the provenance of a common ad phrase: &quot;offer good at participating stores only.&quot;" />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020212.anc" start="12475" end="12479" sStart="12377" offset="98" sid="r11.true.j.0514" wn="1" wnkey="true%3:00:00::" text="The first possibility is that the current findings for some of the best current genes are true." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020212.anc" start="5866" end="5870" sStart="null" offset="54" sid="r11.true.j.0331" wn="1" wnkey="true%3:00:00::" text="It is unlikely that all of these linkage findings are true." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020212.anc" start="14055" end="14059" sStart="null" offset="41" sid="r11.true.j.0741" wn="2147483646" wnkey="null" text="The current literature could be a mix of true and false positive findings; however, it would be a momentous advance for the field if even one of the genes in Table 2 were a true positive result." />
+  </sentences>
+</list>

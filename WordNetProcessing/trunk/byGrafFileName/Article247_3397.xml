@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3397.anc" start="163" end="166" sStart="70" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" text="One of the worst features of American politics is the way we treat decent people who fail to &lt;b&gt;win&lt;/b&gt; elections." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3397.anc" start="2163" end="2169" sStart="null" offset="75" sid="r10.help.v.0579" wn="6" wnkey="help%2:41:12::" text="By offering &quot;electability&quot; as his chief selling point, Alexander helped make the case for Bush." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/10/Article247_3397.anc" start="2287" end="2291" sStart="null" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" text="But that's no reason to despise a candidate who tried hard, played &lt;b&gt;fair&lt;/b&gt;, and will surely make a gracious exit." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/10/Article247_3397.anc" start="2287" end="2291" sStart="null" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" text="But that's no reason to despise a candidate who tried hard, played &lt;b&gt;fair&lt;/b&gt;, and will surely make a gracious exit." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3397.anc" start="1932" end="1935" sStart="null" offset="82" sid="r8.ask.v.0562" wn="2" wnkey="ask%2:32:02::" text="Assuming Alexander's campaign does come to an end next week as predicted, we must ask why it never got off the ground." />
+  </sentences>
+</list>

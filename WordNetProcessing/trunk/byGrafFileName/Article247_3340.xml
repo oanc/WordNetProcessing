@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3340.anc" start="2265" end="2272" sStart="-1" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" text="&lt;b&gt;Success&lt;/b&gt; comes when you have a high renewal &lt;b&gt;rate&lt;/b&gt; and new customers are easy to entice to replace dropouts." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3340.anc" start="2265" end="2272" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" text="&lt;b&gt;Success&lt;/b&gt; comes when you have a high renewal &lt;b&gt;rate&lt;/b&gt; and new customers are easy to entice to replace dropouts." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3340.anc" start="690" end="698" sStart="null" offset="35" sid="r1.launch.v.0011" wn="1" wnkey="launch%2:41:01::" text="More than 1,000 new magazines were launched in 1998, and half have already folded--most after one issue." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3340.anc" start="690" end="698" sStart="null" offset="35" sid="r1.launch.v.0011" wn="1" wnkey="launch%2:41:01::" text="More than 1,000 new magazines were launched in 1998, and half have already folded--most after one issue." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3340.anc" start="690" end="698" sStart="null" offset="35" sid="r1.launch.v.0011" wn="1" wnkey="launch%2:41:01::" text="More than 1,000 new magazines were launched in 1998, and half have already folded--most after one issue." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3340.anc" start="2335" end="2339" sStart="null" offset="70" sid="r7.1.easy.j.0129" wn="1" wnkey="easy%3:00:01::" text="Success comes when you have a high renewal rate and new customers are easy to entice to replace dropouts." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3340.anc" start="220" end="227" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" text="The predicted demise of John Kennedy's George and the launch of Tina Brown's Talk raise the question: What are a new magazine's &lt;b&gt;chances&lt;/b&gt; for survival?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3340.anc" start="220" end="227" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" text="The predicted demise of John Kennedy's George and the launch of Tina Brown's Talk raise the question: What are a new magazine's &lt;b&gt;chances&lt;/b&gt; for survival?" />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_57601.anc" start="1838" end="1842" sStart="1838" offset="0" sid="r10.wait.v.0673" wn="" wnkey="null" text="Wait a second!" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57601.anc" start="563" end="570" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" text="Beyond that, I think that, frankly, the likelihood of &lt;b&gt;success&lt;/b&gt; is quite small.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57601.anc" start="563" end="570" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" text="Beyond that, I think that, frankly, the likelihood of &lt;b&gt;success&lt;/b&gt; is quite small.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_57601.anc" start="5073" end="5079" sStart="null" offset="13" sid="r9.kill.v.0843" wn="1" wnkey="kill%2:35:00::" text="&quot;I have killed 100 children, all boys, and placed their bodies in acid-filled drums." />
+  </sentences>
+</list>

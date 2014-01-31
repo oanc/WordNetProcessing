@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="1546" end="1551" sStart="1512" offset="34" sid="r7.serve.v.0625" wn="1" wnkey="serve%2:42:03::" text="In every study, some mothers must serve as a comparison group, and that's where the trouble begins." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="4092" end="4096" sStart="null" offset="116" sid="r7.poor.j.0075" wn="2" wnkey="poor%3:00:00::" text="And some subjects receive placebos because, unlike penicillin for Alabama, the full AZT regimen is out of reach for poor countries." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="4396" end="4400" sStart="null" offset="4" sid="r7.poor.j.0286" wn="2" wnkey="poor%3:00:00::" text="But poor countries aren't going to get any of these." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="4092" end="4096" sStart="null" offset="116" sid="r7.poor.j.0075" wn="2 3" wnkey="null" text="And some subjects receive placebos because, unlike penicillin for Alabama, the full AZT regimen is out of reach for poor countries." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="4092" end="4096" sStart="null" offset="116" sid="r7.poor.j.0075" wn="3" wnkey="poor%3:00:03::" text="And some subjects receive placebos because, unlike penicillin for Alabama, the full AZT regimen is out of reach for poor countries." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="899" end="903" sStart="null" offset="24" sid="r7.poor.j.0383" wn="2" wnkey="poor%3:00:00::" text="At $800 a pop, however, poor countries can't afford the full regimen." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="4092" end="4096" sStart="null" offset="116" sid="r7.poor.j.0075" wn="2" wnkey="poor%3:00:00::" text="And some subjects receive placebos because, unlike penicillin for Alabama, the full AZT regimen is out of reach for poor countries." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="2028" end="2035" sStart="null" offset="55" sid="r9.kill.v.0662" wn="1" wnkey="kill%2:35:00::" text="Researchers giving placebos, they said, were knowingly killing children." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="6689" end="6693" sStart="null" offset="49" sid="r10.high.j.0853" wn="1" wnkey="high%3:00:02::" text="It offends them to see researchers accepting the high cost of American medical care as a given." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2668.anc" start="6185" end="6192" sStart="null" offset="23" sid="r11.benefit.n.0996" wn="2" wnkey="benefit%1:07:00::" text="2) It's done for local benefit (measuring a new therapy against placebo isn't useful for the West; we'd switch only if it were as effective as the more complex therapy)." />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1081.anc" start="1766" end="1774" sStart="-1" offset="0" sid="null" wn="2 5" wnkey="null" text="Congress has used its delegation &lt;b&gt;power&lt;/b&gt; to &lt;b&gt;transfer&lt;/b&gt; its authority to states on several occasions." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1081.anc" start="1869" end="1875" sStart="null" offset="48" sid="r8.state.n.0876" wn="1" wnkey="state%1:15:01::" text="For example, Public Law 280 (1953) gave several states on reservations." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1081.anc" start="1601" end="1606" sStart="null" offset="2" sid="r8.state.n.0787" wn="1" wnkey="state%1:15:01::" text="A state may, for example, make enforceable laws governing tribes if Congress delegates authority to that state." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/22/ArticleIP_1081.anc" start="1475" end="1479" sStart="null" offset="0" sid="null" wn="5" wnkey="land%1:15:02::" text="Tribes have, on occasion, opted for a blurring of boundaries (asking that state cops patrol reservation &lt;b&gt;land&lt;/b&gt;, for example)." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1081.anc" start="1433" end="1439" sStart="null" offset="62" sid="r8.ask.v.0648" wn="1" wnkey="ask%2:32:01::" text="Tribes have, on occasion, opted for a blurring of boundaries (asking that state cops patrol reservation land, for example)." />
+  </sentences>
+</list>

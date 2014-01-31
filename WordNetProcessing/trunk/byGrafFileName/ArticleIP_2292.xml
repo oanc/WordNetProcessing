@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2292.anc" start="7059" end="7063" sStart="6949" offset="110" sid="r9.kill.v.0780" wn="3" wnkey="kill%2:30:08::" text="In cases where a reporter wouldn't play ball, Bobby Kennedy could easily pick up the phone and get editors to kill a story." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2292.anc" start="5356" end="5362" sStart="null" offset="82" sid="r8.family.n.0576" wn="1" wnkey="family%1:14:02::" text="In The Kennedy Imprisonment , Garry Wills did a much better job of connecting the family attitudes toward sexual conquest, the pursuit of power, and the conduct of foreign policy." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2292.anc" start="1539" end="1544" sStart="null" offset="36" sid="r8.ask.v.0673" wn="2" wnkey="ask%2:32:02::" text="was the kind of question Matt Lauer asked him." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2292.anc" start="1539" end="1544" sStart="null" offset="36" sid="r8.ask.v.0673" wn="" wnkey="null" text="was the kind of question Matt Lauer asked him." />
+  </sentences>
+</list>

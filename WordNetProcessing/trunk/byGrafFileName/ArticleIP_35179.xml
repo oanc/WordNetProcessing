@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_35179.anc" start="4989" end="4992" sStart="4957" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" text="7. Steve Forbes: He wants me to &lt;b&gt;win&lt;/b&gt;, and I want him to say more about his father's sex life; we're both going to be disappointed." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_35179.anc" start="3051" end="3055" sStart="null" offset="29" sid="r8.live.v.0400" wn="2147483645" wnkey="null" text="The parade will be broadcast live on the Internet at www.china10k.com ." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_35179.anc" start="5044" end="5048" sStart="null" offset="87" sid="r8.life.n.0808" wn="1" wnkey="life%1:26:01::" text="7. Steve Forbes: He wants me to win, and I want him to say more about his father's sex life; we're both going to be disappointed." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_35179.anc" start="3667" end="3673" sStart="null" offset="3" sid="r8.family.n.0507" wn="2" wnkey="family%1:14:00::" text="6. Family, Faith, Freedom" />
+  </sentences>
+</list>

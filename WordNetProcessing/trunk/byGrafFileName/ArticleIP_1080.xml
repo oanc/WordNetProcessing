@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1080.anc" start="6601" end="6610" sStart="-1" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" text="Has integration &lt;b&gt;succeeded&lt;/b&gt;?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1080.anc" start="6601" end="6610" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" text="Has integration &lt;b&gt;succeeded&lt;/b&gt;?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1080.anc" start="6601" end="6610" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" text="Has integration &lt;b&gt;succeeded&lt;/b&gt;?" />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1080.anc" start="4320" end="4328" sStart="null" offset="80" sid="r7.strike.v.0156" wn="17" wnkey="strike%2:38:08::" text="These students compensate for their shortcomings by clinging to one another and striking the defensive pose of separatism." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1080.anc" start="510" end="514" sStart="null" offset="61" sid="r8.live.v.0599" wn="1" wnkey="live%2:42:08::" text="The integrationist ideal holds that blacks and whites should live, work, and study together." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1080.anc" start="1285" end="1290" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="Black separatism &lt;b&gt;dates&lt;/b&gt; back to the 19 th century , when Martin Delaney and others promoted the &quot;Back to Africa &quot; movement." />
+  </sentences>
+</list>

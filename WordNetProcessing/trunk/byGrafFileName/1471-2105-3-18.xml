@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2105-3-18.anc" start="20226" end="20230" sStart="20197" offset="29" sid="r7.1.use.v.0357" wn="1" wnkey="use%2:34:01::" text="One ROOT node is used at the head of the tree." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2105-3-18.anc" start="4674" end="4682" sStart="null" offset="0" sid="null" wn="9" wnkey="transfer%2:30:00::" text="Using my COVE software http://www.genetics.wustl.edu/eddy/software#cove, &lt;b&gt;transfer&lt;/b&gt; RNA alignments (~75 nucleotides) take about 0.2 cpu second and 3 Mb of memory." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2105-3-18.anc" start="9347" end="9354" sStart="null" offset="47" sid="r7.trace.v.0244" wn="3" wnkey="trace%2:38:01::" text="The alignment itself is recovered by tracing the individual optimal steps backwards through the matrix, starting from cell ( N,M ). The algorithm is O(NM) in both time and memory." />
+    <s path="file:/c:/OANC/data/written_2/technical/biomed/1471-2105-3-18.anc" start="5191" end="5195" sStart="null" offset="0" sid="null" wn="7" wnkey="time%1:28:03::" text="Alignment of a small subunit (SSU) ribosomal RNA sequence to the SSU rRNA consensus structure would take about 23 GB of RAM and an hour of CPU &lt;b&gt;time&lt;/b&gt;." />
+    <s path="file:/c:/OANC/data/written_2/technical/biomed/1471-2105-3-18.anc" start="5191" end="5195" sStart="null" offset="0" sid="null" wn="2" wnkey="time%1:28:05::" text="Alignment of a small subunit (SSU) ribosomal RNA sequence to the SSU rRNA consensus structure would take about 23 GB of RAM and an hour of CPU &lt;b&gt;time&lt;/b&gt;." />
+  </sentences>
+</list>

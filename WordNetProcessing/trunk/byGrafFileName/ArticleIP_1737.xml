@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/29/ArticleIP_1737.anc" start="5352" end="5355" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="On its front page La Repubblica reported a warning Wednesday by Pope John Paul II that it was futile to &lt;b&gt;try&lt;/b&gt; to predict the timing of the end of the world." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1737.anc" start="1006" end="1016" sStart="null" offset="144" sid="r10.particular.j.0856" wn="1" wnkey="particular%5:00:00:specific:00" text="While most newspapers accepted the need for Britain to play its part in taking in eastern Europe's dirty nuclear washing, they argued that this particular matter had been badly handled." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/29/ArticleIP_1737.anc" start="926" end="930" sStart="null" offset="0" sid="null" wn="6" wnkey="part%1:04:01::" text="While most newspapers accepted the need for Britain to play its &lt;b&gt;part&lt;/b&gt; in taking in eastern Europe's dirty nuclear washing, they argued that this particular matter had been badly handled." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/29/ArticleIP_1737.anc" start="926" end="930" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="While most newspapers accepted the need for Britain to play its &lt;b&gt;part&lt;/b&gt; in taking in eastern Europe's dirty nuclear washing, they argued that this particular matter had been badly handled." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1737.anc" start="5236" end="5241" sStart="null" offset="62" sid="r9.paper.n.0113" wn="3" wnkey="paper%1:10:03::" text="In this he was profoundly at odds with the United States, the paper said." />
+  </sentences>
+</list>

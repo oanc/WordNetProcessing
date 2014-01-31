@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2530-ms98-a-trans.anc" start="6971" end="6976" sStart="-1" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="you know they just make it look so easy but i know it i'm &lt;b&gt;smart&lt;/b&gt; enough to know that it's not quite that easy" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2530-ms98-a-trans.anc" start="6971" end="6976" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="you know they just make it look so easy but i know it i'm &lt;b&gt;smart&lt;/b&gt; enough to know that it's not quite that easy" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2530-ms98-a-trans.anc" start="6971" end="6976" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="you know they just make it look so easy but i know it i'm &lt;b&gt;smart&lt;/b&gt; enough to know that it's not quite that easy" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2530-ms98-a-trans.anc" start="4852" end="4857" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" text="to me black and white is photography &lt;b&gt;color&lt;/b&gt; is more snapshot" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2530-ms98-a-trans.anc" start="5126" end="5131" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" text="not realize that black and white it nowadays it's actually more expensive than uh &lt;b&gt;color&lt;/b&gt;" />
+  </sentences>
+</list>

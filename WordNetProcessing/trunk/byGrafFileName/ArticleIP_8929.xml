@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/48/ArticleIP_8929.anc" start="5229" end="5233" sStart="-1" offset="0" sid="null" wn="6" wnkey="show%2:32:02::" text="Apparently the bad bear didn't &lt;b&gt;show&lt;/b&gt; as much concern for eye/ear protection as do Brasco and his dad." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/48/ArticleIP_8929.anc" start="5229" end="5233" sStart="null" offset="0" sid="null" wn="6" wnkey="show%2:32:02::" text="Apparently the bad bear didn't &lt;b&gt;show&lt;/b&gt; as much concern for eye/ear protection as do Brasco and his dad." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_8929.anc" start="4766" end="4771" sStart="null" offset="11" sid="r11.refer.v.0280" wn="1" wnkey="refer%2:32:01::" text="This could refer to the kosher laws that put pork chops out of bounds, but I doubt it." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_8929.anc" start="918" end="922" sStart="null" offset="87" sid="r7.poor.j.0243" wn="4" wnkey="poor%3:00:02::" text="&quot;Seamstress Trudie Newell-Poit of Wainscotting, disgusted at her sewing machine's poor cross-stitching, smashed it with a sledgehammer in Piccadilly Circus.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_8929.anc" start="2219" end="2223" sStart="null" offset="13" sid="r7.1.face.n.0237" wn="1" wnkey="human_face%1:08:01::" text="Where is the face sleekened by cheek bones transplanted from a high-school cheerleader kidnapped off the streets of Wichita, Kan.?" />
+  </sentences>
+</list>

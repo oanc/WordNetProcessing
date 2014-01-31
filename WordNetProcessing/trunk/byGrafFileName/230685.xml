@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/230685.anc" start="1152" end="1156" sStart="1075" offset="77" sid="null" wn="1" wnkey="use%2:34:01::" text="Pat McCarthy, the local employment law attorney that I have been using, used these terms when David Howe and i talked to him today." />
+    <s path="[MASC]/data/written/230685.anc" start="1145" end="1150" sStart="null" offset="70" sid="null" wn="1" wnkey="use%2:34:01::" text="Pat McCarthy, the local employment law attorney that I have been using, used these terms when David Howe and i talked to him today." />
+    <s path="[MASC]/data/written/230685.anc" start="345" end="350" sStart="null" offset="20" sid="null" wn="2147483645" wnkey="null" text="Felicia, Does this sound right to you?" />
+    <s path="[MASC]/data/written/230685.anc" start="60" end="64" sStart="null" offset="63" sid="null" wn="1" wnkey="date%1:28:00::" text="Message-ID: &lt;5100559.1075860488776.JavaMail.evans@thyme&gt; Date: Wed, 1 Nov 2000 11:49:00 -0800 (PST) From: michelle.cash@enron.com To: felecia.acevedo@enron.com Subject: Privileged and Confidential communication to my attorneys Mime-Version: 1.0 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit" />
+  </sentences>
+</list>

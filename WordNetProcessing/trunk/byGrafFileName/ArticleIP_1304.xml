@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/25/ArticleIP_1304.anc" start="4066" end="4071" sStart="-1" offset="0" sid="null" wn="2147483646" wnkey="null" text="Others find the book cynical, &quot;simplistic and patronizing&quot; (Richard Rhodes, the New York &lt;b&gt;Times&lt;/b&gt; Book Review ). They &lt;b&gt;say&lt;/b&gt; Kinsey's private life bears no relation to his scholarship, and they question the biography's anonymous sources." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/25/ArticleIP_1304.anc" start="4066" end="4071" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" text="Others find the book cynical, &quot;simplistic and patronizing&quot; (Richard Rhodes, the New York &lt;b&gt;Times&lt;/b&gt; Book Review ). They &lt;b&gt;say&lt;/b&gt; Kinsey's private life bears no relation to his scholarship, and they question the biography's anonymous sources." />
+    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1304.anc" start="3515" end="3523" sStart="null" offset="24" sid="r8.suggest.v.0407" wn="2" wnkey="suggest%2:32:04::" text="Newsweek 's Evan Thomas suggests Hersh's zeal for muckraking has &quot;consumed him.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1304.anc" start="6612" end="6616" sStart="null" offset="11" sid="r8.life.n.0974" wn="3" wnkey="life%1:26:02::" text="Movie -- A Life Less Ordinary ;" />
+    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1304.anc" start="5773" end="5777" sStart="null" offset="86" sid="r7.1.face.n.0833" wn="1" wnkey="human_face%1:08:01::" text="Many of the other articles (such as a Versace dress that uses Warhol's Marilyn Monroe face) never even belonged to the artist and serve only to make tendentious points about art and fashion." />
+    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1304.anc" start="6331" end="6335" sStart="null" offset="0" sid="r10.book.n.0795" wn="1" wnkey="book%1:10:00::" text="Book -- Violin , by Anne Rice;" />
+  </sentences>
+</list>

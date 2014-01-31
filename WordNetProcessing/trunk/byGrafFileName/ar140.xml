@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/ar140.anc" start="27774" end="27778" sStart="27705" offset="69" sid="r7.1.use.v.0476" wn="1" wnkey="use%2:34:01::" text="We have previously shown that the in vitro priming protocol used in the present study induces the differentiation of early uncommitted CD4 +, CD27 +memory T cells into IL-4-producing effector cells [ 17]." />
+    <s path="[OANC]/data/written_2/technical/biomed/ar140.anc" start="35991" end="36000" sStart="null" offset="50" sid="r8.suggest.v.0809" wn="3" wnkey="suggest%2:32:02::" text="In this regard, recent studies [ 31] have suggested that synovial tissue cells were selectively responsive to IL-12 produced in the synovium, because IL-12 induced increased production of IFN-?, but not IL-2 and IL-4." />
+    <s path="[OANC]/data/written_2/technical/biomed/ar140.anc" start="32635" end="32644" sStart="null" offset="34" sid="r8.suggest.v.0828" wn="3" wnkey="suggest%2:32:02::" text="Recent studies [ 32] have suggested that there is an intrinsic defect in the development of IL-4-producing effector cells in RA patients." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/ar140.anc" start="266" end="271" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="Aggressive forms of RA are thought to be driven by T-lymphocyte activity, leading to the &lt;b&gt;rapid&lt;/b&gt; erosion of bone and cartilage." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/ar140.anc" start="266" end="271" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="Aggressive forms of RA are thought to be driven by T-lymphocyte activity, leading to the &lt;b&gt;rapid&lt;/b&gt; erosion of bone and cartilage." />
+    <s path="[OANC]/data/written_2/technical/biomed/ar140.anc" start="15477" end="15483" sStart="null" offset="166" sid="r9.normal.j.0853" wn="1" wnkey="normal%3:00:01::" text="This was not different from the percentage found in RASF, but was significantly greater than the percentage of IFN-?-producing cells in normal blood ( P &lt; 0.005) or RAPB ( P &lt; 0.005)." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2243.anc" start="3149" end="3159" sStart="3204" offset="0" sid="r10.particular.j.0899" wn="2147483647" wnkey="null" text="" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2243.anc" start="720" end="725" sStart="null" offset="10" sid="r9.paper.n.0547" wn="1" wnkey="paper%1:27:00::" text=", stamped paper mail) and accompanied by a self-addressed, stamped envelope." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2243.anc" start="1006" end="1012" sStart="null" offset="0" sid="null" wn="4" wnkey="forget%2:31:02::" text="And don't &lt;b&gt;forget&lt;/b&gt; the envelope!" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2243.anc" start="1006" end="1012" sStart="null" offset="0" sid="null" wn="4" wnkey="forget%2:31:02::" text="And don't &lt;b&gt;forget&lt;/b&gt; the envelope!" />
+  </sentences>
+</list>

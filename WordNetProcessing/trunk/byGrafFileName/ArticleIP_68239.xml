@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/54/ArticleIP_68239.anc" start="1000" end="1005" sStart="-1" offset="0" sid="null" wn="7" wnkey="work%1:06:02::" text="&quot;Pat Buchanan, about the collected &lt;b&gt;works&lt;/b&gt; of Simon Wiesenthal.&quot;" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/54/ArticleIP_68239.anc" start="1000" end="1005" sStart="null" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" text="&quot;Pat Buchanan, about the collected &lt;b&gt;works&lt;/b&gt; of Simon Wiesenthal.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_68239.anc" start="1612" end="1618" sStart="null" offset="9" sid="r10.common.j.0850" wn="2" wnkey="common%3:00:01::" text="The more common experience is to watch a much-admired movie with high hopes only to discover that Magnolia is Short Cuts for dummies, or that Boys Don't Cry has no ideas about its subject beyond those in any of a score of newspaper articles written about the case." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_68239.anc" start="1893" end="1898" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" text="Indeed, if a movie is in &lt;b&gt;color&lt;/b&gt;, in focus, and indoors, it was likely to have been praised by the New York Times ' departing Janet Maslin." />
+  </sentences>
+</list>

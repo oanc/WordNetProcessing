@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2059.anc" start="1193" end="1196" sStart="1185" offset="0" sid="null" wn="2" wnkey="win%2:40:00::" text="It even &lt;b&gt;won&lt;/b&gt; a couple of awards." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/32/ArticleIP_2059.anc" start="4723" end="4727" sStart="null" offset="0" sid="null" wn="4" wnkey="tell%2:32:02::" text="Once, after I signed a pile of books at a bookstore, a clerk &lt;b&gt;told&lt;/b&gt; me not to leave because there were more copies in back." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2059.anc" start="2872" end="2878" sStart="null" offset="64" sid="r7.serve.v.0957" wn="6" wnkey="serve_up%2:34:00::" text="But in my case, praise from a stranger is like a glass of water served at a restaurant in Bombay: You drink it warily, if at all, fearing it may be tainted." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2059.anc" start="5618" end="5622" sStart="null" offset="43" sid="r7.1.face.n.0608" wn="1" wnkey="face%1:08:00::" text="A distraught look emerged on the husband's face and his wife stared coldly at him." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2059.anc" start="2584" end="2592" sStart="null" offset="0" sid="null" wn="1" wnkey="entitle%2:41:00::" text="I now have my own literary oeuvre . This &lt;b&gt;entitles&lt;/b&gt; me to certain privileges, such as employing foreign words in my writings (see previous sentence) and living on the Upper West Side of Manhattan." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2059.anc" start="2584" end="2592" sStart="null" offset="0" sid="null" wn="1" wnkey="entitle%2:41:00::" text="I now have my own literary oeuvre . This &lt;b&gt;entitles&lt;/b&gt; me to certain privileges, such as employing foreign words in my writings (see previous sentence) and living on the Upper West Side of Manhattan." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2059.anc" start="3923" end="3927" sStart="null" offset="78" sid="r10.book.n.0257" wn="1" wnkey="book%1:10:00::" text="No sooner did my book start getting some attention than Peter Maas released a book that turned into a best seller." />
+  </sentences>
+</list>

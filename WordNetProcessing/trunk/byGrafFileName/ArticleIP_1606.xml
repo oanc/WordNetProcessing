@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1606.anc" start="2087" end="2093" sStart="-1" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="What we get instead is a trip in the sand: Jooky in hand, a volleyball &lt;b&gt;player&lt;/b&gt; falls flat on his face." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1606.anc" start="2087" end="2093" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="What we get instead is a trip in the sand: Jooky in hand, a volleyball &lt;b&gt;player&lt;/b&gt; falls flat on his face." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1606.anc" start="3930" end="3934" sStart="null" offset="189" sid="r8.life.n.0575" wn="1" wnkey="life%1:26:01::" text="Initial impressions notwithstanding, Jooky ends up making intention and product crystal clear: It's taking on a whole genre on behalf of a drink that promises only good taste, not the good life." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1606.anc" start="3244" end="3250" sStart="null" offset="0" sid="null" wn="3" wnkey="image%1:06:00::" text="But of course, it's everything in a spot that turns sunny visuals against soft-drink advertisers, using the &lt;b&gt;images&lt;/b&gt; to make the long-overdue point that they are a stupid reason to pick a drink." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1606.anc" start="3470" end="3475" sStart="null" offset="0" sid="null" wn="8" wnkey="image%1:07:01::" text="The anti-image as &lt;b&gt;image&lt;/b&gt; is powerful indeed." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1606.anc" start="2112" end="2116" sStart="null" offset="96" sid="r7.1.face.n.0665" wn="1" wnkey="human_face%1:08:01::" text="What we get instead is a trip in the sand: Jooky in hand, a volleyball player falls flat on his face." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1606.anc" start="2645" end="2650" sStart="null" offset="0" sid="null" wn="2" wnkey="date%1:18:00::" text="This pair falls plumb in the middle of the Jooky target group: no &lt;b&gt;dates&lt;/b&gt;, no sun, no sand." />
+  </sentences>
+</list>

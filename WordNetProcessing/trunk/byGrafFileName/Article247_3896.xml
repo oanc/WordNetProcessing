@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/15/Article247_3896.anc" start="2405" end="2411" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="Henry Adams said, &quot;Pierpont Morgan is apparently &lt;b&gt;trying&lt;/b&gt; to swallow the sun.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/15/Article247_3896.anc" start="2405" end="2411" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="Henry Adams said, &quot;Pierpont Morgan is apparently &lt;b&gt;trying&lt;/b&gt; to swallow the sun.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3896.anc" start="1417" end="1422" sStart="null" offset="182" sid="r7.sound.n.0136" wn="2147483645" wnkey="null" text="As America's unofficial central banker, Morgan tried to rein in the excesses of the business cycle, stifle speculative manias, control corporate competition, keep the currency &quot;sound,&quot; and stop panics." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/15/Article247_3896.anc" start="2107" end="2112" sStart="null" offset="0" sid="null" wn="4" wnkey="land%1:17:00::" text="A few weeks later he capitalized the new corporation (which included other steel mills, railroads, mines, steamships, and ore &lt;b&gt;lands&lt;/b&gt;) at $1." />
+  </sentences>
+</list>

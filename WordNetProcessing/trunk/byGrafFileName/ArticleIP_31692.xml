@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31692.anc" start="2435" end="2440" sStart="2428" offset="12" sid="r10.wait.v.0596" wn="1" wnkey="wait%2:42:00::" text="&quot;[S]he waits, like the sentinel of an enchanted world, and judges when it's safe to open up a trade route." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31692.anc" start="2113" end="2118" sStart="null" offset="145" sid="r9.sense.n.0174" wn="2147483646" wnkey="null" text="Unimpressed with her upstate forays, Rudolph Giuliani, her likely Senate rival, boasts: &quot;Every time I have gone up there, I have gotten the sense that they like me." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_31692.anc" start="3609" end="3613" sStart="null" offset="0" sid="null" wn="6" wnkey="lose%2:40:06::" text="But like many entrepreneurs, he was not prepared to manage such a large enterprise, and in 1988, after attempts at restructuring, the company &lt;b&gt;lost&lt;/b&gt; $2." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31692.anc" start="3756" end="3759" sStart="null" offset="15" sid="r9.hit.v.0557" wn="9" wnkey="hit%2:39:00::" text="That's when he hit rock bottom." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31692.anc" start="3245" end="3249" sStart="null" offset="61" sid="r11.dark.j.0312" wn="9" wnkey="dark%5:00:00:depressing:00" text="Wally &quot;Famous&quot; Amos reveals his feelings about the dark days when his cookie empire collapsed." />
+  </sentences>
+</list>

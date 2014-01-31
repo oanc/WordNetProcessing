@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="3587" end="3593" sStart="3523" offset="64" sid="r7.strike.n.0091" wn="1" wnkey="strike%1:04:00::" text="An article claims that racial animus is contributing to the NBA strike." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="3587" end="3593" sStart="null" offset="64" sid="r7.strike.n.0091" wn="1" wnkey="strike%1:04:00::" text="An article claims that racial animus is contributing to the NBA strike." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="3587" end="3593" sStart="null" offset="64" sid="r7.strike.n.0091" wn="1" wnkey="strike%1:04:00::" text="An article claims that racial animus is contributing to the NBA strike." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="3587" end="3593" sStart="null" offset="64" sid="r7.strike.n.0091" wn="1" wnkey="strike%1:04:00::" text="An article claims that racial animus is contributing to the NBA strike." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="3601" end="3608" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="Black &lt;b&gt;players&lt;/b&gt; feel that white owners don't respect them and are treating them as ghetto thugs who don't deserve their high salaries." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="2672" end="2677" sStart="null" offset="37" sid="r8.life.n.0277" wn="6" wnkey="life%1:28:01::" text="Newsweek 's &quot;The Fight of Their Lives&quot; focuses on the Clinton marriage, which is even rockier than usual: Hillary is pursuing her own activist agenda rather than helping Bill fight scandal." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="7600" end="7607" sStart="null" offset="71" sid="r1.history.n.0080" wn="" wnkey="null" text="Americans mock the Frogs because we envy their intellectual arrogance, history, and glamour." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="7600" end="7607" sStart="null" offset="71" sid="r1.history.n.0080" wn="2" wnkey="history%1:10:00::" text="Americans mock the Frogs because we envy their intellectual arrogance, history, and glamour." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="7600" end="7607" sStart="null" offset="71" sid="r1.history.n.0080" wn="1" wnkey="history%1:28:00::" text="Americans mock the Frogs because we envy their intellectual arrogance, history, and glamour." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10799.anc" start="7600" end="7607" sStart="null" offset="71" sid="r1.history.n.0080" wn="1" wnkey="history%1:28:00::" text="Americans mock the Frogs because we envy their intellectual arrogance, history, and glamour." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/49/ArticleIP_12959.anc" start="752" end="756" sStart="-1" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" text="Salick to &lt;b&gt;tell&lt;/b&gt; them they're pretty ..." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_12959.anc" start="785" end="790" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="and &lt;b&gt;smart&lt;/b&gt;, too.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_12959.anc" start="785" end="790" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="and &lt;b&gt;smart&lt;/b&gt;, too.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_12959.anc" start="848" end="854" sStart="null" offset="12" sid="r9.kill.v.0974" wn="1" wnkey="kill%2:35:00::" text="&quot;To be killed by a former pro athlete simply because you decided to return some designer eye wear to a pretty, young divorcee.&quot;" />
+  </sentences>
+</list>
