@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3854.anc" start="6014" end="6020" sStart="5900" offset="114" sid="r8.number.n.0932" wn="1" wnkey="number%1:07:00::" annotator="cgozo" text="This is worth pointing out because most retired top-rank British politicians are in this position, and an amazing number of writers, even those for the Economist , make this mistake." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3854.anc" start="6315" end="6320" sStart="null" offset="232" sid="r1.name.n.0061" wn="1" wnkey="name%1:10:00::" annotator="sophiavv" text="I'm sure most of the politicians who went to the Lords only so they'd have a place to speechify after retiring from the Commons would rather do without this, but it's part of the British schtick, so at the least we ought to get the names right." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3854.anc" start="6315" end="6320" sStart="null" offset="232" sid="r1.name.n.0061" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="I'm sure most of the politicians who went to the Lords only so they'd have a place to speechify after retiring from the Commons would rather do without this, but it's part of the British schtick, so at the least we ought to get the names right." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3854.anc" start="6315" end="6320" sStart="null" offset="232" sid="r1.name.n.0061" wn="1" wnkey="name%1:10:00::" annotator="adelpriore" text="I'm sure most of the politicians who went to the Lords only so they'd have a place to speechify after retiring from the Commons would rather do without this, but it's part of the British schtick, so at the least we ought to get the names right." />
+  </sentences>
+</list>

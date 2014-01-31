@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3619.anc" start="803" end="809" sStart="694" offset="109" sid="r9.kill.v.0256" wn="9" wnkey="kill%2:35:02::" annotator="brubin" text="The dailies compare Floyd to Hugo (1989, 29 killed, $5.9 billion damage, says the LAT ) and Andrew (1992, 26 killed, $25 billion damage, says the LAT )." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3619.anc" start="738" end="744" sStart="null" offset="44" sid="r9.kill.v.0998" wn="9" wnkey="kill%2:35:02::" annotator="anfahmy" text="The dailies compare Floyd to Hugo (1989, 29 killed, $5.9 billion damage, says the LAT ) and Andrew (1992, 26 killed, $25 billion damage, says the LAT )." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3619.anc" start="4025" end="4029" sStart="null" offset="59" sid="r9.full.j.0742" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="The city councilman for the area involved has called for a full public debate about whether or not the LAFD is in fact writing off certain homes in case of fire." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3619.anc" start="3190" end="3197" sStart="null" offset="161" sid="r9.appear.v.0512" wn="6" wnkey="appear%2:36:00::" annotator="brubin" text="The Wall Street Journal &quot;Tax Report&quot; depends a little too much on IRS Commissioner Charles Rossotti, judging from how frequently the good commissioner appears in the column being a ... well, good commissioner." />
+  </sentences>
+</list>

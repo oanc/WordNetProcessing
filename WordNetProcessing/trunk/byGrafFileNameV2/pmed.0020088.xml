@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020088.anc" start="1610" end="1616" sStart="1221" offset="389" sid="r11.strong.j.0549" wn="2" wnkey="strong%5:00:00:intense:00" annotator="adelpriore" text="Financial relationships between industry, researchers, and academic institutions are widespread [4], and disclosing these competing interests is a crucial step in helping to protect the public and the reputation of authors and of PLoS Medicine . Disclosure also matters because there is increasing evidence that authors' competing interests have a strong influence on their conclusions." />
+    <s path="file:/c:/OANC/data/written_2/technical/plos/pmed.0020088.anc" start="4454" end="4457" sStart="null" offset="0" sid="null" wn="2" wnkey="say%2:32:01::" annotator="rstandig" text="But in this particular case, &lt;b&gt;say&lt;/b&gt; the authors, a quick search of the tobacco documents that are freely available online (e.g." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020088.anc" start="971" end="982" sStart="null" offset="8" sid="r11.recommend.v.0790" wn="2" wnkey="recommend%2:32:00::" annotator="vebatchelder" text="And, as recommended by the International Committee of Medical Journal Editors [3], we decline to publish studies when the sponsor controls the decision on publication." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020088.anc" start="4437" end="4447" sStart="null" offset="12" sid="r10.particular.j.0769" wn="2" wnkey="particular%5:00:02:specific:00" annotator="veweser" text="But in this particular case, say the authors, a quick search of the tobacco documents that are freely available online (e.g." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020088.anc" start="5533" end="5538" sStart="null" offset="53" sid="r9.paper.n.0280" wn="5" wnkey="paper%1:10:02::" annotator="brubin" text="Should they publish a correction or even retract the paper?" />
+  </sentences>
+</list>

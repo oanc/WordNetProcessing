@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2121-4-5.anc" start="20402" end="20406" sStart="20275" offset="127" sid="r10.wait.v.0827" wn="3" wnkey="wait%2:31:00::" annotator="cgozo" text="One new compound that will help clarify the role of nm-myosinII is blebbistatin [ 32 ] . Other small molecules wait to be found and experiments using them will continuously refine our understanding of the leading edge and the mechanism of action of these compounds." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2121-4-5.anc" start="12812" end="12816" sStart="null" offset="13" sid="r7.1.use.v.0241" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="BDM has been used to probe actin-dependent processes on the assumption that it is a specific inhibitor of mysosins." />
+  </sentences>
+</list>

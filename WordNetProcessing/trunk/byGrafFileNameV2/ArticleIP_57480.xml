@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57480.anc" start="2893" end="2900" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="carichter" text="&lt;b&gt;Writing&lt;/b&gt; Monday in the National Post of Canada, David Frum said that the demonstrations were symptoms of an &quot;ever-worsening global problem-shortage.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_57480.anc" start="4491" end="4496" sStart="null" offset="4" sid="r9.paper.n.0628" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="The paper said it is clear that one of the organization's greatest challenges is to convince the public of the advantages of freer trade but that the conference could not have come at a worse time: &quot;Washington lacked leadership in painting a future for the WTO, and its conference was void of passion and vision.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_57480.anc" start="5178" end="5182" sStart="null" offset="101" sid="r8.life.n.0416" wn="1" wnkey="life%1:26:01::" annotator="cgozo" text="Leon Levy, president of the American Sephardi Federation, described Safra as &quot;devoted to Jewish life in the world.&quot;" />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3885.anc" start="3278" end="3282" sStart="3139" offset="139" sid="r7.poor.j.0853" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="veweser" text="We eat without thought to the consequences and expect the medical industry to drop us a pill for our ills, many of which are the result of poor nutrition." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3885.anc" start="3278" end="3282" sStart="null" offset="139" sid="r7.poor.j.0853" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="jeneale" text="We eat without thought to the consequences and expect the medical industry to drop us a pill for our ills, many of which are the result of poor nutrition." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3885.anc" start="6079" end="6085" sStart="null" offset="46" sid="r8.number.n.0345" wn="4" wnkey="number%1:10:03::" annotator="veweser" text="Please include your address and daytime phone number (for confirmation only)." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3885.anc" start="1580" end="1585" sStart="null" offset="105" sid="r8.live.v.0628" wn="5" wnkey="live%2:42:00::" annotator="cgozo" text="Why do some people still think we should follow the ignorant ideas of mostly illiterate sheepherders who lived 2,000 or more years ago?" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/46/ArticleIP_3885.anc" start="4554" end="4558" sStart="null" offset="0" sid="null" wn="1" wnkey="land%1:21:01::" annotator="rstandig" text="That was the lot of serfs, who were nearly owned by their lords and whose &lt;b&gt;land&lt;/b&gt; was owned by their lords." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3885.anc" start="4060" end="4064" sStart="null" offset="183" sid="r10.high.j.0551" wn="1" wnkey="high%3:00:02::" annotator="cgozo" text="The answer, as pointed out in the same Newsweek article Mastio mentions, is for consumers to rely more on locally produced food, and to be willing to support farmers and pay more for high quality, safe food." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3885.anc" start="1317" end="1326" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="comcgeetubb" text="And as for religions, in our day and age they should be &lt;b&gt;forgotten&lt;/b&gt; except as interesting historical artifacts." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030105.anc" start="5534" end="5539" sStart="5470" offset="64" sid="r9.paper.n.0347" wn="5" wnkey="paper%1:10:02::" annotator="cgozo" text="It is not, for instance, usually appropriate to begin a paper on an apoptotic signaling pathway with a philosophical digression into the nature of Death." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0030105.anc" start="2037" end="2043" sStart="null" offset="0" sid="null" wn="3" wnkey="image%1:06:00::" annotator="cgozo" text="His physical demonstrations with Balinese masks, carved into iconic &lt;b&gt;images&lt;/b&gt; of happiness, sadness, or anger, gave the audience insight into the variety of subtle expression that could be attributed to the mask with simple postural adjustments." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030105.anc" start="3310" end="3315" sStart="null" offset="81" sid="r7.1.face.n.0145" wn="1" wnkey="human_face%1:08:01::" annotator="veweser" text="In contrast to the feasts of expression presented by other speakers, the faces representative of basic emotions used by the cognitive neuroscientist Ray Dolan (University College London) to study the neural activity engendered by expressions seemed almost too caricatured to be meaningful." />
+  </sentences>
+</list>

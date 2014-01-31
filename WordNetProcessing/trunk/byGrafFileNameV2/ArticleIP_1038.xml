@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1038.anc" start="5263" end="5266" sStart="5106" offset="157" sid="r8.way.n.0196" wn="1" wnkey="way%1:07:01::" annotator="cgozo" text="At the subcommittee hearing, the key Justice Department officials testified that the White House was not involved in the settlement with the Laborers in any way." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1038.anc" start="2665" end="2676" sStart="null" offset="62" sid="r11.recommend.v.0132" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text="The chief of the Justice Department's organized-crime section recommended in a memo that she &quot;avoid direct contact with Coia, if possible.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1038.anc" start="3005" end="3011" sStart="null" offset="100" sid="r8.family.n.0100" wn="7" wnkey="family%1:14:06::" annotator="veweser" text="The FBI warned that Coia &quot;is a criminal associate of the New England Patriarca organized crime family&quot; and was under confidential investigation." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1038.anc" start="3005" end="3011" sStart="null" offset="100" sid="r8.family.n.0100" wn="7 4" wnkey="null" annotator="jeneale" text="The FBI warned that Coia &quot;is a criminal associate of the New England Patriarca organized crime family&quot; and was under confidential investigation." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1038.anc" start="3005" end="3011" sStart="null" offset="100" sid="r8.family.n.0100" wn="7" wnkey="family%1:14:06::" annotator="cgozo" text="The FBI warned that Coia &quot;is a criminal associate of the New England Patriarca organized crime family&quot; and was under confidential investigation." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1038.anc" start="3005" end="3011" sStart="null" offset="100" sid="r8.family.n.0100" wn="7" wnkey="family%1:14:06::" annotator="brubin" text="The FBI warned that Coia &quot;is a criminal associate of the New England Patriarca organized crime family&quot; and was under confidential investigation." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020035.anc" start="10942" end="10947" sStart="10929" offset="13" sid="r9.paper.n.0185" wn="5" wnkey="paper%1:10:02::" annotator="veweser" text="In the first paper (Tang et al." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020035.anc" start="1650" end="1659" sStart="null" offset="24" sid="r11.function.n.0710" wn="2" wnkey="function%1:07:00::" annotator="anfahmy" text="The compounds have many functions, but those with antibiotic activity are the most important from the human perspective." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020035.anc" start="14087" end="14099" sStart="null" offset="141" sid="r11.combination.n.0031" wn="1" wnkey="combination%1:14:00::" annotator="anfahmy" text="The excitement of the work for biotechnology is that it offers the prospect of engineering promising drug candidates by making novel combinations of starter and extender modules and perhaps of feeding the starter modules with a whole range of unnatural substrates (Kalaitzis et al." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020035.anc" start="14087" end="14099" sStart="null" offset="141" sid="r11.combination.n.0031" wn="1" wnkey="combination%1:14:00::" annotator="adelpriore" text="The excitement of the work for biotechnology is that it offers the prospect of engineering promising drug candidates by making novel combinations of starter and extender modules and perhaps of feeding the starter modules with a whole range of unnatural substrates (Kalaitzis et al." />
+  </sentences>
+</list>

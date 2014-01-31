@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/wsj_0169.anc" start="417" end="424" sStart="344" offset="78" sid="null" wn="2" wnkey="benefit%1:07:00::" annotator="vebatchelder" text="Ratners's chairman, Gerald Ratner, said the deal remains of &quot;substantial benefit to Ratners.&quot;" />
+    <s path="[MASC]/data/written/wsj_0169.anc" start="417" end="424" sStart="null" offset="78" sid="null" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="Ratners's chairman, Gerald Ratner, said the deal remains of &quot;substantial benefit to Ratners.&quot;" />
+    <s path="[MASC]/data/written/wsj_0169.anc" start="417" end="424" sStart="null" offset="78" sid="r11.benefit.n.0067" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="Ratners's chairman, Gerald Ratner, said the deal remains of &quot;substantial benefit to Ratners.&quot;" />
+    <s path="[MASC]/data/written/wsj_0169.anc" start="417" end="424" sStart="null" offset="78" sid="null" wn="2" wnkey="benefit%1:07:00::" annotator="adelpriore" text="Ratners's chairman, Gerald Ratner, said the deal remains of &quot;substantial benefit to Ratners.&quot;" />
+    <s path="[MASC]/data/written/wsj_0169.anc" start="417" end="424" sStart="null" offset="78" sid="r11.benefit.n.0067" wn="2" wnkey="benefit%1:07:00::" annotator="adelpriore" text="Ratners's chairman, Gerald Ratner, said the deal remains of &quot;substantial benefit to Ratners.&quot;" />
+  </sentences>
+</list>

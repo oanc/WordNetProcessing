@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Law_Award_from_College.anc" start="223" end="227" sStart="-1" offset="0" sid="null" wn="2" wnkey="know%2:31:03::" annotator="kaolla" text="She wanted to help people, but did not &lt;b&gt;know&lt;/b&gt; exactly how." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Law_Award_from_College.anc" start="223" end="227" sStart="null" offset="0" sid="null" wn="2" wnkey="know%2:31:03::" annotator="carichter" text="She wanted to help people, but did not &lt;b&gt;know&lt;/b&gt; exactly how." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Law_Award_from_College.anc" start="198" end="202" sStart="null" offset="14" sid="r10.help.v.0463" wn="1" wnkey="help%2:41:00::" annotator="cgozo" text="She wanted to help people, but did not know exactly how." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Law_Award_from_College.anc" start="2336" end="2340" sStart="null" offset="53" sid="r10.help.v.0830" wn="1" wnkey="help%2:41:00::" annotator="anfahmy" text="&quot;The students can go down into the counties and help domestic violence victims,&quot; Wallace said." />
+  </sentences>
+</list>

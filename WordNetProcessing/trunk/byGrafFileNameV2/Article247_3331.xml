@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3331.anc" start="1076" end="1083" sStart="-1" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="veweser" text="The tax &lt;b&gt;rate&lt;/b&gt; reductions are conditioned on continued &lt;b&gt;success&lt;/b&gt; at reducing the national debt." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3331.anc" start="1076" end="1083" sStart="null" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="cgozo" text="The tax &lt;b&gt;rate&lt;/b&gt; reductions are conditioned on continued &lt;b&gt;success&lt;/b&gt; at reducing the national debt." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3331.anc" start="1076" end="1083" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="The tax &lt;b&gt;rate&lt;/b&gt; reductions are conditioned on continued &lt;b&gt;success&lt;/b&gt; at reducing the national debt." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3331.anc" start="1676" end="1681" sStart="null" offset="216" sid="r9.paper.n.0795" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="The only real departure from the reporting template comes with the WP's observation that high-tech lobbyists have been working feverishly for months to incorporate into the bill its R and D tax credit, a feature the paper calls a &quot;particularly glittering prize.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3331.anc" start="2440" end="2447" sStart="null" offset="64" sid="r10.control.n.0692" wn="2" wnkey="control%1:24:00::" annotator="brubin" text="The WP and LAT front a fresh study from the Centers for Disease Control and Prevention, appearing in today's JAMA , with a counterintuitive result: a significant decline in high-school violence in the 1990s." />
+  </sentences>
+</list>

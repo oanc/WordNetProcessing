@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2560.anc" start="1758" end="1764" sStart="1690" offset="68" sid="r10.wait.v.0361" wn="2" wnkey="wait%2:42:01::" annotator="veweser" text="The president's pal didn't have to do it--or he could at least have waited until Clinton was out of office." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2560.anc" start="6521" end="6525" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="veweser" text="His four years here were the most exciting &lt;b&gt;part&lt;/b&gt; of his whole life and could have been the happiest &lt;b&gt;part&lt;/b&gt; of his professional one." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2560.anc" start="6521" end="6525" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="His four years here were the most exciting &lt;b&gt;part&lt;/b&gt; of his whole life and could have been the happiest &lt;b&gt;part&lt;/b&gt; of his professional one." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2560.anc" start="6539" end="6543" sStart="null" offset="61" sid="r8.life.n.0731" wn="5" wnkey="life%1:28:00::" annotator="brubin" text="His four years here were the most exciting part of his whole life and could have been the happiest part of his professional one." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2560.anc" start="43" end="47" sStart="null" offset="5" sid="r8.life.n.0499" wn="1" wnkey="life%1:26:01::" annotator="brubin" text="High Life on the Potomac" />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2560.anc" start="2121" end="2125" sStart="null" offset="18" sid="r10.find.v.0878" wn="5" wnkey="find%2:31:10::" annotator="anfahmy" text="The policy part I find inadequate and unconvincing." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2560.anc" start="5664" end="5669" sStart="null" offset="22" sid="r10.book.n.0177" wn="1" wnkey="book%1:10:00::" annotator="veweser" text="There are much better books by former members of the Cabinet--George Shultz's, for example--but none that I know of that is so rich in personal detail." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2560.anc" start="3559" end="3563" sStart="null" offset="27" sid="r10.book.n.0486" wn="1" wnkey="book%1:10:00::" annotator="anfahmy" text="He could hardly do so in a book like this one." />
+  </sentences>
+</list>

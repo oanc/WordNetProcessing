@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_445.anc" start="154" end="160" sStart="118" offset="36" sid="r7.strike.v.0192" wn="21" wnkey="strike%2:31:00::" annotator="cgozo" text="A nuclear nonproliferation deal was struck, as was a deal selling American-made airliners." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_445.anc" start="1548" end="1553" sStart="null" offset="12" sid="r9.paper.n.0099" wn="3" wnkey="paper%1:10:03::" annotator="veweser" text="Yet neither paper explains what Congress can do about the deal." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_445.anc" start="1548" end="1553" sStart="null" offset="12" sid="r9.paper.n.0099" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="Yet neither paper explains what Congress can do about the deal." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_445.anc" start="1548" end="1553" sStart="null" offset="12" sid="r9.paper.n.0099" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="Yet neither paper explains what Congress can do about the deal." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_445.anc" start="1548" end="1553" sStart="null" offset="12" sid="r9.paper.n.0099" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="Yet neither paper explains what Congress can do about the deal." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_445.anc" start="773" end="777" sStart="null" offset="144" sid="r7.1.face.n.0525" wn="1" wnkey="human_face%1:08:01::" annotator="veweser" text="The Wall Street Journal points out that Clinton was similarly forthright regarding China's trade policies, noting that he said right to Jiang's face, &quot;Just as China can compete freely and fairly in America, so our goods and services should be able to compete freely and fairly in China.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_445.anc" start="2240" end="2243" sStart="null" offset="35" sid="r8.ask.v.0491" wn="4" wnkey="ask%2:32:04::" annotator="brubin" text="But apparently Mr. Clinton did not ask where Charlie Ya Lin Trie is." />
+  </sentences>
+</list>

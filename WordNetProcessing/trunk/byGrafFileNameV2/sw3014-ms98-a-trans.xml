@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3014-ms98-a-trans.anc" start="5034" end="5038" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="cgozo" text="uh at any &lt;b&gt;rate&lt;/b&gt; do you have color preferences or what would be the features that you'd be looking for" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3014-ms98-a-trans.anc" start="5034" end="5038" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="uh at any &lt;b&gt;rate&lt;/b&gt; do you have color preferences or what would be the features that you'd be looking for" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3014-ms98-a-trans.anc" start="7569" end="7575" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="veweser" text="i'd like to have a compact disk &lt;b&gt;player&lt;/b&gt; in a car that would be something that i would really like those compact disks really are good for cars because they don't melt they don't warp you know there's nothing in there that can wrap around the the uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3014-ms98-a-trans.anc" start="7569" end="7575" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="tofox" text="i'd like to have a compact disk &lt;b&gt;player&lt;/b&gt; in a car that would be something that i would really like those compact disks really are good for cars because they don't melt they don't warp you know there's nothing in there that can wrap around the the uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3014-ms98-a-trans.anc" start="5299" end="5304" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" annotator="cgozo" text="uh now &lt;b&gt;color&lt;/b&gt; preferences i think i would opt to go with a bronze" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3014-ms98-a-trans.anc" start="5051" end="5056" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" annotator="cgozo" text="uh at any rate do you have &lt;b&gt;color&lt;/b&gt; preferences or what would be the features that you'd be looking for" />
+  </sentences>
+</list>

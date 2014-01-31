@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_820.anc" start="3430" end="3434" sStart="3223" offset="207" sid="r10.wait.v.0696" wn="1" wnkey="wait%2:42:00::" annotator="brubin" text="And the WP runs an AP dispatch stating that a German couple drove into a river near Berlin one night not too long ago because their car's computer navigation system did not tell them they needed to stop and wait for a ferry." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/7/Article247_820.anc" start="1315" end="1322" sStart="null" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" annotator="cgozo" text="Thus we get the Post lead falsely &lt;b&gt;telling&lt;/b&gt; the reader that disputes about witnesses, censure and the very impeachability of the acts in question are &quot;disagreements that became clear on the television interview &lt;b&gt;shows&lt;/b&gt; yesterday." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/7/Article247_820.anc" start="3527" end="3531" sStart="null" offset="0" sid="null" wn="3" wnkey="show%2:32:00::" annotator="carichter" text="The Post also &lt;b&gt;says&lt;/b&gt; that much-bruited-about DNA test turned out to &lt;b&gt;show&lt;/b&gt; that the kid in Arkansas is definitely not Bill Clinton's &quot;love child.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_820.anc" start="1519" end="1524" sStart="null" offset="8" sid="r9.paper.n.0365" wn="3" wnkey="paper%1:10:03::" annotator="veweser" text="and the paper's flash that the White House's written response to the charges to be submitted today will &quot;not break new ground.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_820.anc" start="2659" end="2663" sStart="null" offset="77" sid="r11.able.j.0360" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="The NYT reports that FAA agents masquerading as airline passengers have been able to smuggle guns, hand grenades and bombs past security guards or have gotten the weapons sent in through exits." />
+  </sentences>
+</list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/lists-003-2133315.anc" start="723" end="728" sStart="689" offset="34" sid="null" wn="2" wnkey="write%2:32:00::" annotator="sophiavv" text="On Mon, 17 May 1993, Mark Crispin wrote:" />
+    <s path="[MASC]/data/written/lists-003-2133315.anc" start="116" end="120" sStart="null" offset="143" sid="null" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="docno=&quot;lists-003-2133315&quot; received=&quot;Tue May 18 09:14:52 1993 EST&quot; sent=&quot;Tue, 18 May 1993 09:12:46 -0700 (PDT)&quot; name=&quot;Laurence Lundblade&quot; email=&quot;lgl@nwnet.net&quot; subject=&quot;Re: CHARSET considerations&quot; id=&quot;Pine." />
+  </sentences>
+</list>

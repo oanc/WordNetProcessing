@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2527-ms98-a-trans.anc" start="4895" end="4899" sStart="4809" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="veweser" text="uh maybe the nineties but it's it's quite bearable and then the nights are reasonably &lt;b&gt;warm&lt;/b&gt; you know sixties or seventies" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2527-ms98-a-trans.anc" start="5202" end="5208" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="i don't know don't know when i'm going to get a &lt;b&gt;chance&lt;/b&gt; to do that but" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2527-ms98-a-trans.anc" start="5202" end="5208" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="i don't know don't know when i'm going to get a &lt;b&gt;chance&lt;/b&gt; to do that but" />
+  </sentences>
+</list>

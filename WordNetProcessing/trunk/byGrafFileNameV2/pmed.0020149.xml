@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/plos/pmed.0020149.anc" start="2938" end="2941" sStart="-1" offset="0" sid="null" wn="2" wnkey="say%2:32:01::" annotator="cgozo" text="Persistent gaps in statin therapy suggest a need for improved identification of patients who may develop CHD, and treatment with statins when indicated, the authors &lt;b&gt;say&lt;/b&gt;." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020149.anc" start="2945" end="2955" sStart="null" offset="2" sid="r10.particular.j.0733" wn="3" wnkey="particular%5:00:00:uncommon:00" annotator="veweser" text="A particular focus should be patients who are at risk of developing CHD." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020149.anc" start="1009" end="1014" sStart="null" offset="227" sid="r9.level.n.0993" wn="1" wnkey="level%1:07:00::" annotator="veweser" text="Patients may be classified as at low, medium, or high risk of developing CHD according to the presence of CHD, some other medical conditions (for example, diabetes), and major risk factors including cholesterol level, smoking, lifestyle, and family history." />
+  </sentences>
+</list>

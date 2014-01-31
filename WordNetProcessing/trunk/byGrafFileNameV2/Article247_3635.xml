@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/13/Article247_3635.anc" start="3518" end="3522" sStart="-1" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="cgozo" text="Oh, I how &lt;b&gt;long&lt;/b&gt; to be a fly on the wall for that conversation." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3635.anc" start="1940" end="1944" sStart="null" offset="51" sid="r9.late.j.0852" wn="2" wnkey="late%5:00:00:unpunctual:00" annotator="brubin" text="And among the people most annoyed by the company's late announcement are those same analysts." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3635.anc" start="3346" end="3350" sStart="null" offset="54" sid="r10.help.v.0820" wn="1" wnkey="help%2:41:00::" annotator="brubin" text="When analysts call, looking for information that will help their clients and only their clients, companies should just say, &quot;Buzz off." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3635.anc" start="998" end="1002" sStart="null" offset="121" sid="r9.full.j.0644" wn="1" wnkey="full%3:00:00::" annotator="brubin" text="Unfortunately, Maytag investors didn't find that out until the company announced the shortfall Friday morning, after two full days of massive selling on no news at all." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3635.anc" start="2786" end="2792" sStart="null" offset="100" sid="r10.common.j.0740" wn="2" wnkey="common%3:00:01::" annotator="brubin" text="And I'd say this was astonishing, except for the fact that selective disclosure remains a painfully common practice." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4067-ms98-a-trans.anc" start="3692" end="3702" sStart="-1" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="veweser" text="yeah my uh my grandmother is hers is physically she's in not too bad of shape she's in her upper eighties i guess &lt;b&gt;forgetting&lt;/b&gt; in my order but uh she's uh Alzheimer's i guess" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4067-ms98-a-trans.anc" start="3692" end="3702" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="yeah my uh my grandmother is hers is physically she's in not too bad of shape she's in her upper eighties i guess &lt;b&gt;forgetting&lt;/b&gt; in my order but uh she's uh Alzheimer's i guess" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4067-ms98-a-trans.anc" start="3692" end="3702" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="carichter" text="yeah my uh my grandmother is hers is physically she's in not too bad of shape she's in her upper eighties i guess &lt;b&gt;forgetting&lt;/b&gt; in my order but uh she's uh Alzheimer's i guess" />
+  </sentences>
+</list>

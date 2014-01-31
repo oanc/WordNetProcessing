@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1475-9276-1-3.anc" start="26494" end="26499" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="Both authors &lt;b&gt;wrote&lt;/b&gt;, read, and approved the final manuscript." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1475-9276-1-3.anc" start="26501" end="26505" sStart="null" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" annotator="cgozo" text="Both authors wrote, &lt;b&gt;read&lt;/b&gt;, and approved the final manuscript." />
+    <s path="[OANC]/data/written_2/technical/biomed/1475-9276-1-3.anc" start="21855" end="21860" sStart="null" offset="5" sid="r9.paper.n.0908" wn="5" wnkey="paper%1:10:02::" annotator="brubin" text="This paper presents the first measures of total health inequality of a population." />
+    <s path="[OANC]/data/written_2/technical/biomed/1475-9276-1-3.anc" start="12236" end="12240" sStart="null" offset="137" sid="r8.life.n.0824" wn="4" wnkey="life%1:26:00::" annotator="cgozo" text="where S is expected survival time, and 2 m 0 is the mortality rate in the first two years of life [ 39 ] . 2 m 0 can, in turn, be calculated from the probability of dying in the first two years of life, [ 39 ] ." />
+    <s path="[OANC]/data/written_2/technical/biomed/1475-9276-1-3.anc" start="25179" end="25184" sStart="null" offset="129" sid="r9.level.n.0285" wn="2" wnkey="level%1:26:01::" annotator="veweser" text="Such children often have an elevated mortality risk and their exclusion may bias estimates child mortality (both level and inequality) downward." />
+    <s path="[OANC]/data/written_2/technical/biomed/1475-9276-1-3.anc" start="4871" end="4875" sStart="null" offset="48" sid="r10.high.j.0480" wn="1" wnkey="high%3:00:02::" annotator="brubin" text="The DHS is a 20-year project conducting high quality national sample surveys on population and maternal and child health." />
+    <s path="[OANC]/data/written_2/technical/biomed/1475-9276-1-3.anc" start="17549" end="17553" sStart="null" offset="166" sid="r7.1.face.n.0871" wn="2147483647" wnkey="null" annotator="brubin" text="Among the variables included, GDP per capita and health expenditures per capita are negatively correlated with health inequality, which lends face validity to the inequality measure." />
+  </sentences>
+</list>

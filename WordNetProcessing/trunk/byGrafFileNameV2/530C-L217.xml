@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/letters/icic/530C-L217.anc" start="1111" end="1115" sStart="-1" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="carichter" text="In a &lt;b&gt;time&lt;/b&gt; of legislative budget cuts, every dollar helps to fund student programs and scholarships." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/530C-L217.anc" start="1410" end="1414" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="kaolla" text="Our alumni records &lt;b&gt;show&lt;/b&gt; that we have 184 graduates directly employed by matching gift companies." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/530C-L217.anc" start="1410" end="1414" sStart="null" offset="0" sid="null" wn="10" wnkey="show%2:32:03::" annotator="carichter" text="Our alumni records &lt;b&gt;show&lt;/b&gt; that we have 184 graduates directly employed by matching gift companies." />
+    <s path="[OANC]/data/written_1/letters/icic/530C-L217.anc" start="1163" end="1168" sStart="null" offset="57" sid="r10.help.v.0565" wn="3" wnkey="help%2:42:00::" annotator="veweser" text="In a time of legislative budget cuts, every dollar helps to fund student programs and scholarships." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/530C-L217.anc" start="769" end="775" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="comcgeetubb" text="Don't &lt;b&gt;forget&lt;/b&gt;, too, that in many cases subsidiaries of larger parent companies are also eligible and that companies will sometimes match a gift retroactively." />
+    <s path="[OANC]/data/written_1/letters/icic/530C-L217.anc" start="1717" end="1721" sStart="null" offset="106" sid="r7.1.easy.j.0669" wn="1" wnkey="easy%3:00:01::" annotator="veweser" text="When you make your contribution to the law school in 1992, please take a moment to follow the three easy steps listed above." />
+    <s path="[OANC]/data/written_1/letters/icic/530C-L217.anc" start="118" end="122" sStart="null" offset="27" sid="r7.1.easy.j.0764" wn="1" wnkey="easy%3:00:01::" annotator="cgozo" text="It only takes three quick, easy steps to obtain a matching gift from your (or your spouse's) employer to enhance your donation to the Indiana University School of Law -Indianapolis." />
+  </sentences>
+</list>

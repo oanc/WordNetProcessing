@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3315-ms98-a-trans.anc" start="3502" end="3509" sStart="3482" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="it's exciting we're &lt;b&gt;winning&lt;/b&gt; so that's really exciting" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3315-ms98-a-trans.anc" start="948" end="954" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="and uh so if if there's no one else around you know it's just me and i have a &lt;b&gt;chance&lt;/b&gt; to listen to something i'll turn that on but uh just for the for the conversation factor i think" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3315-ms98-a-trans.anc" start="948" end="954" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="and uh so if if there's no one else around you know it's just me and i have a &lt;b&gt;chance&lt;/b&gt; to listen to something i'll turn that on but uh just for the for the conversation factor i think" />
+  </sentences>
+</list>

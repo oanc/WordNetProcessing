@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/19/Article247_4236.anc" start="4877" end="4884" sStart="-1" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="cgozo" text="And in that sense, I suppose, the suit is already a great &lt;b&gt;success&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/19/Article247_4236.anc" start="4877" end="4884" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="And in that sense, I suppose, the suit is already a great &lt;b&gt;success&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4236.anc" start="4871" end="4876" sStart="null" offset="52" sid="r8.1.great.j.0816" wn="1" wnkey="great%5:00:01:large:00" annotator="cgozo" text="And in that sense, I suppose, the suit is already a great success." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4236.anc" start="3178" end="3183" sStart="null" offset="18" sid="r8.ask.v.0725" wn="7" wnkey="ask%2:32:09::" annotator="veweser" text="The damages being asked for are &quot;unspecified,&quot; but Rifkin has said they could amount to hundreds of millions of dollars." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4236.anc" start="3178" end="3183" sStart="null" offset="18" sid="r8.ask.v.0725" wn="" wnkey="null" annotator="ksuderman" text="The damages being asked for are &quot;unspecified,&quot; but Rifkin has said they could amount to hundreds of millions of dollars." />
+  </sentences>
+</list>

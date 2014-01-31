@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3265-ms98-a-trans.anc" start="4476" end="4482" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="and with the banks being in such financial you know problems now that &lt;b&gt;people&lt;/b&gt; you can find the banks willing to sell you a car" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3265-ms98-a-trans.anc" start="4476" end="4482" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="and with the banks being in such financial you know problems now that &lt;b&gt;people&lt;/b&gt; you can find the banks willing to sell you a car" />
+  </sentences>
+</list>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="667" end="673" sStart="662" offset="5" sid="r7.strike.v.0235" wn="2" wnkey="strike%2:37:00::" annotator="brubin" text="Iwas struck by this proposition about a month ago when I spent some time with my son in Los Angeles." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="3352" end="3359" sStart="null" offset="97" sid="r7.serve.v.0589" wn="6" wnkey="serve_up%2:34:00::" annotator="veweser" text="There was a time, probably now past, when medium-price restaurants would advertise themselves as serving &quot;home cooking.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="1890" end="1895" sStart="null" offset="9" sid="r9.sense.n.0204" wn="1" wnkey="sense%1:09:05::" annotator="brubin" text="And this sense of belonging made the food taste great." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="910" end="915" sStart="null" offset="28" sid="r8.1.great.j.0036" wn="4" wnkey="great%5:00:00:good:01" annotator="veweser" text="My son thought the food was great; I thought it was only pretty good." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="910" end="915" sStart="null" offset="28" sid="r8.1.great.j.0036" wn="4" wnkey="great%5:00:00:good:01" annotator="jeneale" text="My son thought the food was great; I thought it was only pretty good." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="910" end="915" sStart="null" offset="28" sid="r8.1.great.j.0036" wn="4" wnkey="great%5:00:00:good:01" annotator="cgozo" text="My son thought the food was great; I thought it was only pretty good." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="1435" end="1440" sStart="null" offset="48" sid="r8.1.great.j.0123" wn="4" wnkey="great%5:00:00:good:01" annotator="brubin" text="This was his club, and that made the food taste great." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="910" end="915" sStart="null" offset="28" sid="r8.1.great.j.0036" wn="4" wnkey="great%5:00:00:good:01" annotator="brubin" text="My son thought the food was great; I thought it was only pretty good." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2566.anc" start="622" end="627" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" annotator="brubin" text="Food tastes enormously better when it is eaten in a place where you are accepted as a special person, special for something other than the &lt;b&gt;color&lt;/b&gt; of your credit card." />
+  </sentences>
+</list>

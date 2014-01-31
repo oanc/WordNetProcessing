@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29478.anc" start="2952" end="2960" sStart="-1" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" annotator="carichter" text="If the Columbia does get off the ground, its crew of five Americans, a Canadian, and a Russian will &lt;b&gt;transfer&lt;/b&gt; those supplies to the Russian-American space station, in one of the 160 space walks on 86 flights needed to complete the station--and no doubt worth every penny." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29478.anc" start="3263" end="3269" sStart="null" offset="67" sid="r11.strong.j.0918" wn="1" wnkey="strong%3:00:00::" annotator="adelpriore" text="Shouldn't the tools be stowed in something spectacularly light and strong and expensive--Kevlar or woven Tang or something?" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29478.anc" start="2505" end="2510" sStart="null" offset="113" sid="r7.serve.v.0846" wn="1" wnkey="serve%2:42:03::" annotator="jeneale" text="The unmanned six-failure record was broken Tuesday by the Thaad anti-missile system, when the rocket that was to serve as its target, in the words of Defense Department spokesman Kenneth Bacon, &quot;tumbled chaotically out of control.&quot;" />
+  </sentences>
+</list>

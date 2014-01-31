@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/letters/icic/107CYL010.anc" start="1232" end="1236" sStart="1203" offset="29" sid="r11.true.j.0969" wn="3" wnkey="true%5:00:02:faithful:00" annotator="adelpriore" text="Since 1913, we have remained true to our mission of providing quality home health care to individuals regardless of their ability to pay." />
+    <s path="[OANC]/data/written_1/letters/icic/107CYL010.anc" start="1395" end="1399" sStart="null" offset="48" sid="r10.help.v.0783" wn="1" wnkey="help%2:41:00::" annotator="cgozo" text="By contributing again this year, you will help insure we can continue our efforts to needy individuals in Central Indiana." />
+    <s path="[OANC]/data/written_1/letters/icic/107CYL010.anc" start="1101" end="1107" sStart="null" offset="5" sid="r8.ask.v.0059" wn="2" wnkey="ask%2:32:01::" annotator="veweser" text="I am asking that you consider supporting our efforts once again this year with a similar gift." />
+    <s path="[OANC]/data/written_1/letters/icic/107CYL010.anc" start="1101" end="1107" sStart="null" offset="5" sid="r8.ask.v.0059" wn="1" wnkey="ask%2:32:01::" annotator="jeneale" text="I am asking that you consider supporting our efforts once again this year with a similar gift." />
+    <s path="[OANC]/data/written_1/letters/icic/107CYL010.anc" start="1101" end="1107" sStart="null" offset="5" sid="r8.ask.v.0059" wn="1" wnkey="ask%2:32:01::" annotator="cgozo" text="I am asking that you consider supporting our efforts once again this year with a similar gift." />
+    <s path="[OANC]/data/written_1/letters/icic/107CYL010.anc" start="1101" end="1107" sStart="null" offset="5" sid="r8.ask.v.0059" wn="1" wnkey="ask%2:32:01::" annotator="brubin" text="I am asking that you consider supporting our efforts once again this year with a similar gift." />
+    <s path="[OANC]/data/written_1/letters/icic/107CYL010.anc" start="258" end="262" sStart="null" offset="72" sid="r11.able.j.0662" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="It is through support from individuals like yourself, that we are able to care for thousands of individuals each year who may not otherwise have been able to afford proper home health care or even basic services." />
+  </sentences>
+</list>

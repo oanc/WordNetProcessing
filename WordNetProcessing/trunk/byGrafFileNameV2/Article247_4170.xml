@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4170.anc" start="615" end="624" sStart="594" offset="21" sid="r1.legendary.j.0030" wn="1" wnkey="legendary%5:00:00:known:00" annotator="sophiavv" text="Present were all the legendary figures in political journalism." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4170.anc" start="615" end="624" sStart="null" offset="21" sid="r1.legendary.j.0030" wn="1" wnkey="legendary%5:00:00:known:00" annotator="anfahmy" text="Present were all the legendary figures in political journalism." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4170.anc" start="615" end="624" sStart="null" offset="21" sid="r1.legendary.j.0030" wn="1" wnkey="legendary%5:00:00:known:00" annotator="adelpriore" text="Present were all the legendary figures in political journalism." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4170.anc" start="4286" end="4290" sStart="null" offset="143" sid="r9.late.j.0808" wn="1" wnkey="late%3:00:00::" annotator="brubin" text="He said the McCain surge needed to be held back, lest it crest too early--which could have the effect of making Bush the Republican nominee by late February." />
+  </sentences>
+</list>

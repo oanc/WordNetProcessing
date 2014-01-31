@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/gb-2003-4-7-r42.anc" start="55941" end="55947" sStart="55937" offset="0" sid="null" wn="8" wnkey="window%1:06:03::" annotator="veweser" text="The &lt;b&gt;window&lt;/b&gt; was then advanced by 10 units and reassessed." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/gb-2003-4-7-r42.anc" start="56010" end="56016" sStart="null" offset="0" sid="null" wn="5" wnkey="window%1:28:00::" annotator="cgozo" text="The &lt;b&gt;window&lt;/b&gt; continued to advance by 10 units until it no longer satisfied our criteria for conservation, at which point it was advanced by single units until the next conserved region was identified." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/gb-2003-4-7-r42.anc" start="18546" end="18553" sStart="null" offset="0" sid="null" wn="4" wnkey="window%1:17:00::" annotator="brubin" text="We then searched for homologs of these selected regions in Anopheles gambiae using WU-BLAST of the Dm sequence [ 42 ] , extending the returned sequences as necessary on their 5' and 3' ends to make 100-nucleotide &lt;b&gt;windows&lt;/b&gt; equivalent to the queried sequence." />
+  </sentences>
+</list>

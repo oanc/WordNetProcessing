@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2349-ms98-a-trans.anc" start="2509" end="2515" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="yeah and if you put them in public service right out of high school then that's that postpones their college for a year and that would upset a lot of &lt;b&gt;people&lt;/b&gt; too because they just wanna get on" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2349-ms98-a-trans.anc" start="2509" end="2515" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="yeah and if you put them in public service right out of high school then that's that postpones their college for a year and that would upset a lot of &lt;b&gt;people&lt;/b&gt; too because they just wanna get on" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2349-ms98-a-trans.anc" start="1851" end="1859" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="tofox" text="no i don't think so either because a lot of people um depending on how the public service programs are set up and i'm not that that &lt;b&gt;familiar&lt;/b&gt; with them to know" />
+  </sentences>
+</list>

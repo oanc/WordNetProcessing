@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/letters/icic/602CZL285.anc" start="1150" end="1155" sStart="-1" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="kaolla" text="(please see The New York &lt;b&gt;Times&lt;/b&gt; article I have included.)" />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/602CZL285.anc" start="1150" end="1155" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="(please see The New York &lt;b&gt;Times&lt;/b&gt; article I have included.)" />
+    <s path="file:/D:/Corpora/OANC/data/written_1/letters/icic/602CZL285.anc" start="1150" end="1155" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="(please see The New York &lt;b&gt;Times&lt;/b&gt; article I have included.)" />
+    <s path="file:/D:/Corpora/OANC/data/written_1/letters/icic/602CZL285.anc" start="854" end="859" sStart="null" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="carichter" text="These are particularly exciting &lt;b&gt;times&lt;/b&gt; at the Indianapolis Museum of Art: Progress continues on the J.K." />
+    <s path="[OANC]/data/written_1/letters/icic/602CZL285.anc" start="1357" end="1361" sStart="null" offset="83" sid="r9.full.j.0479" wn="2" wnkey="full%5:00:01:whole:00" annotator="cgozo" text="Our extraordinary permanent collection, facility, and grounds, we understand full well, would not be possible without the philanthropic support of civic-minded men and women." />
+    <s path="[OANC]/data/written_1/letters/icic/602CZL285.anc" start="1976" end="1982" sStart="null" offset="31" sid="r8.family.n.0786" wn="2" wnkey="family%1:14:00::" annotator="jeneale" text="Both our Barefoot in the Grass family picnic (July 23,2000) and the annual SCS Founders Day celebration (October 11,2000) are free for Georgia O'Keeffe members." />
+    <s path="[OANC]/data/written_1/letters/icic/602CZL285.anc" start="395" end="403" sStart="null" offset="135" sid="r11.benefit.n.0682" wn="2" wnkey="benefit%1:07:00::" annotator="vebatchelder" text="The SCS brochure I am enclosing will give you the historic significance of SCS, as well as listing activities and specific benefits awarded to donors at the Georgia O'Keeffe level." />
+  </sentences>
+</list>

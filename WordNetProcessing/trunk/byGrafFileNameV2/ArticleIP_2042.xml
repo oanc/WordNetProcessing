@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2042.anc" start="4740" end="4746" sStart="4610" offset="130" sid="r11.strong.j.0091" wn="1" wnkey="strong%3:00:00::" annotator="anfahmy" text="By contrast, if divorce required mutual consent, your spouse could accept your efforts to make him or her happy without feeling a strong need to reciprocate." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2042.anc" start="4740" end="4746" sStart="null" offset="130" sid="r11.strong.j.0091" wn="2" wnkey="strong%5:00:00:intense:00" annotator="adelpriore" text="By contrast, if divorce required mutual consent, your spouse could accept your efforts to make him or her happy without feeling a strong need to reciprocate." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2042.anc" start="141" end="145" sStart="null" offset="36" sid="r9.late.j.0923" wn="4" wnkey="late%5:00:00:dead:01" annotator="cgozo" text="This observation used to dismay the late Nobel laureate George Stigler: He maintained that the grand institution of matrimony is demeaned by those who can't be bothered to negotiate its details." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2042.anc" start="615" end="619" sStart="null" offset="33" sid="r11.able.j.0197" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="Henceforth, Louisianians will be able to choose between two prefabricated contracts, each with very different provisions for divorce." />
+  </sentences>
+</list>

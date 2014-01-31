@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3639-ms98-a-trans.anc" start="5462" end="5467" sStart="-1" offset="0" sid="null" wn="9" wnkey="power%1:19:01::" annotator="veweser" text="yeah it really is and it's got a lumbar support in the seats adjustable uh &lt;b&gt;power&lt;/b&gt; and just kind of brings that support up in the small" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3639-ms98-a-trans.anc" start="5462" end="5467" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="tofox" text="yeah it really is and it's got a lumbar support in the seats adjustable uh &lt;b&gt;power&lt;/b&gt; and just kind of brings that support up in the small" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3639-ms98-a-trans.anc" start="1167" end="1173" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="veweser" text="it really is it's got pretty good acceleration too it's got a CD &lt;b&gt;player&lt;/b&gt; in it so i can i can play those and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3639-ms98-a-trans.anc" start="1167" end="1173" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="it really is it's got pretty good acceleration too it's got a CD &lt;b&gt;player&lt;/b&gt; in it so i can i can play those and" />
+  </sentences>
+</list>

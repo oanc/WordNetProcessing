@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3717.anc" start="2100" end="2104" sStart="1925" offset="175" sid="r7.poor.j.0368" wn="2147483645" wnkey="null" annotator="cgozo" text="Yet, it is fair to ask whether the diversion of public funds from public schools weakens and further threatens what was once a powerful institution of upward mobility for the poor and immigrants." />
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3717.anc" start="1828" end="1832" sStart="null" offset="63" sid="r7.poor.j.0803" wn="2" wnkey="poor%3:00:00::" annotator="brubin" text="Moreover, such school programs offer the working class and the poor the same opportunities that the wealthy have to send their children to alternative schools." />
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3717.anc" start="2389" end="2393" sStart="null" offset="35" sid="r9.late.j.0571" wn="2" wnkey="late%5:00:00:unpunctual:00" annotator="cgozo" text="So, as you note this is an awfully late breakfast." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/14/Article247_3717.anc" start="1936" end="1940" sStart="null" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" annotator="carichter" text="Yet, it is &lt;b&gt;fair&lt;/b&gt; to ask whether the diversion of public funds from public schools weakens and further threatens what was once a powerful institution of upward mobility for the poor and immigrants." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3802-ms98-a-trans.anc" start="5425" end="5431" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="where all of a sudden the wind stops and you're just stranded out there &lt;b&gt;trying&lt;/b&gt; to pick up what little gusts you can to work your way back in and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3802-ms98-a-trans.anc" start="5425" end="5431" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="carichter" text="where all of a sudden the wind stops and you're just stranded out there &lt;b&gt;trying&lt;/b&gt; to pick up what little gusts you can to work your way back in and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3802-ms98-a-trans.anc" start="1955" end="1960" sStart="null" offset="0" sid="null" wn="9" wnkey="power%1:19:01::" annotator="veweser" text="&lt;b&gt;power&lt;/b&gt; boat then there's always uh stuff to go wrong with it the sailboat at least doesn't have an engine to mess up but you still have to" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3802-ms98-a-trans.anc" start="1955" end="1960" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="tofox" text="&lt;b&gt;power&lt;/b&gt; boat then there's always uh stuff to go wrong with it the sailboat at least doesn't have an engine to mess up but you still have to" />
+  </sentences>
+</list>

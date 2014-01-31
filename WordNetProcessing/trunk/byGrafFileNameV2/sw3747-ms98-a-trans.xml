@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3747-ms98-a-trans.anc" start="1150" end="1157" sStart="-1" offset="0" sid="null" wn="2" wnkey="player%1:18:02::" annotator="veweser" text="who are the trumpet &lt;b&gt;players&lt;/b&gt; in that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3747-ms98-a-trans.anc" start="1299" end="1305" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="well we used to have um Ralph Dutchen but now he's in Massachusetts he's come back a couple of times then there's a trumpet &lt;b&gt;player&lt;/b&gt; at North Texas the the teacher the main teacher" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3747-ms98-a-trans.anc" start="1150" end="1157" sStart="null" offset="0" sid="null" wn="2" wnkey="player%1:18:02::" annotator="tofox" text="who are the trumpet &lt;b&gt;players&lt;/b&gt; in that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3747-ms98-a-trans.anc" start="1299" end="1305" sStart="null" offset="0" sid="null" wn="2" wnkey="player%1:18:02::" annotator="tofox" text="well we used to have um Ralph Dutchen but now he's in Massachusetts he's come back a couple of times then there's a trumpet &lt;b&gt;player&lt;/b&gt; at North Texas the the teacher the main teacher" />
+  </sentences>
+</list>

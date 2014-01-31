@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2872-ms98-a-trans.anc" start="8611" end="8617" sStart="8503" offset="0" sid="null" wn="2" wnkey="window%1:06:01::" annotator="veweser" text="uh can you remember driving down the highway i could as a kid you know you just get rid of it you roll the &lt;b&gt;window&lt;/b&gt; down and you throw it out but you wouldn't" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2872-ms98-a-trans.anc" start="3805" end="3810" sStart="null" offset="0" sid="null" wn="6" wnkey="force%1:04:01::" annotator="veweser" text="are a show of &lt;b&gt;force&lt;/b&gt; now that we did not see even" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2872-ms98-a-trans.anc" start="3805" end="3810" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="are a show of &lt;b&gt;force&lt;/b&gt; now that we did not see even" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2872-ms98-a-trans.anc" start="4599" end="4605" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="oh that's excellent excellent you know that they're getting a &lt;b&gt;chance&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2872-ms98-a-trans.anc" start="4599" end="4605" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="oh that's excellent excellent you know that they're getting a &lt;b&gt;chance&lt;/b&gt;" />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/29/ArticleIP_1798.anc" start="5823" end="5826" sStart="5695" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="Barney Frank, D-Mass., who has never found a subject he doesn't like arguing about (and has never started an argument he didn't &lt;b&gt;win&lt;/b&gt;), introduces an amendment." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/29/ArticleIP_1798.anc" start="1278" end="1286" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="(Capitol Hill security is treating the press with all the respect we have come to expect: We are penned behind Tensators, and anyone who dares step past the guide ropes is yelled at, then moved back by Capitol police &lt;b&gt;officers&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/29/ArticleIP_1798.anc" start="1278" end="1286" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="(Capitol Hill security is treating the press with all the respect we have come to expect: We are penned behind Tensators, and anyone who dares step past the guide ropes is yelled at, then moved back by Capitol police &lt;b&gt;officers&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1798.anc" start="149" end="154" sStart="null" offset="74" sid="r8.live.v.0909" wn="1" wnkey="live%2:42:08::" annotator="veweser" text="The dirty little secret of my journalistic career is that, despite having lived in Washington for 23 years and having been a reporter for five, I have never seen a president in the flesh." />
+  </sentences>
+</list>

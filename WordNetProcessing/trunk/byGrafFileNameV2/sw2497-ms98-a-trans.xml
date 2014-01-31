@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2497-ms98-a-trans.anc" start="9118" end="9125" sStart="-1" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="cgozo" text="and i'm not too sure that it's actually not a &lt;b&gt;success&lt;/b&gt; more than a failure you know i don't know what percent has actually converted" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2497-ms98-a-trans.anc" start="9118" end="9125" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="and i'm not too sure that it's actually not a &lt;b&gt;success&lt;/b&gt; more than a failure you know i don't know what percent has actually converted" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2497-ms98-a-trans.anc" start="6282" end="6288" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="because for so long &lt;b&gt;people&lt;/b&gt; are going are going to be able to equate miles to kilometers i mean when you drive around Europe you do the same thing" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2497-ms98-a-trans.anc" start="6282" end="6288" sStart="null" offset="0" sid="null" wn="1 4" wnkey="null" annotator="tofox" text="because for so long &lt;b&gt;people&lt;/b&gt; are going are going to be able to equate miles to kilometers i mean when you drive around Europe you do the same thing" />
+  </sentences>
+</list>

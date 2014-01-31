@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4901-ms98-a-trans.anc" start="958" end="966" sStart="-1" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="well in New York i'm not quite sure but what sounds familiar to me is that it's it's not legal except in cases of murder of police &lt;b&gt;officers&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4901-ms98-a-trans.anc" start="958" end="966" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="well in New York i'm not quite sure but what sounds familiar to me is that it's it's not legal except in cases of murder of police &lt;b&gt;officers&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4901-ms98-a-trans.anc" start="878" end="886" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" annotator="tofox" text="well in New York i'm not quite sure but what sounds &lt;b&gt;familiar&lt;/b&gt; to me is that it's it's not legal except in cases of murder of police officers" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4901-ms98-a-trans.anc" start="1040" end="1048" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="comcgeetubb" text="i might be mistaken but that's what sounds &lt;b&gt;familiar&lt;/b&gt; to me" />
+  </sentences>
+</list>

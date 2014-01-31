@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Beijing-WhereToGo.anc" start="8300" end="8307" sStart="-1" offset="0" sid="null" wn="5" wnkey="write%2:36:01::" annotator="carichter" text="Although bereft of up-to-date display cases and featuring explanations &lt;b&gt;written&lt;/b&gt; in Chinese only, this museum provides the most exhaustive overview of Chinese civilizationÊÑÊillustrated with national treasuresÊÑÊof any gallery in China." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz2/Beijing-WhereToGo.anc" start="10468" end="10472" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="elstickles" text="There are artists at &lt;b&gt;work&lt;/b&gt; in its studios, and recent works can be purchased in the gift shop." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz2/Beijing-WhereToGo.anc" start="10468" end="10472" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="carichter" text="There are artists at &lt;b&gt;work&lt;/b&gt; in its studios, and recent works can be purchased in the gift shop." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz2/Beijing-WhereToGo.anc" start="58003" end="58006" sStart="null" offset="74" sid="r8.way.n.0933" wn="6" wnkey="way%1:06:00::" annotator="veweser" text="Like the Ming Tombs, the Eastern Qing Tombs are entered via a long Sacred Way, lined with 18 pairs of stone animals and court officials." />
+  </sentences>
+</list>

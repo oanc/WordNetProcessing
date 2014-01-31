@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3350-ms98-a-trans.anc" start="889" end="895" sStart="-1" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="but i was glad to see them get rid of that guy Tarpley although by far the best &lt;b&gt;player&lt;/b&gt; they've ever had i guess" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3350-ms98-a-trans.anc" start="889" end="895" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="tofox" text="but i was glad to see them get rid of that guy Tarpley although by far the best &lt;b&gt;player&lt;/b&gt; they've ever had i guess" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3350-ms98-a-trans.anc" start="199" end="207" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="tofox" text="most &lt;b&gt;familiar&lt;/b&gt; with" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3350-ms98-a-trans.anc" start="157" end="165" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="tofox" text="well pretty pretty &lt;b&gt;familiar&lt;/b&gt; with we moved here about six months ago or a year ago so i'm pretty &lt;b&gt;familiar&lt;/b&gt; with the Mavericks" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3350-ms98-a-trans.anc" start="80" end="88" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="carichter" text="well pretty pretty &lt;b&gt;familiar&lt;/b&gt; with we moved here about six months ago or a year ago so i'm pretty &lt;b&gt;familiar&lt;/b&gt; with the Mavericks" />
+  </sentences>
+</list>

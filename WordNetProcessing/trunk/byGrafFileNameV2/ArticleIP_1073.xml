@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1073.anc" start="195" end="199" sStart="169" offset="26" sid="r7.poor.j.0542" wn="2 5" wnkey="null" annotator="jeneale" text="Yet many people feel that poor public schools are a national problem." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1073.anc" start="4018" end="4022" sStart="null" offset="203" sid="r7.poor.j.0172" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="cgozo" text="The third category of opponents comprises liberals, including members of the Congressional Black Caucus, who argue that low test scores stigmatize minority students as &quot;inferior,&quot; when in fact poor schooling and other disadvantages are to blame for their performance." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1073.anc" start="3179" end="3183" sStart="null" offset="133" sid="r7.1.easy.j.0805" wn="1" wnkey="easy%3:00:01::" annotator="veweser" text="When so charged, the Clinton people retort that the independent board will have ample opportunity to amend the tests if they are too easy or ideologically skewed." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1073.anc" start="3110" end="3115" sStart="null" offset="64" sid="r10.board.n.0283" wn="1" wnkey="board%1:14:00::" annotator="cgozo" text="When so charged, the Clinton people retort that the independent board will have ample opportunity to amend the tests if they are too easy or ideologically skewed." />
+  </sentences>
+</list>

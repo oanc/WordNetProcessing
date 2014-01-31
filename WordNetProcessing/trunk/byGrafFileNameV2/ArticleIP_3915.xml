@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3915.anc" start="4955" end="4963" sStart="4756" offset="199" sid="r11.refer.v.0812" wn="4" wnkey="refer%2:38:00::" annotator="anfahmy" text="The FBI agents who escorted Hale on each of his visits to Dozhier's bait shop should be able to testify as to whether those meetings took place; if they did not, it seems unlikely the FBI would have referred the matter to the Justice Department." />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3915.anc" start="1567" end="1571" sStart="null" offset="25" sid="r9.late.j.0629" wn="1" wnkey="late%3:00:00::" annotator="veweser" text="It had run in TNR in the late '80s, and it mocked the very notion of fact checking as unnecessary and stupid." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/47/ArticleIP_3915.anc" start="5577" end="5583" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="I spent more than a year &lt;b&gt;trying&lt;/b&gt; to &lt;b&gt;forget&lt;/b&gt; this, and now I'm &lt;b&gt;trying&lt;/b&gt; to remember it.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/47/ArticleIP_3915.anc" start="5577" end="5583" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="I spent more than a year &lt;b&gt;trying&lt;/b&gt; to &lt;b&gt;forget&lt;/b&gt; this, and now I'm &lt;b&gt;trying&lt;/b&gt; to remember it.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/47/ArticleIP_3915.anc" start="5577" end="5583" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="carichter" text="I spent more than a year &lt;b&gt;trying&lt;/b&gt; to &lt;b&gt;forget&lt;/b&gt; this, and now I'm &lt;b&gt;trying&lt;/b&gt; to remember it.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3915.anc" start="4651" end="4656" sStart="null" offset="148" sid="r10.board.n.0317" wn="1" wnkey="board%1:14:00::" annotator="veweser" text="handouts&quot; is contradicted by another allegation that Foer failed to mention: Hale and Dozhier met on several occasions with American Spectator board member Stephen Boynton and David Henderson, vice president of the Spectator 's funding foundation." />
+  </sentences>
+</list>

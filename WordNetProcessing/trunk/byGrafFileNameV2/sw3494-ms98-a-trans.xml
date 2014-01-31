@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3494-ms98-a-trans.anc" start="45" end="54" sStart="-1" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="veweser" text="see uh i i have &lt;b&gt;forgotten&lt;/b&gt; a few calls but um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3494-ms98-a-trans.anc" start="45" end="54" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="tofox" text="see uh i i have &lt;b&gt;forgotten&lt;/b&gt; a few calls but um" />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_36451.anc" start="4856" end="4860" sStart="-1" offset="0" sid="null" wn="2" wnkey="say%2:32:01::" annotator="cgozo" text="Fertilizer runoff from the Mississippi River has killed sea life over an area the size of New Jersey in the Gulf of Mexico, &lt;b&gt;says&lt;/b&gt; an article . Farmers are resisting calls to curtail fertilizer use." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36451.anc" start="9498" end="9502" sStart="null" offset="117" sid="r7.poor.j.0844" wn="2147483645" wnkey="null" annotator="cgozo" text="Rather than easing the transition from welfare to work, states hoard block grants and dodge their obligations to the poor." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36451.anc" start="8832" end="8836" sStart="null" offset="36" sid="r8.life.n.0432" wn="3" wnkey="life%1:26:02::" annotator="cgozo" text="An article examines Newt Gingrich's life after Congress." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36451.anc" start="4781" end="4787" sStart="null" offset="49" sid="r9.kill.v.0251" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="Fertilizer runoff from the Mississippi River has killed sea life over an area the size of New Jersey in the Gulf of Mexico, says an article . Farmers are resisting calls to curtail fertilizer use." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36451.anc" start="3561" end="3566" sStart="null" offset="64" sid="r10.book.n.0637" wn="1" wnkey="book%1:10:00::" annotator="veweser" text="Weird details: Ted receives The New Yorker , New York Review of Books , and Los Angeles Times in prison and spends his rare recreation time with fellow bombers Timothy McVeigh and Ramzi Yousef." />
+  </sentences>
+</list>

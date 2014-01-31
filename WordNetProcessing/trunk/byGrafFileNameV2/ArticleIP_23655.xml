@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_23655.anc" start="618" end="625" sStart="-1" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" annotator="cgozo" text="Should I make a pest of myself and keep &lt;b&gt;telling&lt;/b&gt; my friends that I live in Wales, not England, or should I just shrug it off?" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_23655.anc" start="1890" end="1896" sStart="null" offset="73" sid="r7.serve.v.0517" wn="8" wnkey="serve_well%2:42:00::" annotator="veweser" text="Not only as a child, but even now--well into my adulthood--this rule has served me well." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_23655.anc" start="5940" end="5950" sStart="null" offset="7" sid="r11.recommend.v.0258" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text="Prudie recommends that you patch it up if you wish the whole thing had never happened." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_23655.anc" start="3439" end="3445" sStart="null" offset="20" sid="r8.live.v.0457" wn="1" wnkey="live%2:42:08::" annotator="veweser" text="And since Prudie is living in America in 1999, a small addendum about those brides who've previously been up at bat." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_23655.anc" start="5311" end="5317" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="There is a &lt;b&gt;chance&lt;/b&gt; that, by their lights, they assumed that had you been home you would have &quot;lent&quot; them the wine." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_23655.anc" start="5311" end="5317" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="There is a &lt;b&gt;chance&lt;/b&gt; that, by their lights, they assumed that had you been home you would have &quot;lent&quot; them the wine." />
+  </sentences>
+</list>

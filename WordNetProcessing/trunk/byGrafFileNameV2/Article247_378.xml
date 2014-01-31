@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_378.anc" start="1143" end="1148" sStart="1046" offset="97" sid="r9.paper.n.0617" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The line-item law limits the veto to tax measures benefiting fewer than 100 individuals, and the paper notes, it shouldn't be hard to make sure special deals favor say, 101." />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_378.anc" start="3123" end="3128" sStart="null" offset="111" sid="r1.name.n.0098" wn="1" wnkey="name%1:10:00::" annotator="sophiavv" text="But Blumenthal's attorney tells the Post he will take &quot;'appropriate action' unless Drudge disclose[s] the names of his sources by today.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_378.anc" start="3123" end="3128" sStart="null" offset="111" sid="r1.name.n.0098" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="But Blumenthal's attorney tells the Post he will take &quot;'appropriate action' unless Drudge disclose[s] the names of his sources by today.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_378.anc" start="3123" end="3128" sStart="null" offset="111" sid="r1.name.n.0098" wn="1" wnkey="name%1:10:00::" annotator="adelpriore" text="But Blumenthal's attorney tells the Post he will take &quot;'appropriate action' unless Drudge disclose[s] the names of his sources by today.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_378.anc" start="1937" end="1943" sStart="null" offset="70" sid="r9.kill.v.0596" wn="1" wnkey="kill%2:35:00::" annotator="brubin" text="The NYT brings word that nearly 12 years after Palestinian terrorists killed a disabled passenger, Leon Klinghoffer, by pushing the wheelchair bound man off the hijacked cruise ship, the Achille Lauro, the Palestinian Liberation Organization has settled for an undisclosed sum a lawsuit brought by the Klinghoffer family." />
+  </sentences>
+</list>

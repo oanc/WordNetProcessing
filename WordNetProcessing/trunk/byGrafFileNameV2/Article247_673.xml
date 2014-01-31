@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_673.anc" start="2666" end="2672" sStart="2565" offset="106" sid="r7.strike.v.0328" wn="4" wnkey="strike%2:33:00::" annotator="cgozo" text="It also says that President Clinton &quot;personally chose the bombing site [in Sudan] . . . declining to strike any other among a larger set of targets presented to him by military planners.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_673.anc" start="2236" end="2242" sStart="null" offset="127" sid="r7.strike.v.0327" wn="4" wnkey="strike%2:33:00::" annotator="brubin" text="A related WP front-pager says that bin Laden was in the Afghanistan camps the day of the attack, but moved before the missiles struck." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_673.anc" start="1749" end="1754" sStart="null" offset="141" sid="r8.state.n.0612" wn="2" wnkey="state%1:03:00::" annotator="cgozo" text="Newt Gingrich for one foresees no psychic solace: he tells the NYT that Clinton's trip is &quot;imprudent&quot; considering Russia's current state." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_673.anc" start="798" end="803" sStart="null" offset="20" sid="r9.paper.n.0879" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="The LAT is the only paper with high-up mention of Yeltsin's latest sackings: Anatoly Chubias (Russia's envoy to international financial institutions) and deputy prime minister Boris Nemtsov." />
+  </sentences>
+</list>

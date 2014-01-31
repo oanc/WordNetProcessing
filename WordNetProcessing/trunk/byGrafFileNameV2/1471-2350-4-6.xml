@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2350-4-6.anc" start="20276" end="20280" sStart="20238" offset="38" sid="r7.1.use.v.0343" wn="1" wnkey="use%2:34:01::" annotator="brubin" text="Fisher's exact test will be used instead of chi-square tests if the frequency of a given allele is too low to justify the assumptions of the chi-square test." />
+  </sentences>
+</list>

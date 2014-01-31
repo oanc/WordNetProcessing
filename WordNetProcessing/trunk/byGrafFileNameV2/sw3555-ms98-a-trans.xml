@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3555-ms98-a-trans.anc" start="2557" end="2564" sStart="-1" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="veweser" text="i'm &lt;b&gt;curious&lt;/b&gt; what uh what Texans think of their neighboring state and uh recent uh gubernatorial race there with uh David Duke" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3555-ms98-a-trans.anc" start="2557" end="2564" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="cgozo" text="i'm &lt;b&gt;curious&lt;/b&gt; what uh what Texans think of their neighboring state and uh recent uh gubernatorial race there with uh David Duke" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3555-ms98-a-trans.anc" start="2557" end="2564" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="brubin" text="i'm &lt;b&gt;curious&lt;/b&gt; what uh what Texans think of their neighboring state and uh recent uh gubernatorial race there with uh David Duke" />
+  </sentences>
+</list>

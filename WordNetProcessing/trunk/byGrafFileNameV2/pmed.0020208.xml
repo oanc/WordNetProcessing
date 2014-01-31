@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020208.anc" start="2352" end="2362" sStart="2349" offset="3" sid="r10.particular.j.0953" wn="2147483647" wnkey="null" annotator="veweser" text="In particular, she needed to gain the trust of the industry research scientist, so that the scientist could feel sure that anonymity would be preserved." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020208.anc" start="355" end="359" sStart="null" offset="322" sid="r10.high.j.0154" wn="1" wnkey="high%3:00:02::" annotator="anfahmy" text="On May 15, 2005, the Public Library of Science and the Government Accountability Project, a public interest legal group that advises and supports whistleblowers (www.whistleblower.org), co-sponsored a private meeting near the Capitol Building in Washington, D. C. In the room were four of the most high profile medical whistleblowers of recent times." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020208.anc" start="6068" end="6074" sStart="null" offset="10" sid="r10.common.j.0317" wn="4" wnkey="common%5:00:00:familiar:02" annotator="veweser" text="A common theme at the roundtable was that, armed with information, the public too could have an important role in unpicking these ties." />
+  </sentences>
+</list>

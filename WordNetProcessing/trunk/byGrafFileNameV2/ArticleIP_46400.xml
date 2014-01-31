@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/52/ArticleIP_46400.anc" start="2675" end="2679" sStart="-1" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" annotator="rstandig" text="Instead, the company dismissed the ruling as the first round of a &lt;b&gt;long&lt;/b&gt; fight." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/52/ArticleIP_46400.anc" start="2675" end="2679" sStart="null" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" annotator="cgozo" text="Instead, the company dismissed the ruling as the first round of a &lt;b&gt;long&lt;/b&gt; fight." />
+    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_46400.anc" start="3365" end="3370" sStart="null" offset="38" sid="r8.1.great.j.0772" wn="4" wnkey="great%5:00:00:good:01" annotator="cgozo" text="Critics' spin: In either case, it's a great film." />
+  </sentences>
+</list>

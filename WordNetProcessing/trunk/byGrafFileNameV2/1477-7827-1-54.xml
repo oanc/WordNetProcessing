@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1477-7827-1-54.anc" start="27965" end="27969" sStart="27766" offset="199" sid="r7.1.use.v.0297" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="Several putative transcription factor binding sites were found which may be used for SPAM1 expression in the epididymis, and these sites are likely distinct from those used in the testis (Table 1)." />
+    <s path="[OANC]/data/written_2/technical/biomed/1477-7827-1-54.anc" start="13351" end="13356" sStart="null" offset="17" sid="r7.1.use.v.0834" wn="1" wnkey="use%2:34:01::" annotator="jeneale" text="Imaging was done using a Zeiss Axioskop and a Kodak MDS digital camera using proprietary interface software and Adobe Photoshop." />
+  </sentences>
+</list>

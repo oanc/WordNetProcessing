@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_338.anc" start="582" end="586" sStart="575" offset="7" sid="r11.true.j.0230" wn="1" wnkey="true%3:00:00::" annotator="anfahmy" text="That's true." />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_338.anc" start="721" end="729" sStart="null" offset="133" sid="r9.appear.v.0354" wn="3" wnkey="appear%2:30:01::" annotator="anfahmy" text="But readers will be forgiven for wondering whether the firing has anything to do with a splashy New York Times front-page story that appeared two days before and identified (but did not name) a Los Alamos scientist who was believed to have passed along nuclear secrets to the Chinese." />
+  </sentences>
+</list>

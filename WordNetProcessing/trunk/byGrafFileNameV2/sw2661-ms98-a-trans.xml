@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2661-ms98-a-trans.anc" start="3035" end="3040" sStart="3022" offset="0" sid="null" wn="5" wnkey="coloring_material%1:27:00::" annotator="veweser" text="and just for &lt;b&gt;color&lt;/b&gt; if nothing else" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2661-ms98-a-trans.anc" start="6316" end="6322" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="veweser" text="no it wasn't on the way across Louisiana we pulled off we saw a billboard and just pulled off taking a &lt;b&gt;chance&lt;/b&gt; on a place" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2661-ms98-a-trans.anc" start="6316" end="6322" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="tofox" text="no it wasn't on the way across Louisiana we pulled off we saw a billboard and just pulled off taking a &lt;b&gt;chance&lt;/b&gt; on a place" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2661-ms98-a-trans.anc" start="2855" end="2858" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="brubin" text="but i said if they would just &lt;b&gt;add&lt;/b&gt; a little bit of cranberry sauce or something like that" />
+  </sentences>
+</list>

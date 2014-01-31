@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4356.anc" start="1413" end="1420" sStart="1413" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="tofox" text="&lt;b&gt;Windows&lt;/b&gt; 2000: the government's business starts here." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4356.anc" start="1413" end="1420" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="comcgeetubb" text="&lt;b&gt;Windows&lt;/b&gt; 2000: the government's business starts here." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4356.anc" start="1413" end="1420" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="cgozo" text="&lt;b&gt;Windows&lt;/b&gt; 2000: the government's business starts here." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4356.anc" start="1644" end="1651" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="cgozo" text="The ad's intent, obviously, is to invite government managers to consider the benefits of upgrading their computer systems to &lt;b&gt;Windows&lt;/b&gt; 2000." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4356.anc" start="1413" end="1420" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="&lt;b&gt;Windows&lt;/b&gt; 2000: the government's business starts here." />
+    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4356.anc" start="2060" end="2064" sStart="null" offset="86" sid="r11.able.j.0634" wn="1" wnkey="able%3:00:00::" annotator="vebatchelder" text="well, who's to say whether those poor saps at the Agriculture Department will ever be able to keep track of the price of pork bellies?" />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4483.anc" start="4798" end="4801" sStart="4697" offset="101" sid="r8.way.n.0080" wn="5" wnkey="way%1:04:00::" annotator="veweser" text="That doesn't mean eBay's stock won't go up (or down) from here, especially since volatility is now a way of life for Nasdaq stocks." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4483.anc" start="4798" end="4801" sStart="null" offset="101" sid="r8.way.n.0080" wn="5" wnkey="way%1:04:00::" annotator="jeneale" text="That doesn't mean eBay's stock won't go up (or down) from here, especially since volatility is now a way of life for Nasdaq stocks." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4483.anc" start="4798" end="4801" sStart="null" offset="101" sid="r8.way.n.0080" wn="5" wnkey="way%1:04:00::" annotator="cgozo" text="That doesn't mean eBay's stock won't go up (or down) from here, especially since volatility is now a way of life for Nasdaq stocks." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4483.anc" start="4798" end="4801" sStart="null" offset="101" sid="r8.way.n.0080" wn="1" wnkey="way%1:07:01::" annotator="brubin" text="That doesn't mean eBay's stock won't go up (or down) from here, especially since volatility is now a way of life for Nasdaq stocks." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4483.anc" start="4874" end="4880" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="veweser" text="But it probably means that expecting eBay to &lt;b&gt;become&lt;/b&gt; a proverbial ten-bagger (rise 1,000 percent) from here is a mistake." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4483.anc" start="4874" end="4880" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="tofox" text="But it probably means that expecting eBay to &lt;b&gt;become&lt;/b&gt; a proverbial ten-bagger (rise 1,000 percent) from here is a mistake." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4483.anc" start="1482" end="1486" sStart="null" offset="47" sid="r11.able.j.0575" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="(This, of course, makes me wonder why I wasn't able to see then what I see now, and what Anuff saw then.)" />
+  </sentences>
+</list>

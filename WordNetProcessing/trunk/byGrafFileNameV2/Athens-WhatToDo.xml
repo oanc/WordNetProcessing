@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/travel_guides/berlitz2/Athens-WhatToDo.anc" start="6107" end="6114" sStart="6027" offset="80" sid="r10.wait.v.0919" wn="3" wnkey="wait%2:31:00::" annotator="cgozo" text="Just about every male over the age of five can be found sitting on the sea wall waiting for a bite and it is amazingly relaxing to be letting the rod do all the work." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Athens-WhatToDo.anc" start="12680" end="12683" sStart="null" offset="0" sid="null" wn="9" wnkey="try_on%2:29:00::" annotator="veweser" text="Or you could &lt;b&gt;try&lt;/b&gt; a traditional embroidered hat complete with long silk tassel, now only worn during folkloric spectacles." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Athens-WhatToDo.anc" start="12680" end="12683" sStart="null" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" annotator="tofox" text="Or you could &lt;b&gt;try&lt;/b&gt; a traditional embroidered hat complete with long silk tassel, now only worn during folkloric spectacles." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz2/Athens-WhatToDo.anc" start="3872" end="3876" sStart="null" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="carichter" text="Much of Athens closes down during the heat of August (though not those relating to tourism) and many people head to the coast for the cooler air, therefore you find the resorts very busy at this &lt;b&gt;time&lt;/b&gt;." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz2/Athens-WhatToDo.anc" start="2274" end="2279" sStart="null" offset="0" sid="r7.sound.n.0789" wn="5" wnkey="sound%1:10:00::" annotator="veweser" text="Sound and Light Show: The history of the Acropolis is brought to life through dancing lights and an informative narration, and the surrounding darkness really allows you to study the beauty of the Parthenon." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz2/Athens-WhatToDo.anc" start="10430" end="10437" sStart="null" offset="98" sid="r7.serve.v.0386" wn="5" wnkey="serve%2:34:01::" annotator="jeneale" text="Ornate Ottoman tables on folding wooden bases are compact enough to carry in hand luggage, as are serving ladles and goat bells." />
+  </sentences>
+</list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3956-ms98-a-trans.anc" start="4889" end="4894" sStart="-1" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="cgozo" text="well if they're &lt;b&gt;smart&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3956-ms98-a-trans.anc" start="4889" end="4894" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="well if they're &lt;b&gt;smart&lt;/b&gt;" />
+  </sentences>
+</list>

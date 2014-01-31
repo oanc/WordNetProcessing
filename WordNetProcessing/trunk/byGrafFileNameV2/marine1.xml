@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/marine1.anc" start="3190" end="3195" sStart="3126" offset="64" sid="null" wn="1" wnkey="use%2:34:01::" annotator="anfahmy" text="You can help us spread our message to protect ocean wildlife by using the enclosed labels on all your correspondence." />
+    <s path="[MASC]/data/written/marine1.anc" start="248" end="253" sStart="null" offset="17" sid="null" wn="1" wnkey="use%2:34:01::" annotator="anfahmy" text="I hope you enjoy using them as you correspond with your friends and family and help us spread the word to protect ocean wildlife." />
+    <s path="[MASC]/data/written/marine1.anc" start="1163" end="1169" sStart="null" offset="29" sid="null" wn="1" wnkey="people%1:14:00::" annotator="sophiavv" text="When it comes to the oceans, people take ... and take ... and take -- without ever giving." />
+  </sentences>
+</list>

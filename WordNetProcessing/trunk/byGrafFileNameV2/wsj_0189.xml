@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/wsj_0189.anc" start="607" end="611" sStart="595" offset="12" sid="r9.full.j.0088" wn="2" wnkey="full%5:00:01:whole:00" annotator="veweser" text="Sales for the full year were $6.6 billion, up 13% from $5.8 billion." />
+    <s path="[MASC]/data/written/wsj_0189.anc" start="607" end="611" sStart="null" offset="12" sid="r9.full.j.0088" wn="2" wnkey="full%5:00:01:whole:00" annotator="cgozo" text="Sales for the full year were $6.6 billion, up 13% from $5.8 billion." />
+    <s path="[MASC]/data/written/wsj_0189.anc" start="607" end="611" sStart="null" offset="12" sid="r9.full.j.0088" wn="2" wnkey="full%5:00:01:whole:00" annotator="brubin" text="Sales for the full year were $6.6 billion, up 13% from $5.8 billion." />
+    <s path="[MASC]/data/written/wsj_0189.anc" start="607" end="611" sStart="null" offset="12" sid="r9.full.j.0088" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="Sales for the full year were $6.6 billion, up 13% from $5.8 billion." />
+    <s path="[MASC]/data/written/wsj_0189.anc" start="1478" end="1483" sStart="null" offset="101" sid="null" wn="2" wnkey="add%2:32:01::" annotator="vebatchelder" text="The Continental Baking business benefited from higher margins on bread and on increased cake sales, it added." />
+  </sentences>
+</list>

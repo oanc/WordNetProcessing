@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/letters/icic/105CWL065.anc" start="2275" end="2280" sStart="2249" offset="26" sid="r7.serve.v.0118" wn="7" wnkey="serve%2:41:02::" annotator="jeneale" text="On behalf of the girls we serve," />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/105CWL065.anc" start="2318" end="2322" sStart="null" offset="0" sid="null" wn="3" wnkey="know%2:31:02::" annotator="carichter" text="As you &lt;b&gt;know&lt;/b&gt;, this is an extraordinary year for council fund raising." />
+    <s path="[OANC]/data/written_1/letters/icic/105CWL065.anc" start="2189" end="2194" sStart="null" offset="35" sid="r10.board.n.0391" wn="1" wnkey="board%1:14:00::" annotator="cgozo" text="it is imperative that we reach the Board of Directors' goal of 100% participation." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/105CWL065.anc" start="645" end="648" sStart="null" offset="0" sid="null" wn="6" wnkey="add%2:42:00::" annotator="veweser" text="Library resources including audio/visual aids, flags on loan, and books, &lt;b&gt;add&lt;/b&gt; to the Girl Scout experience so that girls and volunteers have the tools they need to make Girl Scouting a positive learning experience." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/105CWL065.anc" start="1571" end="1574" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="veweser" text="Four camp properties &lt;b&gt;add&lt;/b&gt; to the enjoyment of girls and adults throughout the 7 1/2 county area served by Hoosier Capital." />
+  </sentences>
+</list>

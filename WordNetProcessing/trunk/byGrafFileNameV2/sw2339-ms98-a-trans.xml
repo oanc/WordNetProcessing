@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2339-ms98-a-trans.anc" start="7644" end="7649" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="what do you &lt;b&gt;write&lt;/b&gt; for stutter" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2339-ms98-a-trans.anc" start="8733" end="8739" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="it was in Padre &lt;b&gt;Island&lt;/b&gt; and in a truck of course not but not in a tent" />
+  </sentences>
+</list>

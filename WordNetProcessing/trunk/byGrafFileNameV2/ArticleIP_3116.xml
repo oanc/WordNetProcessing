@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/42/ArticleIP_3116.anc" start="918" end="921" sStart="884" offset="34" sid="r8.way.n.0496" wn="1" wnkey="way%1:07:01::" annotator="cgozo" text="But Leonardo was not a genius the way Einstein or Galileo was." />
+    <s path="[OANC]/data/written_1/journal/slate/42/ArticleIP_3116.anc" start="5780" end="5785" sStart="null" offset="58" sid="r7.sound.n.0307" wn="2147483645" wnkey="null" annotator="brubin" text="As for Leonardo's &quot;inventions,&quot; those that were sound from an engineering point of view were usually borrowed from contemporaries." />
+    <s path="[OANC]/data/written_1/journal/slate/42/ArticleIP_3116.anc" start="7115" end="7120" sStart="null" offset="196" sid="r10.help.v.0506" wn="3" wnkey="help%2:42:00::" annotator="anfahmy" text="Little of Leonardo's weirdness is conveyed by the Codex Leicester exhibit--though Isabella Rosellini's blue-velveteen voice narrating the exhibit's eight-minute biographical video helps somewhat." />
+    <s path="[OANC]/data/written_1/journal/slate/42/ArticleIP_3116.anc" start="6825" end="6830" sStart="null" offset="167" sid="r7.1.face.n.0141" wn="1" wnkey="human_face%1:08:01::" annotator="veweser" text="If there was a bit of Fuller in Leonardo, there was also a bit of Liberace in this theatrical, high-living dandy who favored brocade doublets and bad boys with pretty faces." />
+  </sentences>
+</list>

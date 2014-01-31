@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Amsterdam-WhereToGo.anc" start="46138" end="46143" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="Anne &lt;b&gt;wrote&lt;/b&gt; a diary which paints a clear and terrifying picture of the life the family lived." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Amsterdam-WhereToGo.anc" start="35687" end="35694" sStart="null" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="carichter" text="The bulk of the collection was brought together by Theo Van Gogh, who also kept over 800 letters &lt;b&gt;written&lt;/b&gt; by his brother, which, when read in conjunction with viewing the paintings, bring life and context to the works themselves." />
+  </sentences>
+</list>

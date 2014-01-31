@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3536.anc" start="1832" end="1836" sStart="1756" offset="76" sid="r10.help.v.0872" wn="1" wnkey="help%2:41:00::" annotator="brubin" text="He will know to try to avoid exacerbating your condition and may be able to help alleviate it by sympathetic and understanding behavior." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3536.anc" start="855" end="859" sStart="null" offset="5" sid="r7.1.easy.j.0208" wn="1" wnkey="easy%3:00:01::" annotator="cgozo" text="It's easy enough to tell acquaintances that the reason I'm not having a beer at the office party is that I'm &quot;on some medication,&quot; and leave it at that." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3536.anc" start="4850" end="4857" sStart="null" offset="22" sid="r11.absence.n.0153" wn="1" wnkey="absence%1:26:00::" annotator="adelpriore" text="She may feel that the absence of her natural father during her 18 years, however well that might be explained, contributed to her present condition." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3536.anc" start="5171" end="5175" sStart="null" offset="15" sid="r11.able.j.0549" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="You may not be able to sustain this attitude, but it will be worth a very hard try." />
+  </sentences>
+</list>

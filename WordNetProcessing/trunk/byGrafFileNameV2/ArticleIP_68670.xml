@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_68670.anc" start="3016" end="3023" sStart="2974" offset="42" sid="r10.wait.v.0679" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="Bush was loafing around with his buddies, waiting to execute Karla Faye Tucker." />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_68670.anc" start="3910" end="3918" sStart="null" offset="79" sid="r11.refer.v.0834" wn="1" wnkey="refer%2:32:01::" annotator="adelpriore" text="Q: Just this week, George W. Bush's fellow presidential candidate Donald Trump referred to &quot;the hardest thing I've ever done.&quot;" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/54/ArticleIP_68670.anc" start="1793" end="1798" sStart="null" offset="0" sid="null" wn="2" wnkey="quiet%3:00:01::" annotator="rstandig" text="Another angle: He's &lt;b&gt;quiet&lt;/b&gt;, leaving it to the people of South Carolina, for example, to decide if there should be a big banner of a lynching fluttering above their Capitol building." />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_68670.anc" start="3684" end="3688" sStart="null" offset="150" sid="r9.kill.v.0638" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="No, wait, sorry--he can also attempt to emulate it by persuading the Florida legislature to &quot;reform&quot; its death penalty statutes so they can kill folks as fast as Texans do." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_68670.anc" start="4300" end="4305" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="tofox" text="Each final sentence &lt;b&gt;added&lt;/b&gt; by News Quiz." />
+  </sentences>
+</list>

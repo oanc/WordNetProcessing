@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3427-ms98-a-trans.anc" start="3480" end="3484" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="and we ended up i think with like a four and a half percent interest &lt;b&gt;rate&lt;/b&gt; on a brand new car and our payments" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3427-ms98-a-trans.anc" start="3058" end="3062" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="and uh we found that uh we found a real good interest &lt;b&gt;rate&lt;/b&gt; you know when they're trying to get rid of those cars at the end of the year like that they really come down on their prices and uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3427-ms98-a-trans.anc" start="3480" end="3484" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="and we ended up i think with like a four and a half percent interest &lt;b&gt;rate&lt;/b&gt; on a brand new car and our payments" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3427-ms98-a-trans.anc" start="3058" end="3062" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="and uh we found that uh we found a real good interest &lt;b&gt;rate&lt;/b&gt; you know when they're trying to get rid of those cars at the end of the year like that they really come down on their prices and uh" />
+  </sentences>
+</list>

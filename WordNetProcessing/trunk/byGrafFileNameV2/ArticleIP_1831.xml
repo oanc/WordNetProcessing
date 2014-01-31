@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1831.anc" start="1255" end="1261" sStart="1250" offset="5" sid="r9.normal.j.0382" wn="1" wnkey="normal%3:00:01::" annotator="anfahmy" text="In a normal aristocratic family, Spencer would have been just another playboy." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/30/ArticleIP_1831.anc" start="3837" end="3841" sStart="null" offset="0" sid="null" wn="7" wnkey="landed_estate%1:21:00::" annotator="cgozo" text="He's worth more than $100 million, but most of the fortune is tied up in &lt;b&gt;land&lt;/b&gt; and antiques." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1831.anc" start="4810" end="4814" sStart="null" offset="39" sid="r7.1.face.n.0103" wn="2147483646" wnkey="null" annotator="brubin" text="One is hidebound, stiff, silent in the face of media criticism." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/30/ArticleIP_1831.anc" start="3349" end="3356" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="veweser" text="On another occasion, Spencer went on a talk show and discussed his sex fantasies--Roman orgies, if you're &lt;b&gt;curious&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/30/ArticleIP_1831.anc" start="3349" end="3356" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="cgozo" text="On another occasion, Spencer went on a talk show and discussed his sex fantasies--Roman orgies, if you're &lt;b&gt;curious&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/30/ArticleIP_1831.anc" start="3349" end="3356" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="brubin" text="On another occasion, Spencer went on a talk show and discussed his sex fantasies--Roman orgies, if you're &lt;b&gt;curious&lt;/b&gt;." />
+  </sentences>
+</list>

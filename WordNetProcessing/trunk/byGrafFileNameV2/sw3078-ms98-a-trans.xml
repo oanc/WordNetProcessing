@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3078-ms98-a-trans.anc" start="6892" end="6896" sStart="6874" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" annotator="veweser" text="oh yeah well um i &lt;b&gt;lost&lt;/b&gt; my train of thought no that's okay um well i've &lt;b&gt;lost&lt;/b&gt; it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3078-ms98-a-trans.anc" start="6946" end="6950" sStart="null" offset="0" sid="null" wn="5" wnkey="lose%2:39:00::" annotator="veweser" text="oh yeah well um i &lt;b&gt;lost&lt;/b&gt; my train of thought no that's okay um well i've &lt;b&gt;lost&lt;/b&gt; it" />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_56833.anc" start="1189" end="1195" sStart="1130" offset="69" sid="r8.state.n.0775" wn="2147483647" wnkey="null" annotator="brubin" text="He was a wonderful &quot;diplomat&quot; between China and the United States." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_56833.anc" start="1612" end="1617" sStart="null" offset="0" sid="null" wn="8" wnkey="image%1:07:01::" annotator="tofox" text="This is also the public &lt;b&gt;image&lt;/b&gt; so carefully cultivated for them by endangered-species activists." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_56833.anc" start="1612" end="1617" sStart="null" offset="0" sid="null" wn="8" wnkey="image%1:07:01::" annotator="comcgeetubb" text="This is also the public &lt;b&gt;image&lt;/b&gt; so carefully cultivated for them by endangered-species activists." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_56833.anc" start="1612" end="1617" sStart="null" offset="0" sid="null" wn="8" wnkey="image%1:07:01::" annotator="cgozo" text="This is also the public &lt;b&gt;image&lt;/b&gt; so carefully cultivated for them by endangered-species activists." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_56833.anc" start="1612" end="1617" sStart="null" offset="0" sid="null" wn="2" wnkey="image%1:07:00::" annotator="brubin" text="This is also the public &lt;b&gt;image&lt;/b&gt; so carefully cultivated for them by endangered-species activists." />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_56833.anc" start="1706" end="1710" sStart="null" offset="22" sid="r7.1.face.n.0718" wn="1" wnkey="face%1:08:00::" annotator="jeneale" text="But behind the pretty face lurks, well, a bore." />
+  </sentences>
+</list>

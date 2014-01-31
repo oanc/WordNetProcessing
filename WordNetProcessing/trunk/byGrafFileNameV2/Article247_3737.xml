@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3737.anc" start="3950" end="3953" sStart="3817" offset="0" sid="null" wn="5" wnkey="win%2:40:06::" annotator="cgozo" text="Reagan would have been an unbelievably good catch, and if he had stayed with this sorry lot, he would have been their best chance to &lt;b&gt;win&lt;/b&gt; mainstream acceptability." />
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3737.anc" start="2525" end="2529" sStart="null" offset="161" sid="r11.true.j.0912" wn="8" wnkey="true%5:00:00:real:02" annotator="adelpriore" text="But is it possible that Reagan's policies such as the tax cuts, deregulation, privatization of government assets, and the celebration of the entrepreneur as the true American hero, created the necessary political and social framework for the silicon revolution?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3737.anc" start="782" end="792" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="Many Americans who saw him on television every day thought they understood him, but they kept &lt;b&gt;forgetting&lt;/b&gt; that he was an actor." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3737.anc" start="782" end="792" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="tofox" text="Many Americans who saw him on television every day thought they understood him, but they kept &lt;b&gt;forgetting&lt;/b&gt; that he was an actor." />
+  </sentences>
+</list>

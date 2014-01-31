@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3765.anc" start="2144" end="2151" sStart="-1" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="veweser" text="If the process of slaughter &lt;b&gt;becomes&lt;/b&gt; a savage yahoo spectacle, then we are indeed barbaric." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3765.anc" start="2144" end="2151" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="tofox" text="If the process of slaughter &lt;b&gt;becomes&lt;/b&gt; a savage yahoo spectacle, then we are indeed barbaric." />
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3765.anc" start="618" end="621" sStart="null" offset="197" sid="r8.ask.v.0281" wn="2" wnkey="ask%2:32:02::" annotator="veweser" text="I know the Weinstein boys probably brokered the best possible compromise, and that it's a classic Sun Su tactic to allow the enemy to withdraw without loss of face, but, for me, it's a &quot;don't ask, don't tell&quot; solution." />
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3765.anc" start="618" end="621" sStart="null" offset="197" sid="r8.ask.v.0281" wn="" wnkey="null" annotator="ksuderman" text="I know the Weinstein boys probably brokered the best possible compromise, and that it's a classic Sun Su tactic to allow the enemy to withdraw without loss of face, but, for me, it's a &quot;don't ask, don't tell&quot; solution." />
+  </sentences>
+</list>

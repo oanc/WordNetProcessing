@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/173906.anc" start="134" end="138" sStart="41" offset="124" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="cesDoc&gt; &lt;text&gt; &lt;head type=&quot;email&quot;&gt; Message-ID: &lt;9010457.1075846162165.JavaMail.evans@thyme&gt; Date: Tue, 1 Aug 2000 02:27:00 -0700 (PDT) From: steven.kean@enron.com To: michael.terraso@enron.com, karen.denne@enron.com Subject: Corporate Watch article Mime-Version: 1.0 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit X-From: Steven J Kean X-To: Michael Terraso, Karen Denne X-cc: X-bcc: X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents X-Origin: KEAN-S X-FileName: skean.nsf &lt;/head type=&quot;email&quot;&gt; &lt;body&gt;" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="null" wn="2147483644" wnkey="null" annotator="veweser" text="http://boards.fool.com/Message.asp?" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="r10.board.n.0013" wn="" wnkey="null" annotator="veweser" text="http://boards.fool.com/Message.asp?" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="null" wn="2147483644" wnkey="null" annotator="cgozo" text="http://boards.fool.com/Message.asp?" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="r10.board.n.0013" wn="2147483646" wnkey="null" annotator="cgozo" text="http://boards.fool.com/Message.asp?" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="null" wn="2147483644" wnkey="null" annotator="brubin" text="http://boards.fool.com/Message.asp?" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="r10.board.n.0013" wn="2147483646" wnkey="null" annotator="brubin" text="http://boards.fool.com/Message.asp?" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="null" wn="" wnkey="null" annotator="bpassonneau" text="http://boards.fool.com/Message.asp?" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="null" wn="2147483644" wnkey="null" annotator="anfahmy" text="http://boards.fool.com/Message.asp?" />
+    <s path="[MASC]/data/written/173906.anc" start="1063" end="1069" sStart="null" offset="7" sid="r10.board.n.0013" wn="" wnkey="null" annotator="anfahmy" text="http://boards.fool.com/Message.asp?" />
+  </sentences>
+</list>

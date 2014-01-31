@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33495.anc" start="1690" end="1696" sStart="1676" offset="0" sid="null" wn="10" wnkey="strike%2:35:03::" annotator="veweser" text="That's always &lt;b&gt;struck&lt;/b&gt; me as strange." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33495.anc" start="1690" end="1696" sStart="null" offset="0" sid="null" wn="2" wnkey="strike%2:37:00::" annotator="jeneale" text="That's always &lt;b&gt;struck&lt;/b&gt; me as strange." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33495.anc" start="1690" end="1696" sStart="null" offset="0" sid="null" wn="2" wnkey="strike%2:37:00::" annotator="cgozo" text="That's always &lt;b&gt;struck&lt;/b&gt; me as strange." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33495.anc" start="1690" end="1696" sStart="null" offset="0" sid="null" wn="2" wnkey="strike%2:37:00::" annotator="brubin" text="That's always &lt;b&gt;struck&lt;/b&gt; me as strange." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33495.anc" start="1690" end="1696" sStart="null" offset="14" sid="r7.strike.v.0367" wn="2" wnkey="strike%2:37:00::" annotator="brubin" text="That's always struck me as strange." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33495.anc" start="3960" end="3964" sStart="null" offset="15" sid="r9.full.j.0983" wn="3" wnkey="full%5:00:00:complete:00" annotator="cgozo" text="Wayne received full military cooperation on his terms and was billed $18,623." />
+  </sentences>
+</list>

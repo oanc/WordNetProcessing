@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3456.anc" start="4719" end="4728" sStart="4684" offset="35" sid="r8.suggest.v.0105" wn="2" wnkey="suggest%2:32:04::" annotator="veweser" text="On Tuesday, the paper's lead story suggested that $1 billion in foreign aid had been stolen in Bosnia." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3456.anc" start="716" end="721" sStart="null" offset="71" sid="r8.state.n.0613" wn="1" wnkey="state%1:15:01::" annotator="veweser" text="The Los Angeles Times goes with a local story on a national issue: The state assembly approved a ban on &quot;unsafe&quot; handguns, making California the second state to do so (after Massachusetts)." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3456.anc" start="4967" end="4972" sStart="null" offset="38" sid="r8.state.n.0720" wn="2147483647" wnkey="null" annotator="cgozo" text="At a press conference on Wednesday, a State Department spokesman said the story was misleading." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3456.anc" start="881" end="885" sStart="null" offset="0" sid="null" wn="4" wnkey="meet%2:34:00::" annotator="veweser" text="The guns are considered unsafe if they do not &lt;b&gt;meet&lt;/b&gt; standards designed to prevent misfiring." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3456.anc" start="3979" end="3985" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" annotator="brubin" text="The Post says in its headline that both groups have been &lt;b&gt;losing&lt;/b&gt; members, but the NYT emphasizes cost-cutting needs: The churches can now combine resources and clergy in cash-strapped areas." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3456.anc" start="5054" end="5061" sStart="null" offset="0" sid="r1.history.n.0089" wn="" wnkey="null" annotator="vebatchelder" text="History textbook or today's front page?" />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3456.anc" start="5054" end="5061" sStart="null" offset="0" sid="r1.history.n.0089" wn="3" wnkey="history%1:09:00::" annotator="sophiavv" text="History textbook or today's front page?" />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3456.anc" start="5054" end="5061" sStart="null" offset="0" sid="r1.history.n.0089" wn="2" wnkey="history%1:10:00::" annotator="anfahmy" text="History textbook or today's front page?" />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3456.anc" start="5054" end="5061" sStart="null" offset="0" sid="r1.history.n.0089" wn="3" wnkey="history%1:09:00::" annotator="adelpriore" text="History textbook or today's front page?" />
+  </sentences>
+</list>

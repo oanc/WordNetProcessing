@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020187.anc" start="4005" end="4010" sStart="-1" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" annotator="comcgeetubb" text="Or did they take the path of least resistance in the interest of &lt;b&gt;rapid&lt;/b&gt; institutional review board approval and ease of patient recruiting?" />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020187.anc" start="4032" end="4037" sStart="null" offset="100" sid="r10.board.n.0472" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="Or did they take the path of least resistance in the interest of rapid institutional review board approval and ease of patient recruiting?" />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020187.anc" start="2659" end="2666" sStart="null" offset="56" sid="r11.benefit.n.0967" wn="2" wnkey="benefit%1:07:00::" annotator="vebatchelder" text="One might protest that these comments are made with the benefit of hindsight." />
+  </sentences>
+</list>

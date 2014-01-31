@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2743-ms98-a-trans.anc" start="1488" end="1492" sStart="1447" offset="0" sid="null" wn="2" wnkey="warm%3:00:02::" annotator="veweser" text="huh so either you or your husband can be &lt;b&gt;warm&lt;/b&gt; but not both" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2743-ms98-a-trans.anc" start="1488" end="1492" sStart="null" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="tofox" text="huh so either you or your husband can be &lt;b&gt;warm&lt;/b&gt; but not both" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2743-ms98-a-trans.anc" start="1488" end="1492" sStart="null" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="comcgeetubb" text="huh so either you or your husband can be &lt;b&gt;warm&lt;/b&gt; but not both" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2743-ms98-a-trans.anc" start="1488" end="1492" sStart="null" offset="0" sid="null" wn="4" wnkey="warm%5:00:00:loving:00" annotator="cgozo" text="huh so either you or your husband can be &lt;b&gt;warm&lt;/b&gt; but not both" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2743-ms98-a-trans.anc" start="1196" end="1200" sStart="null" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="cgozo" text="i had taken the first one back i didn't think that it heated well enough it never did get anything but just moderately &lt;b&gt;warm&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2743-ms98-a-trans.anc" start="1488" end="1492" sStart="null" offset="0" sid="null" wn="2" wnkey="warm%3:00:02::" annotator="brubin" text="huh so either you or your husband can be &lt;b&gt;warm&lt;/b&gt; but not both" />
+  </sentences>
+</list>

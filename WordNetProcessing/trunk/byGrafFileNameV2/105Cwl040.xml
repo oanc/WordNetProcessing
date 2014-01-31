@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/105Cwl040.anc" start="335" end="342" sStart="-1" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="tofox" text="Girl Scouts experience a wide range of real life skills--first aid, resume &lt;b&gt;writing&lt;/b&gt;, and managing money." />
+    <s path="[OANC]/data/written_1/letters/icic/105Cwl040.anc" start="674" end="679" sStart="null" offset="65" sid="r10.help.v.0894" wn="3" wnkey="help%2:42:00::" annotator="anfahmy" text="As a preventive, informal education program, Girl Scouting helps girls relate to others, develop values, contribute to their society, and develop their own potential." />
+    <s path="[OANC]/data/written_1/letters/icic/105Cwl040.anc" start="1019" end="1027" sStart="null" offset="108" sid="r11.benefit.n.0958" wn="2" wnkey="benefit%1:07:00::" annotator="vebatchelder" text="A gift to the 1997 Girl Scout Annual Campaign helps to ensure that girls will continue to receive the benefits that Girl Scouting offers." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/105Cwl040.anc" start="118" end="124" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="carichter" text="Now more than ever girls need your support to help their dreams &lt;b&gt;become&lt;/b&gt; a reality." />
+  </sentences>
+</list>

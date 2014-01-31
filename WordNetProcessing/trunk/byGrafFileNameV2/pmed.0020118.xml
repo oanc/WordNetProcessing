@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020118.anc" start="991" end="998" sStart="942" offset="49" sid="r8.suggest.v.0764" wn="3" wnkey="suggest%2:32:02::" annotator="cgozo" text="However, follow-up studies of those who graduate suggest that medical schools may not be producing doctors who are happy with the profession, or who fit all the needs of medical services today." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020118.anc" start="4014" end="4018" sStart="null" offset="7" sid="r7.1.easy.j.0499" wn="1" wnkey="easy%3:00:01::" annotator="brubin" text="Not an easy question to answer, but one that might also be relevant to the question of what a medical journal, especially one that wants to engage students, should publish." />
+  </sentences>
+</list>

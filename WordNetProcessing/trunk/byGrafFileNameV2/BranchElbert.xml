@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/face-to-face/charlotte/BranchElbert.anc" start="207" end="211" sStart="148" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" annotator="veweser" text="The first stories that you remember, um, stories that were &lt;b&gt;read&lt;/b&gt; to you or told to you and who told them." />
+    <s path="file:/D:/Corpora/oanc/data/spoken/face-to-face/charlotte/BranchElbert.anc" start="3125" end="3131" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="These are dead &lt;b&gt;people&lt;/b&gt; that are--" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/face-to-face/charlotte/BranchElbert.anc" start="3125" end="3131" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="These are dead &lt;b&gt;people&lt;/b&gt; that are--" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/face-to-face/charlotte/BranchElbert.anc" start="2375" end="2381" sStart="null" offset="0" sid="null" wn="3" wnkey="forget%2:31:03::" annotator="veweser" text="I &lt;b&gt;forgot&lt;/b&gt; to ask you." />
+    <s path="file:/D:/Corpora/oanc/data/spoken/face-to-face/charlotte/BranchElbert.anc" start="2375" end="2381" sStart="null" offset="0" sid="null" wn="3" wnkey="forget%2:31:03::" annotator="tofox" text="I &lt;b&gt;forgot&lt;/b&gt; to ask you." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1644.anc" start="7420" end="7428" sStart="-1" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="cgozo" text="Even if the Taliban &lt;b&gt;succeeds&lt;/b&gt; in conquering the entire country, many areas will remain subject to guerrilla warfare." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1644.anc" start="7420" end="7428" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="brubin" text="Even if the Taliban &lt;b&gt;succeeds&lt;/b&gt; in conquering the entire country, many areas will remain subject to guerrilla warfare." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1644.anc" start="6468" end="6472" sStart="null" offset="114" sid="r9.late.j.0753" wn="1" wnkey="late%3:00:00::" annotator="veweser" text="The Taliban captured the southern city of Kandahar--where its reclusive leader, Mullah Mohammed Omar, resides--in late 1994 and the capital, Kabul, last September." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1644.anc" start="5424" end="5433" sStart="null" offset="103" sid="r1.influence.n.0096" wn="1" wnkey="influence%1:07:00::" annotator="sophiavv" text="Pakistan has been the key supporter, but Saudi Arabia and the United States--both keen to stem Iranian influence in the region--also are believed to have supplied finance." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1644.anc" start="5424" end="5433" sStart="null" offset="103" sid="r1.influence.n.0096" wn="4" wnkey="influence%1:19:00::" annotator="anfahmy" text="Pakistan has been the key supporter, but Saudi Arabia and the United States--both keen to stem Iranian influence in the region--also are believed to have supplied finance." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1644.anc" start="5424" end="5433" sStart="null" offset="103" sid="r1.influence.n.0096" wn="1" wnkey="influence%1:07:00::" annotator="adelpriore" text="Pakistan has been the key supporter, but Saudi Arabia and the United States--both keen to stem Iranian influence in the region--also are believed to have supplied finance." />
+  </sentences>
+</list>

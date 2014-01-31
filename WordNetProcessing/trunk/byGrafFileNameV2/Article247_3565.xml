@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3565.anc" start="5469" end="5474" sStart="5303" offset="166" sid="r10.wait.v.0164" wn="2" wnkey="wait%2:42:01::" annotator="brubin" text="Today's Papers' only complaint about Broad's re-look is that it somewhat unfairly chips away at the impression the paper had originally created: The three-page piece waits until the second-to-last column to state that the consensus of the American intelligence agencies is that espionage played a role in China's catch-up even if there is no smoking-gun evidence for this." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3565.anc" start="5035" end="5040" sStart="null" offset="4" sid="r9.paper.n.0639" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="The paper's coverage has generally been clear in attributing the Wen Ho Lee-probably-did-it line to particular (named and unnamed) government sources." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3565.anc" start="4942" end="4947" sStart="null" offset="51" sid="r9.paper.n.0732" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="Or worse, some sort of illegitimate attempt by the paper to revise its history of coverage on the subject?" />
+  </sentences>
+</list>

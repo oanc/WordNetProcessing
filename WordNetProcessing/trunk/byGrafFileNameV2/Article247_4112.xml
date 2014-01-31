@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4112.anc" start="853" end="857" sStart="816" offset="37" sid="r10.wait.v.0201" wn="2" wnkey="wait%2:42:01::" annotator="veweser" text="We have a dream: Buy low, sell high, wait till the stocks tumble, then buy low again, sell high again." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4112.anc" start="847" end="851" sStart="null" offset="31" sid="r10.high.j.0181" wn="1" wnkey="high%3:00:02::" annotator="veweser" text="We have a dream: Buy low, sell high, wait till the stocks tumble, then buy low again, sell high again." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4112.anc" start="2427" end="2433" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="I guess sending a couple of wrestlers to the Coke CEO's office and teaching him a lesson he'd never &lt;b&gt;forget&lt;/b&gt; wasn't considered a realistic option.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4112.anc" start="2427" end="2433" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="I guess sending a couple of wrestlers to the Coke CEO's office and teaching him a lesson he'd never &lt;b&gt;forget&lt;/b&gt; wasn't considered a realistic option.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4112.anc" start="2427" end="2433" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="carichter" text="I guess sending a couple of wrestlers to the Coke CEO's office and teaching him a lesson he'd never &lt;b&gt;forget&lt;/b&gt; wasn't considered a realistic option.&quot;" />
+  </sentences>
+</list>

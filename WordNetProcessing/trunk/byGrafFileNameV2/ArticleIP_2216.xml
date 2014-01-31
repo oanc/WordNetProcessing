@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2216.anc" start="6565" end="6573" sStart="-1" offset="0" sid="null" wn="4" wnkey="transfer%2:38:00::" annotator="carichter" text="She will soon find that relationship excessively demanding and &lt;b&gt;transfer&lt;/b&gt; her attentions elsewhere--to Bill Cosby or Bill Bradley, perhaps." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2216.anc" start="6173" end="6184" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="So, by a process known to psychologists as transference, she &lt;b&gt;transferred&lt;/b&gt; her feelings, both positive and negative, to you, the second-most-important Bill in the country." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2216.anc" start="3250" end="3257" sStart="null" offset="0" sid="null" wn="1" wnkey="mature%2:30:00::" annotator="cgozo" text="There is evidence that, as the Web &lt;b&gt;matures&lt;/b&gt;, the resistance to paying for content is crumbling." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2216.anc" start="3250" end="3257" sStart="null" offset="0" sid="null" wn="1" wnkey="mature%2:30:00::" annotator="brubin" text="There is evidence that, as the Web &lt;b&gt;matures&lt;/b&gt;, the resistance to paying for content is crumbling." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2216.anc" start="984" end="990" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2216.anc" start="984" end="990" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2216.anc" start="5213" end="5216" sStart="null" offset="62" sid="r8.ask.v.0784" wn="2" wnkey="ask%2:32:02::" annotator="cgozo" text="The thread's already active, so to make your own comments and ask any questions, click here." />
+  </sentences>
+</list>

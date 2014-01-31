@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_57488.anc" start="6438" end="6443" sStart="6430" offset="8" sid="r8.state.n.0991" wn="1" wnkey="state%1:15:01::" annotator="brubin" text="Florida State is seeded 1 st , and Virginia Tech is 2 nd , in all major rankings." />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_57488.anc" start="1002" end="1006" sStart="null" offset="84" sid="r9.kill.v.0590" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="The King family's attorneys argued that the FBI, CIA, mafia, and media conspired to kill King because of his political views." />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_57488.anc" start="927" end="933" sStart="null" offset="9" sid="r8.family.n.0677" wn="4" wnkey="family%1:14:01::" annotator="veweser" text="The King family's attorneys argued that the FBI, CIA, mafia, and media conspired to kill King because of his political views." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57488.anc" start="3749" end="3753" sStart="null" offset="0" sid="null" wn="6" wnkey="date%1:28:05::" annotator="veweser" text="The Arizona &lt;b&gt;date&lt;/b&gt; was hastily scheduled in response to a request from George W. Bush, who missed the first three debates." />
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_57488.anc" start="1263" end="1268" sStart="null" offset="77" sid="r10.book.n.0283" wn="1" wnkey="book%1:10:00::" annotator="cgozo" text="The King family's spin: This is the first step toward correcting the history books." />
+  </sentences>
+</list>

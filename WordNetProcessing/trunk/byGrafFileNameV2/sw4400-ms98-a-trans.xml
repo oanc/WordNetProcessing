@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/44/sw4400-ms98-a-trans.anc" start="4040" end="4044" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="veweser" text="oh that's flat &lt;b&gt;rate&lt;/b&gt; sir you know that they look it up in the book and if it takes an hour to do something why and they can get it done in thirty minutes why they charge you an hour" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/44/sw4400-ms98-a-trans.anc" start="4040" end="4044" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="jeneale" text="oh that's flat &lt;b&gt;rate&lt;/b&gt; sir you know that they look it up in the book and if it takes an hour to do something why and they can get it done in thirty minutes why they charge you an hour" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/44/sw4400-ms98-a-trans.anc" start="4040" end="4044" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="oh that's flat &lt;b&gt;rate&lt;/b&gt; sir you know that they look it up in the book and if it takes an hour to do something why and they can get it done in thirty minutes why they charge you an hour" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/44/sw4400-ms98-a-trans.anc" start="4040" end="4044" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="oh that's flat &lt;b&gt;rate&lt;/b&gt; sir you know that they look it up in the book and if it takes an hour to do something why and they can get it done in thirty minutes why they charge you an hour" />
+  </sentences>
+</list>

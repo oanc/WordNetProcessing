@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3990.anc" start="725" end="730" sStart="643" offset="82" sid="r7.1.use.v.0084" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="In the past two years, investors have begun to make trades without a middleman by using electronic communications networks, or ECNs." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3990.anc" start="114" end="119" sStart="null" offset="21" sid="r1.rule.v.0075" wn="4" wnkey="rule%2:32:00::" annotator="sophiavv" text="When a Federal judge ruled last Friday evening that Microsoft had abused its monopoly power, many reports noted that the company's stock price fell in &quot;after-hours trading.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3990.anc" start="114" end="119" sStart="null" offset="21" sid="r1.rule.v.0075" wn="4" wnkey="rule%2:32:00::" annotator="anfahmy" text="When a Federal judge ruled last Friday evening that Microsoft had abused its monopoly power, many reports noted that the company's stock price fell in &quot;after-hours trading.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3990.anc" start="114" end="119" sStart="null" offset="21" sid="r1.rule.v.0075" wn="4" wnkey="rule%2:32:00::" annotator="adelpriore" text="When a Federal judge ruled last Friday evening that Microsoft had abused its monopoly power, many reports noted that the company's stock price fell in &quot;after-hours trading.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3990.anc" start="854" end="860" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="With computers making the matches, ECNs--such as Instinet, MarketXT and Datek &lt;b&gt;Island&lt;/b&gt; -- can extend their hours." />
+  </sentences>
+</list>

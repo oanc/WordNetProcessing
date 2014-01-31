@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2578.anc" start="2234" end="2240" sStart="2211" offset="23" sid="r11.strong.j.0714" wn="2" wnkey="strong%5:00:00:intense:00" annotator="adelpriore" text="There must have been a strong desire to listen to music while walking or jogging on the sidewalk." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2578.anc" start="531" end="537" sStart="null" offset="27" sid="r7.strike.v.0237" wn="2" wnkey="strike%2:37:00::" annotator="veweser" text="More recently, I have been struck by the smoking." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2578.anc" start="965" end="970" sStart="null" offset="29" sid="r9.sense.n.0902" wn="2" wnkey="sense%1:10:00::" annotator="anfahmy" text="I don't mean drinking in the sense of taking in alcoholic beverages." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2578.anc" start="3025" end="3029" sStart="null" offset="155" sid="r7.poor.j.0704" wn="2" wnkey="poor%3:00:00::" annotator="cgozo" text="Maybe all these people--mostly men, but I have seen a few women at it also--are calling their brokers to find out how rich they are or, more recently, how poor they are." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2578.anc" start="2196" end="2200" sStart="null" offset="0" sid="null" wn="4" wnkey="meet%2:34:00::" annotator="cgozo" text="But these technological innovations would not have spread so far if they did not &lt;b&gt;meet&lt;/b&gt; a demand." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2578.anc" start="1259" end="1264" sStart="null" offset="20" sid="r8.1.great.j.0988" wn="1" wnkey="great%5:00:01:large:00" annotator="cgozo" text="So those who feel a great need to smoke go down to the sidewalk." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2578.anc" start="1344" end="1349" sStart="null" offset="40" sid="r8.1.great.j.0128" wn="1" wnkey="great%5:00:01:large:00" annotator="cgozo" text="What is harder for me to explain is the great number of women in these smoking groups." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2578.anc" start="1158" end="1162" sStart="null" offset="15" sid="r7.1.easy.j.0996" wn="1" wnkey="easy%3:00:01::" annotator="cgozo" text="The smoking is easy to explain." />
+  </sentences>
+</list>

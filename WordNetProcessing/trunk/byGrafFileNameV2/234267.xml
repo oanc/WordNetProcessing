@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/234267.anc" start="1119" end="1123" sStart="966" offset="156" sid="null" wn="6" wnkey="date%1:28:05::" annotator="vebatchelder" text="p&gt;Ellen - I added the statistic you wanted and updated the older ones (you'll notice slightly different prices/occurrences because I hadn't cut off the date at Jan 1 2000 - i.e." />
+    <s path="[MASC]/data/written/234267.anc" start="134" end="138" sStart="null" offset="124" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="cesDoc&gt; &lt;text&gt; &lt;head type=&quot;email&quot;&gt; Message-ID: &lt;4232844.1075860516484.JavaMail.evans@thyme&gt; Date: Tue, 1 Feb 2000 01:43:00 -0800 (PST) From: mary.hain@enron.com To: richard.sanders@enron.com, christian.yoder@enron.com, ellen@tca-us.com Subject: confidential (client-attorney) Mime-Version: 1.0 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit X-From: Mary Hain X-To: Richard Sanders, Christian Yoder, ellen@tca-us.com X-cc: X-bcc: X-Folder: \Richard_Sanders_Dec2000\Notes Folders\All documents X-Origin: Sanders-R X-FileName: rsander.nsf &lt;/head type=&quot;email&quot;&gt; &lt;body&gt;" />
+    <s path="[MASC]/data/written/234267.anc" start="978" end="983" sStart="null" offset="15" sid="null" wn="1" wnkey="add%2:30:00::" annotator="vebatchelder" text="p&gt;Ellen - I added the statistic you wanted and updated the older ones (you'll notice slightly different prices/occurrences because I hadn't cut off the date at Jan 1 2000 - i.e." />
+  </sentences>
+</list>

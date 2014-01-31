@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/8/Article247_916.anc" start="2173" end="2177" sStart="2079" offset="94" sid="r11.true.j.0812" wn="4" wnkey="true%3:00:04::" annotator="anfahmy" text="Had the world known for certain that the incredible stories coming from the Soviet Union were true, more Jews could have been warned." />
+    <s path="[OANC]/data/written_1/journal/slate/8/Article247_916.anc" start="343" end="348" sStart="null" offset="0" sid="r7.sound.n.0460" wn="2147483645" wnkey="null" annotator="cgozo" text="Sound familiar?" />
+    <s path="[OANC]/data/written_1/journal/slate/8/Article247_916.anc" start="349" end="357" sStart="null" offset="6" sid="r7.familiar.j.0349" wn="1" wnkey="familiar%3:00:00::" annotator="jeneale" text="Sound familiar?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_916.anc" start="349" end="357" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" annotator="elstickles" text="Sound &lt;b&gt;familiar&lt;/b&gt;?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_916.anc" start="349" end="357" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="comcgeetubb" text="Sound &lt;b&gt;familiar&lt;/b&gt;?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_916.anc" start="349" end="357" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="comcgeetubb" text="Sound &lt;b&gt;familiar&lt;/b&gt;?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_916.anc" start="349" end="357" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" annotator="carichter" text="Sound &lt;b&gt;familiar&lt;/b&gt;?" />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2386.anc" start="5849" end="5853" sStart="5836" offset="13" sid="r11.true.j.0572" wn="1" wnkey="true%3:00:00::" annotator="anfahmy" text="(That's been true, sometimes, but who pays the money to corrupt unions?)" />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2386.anc" start="1969" end="1973" sStart="null" offset="51" sid="r7.poor.j.0469" wn="2147483645" wnkey="null" annotator="veweser" text="(The kind of due process liberals dream of for the poor but never get.)" />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2386.anc" start="1969" end="1973" sStart="null" offset="51" sid="r7.poor.j.0469" wn="2147483645" wnkey="null" annotator="jeneale" text="(The kind of due process liberals dream of for the poor but never get.)" />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2386.anc" start="4143" end="4149" sStart="null" offset="44" sid="r8.family.n.0855" wn="2" wnkey="family%1:14:00::" annotator="brubin" text="Or what about Clinton's poster child, &quot;family leave&quot;?" />
+  </sentences>
+</list>

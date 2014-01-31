@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Media/Boone_legal_service.anc" start="1074" end="1081" sStart="-1" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="cgozo" text="The city of Boone gave Schroeder $6,300 in July to resolve pending cases, said Kathy Berg, Boone's finance &lt;b&gt;officer&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Media/Boone_legal_service.anc" start="1074" end="1081" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="brubin" text="The city of Boone gave Schroeder $6,300 in July to resolve pending cases, said Kathy Berg, Boone's finance &lt;b&gt;officer&lt;/b&gt;." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Boone_legal_service.anc" start="1693" end="1698" sStart="null" offset="84" sid="r10.board.n.0185" wn="1" wnkey="board%1:14:00::" annotator="veweser" text="Olson said Schroeder must prove Prairie Meadows is the primary money source for the board to grant the program any more money." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Boone_legal_service.anc" start="1888" end="1893" sStart="null" offset="14" sid="r10.board.n.0940" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="Olson and the board did not want to be the main money source." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Boone_legal_service.anc" start="1320" end="1325" sStart="null" offset="38" sid="r10.board.n.0928" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="Donovan Olson, chairman of the county Board of Supervisors, said the board quit funding the legal service in July because it felt the county didn't need it." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Boone_legal_service.anc" start="1351" end="1356" sStart="null" offset="69" sid="r10.board.n.0128" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="Donovan Olson, chairman of the county Board of Supervisors, said the board quit funding the legal service in July because it felt the county didn't need it." />
+  </sentences>
+</list>

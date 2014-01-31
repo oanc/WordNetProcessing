@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_576.anc" start="3317" end="3323" sStart="3047" offset="280" sid="r7.strike.n.0258" wn="1" wnkey="strike%1:04:00::" annotator="jeneale" text="The Journal 's &quot;The Outlook&quot; piece takes note of recent claims that the Y2K problem will generate a recession of 1974 oil-shock caliber and says that's not likely: After all, the twenty-two-day-long government shut-down in 1996 didn't do that, nor did last summer's UPS strike." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_576.anc" start="831" end="836" sStart="null" offset="14" sid="r9.paper.n.0837" wn="5" wnkey="paper%1:10:02::" annotator="veweser" text="But, says the paper, the leap from mouse to man is a huge one." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_576.anc" start="3731" end="3736" sStart="null" offset="69" sid="r9.paper.n.0728" wn="4" wnkey="paper%1:10:00::" annotator="brubin" text="Since, Congress will probably keep total military spending flat, the paper notes that not closing bases is equivalent to passing cuts on readiness, weapons procurement and research." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/4/Article247_576.anc" start="547" end="551" sStart="null" offset="0" sid="null" wn="1" wnkey="land%1:21:01::" annotator="rstandig" text="And the Los Angeles &lt;b&gt;Times&lt;/b&gt; goes with Israel's rejection of an American proposal for a transfer of more West Bank &lt;b&gt;land&lt;/b&gt; to the Palestinians." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_576.anc" start="1828" end="1832" sStart="null" offset="8" sid="r9.hit.v.0372" wn="13" wnkey="hit%2:38:07::" annotator="brubin" text="The NYT hits the pardon issue much higher in its front page Hubbell tape story, not surprising since it went front page on Saturday with a story saying congressional investigators took the &quot;Election Day&quot; comment to signify pardon hopes." />
+  </sentences>
+</list>

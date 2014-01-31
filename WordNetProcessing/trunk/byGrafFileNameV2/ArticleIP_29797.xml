@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29797.anc" start="916" end="921" sStart="-1" offset="0" sid="null" wn="7" wnkey="smart%5:00:00:automatic:00" annotator="veweser" text="&quot;An improved &lt;b&gt;smart&lt;/b&gt; bomb, now with added bleach and a touch of lemon!&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29797.anc" start="916" end="921" sStart="null" offset="0" sid="null" wn="7" wnkey="smart%5:00:00:automatic:00" annotator="cgozo" text="&quot;An improved &lt;b&gt;smart&lt;/b&gt; bomb, now with added bleach and a touch of lemon!&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29797.anc" start="916" end="921" sStart="null" offset="0" sid="null" wn="7" wnkey="smart%5:00:00:automatic:00" annotator="brubin" text="&quot;An improved &lt;b&gt;smart&lt;/b&gt; bomb, now with added bleach and a touch of lemon!&quot;" />
+  </sentences>
+</list>

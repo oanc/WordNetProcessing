@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4466.anc" start="1031" end="1035" sStart="1016" offset="15" sid="r10.wait.v.0247" wn="2147483646" wnkey="null" annotator="cgozo" text="And they can't wait for the games to resume." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4466.anc" start="2819" end="2825" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="It's been interesting to me, for example, that after all the rejoicing about how nice it is to have Jordan back in the NBA just a year after his retirement as a &lt;b&gt;player&lt;/b&gt;, the next thing that most of his fans fretted about was whether his involvement with the sad-sack Wizards will eventually cloud his legend." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4466.anc" start="2819" end="2825" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="tofox" text="It's been interesting to me, for example, that after all the rejoicing about how nice it is to have Jordan back in the NBA just a year after his retirement as a &lt;b&gt;player&lt;/b&gt;, the next thing that most of his fans fretted about was whether his involvement with the sad-sack Wizards will eventually cloud his legend." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4466.anc" start="847" end="854" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="comcgeetubb" text="I'm sure Thomas will be remembered in Atlanta this week at the Super Bowl, especially today as the reporters descend on the &lt;b&gt;players&lt;/b&gt; and coaches for a reaction." />
+  </sentences>
+</list>

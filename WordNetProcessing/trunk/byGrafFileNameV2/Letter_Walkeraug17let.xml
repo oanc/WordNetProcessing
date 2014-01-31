@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Gen_Account_Office/Letter_Walkeraug17let.anc" start="22157" end="22164" sStart="-1" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="cgozo" text="Thus far, we have sought to obtain adequate, relevant records and explanations without &lt;b&gt;success&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Gen_Account_Office/Letter_Walkeraug17let.anc" start="22157" end="22164" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="Thus far, we have sought to obtain adequate, relevant records and explanations without &lt;b&gt;success&lt;/b&gt;." />
+  </sentences>
+</list>

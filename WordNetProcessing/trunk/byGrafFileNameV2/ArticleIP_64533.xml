@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_64533.anc" start="994" end="1000" sStart="947" offset="47" sid="r9.kill.v.0599" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="In 1921, as many as 300 African-Americans were killed when white authorities deputized a bloodthirsty lynch mob." />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_64533.anc" start="3251" end="3255" sStart="null" offset="17" sid="r9.kill.v.0171" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="Klebold hoped to kill 250 people on what he called &quot;Judgement Day.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_64533.anc" start="5665" end="5669" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="veweser" text="He regrets the death of Princess Diana because &quot;I would have loved to have had a shot to &lt;b&gt;date&lt;/b&gt; her.&quot;" />
+  </sentences>
+</list>

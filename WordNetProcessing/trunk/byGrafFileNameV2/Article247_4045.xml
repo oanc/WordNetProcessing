@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4045.anc" start="1342" end="1347" sStart="1277" offset="65" sid="r1.rule.v.0033" wn="1" wnkey="rule%2:41:00::" annotator="sophiavv" text="From this side of the Atlantic, the U.K. has long appeared to be ruled by an essentially unicameral parliament." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4045.anc" start="1342" end="1347" sStart="null" offset="65" sid="r1.rule.v.0033" wn="1" wnkey="rule%2:41:00::" annotator="anfahmy" text="From this side of the Atlantic, the U.K. has long appeared to be ruled by an essentially unicameral parliament." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4045.anc" start="1342" end="1347" sStart="null" offset="65" sid="r1.rule.v.0033" wn="1" wnkey="rule%2:41:00::" annotator="adelpriore" text="From this side of the Atlantic, the U.K. has long appeared to be ruled by an essentially unicameral parliament." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4045.anc" start="1009" end="1014" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="carichter" text="The scenarios under consideration tend to emphasize making membership entirely or partially elective, which would make the House of Lords more democratic, and then giving the upper chamber greater &lt;b&gt;power&lt;/b&gt; than it currently enjoys." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4045.anc" start="1243" end="1247" sStart="null" offset="56" sid="r9.kill.v.0132" wn="2" wnkey="kill%2:41:01::" annotator="brubin" text="What Chatterbox doesn't understand is why Britons don't kill the House of Lords outright." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4045.anc" start="3742" end="3746" sStart="null" offset="162" sid="r7.1.easy.j.0224" wn="1" wnkey="easy%3:00:01::" annotator="cgozo" text="He said it was &quot;fine by me, but most big decisions in modern history have been taken without reference to Parliament and so I suppose that one chamber is as easy to bypass as two.&quot;" />
+  </sentences>
+</list>

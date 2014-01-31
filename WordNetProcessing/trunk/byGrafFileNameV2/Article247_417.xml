@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_417.anc" start="2213" end="2218" sStart="2191" offset="22" sid="r9.paper.n.0616" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="The company, says the paper, prefers to sweep its dirt under the rug to protect its dominant share of the testing business instead of spending the money to tighten security." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_417.anc" start="1857" end="1861" sStart="null" offset="249" sid="r9.full.j.0732" wn="2" wnkey="full%5:00:01:whole:00" annotator="brubin" text="The paper says that throughout the course of U.S. officials' investigation of the incident, their requests for help from Egypt have produced only limited cooperation, and that this month Al Gore privately demanded that Egypt's Hosni Mubarak order a full investigation." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_417.anc" start="3013" end="3018" sStart="null" offset="70" sid="r8.ask.v.0656" wn="1" wnkey="ask%2:32:01::" annotator="cgozo" text="In the wake of its handling of the Marv Albert story, Friday's column asked the WP to clarify its policy on naming names." />
+  </sentences>
+</list>

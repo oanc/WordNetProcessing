@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="4145" end="4148" sStart="3981" offset="164" sid="r8.way.n.0176" wn="1" wnkey="way%1:07:01::" annotator="cgozo" text="I don't do any independent investigation of the veracity of the tabloid stories, I just let them speak for themselves, in all their ludicrous glory--hopefully in a way that's as amusing as the tabs themselves." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="1243" end="1253" sStart="null" offset="50" sid="r1.successful.j.0050" wn="1" wnkey="successful%3:00:00::" annotator="sophiavv" text="Likewise, the lawyer who went to China was a very successful lawyer." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="1243" end="1253" sStart="null" offset="50" sid="r1.successful.j.0050" wn="1" wnkey="successful%3:00:00::" annotator="anfahmy" text="Likewise, the lawyer who went to China was a very successful lawyer." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="1243" end="1253" sStart="null" offset="50" sid="r1.successful.j.0050" wn="1" wnkey="successful%3:00:00::" annotator="adelpriore" text="Likewise, the lawyer who went to China was a very successful lawyer." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="1105" end="1110" sStart="null" offset="23" sid="r8.1.great.j.0141" wn="4" wnkey="great%5:00:00:good:01" annotator="veweser" text="For example, you had a great feature on a real estate agent." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="4873" end="4877" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="brubin" text="&lt;b&gt;DATE&lt;/b&gt;: Tues Sept 14" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="1622" end="1626" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="brubin" text="&lt;b&gt;DATE&lt;/b&gt;: Fri Sept 10" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="6260" end="6266" sStart="null" offset="19" sid="r10.common.j.0122" wn="2" wnkey="common%3:00:01::" annotator="anfahmy" text="Many, if not most, common drugs were originally a substance that occurred in nature, such as various plant extracts." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34945.anc" start="6921" end="6925" sStart="null" offset="110" sid="r11.able.j.1000" wn="1" wnkey="able%3:00:00::" annotator="vebatchelder" text="5. Anti-depressants are not meant to make one happier , per se, but rather to make one feel normal and better able to deal with everyday details that most people take for granted." />
+  </sentences>
+</list>

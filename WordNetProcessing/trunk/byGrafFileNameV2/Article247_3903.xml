@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/16/Article247_3903.anc" start="1561" end="1565" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="kaolla" text="Now, Mundell also went on to work on--or speculate on--the supply-side effects of tax cuts, and this &lt;b&gt;work&lt;/b&gt; was obviously important to the Reaganauts." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/16/Article247_3903.anc" start="1561" end="1565" sStart="null" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" annotator="carichter" text="Now, Mundell also went on to work on--or speculate on--the supply-side effects of tax cuts, and this &lt;b&gt;work&lt;/b&gt; was obviously important to the Reaganauts." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3903.anc" start="1940" end="1944" sStart="null" offset="117" sid="r11.true.j.0689" wn="3" wnkey="true%5:00:02:faithful:00" annotator="anfahmy" text="And yet just 15 pages later, in the very same issue, Paul Craig Roberts, among the truest of the supply-side cadre's true believers, begins his column with these words: &quot;Robert A. Mundell's Nobel Prize has deprived supply-side economics of its voodoo status.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3903.anc" start="2352" end="2359" sStart="null" offset="7" sid="r10.control.n.0802" wn="1" wnkey="control%1:07:00::" annotator="anfahmy" text="gained control of policy&quot; and saved the world." />
+  </sentences>
+</list>

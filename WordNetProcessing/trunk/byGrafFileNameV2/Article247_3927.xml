@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3927.anc" start="732" end="736" sStart="729" offset="3" sid="r10.wait.v.0187" wn="2147483646" wnkey="null" annotator="cgozo" text="Oh wait, Florida is the place with the palm trees, right?" />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3927.anc" start="1978" end="1983" sStart="null" offset="23" sid="r7.serve.v.0226" wn="6" wnkey="serve_up%2:34:00::" annotator="jeneale" text="Theme restaurants that serve dim sum." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3927.anc" start="1576" end="1582" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="Putting Disneyland on Lantau &lt;b&gt;Island&lt;/b&gt; can only distract us from the airport itself, which seems to me to be the perfect iteration of a modern-day theme park, with its brilliantly modern design that effortlessly propels travelers to their gates, their luggage, a brand-new rail link to downtown Hong Kong." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3927.anc" start="682" end="686" sStart="null" offset="15" sid="r11.able.j.0261" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="and if we'd be able to tell the difference once we got there." />
+  </sentences>
+</list>

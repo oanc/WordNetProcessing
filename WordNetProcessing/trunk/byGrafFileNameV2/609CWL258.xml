@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/609CWL258.anc" start="1584" end="1591" sStart="-1" offset="0" sid="null" wn="3" wnkey="write%2:32:08::" annotator="tofox" text="I am &lt;b&gt;writing&lt;/b&gt; to ask for your direct assistance in our education programs and artistic product." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/609CWL258.anc" start="105" end="109" sStart="null" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" annotator="cgozo" text="My love affair with the IRT is a &lt;b&gt;long&lt;/b&gt; one." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/609CWL258.anc" start="18" end="22" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="veweser" text="&lt;b&gt;Date&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/609CWL258.anc" start="835" end="841" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="veweser" text="But what I'm proudest of, is that our education program has &lt;b&gt;become&lt;/b&gt; a national leader among fully professional not-for-profit regional theatres." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/609CWL258.anc" start="835" end="841" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="jeneale" text="But what I'm proudest of, is that our education program has &lt;b&gt;become&lt;/b&gt; a national leader among fully professional not-for-profit regional theatres." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/609CWL258.anc" start="835" end="841" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="carichter" text="But what I'm proudest of, is that our education program has &lt;b&gt;become&lt;/b&gt; a national leader among fully professional not-for-profit regional theatres." />
+    <s path="[OANC]/data/written_1/letters/icic/609CWL258.anc" start="2891" end="2895" sStart="null" offset="23" sid="r11.able.j.0930" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="You wouldn't have been able to experience the joys of plays I have been in (and those I haven't) without donations other than ticket purchases." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/530C-L208.anc" start="1263" end="1270" sStart="-1" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="veweser" text="The better our law school &lt;b&gt;becomes&lt;/b&gt; directly increases the valuation of our degrees." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/530C-L208.anc" start="1263" end="1270" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="tofox" text="The better our law school &lt;b&gt;becomes&lt;/b&gt; directly increases the valuation of our degrees." />
+    <s path="[OANC]/data/written_1/letters/icic/530C-L208.anc" start="599" end="603" sStart="null" offset="52" sid="r11.able.j.0546" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="Each of you may contribute the amount that you feel able to contribute, and then you may deduct for it on your taxes." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33700.anc" start="3300" end="3303" sStart="3233" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="As the best-known film critic in America (and the only one ever to &lt;b&gt;win&lt;/b&gt; a Pulitzer), the erstwhile broadcasting partner of Gene Siskel holds a position of unique influence in film." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33700.anc" start="2960" end="2965" sStart="null" offset="13" sid="r8.1.great.j.0847" wn="4" wnkey="great%5:00:00:good:01" annotator="brubin" text="&quot;If, by great entertainment, you mean programs starring Dweezil and Ahmet Zappa, or the umpteenth Discovery Channel special on sharks,&quot; he did not add." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33700.anc" start="4700" end="4704" sStart="null" offset="28" sid="r10.find.v.0887" wn="2" wnkey="find%2:39:02::" annotator="cgozo" text="Participants are invited to find, in an actual newspaper or magazine, a less enticing headline." />
+  </sentences>
+</list>

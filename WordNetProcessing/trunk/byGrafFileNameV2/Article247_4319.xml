@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4319.anc" start="913" end="918" sStart="-1" offset="0" sid="null" wn="9" wnkey="power%1:19:01::" annotator="carichter" text="If &quot;critical&quot; systems--such as &lt;b&gt;power&lt;/b&gt; grids, defense computers, and hospital equipment--had not been fixed, disaster might have followed." />
+    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4319.anc" start="2291" end="2299" sStart="null" offset="36" sid="r11.benefit.n.0071" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="Other upgrades will yield long-term benefits through improved computer infrastructure." />
+    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4319.anc" start="2291" end="2299" sStart="null" offset="36" sid="r11.benefit.n.0071" wn="2" wnkey="benefit%1:07:00::" annotator="adelpriore" text="Other upgrades will yield long-term benefits through improved computer infrastructure." />
+    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4319.anc" start="580" end="586" sStart="null" offset="69" sid="r9.appear.v.0600" wn="1" wnkey="appear%2:39:00::" annotator="brubin" text="And countries such as Italy and Paraguay, which spent little on Y2K, appear to have fared as well as the United States, which spent $100 billion." />
+  </sentences>
+</list>

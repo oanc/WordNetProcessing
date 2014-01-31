@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/government/Gen_Account_Office/og97001.anc" start="4024" end="4029" sStart="3983" offset="41" sid="r8.state.n.0332" wn="1" wnkey="state%1:15:01::" annotator="cgozo" text="The Department received comments from 27 State and local welfare agencies, State child support enforcement agencies, and State employers." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Gen_Account_Office/og97001.anc" start="591" end="599" sStart="null" offset="0" sid="null" wn="2" wnkey="entitle%2:32:00::" annotator="cgozo" text="Pursuant to section 801(a)(2)(A) of title 5, United States Code, this is our report on a major rule promulgated by Department of Agriculture, &lt;b&gt;entitled&lt;/b&gt; &quot;Food Stamp Program: Child Support Deduction.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Gen_Account_Office/og97001.anc" start="591" end="599" sStart="null" offset="0" sid="null" wn="2" wnkey="entitle%2:32:00::" annotator="brubin" text="Pursuant to section 801(a)(2)(A) of title 5, United States Code, this is our report on a major rule promulgated by Department of Agriculture, &lt;b&gt;entitled&lt;/b&gt; &quot;Food Stamp Program: Child Support Deduction.&quot;" />
+    <s path="[OANC]/data/written_2/technical/government/Gen_Account_Office/og97001.anc" start="2727" end="2734" sStart="null" offset="126" sid="r11.benefit.n.0514" wn="1" wnkey="benefit%1:21:00::" annotator="vebatchelder" text="According to the Department, this action increases the number of potentially eligible food stamp recipients and increases the benefit level of certain households that are affected by these provisions." />
+  </sentences>
+</list>

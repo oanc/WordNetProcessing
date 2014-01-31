@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/19/Article247_4224.anc" start="3395" end="3399" sStart="-1" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" annotator="rstandig" text="Whether his memory is accurate cannot be confirmed, since Columbia Tristar Television, which owns the tapes in question, &lt;b&gt;says&lt;/b&gt; it is unable to look the incident up.)" />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4224.anc" start="1663" end="1670" sStart="null" offset="84" sid="r9.kill.v.0704" wn="1" wnkey="kill%2:35:00::" annotator="brubin" text="&quot;Spears&quot; thinks it's OK because the Christians have forgiven the Jews for killing Christ." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4224.anc" start="3961" end="3967" sStart="null" offset="66" sid="r9.kill.v.0228" wn="1" wnkey="kill%2:35:00::" annotator="brubin" text="Then she added, &quot;I can't believe they're the same people who killed our Lord.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4224.anc" start="352" end="358" sStart="null" offset="79" sid="r8.ask.v.0866" wn="1" wnkey="ask%2:32:01::" annotator="jeneale" text="The case in point: A little more than a week ago, Foxman wrote a letter to NBC asking it never to rebroadcast portions of a Dec. 4 Saturday Night Live skit he said were offensive to Jews." />
+  </sentences>
+</list>

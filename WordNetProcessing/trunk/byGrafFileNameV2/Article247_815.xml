@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_815.anc" start="3523" end="3528" sStart="3504" offset="19" sid="r9.paper.n.0989" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The deal, says the paper, was that the inspectors did this in return for getting worked-up information back from the NSA relevant to where and how Iraq was hiding evidence of its weapons programs." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_815.anc" start="299" end="303" sStart="null" offset="57" sid="r8.live.v.0524" wn="2147483645" wnkey="null" annotator="cgozo" text="The Washington Post big print stresses the likelihood of live testimony, particularly that of Monica Lewinsky." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_815.anc" start="1033" end="1037" sStart="null" offset="35" sid="r8.live.v.0371" wn="2147483645" wnkey="null" annotator="brubin" text="A trial that will probably include live witnesses." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_815.anc" start="413" end="417" sStart="null" offset="65" sid="r9.full.j.0922" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="The New York Times headline dwells on the probability of a &quot;full trial&quot; leading to a vote on the two articles of impeachment." />
+  </sentences>
+</list>

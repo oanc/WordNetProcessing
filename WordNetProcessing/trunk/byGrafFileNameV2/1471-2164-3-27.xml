@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-27.anc" start="6785" end="6793" sStart="6752" offset="33" sid="r8.suggest.v.0841" wn="3" wnkey="suggest%2:32:02::" annotator="veweser" text="Each of these statistics suggests high concordance between results obtained from human and pig (Table 4)." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-27.anc" start="8529" end="8536" sStart="null" offset="39" sid="r8.suggest.v.0980" wn="3" wnkey="suggest%2:32:02::" annotator="cgozo" text="Thus, no evidence was found that would suggest washing and reusing filters up to five times systematically increases variability of hybridisation results." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-27.anc" start="20548" end="20559" sStart="null" offset="71" sid="r11.recommend.v.0397" wn="1" wnkey="recommend%2:32:01::" annotator="vebatchelder" text="Microarrays were re-used for a total of 5 hybridisations, as recommended by the manufacturer." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-27.anc" start="10347" end="10358" sStart="null" offset="269" sid="r11.recommend.v.0395" wn="1" wnkey="recommend%2:32:01::" annotator="anfahmy" text="The importance of replication in microarray gene expression studies has been addressed by Lee [ 8 ] . These authors concluded that more reliable analyses of gene expression data are obtained by pooling data from multiple replicates, and recommended that at least three replicate hybridisations be completed for each experimental treatment." />
+  </sentences>
+</list>

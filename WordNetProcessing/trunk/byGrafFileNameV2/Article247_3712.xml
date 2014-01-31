@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3712.anc" start="1557" end="1560" sStart="1441" offset="116" sid="r7.1.use.v.0093" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="Memo to the White House: It's been Chatterbox's understanding that you come down pretty hard on anyone who tries to use the president's image in a commercial pitch--even if it's a joke (as, arguably, everything in Weekly World News is intended to be)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3712.anc" start="1577" end="1582" sStart="null" offset="0" sid="null" wn="8" wnkey="image%1:07:01::" annotator="brubin" text="Memo to the White House: It's been Chatterbox's understanding that you come down pretty hard on anyone who tries to use the president's &lt;b&gt;image&lt;/b&gt; in a commercial pitch--even if it's a joke (as, arguably, everything in Weekly World News is intended to be)." />
+  </sentences>
+</list>

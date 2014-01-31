@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3594-ms98-a-trans.anc" start="5350" end="5356" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="uh &lt;b&gt;people&lt;/b&gt; we'd go down to the coast every now and then and we've noticed some &lt;b&gt;people&lt;/b&gt; camp out on the beach on public beaches and uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3594-ms98-a-trans.anc" start="5350" end="5356" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="uh &lt;b&gt;people&lt;/b&gt; we'd go down to the coast every now and then and we've noticed some &lt;b&gt;people&lt;/b&gt; camp out on the beach on public beaches and uh" />
+  </sentences>
+</list>

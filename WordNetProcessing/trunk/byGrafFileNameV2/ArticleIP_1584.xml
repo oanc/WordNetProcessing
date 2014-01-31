@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1584.anc" start="2844" end="2848" sStart="2772" offset="72" sid="r11.true.j.0416" wn="3" wnkey="true%5:00:02:faithful:00" annotator="anfahmy" text="But the AARP fiercely complained that the excerpted quotations were not true to the organization's letter--which did not take sides against Clinton." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1584.anc" start="620" end="624" sStart="null" offset="0" sid="null" wn="1" wnkey="rate%1:28:00::" annotator="veweser" text="The Democrats maintain that the Republicans' increase in spending is below the &lt;b&gt;rate&lt;/b&gt; of medical inflation (the Republicans respond by pointing to the general &lt;b&gt;rate&lt;/b&gt; of inflation)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1584.anc" start="620" end="624" sStart="null" offset="0" sid="null" wn="1" wnkey="rate%1:28:00::" annotator="jeneale" text="The Democrats maintain that the Republicans' increase in spending is below the &lt;b&gt;rate&lt;/b&gt; of medical inflation (the Republicans respond by pointing to the general &lt;b&gt;rate&lt;/b&gt; of inflation)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1584.anc" start="620" end="624" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="The Democrats maintain that the Republicans' increase in spending is below the &lt;b&gt;rate&lt;/b&gt; of medical inflation (the Republicans respond by pointing to the general &lt;b&gt;rate&lt;/b&gt; of inflation)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1584.anc" start="620" end="624" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="The Democrats maintain that the Republicans' increase in spending is below the &lt;b&gt;rate&lt;/b&gt; of medical inflation (the Republicans respond by pointing to the general &lt;b&gt;rate&lt;/b&gt; of inflation)." />
+  </sentences>
+</list>

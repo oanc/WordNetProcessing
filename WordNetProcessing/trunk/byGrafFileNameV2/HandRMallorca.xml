@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/HandRMallorca.anc" start="551" end="562" sStart="515" offset="36" sid="r11.recommend.v.0807" wn="2" wnkey="recommend%2:32:00::" annotator="adelpriore" text="Only a couple of the establishments recommended below host tour groups; we make no effort to review the block-booked resort hotels, most of which are resoundingly similar in service, amenities, and facilities." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/HandRMallorca.anc" start="776" end="780" sStart="null" offset="19" sid="r10.book.v.0043" wn="4" wnkey="book%2:41:03::" annotator="veweser" text="You are advised to book hotels well in advance, particularly if planning to visit between June and September." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/HandRMallorca.anc" start="776" end="780" sStart="null" offset="19" sid="r10.book.v.0043" wn="2" wnkey="book%2:41:01::" annotator="cgozo" text="You are advised to book hotels well in advance, particularly if planning to visit between June and September." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/HandRMallorca.anc" start="776" end="780" sStart="null" offset="19" sid="r10.book.v.0043" wn="2" wnkey="book%2:41:01::" annotator="brubin" text="You are advised to book hotels well in advance, particularly if planning to visit between June and September." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/HandRMallorca.anc" start="776" end="780" sStart="null" offset="19" sid="r10.book.v.0043" wn="4" wnkey="book%2:41:03::" annotator="anfahmy" text="You are advised to book hotels well in advance, particularly if planning to visit between June and September." />
+  </sentences>
+</list>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="4868" end="4871" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="and uh we &lt;b&gt;try&lt;/b&gt; to take a vacation with them every year camping of some sort something that wasn't expensive" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="4868" end="4871" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="carichter" text="and uh we &lt;b&gt;try&lt;/b&gt; to take a vacation with them every year camping of some sort something that wasn't expensive" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="8432" end="8437" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="cgozo" text="yeah it uh it was uh it was a a &lt;b&gt;smart&lt;/b&gt; move to make um i was more intelligent than the position i was holding" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="8432" end="8437" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="yeah it uh it was uh it was a a &lt;b&gt;smart&lt;/b&gt; move to make um i was more intelligent than the position i was holding" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="447" end="451" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="cgozo" text="uh at any &lt;b&gt;rate&lt;/b&gt; um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="447" end="451" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="cgozo" text="uh at any &lt;b&gt;rate&lt;/b&gt; um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="447" end="451" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="uh at any &lt;b&gt;rate&lt;/b&gt; um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="447" end="451" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="uh at any &lt;b&gt;rate&lt;/b&gt; um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2623-ms98-a-trans.anc" start="10140" end="10144" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="carichter" text="oh well he made it at fifty it was a magic number for him and and uh he went at fifty and he still works &lt;b&gt;part&lt;/b&gt; time at other thing you know" />
+  </sentences>
+</list>

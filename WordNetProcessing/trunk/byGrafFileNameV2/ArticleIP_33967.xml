@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33967.anc" start="3359" end="3365" sStart="3344" offset="15" sid="r7.trace.v.0185" wn="1" wnkey="trace%2:31:00::" annotator="veweser" text="A book excerpt traces the roots of the SAT." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33967.anc" start="1341" end="1347" sStart="null" offset="124" sid="null" wn="2147483645" wnkey="null" annotator="veweser" text="The cover story worries that earlier retirement and reduced birthrates in the West will contract the labor force and reduce living standards." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33967.anc" start="1341" end="1347" sStart="null" offset="124" sid="null" wn="4" wnkey="live%2:42:01::" annotator="jeneale" text="The cover story worries that earlier retirement and reduced birthrates in the West will contract the labor force and reduce living standards." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33967.anc" start="1341" end="1347" sStart="null" offset="124" sid="null" wn="2147483645" wnkey="null" annotator="cgozo" text="The cover story worries that earlier retirement and reduced birthrates in the West will contract the labor force and reduce living standards." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33967.anc" start="1341" end="1347" sStart="null" offset="124" sid="r8.live.v.0888" wn="2147483645" wnkey="null" annotator="cgozo" text="The cover story worries that earlier retirement and reduced birthrates in the West will contract the labor force and reduce living standards." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33967.anc" start="1565" end="1569" sStart="null" offset="40" sid="r8.live.v.0368" wn="2147483647" wnkey="null" annotator="cgozo" text="An editorial laments India's failure to live up to its geopolitical potential." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33967.anc" start="1341" end="1347" sStart="null" offset="124" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text="The cover story worries that earlier retirement and reduced birthrates in the West will contract the labor force and reduce living standards." />
+  </sentences>
+</list>

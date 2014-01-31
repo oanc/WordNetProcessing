@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020140.anc" start="13221" end="13228" sStart="13175" offset="46" sid="r10.wait.v.0895" wn="1" wnkey="wait%2:42:00::" annotator="cgozo" text="An IV saline infusion should be started while waiting for laboratory tests to correct possible volume loss." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020140.anc" start="4574" end="4581" sStart="null" offset="35" sid="r8.suggest.v.0463" wn="3" wnkey="suggest%2:32:02::" annotator="brubin" text="Studies in both humans and animals suggest that high glucose levels might exacerbate ischemic brain damage [3]." />
+  </sentences>
+</list>

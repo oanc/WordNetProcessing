@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2524-ms98-a-trans.anc" start="2967" end="2973" sStart="-1" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="you know i'm the opposing teams best &lt;b&gt;player&lt;/b&gt; so so to speak so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2524-ms98-a-trans.anc" start="2967" end="2973" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="carichter" text="you know i'm the opposing teams best &lt;b&gt;player&lt;/b&gt; so so to speak so" />
+  </sentences>
+</list>

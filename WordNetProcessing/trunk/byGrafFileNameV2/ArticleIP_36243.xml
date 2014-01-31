@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36243.anc" start="1398" end="1405" sStart="1303" offset="95" sid="r10.wait.v.0645" wn="1" wnkey="wait%2:42:00::" annotator="veweser" text="Right now, we're being passed by a house (or half a house anyway, being carted to a foundation waiting somewhere), and a large tree is gaining on us." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36243.anc" start="1751" end="1755" sStart="null" offset="76" sid="r7.poor.j.0794" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="jeneale" text="Now, there was a case where sexual misbehavior was an accurate indicator of poor overall judgement." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36243.anc" start="3231" end="3235" sStart="null" offset="37" sid="r9.late.j.0211" wn="2" wnkey="late%5:00:00:unpunctual:00" annotator="cgozo" text="We visit the much-hyped Bellagio too late to actually see its collection of modern art, or its supposedly sensational water show &quot;O.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_36243.anc" start="487" end="493" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="veweser" text="Re shopping: Let the record show that I bought nothing at the outlet malls, while Mr. Why-Are-We-Stopping-Here &lt;b&gt;became&lt;/b&gt; slightly unhinged in the Le Creuset emporium, acquiring several heavy cast-iron pots, which now burden our already over-burdened car (see below)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_36243.anc" start="487" end="493" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="tofox" text="Re shopping: Let the record show that I bought nothing at the outlet malls, while Mr. Why-Are-We-Stopping-Here &lt;b&gt;became&lt;/b&gt; slightly unhinged in the Le Creuset emporium, acquiring several heavy cast-iron pots, which now burden our already over-burdened car (see below)." />
+  </sentences>
+</list>

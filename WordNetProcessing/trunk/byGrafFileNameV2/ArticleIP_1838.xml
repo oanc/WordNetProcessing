@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="2141" end="2145" sStart="2097" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="brubin" text="The plaintive question echoes in the moist, &lt;b&gt;warm&lt;/b&gt; air of the jungle." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="3018" end="3023" sStart="null" offset="75" sid="r7.sound.n.0213" wn="5" wnkey="sound%1:10:00::" annotator="veweser" text="Other revolutionaries have courted the press: Castro practically lives for sound bites, and the Zapatistas are better at planning press conferences than battles." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="4719" end="4724" sStart="null" offset="0" sid="null" wn="1" wnkey="quiet%3:00:02::" annotator="rstandig" text="He has found the very thing he sought to give his fellow Cambodians during the '70s: a &lt;b&gt;quiet&lt;/b&gt; life on a country farm." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="4719" end="4724" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="cgozo" text="He has found the very thing he sought to give his fellow Cambodians during the '70s: a &lt;b&gt;quiet&lt;/b&gt; life on a country farm." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="4719" end="4724" sStart="null" offset="0" sid="null" wn="1" wnkey="quiet%3:00:02::" annotator="brubin" text="He has found the very thing he sought to give his fellow Cambodians during the '70s: a &lt;b&gt;quiet&lt;/b&gt; life on a country farm." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="1461" end="1466" sStart="null" offset="46" sid="r8.life.n.0852" wn="8" wnkey="life%1:18:00::" annotator="cgozo" text="A million or two of his countrymen lost their lives because of his mistakes." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="2459" end="2465" sStart="null" offset="80" sid="r9.kill.v.0751" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="Fourteen of Son Sen's family members, including infant grandchildren, also were killed." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="1975" end="1979" sStart="null" offset="47" sid="r9.kill.v.0180" wn="1" wnkey="kill%2:35:00::" annotator="brubin" text="&quot;I came to carry out the struggle, not to kill people,&quot; he says, a look of melancholy shadowing his face." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1838.anc" start="2033" end="2037" sStart="null" offset="110" sid="r7.1.face.n.0649" wn="2" wnkey="face%1:07:03::" annotator="veweser" text="&quot;I came to carry out the struggle, not to kill people,&quot; he says, a look of melancholy shadowing his face." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3682.anc" start="3615" end="3620" sStart="3611" offset="4" sid="r9.paper.n.0084" wn="3" wnkey="paper%1:10:03::" annotator="veweser" text="The paper reports that construction shortcuts were common in older high-rises, including cases where building crews used vegetable oil cans instead of bricks." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3682.anc" start="3615" end="3620" sStart="null" offset="4" sid="r9.paper.n.0084" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="The paper reports that construction shortcuts were common in older high-rises, including cases where building crews used vegetable oil cans instead of bricks." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3682.anc" start="3615" end="3620" sStart="null" offset="4" sid="r9.paper.n.0084" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="The paper reports that construction shortcuts were common in older high-rises, including cases where building crews used vegetable oil cans instead of bricks." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3682.anc" start="3615" end="3620" sStart="null" offset="4" sid="r9.paper.n.0084" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="The paper reports that construction shortcuts were common in older high-rises, including cases where building crews used vegetable oil cans instead of bricks." />
+  </sentences>
+</list>

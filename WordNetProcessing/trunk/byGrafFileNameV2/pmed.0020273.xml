@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020273.anc" start="735" end="741" sStart="572" offset="163" sid="r11.severe.j.0665" wn="5" wnkey="severe%5:00:00:critical:03" annotator="anfahmy" text="The symptoms for both these conditionsÑwhich suggest an abnormal immune response at the intestinal mucosaÑinclude abdominal pain, diarrhea, fever, severe fatigue, and weight loss." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020273.anc" start="1894" end="1900" sStart="null" offset="72" sid="r9.normal.j.0555" wn="3" wnkey="normal%3:00:03::" annotator="cgozo" text="They found 650 genes that were differentially regulated between normal control individuals and the individuals with one of the two IBD subtypes." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4177.anc" start="386" end="390" sStart="372" offset="14" sid="r10.wait.v.0207" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="McCain didn't wait to be asked." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4177.anc" start="220" end="227" sStart="null" offset="13" sid="r10.wait.v.0206" wn="3" wnkey="wait%2:31:00::" annotator="anfahmy" text="Everyone was waiting to see how McCain would handle a question about ethanol, the corn-based fuel that exists only because of a multibillion-dollar federal subsidy." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4177.anc" start="2196" end="2201" sStart="null" offset="58" sid="r8.1.great.j.0467" wn="1" wnkey="great%5:00:01:large:00" annotator="brubin" text="The next president of the United States must tap into the great strength of America, which are the hearts and souls of decent Americans.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4177.anc" start="4976" end="4980" sStart="null" offset="49" sid="r11.dark.j.0137" wn="4" wnkey="dark%5:00:00:evil:00" annotator="anfahmy" text="But I think it also offered a glimpse of Hatch's dark side--an envy that makes him into a more interesting character than I previously thought." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4177.anc" start="2918" end="2926" sStart="null" offset="71" sid="r11.benefit.n.0868" wn="1" wnkey="benefit%1:21:00::" annotator="vebatchelder" text="Bush simply ignored the challenge to his assumption that farms deserve benefits not accorded to other kinds of small businesses." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4177.anc" start="5128" end="5133" sStart="null" offset="12" sid="r8.ask.v.0360" wn="2" wnkey="ask%2:32:02::" annotator="cgozo" text="When Brokaw asked why someone who makes as much as he does should get the same Medicare benefits as an Iowa schoolteacher, Hatch went on and on: &quot;Well, first of all, I don't think you're going to ask for Medicare with the amount of money you make." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_600.anc" start="3343" end="3347" sStart="3273" offset="70" sid="r7.poor.j.0362" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="jeneale" text="No, he writes, they went overtly nuclear to achieve status . And when poor self-esteem is the root problem, conventional medicine doesn't work." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_600.anc" start="1533" end="1541" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="The LAT says that this might keep Starr from questioning White House lawyer Bruce Lindsey and Secret Service &lt;b&gt;officers&lt;/b&gt; until &quot;well into next year.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_600.anc" start="1533" end="1541" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="brubin" text="The LAT says that this might keep Starr from questioning White House lawyer Bruce Lindsey and Secret Service &lt;b&gt;officers&lt;/b&gt; until &quot;well into next year.&quot;" />
+  </sentences>
+</list>

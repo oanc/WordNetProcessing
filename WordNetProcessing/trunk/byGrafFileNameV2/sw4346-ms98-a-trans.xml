@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4346-ms98-a-trans.anc" start="3575" end="3581" sStart="-1" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="you know they really don't have much of a &lt;b&gt;chance&lt;/b&gt; at all and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4346-ms98-a-trans.anc" start="3575" end="3581" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="you know they really don't have much of a &lt;b&gt;chance&lt;/b&gt; at all and" />
+  </sentences>
+</list>

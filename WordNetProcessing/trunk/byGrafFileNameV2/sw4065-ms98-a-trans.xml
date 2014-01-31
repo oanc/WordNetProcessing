@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4065-ms98-a-trans.anc" start="272" end="280" sStart="-1" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="you know like police &lt;b&gt;officers&lt;/b&gt; firemen doctors anybody who has you know who's important whose decisions are important and you know that's" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4065-ms98-a-trans.anc" start="272" end="280" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="you know like police &lt;b&gt;officers&lt;/b&gt; firemen doctors anybody who has you know who's important whose decisions are important and you know that's" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4065-ms98-a-trans.anc" start="272" end="280" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="you know like police &lt;b&gt;officers&lt;/b&gt; firemen doctors anybody who has you know who's important whose decisions are important and you know that's" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4065-ms98-a-trans.anc" start="272" end="280" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="you know like police &lt;b&gt;officers&lt;/b&gt; firemen doctors anybody who has you know who's important whose decisions are important and you know that's" />
+  </sentences>
+</list>

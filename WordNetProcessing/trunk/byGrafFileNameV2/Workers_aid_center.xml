@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Workers_aid_center.anc" start="3615" end="3619" sStart="-1" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" annotator="cgozo" text="But when I asked my boss about the overtime, he &lt;b&gt;told&lt;/b&gt; me I could walk out the door anytime.&quot;" />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Workers_aid_center.anc" start="731" end="734" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" annotator="rstandig" text="Those involved with the effort &lt;b&gt;say&lt;/b&gt; the center will help workers to learn how to stand up for their rights and students to learn skills they can use in the workplace." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Workers_aid_center.anc" start="3560" end="3564" sStart="null" offset="0" sid="null" wn="8" wnkey="say%2:32:15::" annotator="cgozo" text="&quot;A lot of &lt;b&gt;times&lt;/b&gt; I worked Sunday to Sunday,&quot; Villatoro &lt;b&gt;said&lt;/b&gt;. &quot;" />
+    <s path="[OANC]/data/written_2/technical/government/Media/Workers_aid_center.anc" start="654" end="658" sStart="null" offset="221" sid="r7.poor.j.0838" wn="2147483645" wnkey="null" annotator="jeneale" text="Housed in the college's campus center, the workers' rights center will be staffed by volunteers -- college students and attorneys from Neighborhood Legal Services, a nonprofit organization that provides legal help to the poor." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Workers_aid_center.anc" start="148" end="152" sStart="null" offset="69" sid="r7.1.face.n.0905" wn="2147483645" wnkey="null" annotator="veweser" text="Thousands of low-income residents throughout the San Fernando Valley face exploitation in the workplace -- overtime without pay, long hours without breaks, earnings below the minimum wage." />
+  </sentences>
+</list>

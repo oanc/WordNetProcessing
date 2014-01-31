@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2277.anc" start="3133" end="3138" sStart="3076" offset="57" sid="r8.state.n.0927" wn="1" wnkey="state%1:15:01::" annotator="brubin" text="With the help of student loans, young Rick attended Penn State, then got an MBA from the University of Pittsburgh and a law degree from Dickinson." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2277.anc" start="2984" end="2989" sStart="null" offset="33" sid="r8.live.v.0213" wn="1" wnkey="live%2:42:08::" annotator="veweser" text="In Martinsburg, W. Va., where he lived until the age of 7, both his parents worked at the Veterans' Administration Hospital." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2277.anc" start="5456" end="5460" sStart="null" offset="48" sid="r8.life.n.0873" wn="3" wnkey="life%1:26:02::" annotator="veweser" text="&quot;I have never seen another candidate in my life who would stand up in front of the voters and tell lies, absolute lies, the way he does,&quot; he fulminated." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2277.anc" start="3341" end="3345" sStart="null" offset="21" sid="r8.life.n.0858" wn="1" wnkey="life%1:26:01::" annotator="jeneale" text="His only exposure to life in the private sector was a brief stint as a lawyer and lobbyist (where his clients included the World Wrestling Federation)." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2277.anc" start="1672" end="1681" sStart="null" offset="89" sid="r8.1.different.j.0947" wn="1" wnkey="different%3:00:00::" annotator="brubin" text="If his partial-birth ban becomes law, women could still get a late-term abortion using a different method." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17911.anc" start="5645" end="5650" sStart="5627" offset="18" sid="r7.sight.n.0208" wn="2147483645" wnkey="null" annotator="cgozo" text="Movie -- At First Sight ;" />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17911.anc" start="5325" end="5329" sStart="null" offset="188" sid="r8.life.n.0544" wn="4" wnkey="life%1:26:00::" annotator="cgozo" text="Some blame a shaky translation from the original Polish; others say the author's use of so many varying literary devices and styles squelches the heart of the novel: &quot;Only a spark of life survives its mannerisms&quot; (Richard Eder, the Los Angeles Times ). (Read the first chapter here.)" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_17911.anc" start="4112" end="4118" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" annotator="veweser" text="This Primary &lt;b&gt;Colors&lt;/b&gt; -type story of a president who has an affair with a young staffer was written by a former Clinton speechwriter." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17911.anc" start="7776" end="7780" sStart="null" offset="0" sid="r10.book.n.0323" wn="1" wnkey="book%1:10:00::" annotator="cgozo" text="Book --The Vintner's Luck , by Elizabeth Knox." />
+  </sentences>
+</list>

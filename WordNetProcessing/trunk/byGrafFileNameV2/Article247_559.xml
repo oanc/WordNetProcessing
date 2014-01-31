@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/4/Article247_559.anc" start="631" end="635" sStart="-1" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="carichter" text="Everybody quotes President Clinton's determined reaction: &quot;They can be &lt;b&gt;part&lt;/b&gt; of it or they can fight it,&quot; although oddly, USA Today leaves out the most important &lt;b&gt;part&lt;/b&gt; of his quote: &quot;We're going to get this done.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_559.anc" start="3758" end="3763" sStart="null" offset="17" sid="r9.paper.n.0834" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="According to the paper, the opportunity presents itself because the Khmer Rouge, which has Pol Pot under house arrest, is in complete disarray." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/4/Article247_559.anc" start="2806" end="2812" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="comcgeetubb" text="And lest we &lt;b&gt;forget&lt;/b&gt; what this is all about, the WP reports that a study in today's New England Journal of Medicine suggests that non-smokers not only live longer, but have less sickness and dependence on others in their last years." />
+  </sentences>
+</list>

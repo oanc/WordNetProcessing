@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3811.anc" start="1434" end="1444" sStart="1421" offset="13" sid="r1.successful.j.0089" wn="1" wnkey="successful%3:00:00::" annotator="sophiavv" text="Will they be successful?" />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3811.anc" start="1434" end="1444" sStart="null" offset="13" sid="r1.successful.j.0089" wn="1" wnkey="successful%3:00:00::" annotator="anfahmy" text="Will they be successful?" />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3811.anc" start="1434" end="1444" sStart="null" offset="13" sid="r1.successful.j.0089" wn="1" wnkey="successful%3:00:00::" annotator="adelpriore" text="Will they be successful?" />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3811.anc" start="1308" end="1314" sStart="null" offset="152" sid="r11.strong.j.0147" wn="6" wnkey="strong%5:00:00:sound:01" annotator="adelpriore" text="The whole process of killing the Earth (which is our big issue every news cycle, regardless of what the suits tell us) won't be brought to heel without strong international agreements ..." />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3811.anc" start="870" end="874" sStart="null" offset="48" sid="r11.able.j.0327" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="It'll be a bit of bad news cartoonists won't be able to draw about." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2121-3-16.anc" start="10256" end="10261" sStart="10066" offset="190" sid="r7.1.use.v.0785" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="In the presence of 50, 100, and 200 mM additional KCl, the ratio of Boi1-PH that pelleted with respect to that which stayed in the supernatant was greater when using vesicles that contained PIP 2 (Fig." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2121-3-16.anc" start="7854" end="7859" sStart="null" offset="207" sid="r7.1.use.v.0691" wn="1" wnkey="use%2:34:01::" annotator="brubin" text="To investigate whether the nature of the bulk lipid in the vesicles affects the ability of phosphatidylinositides to stimulate proteolysis of Boi1-PH, we repeated this analysis using the neutral phospholipid PC (phosphatidylcholine) instead of PS." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2121-3-16.anc" start="9853" end="9856" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="comcgeetubb" text="So, to &lt;b&gt;try&lt;/b&gt; to accentuate the effects of PIP 2 on Boi1-PH's co-sedimentation with vesicles, we repeated this analysis using buffer that contained additional concentrations of KCl." />
+  </sentences>
+</list>

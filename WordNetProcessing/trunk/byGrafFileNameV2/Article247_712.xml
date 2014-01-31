@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_712.anc" start="1890" end="1893" sStart="1883" offset="7" sid="r8.way.n.0400" wn="2147483647" wnkey="null" annotator="cgozo" text="By the way, it's USAT that makes it clear that this unrestricted resolution means any subsequent impeachment inquiry might include an investigation of Clinton's 1996 campaign fund-raising." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_712.anc" start="165" end="169" sStart="null" offset="64" sid="r9.full.j.0322" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="Everybody leads with the House Judiciary vote to propose to the full House an impeachment inquiry targeting President Clinton." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_712.anc" start="2397" end="2404" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="veweser" text="There's a &lt;b&gt;curious&lt;/b&gt; ellipsis in the WP when it quotes Republican Rep." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_712.anc" start="2397" end="2404" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="jeneale" text="There's a &lt;b&gt;curious&lt;/b&gt; ellipsis in the WP when it quotes Republican Rep." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_712.anc" start="2397" end="2404" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="cgozo" text="There's a &lt;b&gt;curious&lt;/b&gt; ellipsis in the WP when it quotes Republican Rep." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_712.anc" start="2397" end="2404" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="brubin" text="There's a &lt;b&gt;curious&lt;/b&gt; ellipsis in the WP when it quotes Republican Rep." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_712.anc" start="2397" end="2404" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="brubin" text="There's a &lt;b&gt;curious&lt;/b&gt; ellipsis in the WP when it quotes Republican Rep." />
+  </sentences>
+</list>

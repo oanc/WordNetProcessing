@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3861-ms98-a-trans.anc" start="819" end="824" sStart="-1" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="veweser" text="um that i guess they had called him from the school and you know when they start giving you all those standardized tests and everything and you know Dad said well you know you're a &lt;b&gt;smart&lt;/b&gt; kid so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3861-ms98-a-trans.anc" start="819" end="824" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="um that i guess they had called him from the school and you know when they start giving you all those standardized tests and everything and you know Dad said well you know you're a &lt;b&gt;smart&lt;/b&gt; kid so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3861-ms98-a-trans.anc" start="819" end="824" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="um that i guess they had called him from the school and you know when they start giving you all those standardized tests and everything and you know Dad said well you know you're a &lt;b&gt;smart&lt;/b&gt; kid so" />
+  </sentences>
+</list>

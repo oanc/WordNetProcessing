@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2299.anc" start="543" end="547" sStart="505" offset="38" sid="r9.full.j.0771" wn="3" wnkey="full%5:00:00:complete:00" annotator="cgozo" text="The revelries are to continue for two full years, with a traveling lecture series featuring such speakers as William Bennett, who will orate in Oklahoma City about &quot;Truth,&quot; and Clarence Thomas, who will address the people of Palm Beach on the subject of &quot;Character.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2299.anc" start="7857" end="7861" sStart="null" offset="94" sid="r10.book.n.0823" wn="1" wnkey="book%1:10:00::" annotator="cgozo" text="You can't conceive of Brookings putting out a volume of self-serving bluster like the Edwards book." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2299.anc" start="2371" end="2375" sStart="null" offset="56" sid="r11.able.j.0914" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="A right-wing &quot;advocacy tank&quot; like Heritage is able to raise much more than its liberal counterparts for the same reason that Republican candidates out-raise Democratic ones." />
+  </sentences>
+</list>

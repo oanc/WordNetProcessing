@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_614.anc" start="3046" end="3049" sStart="3003" offset="43" sid="r9.hit.v.0064" wn="6" wnkey="hit%2:33:01::" annotator="veweser" text="All the shots missed their target, but one hit a nearby tourist in the leg." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_614.anc" start="3046" end="3049" sStart="null" offset="43" sid="r9.hit.v.0064" wn="15" wnkey="hit%2:33:03::" annotator="cgozo" text="All the shots missed their target, but one hit a nearby tourist in the leg." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_614.anc" start="3046" end="3049" sStart="null" offset="43" sid="r9.hit.v.0064" wn="2" wnkey="hit%2:35:01::" annotator="brubin" text="All the shots missed their target, but one hit a nearby tourist in the leg." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_614.anc" start="3046" end="3049" sStart="null" offset="43" sid="r9.hit.v.0064" wn="6" wnkey="hit%2:33:01::" annotator="anfahmy" text="All the shots missed their target, but one hit a nearby tourist in the leg." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_614.anc" start="1529" end="1533" sStart="null" offset="22" sid="r11.able.j.0648" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="Were the other papers able to file later?" />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/111402.anc" start="592" end="599" sStart="570" offset="22" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="sophiavv" text="David Paul (Operation officer) Natwest Bank Clearing House (UK)." />
+    <s path="[MASC]/data/written/111402.anc" start="366" end="370" sStart="null" offset="66" sid="r9.late.j.0025" wn="4" wnkey="late%5:00:00:dead:01" annotator="veweser" text="I resolved to stand you as the next of kin to benefit USD$9.5m of late (Mr." />
+    <s path="[MASC]/data/written/111402.anc" start="366" end="370" sStart="null" offset="66" sid="r9.late.j.0025" wn="4" wnkey="late%5:00:00:dead:01" annotator="cgozo" text="I resolved to stand you as the next of kin to benefit USD$9.5m of late (Mr." />
+    <s path="[MASC]/data/written/111402.anc" start="366" end="370" sStart="null" offset="66" sid="r9.late.j.0025" wn="4" wnkey="late%5:00:00:dead:01" annotator="brubin" text="I resolved to stand you as the next of kin to benefit USD$9.5m of late (Mr." />
+    <s path="[MASC]/data/written/111402.anc" start="366" end="370" sStart="null" offset="66" sid="r9.late.j.0025" wn="4" wnkey="late%5:00:00:dead:01" annotator="anfahmy" text="I resolved to stand you as the next of kin to benefit USD$9.5m of late (Mr." />
+    <s path="[MASC]/data/written/111402.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Date: Thu, 10 Feb 2011 02:19:55 -0800 (PST) From: &quot;Mr.David Paul&quot; &lt;dpaul011@computermail.net&gt; Reply-To: davidpauluk42@hotmail.com Subject: Tel: +44-704-577-7353." />
+  </sentences>
+</list>

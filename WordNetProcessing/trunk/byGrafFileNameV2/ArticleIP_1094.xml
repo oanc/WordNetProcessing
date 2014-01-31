@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1094.anc" start="5827" end="5836" sStart="5786" offset="41" sid="r8.suggest.v.0515" wn="1" wnkey="suggest%2:32:00::" annotator="brubin" text="Deputy Attorney General Eric Holder, who suggested that the Justice Department, rather than a biased independent counsel, should investigate Baitgate." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1094.anc" start="3202" end="3208" sStart="null" offset="47" sid="r8.number.n.0907" wn="1" wnkey="number%1:07:00::" annotator="brubin" text="In later interviews, she backed down from this number, admitting that she doesn't recall seeing Dozhier give Hale cash." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1094.anc" start="1859" end="1864" sStart="null" offset="31" sid="r10.board.n.0427" wn="1" wnkey="board%1:14:00::" annotator="cgozo" text=") A lawyer on the Spectator 's board, Steven Boynton, in turn paid his friend Parker Dozhier--a onetime TV reporter who now owns a bait shop in Hot Springs--$48,000 to be the magazine's Arkansas &quot;eyes and ears.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1094.anc" start="4258" end="4262" sStart="null" offset="48" sid="r11.able.j.0190" wn="1" wnkey="able%3:00:00::" annotator="vebatchelder" text="No other reporter working on the story has been able to track down these sources." />
+  </sentences>
+</list>

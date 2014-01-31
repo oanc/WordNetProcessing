@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1307.anc" start="2031" end="2034" sStart="1927" offset="104" sid="r9.hit.v.0228" wn="4" wnkey="hit%2:38:00::" annotator="brubin" text="Critics find Williams' character surprisingly unlikable, causing some to conclude that the comedian has hit a midcareer slump." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/25/ArticleIP_1307.anc" start="1161" end="1165" sStart="null" offset="0" sid="null" wn="4" wnkey="date%1:28:02::" annotator="brubin" text="&quot;His most emotionally accessible drama to &lt;b&gt;date&lt;/b&gt;,&quot; says the New York Times ' Ben Brantley." />
+  </sentences>
+</list>

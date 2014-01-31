@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L152.anc" start="324" end="329" sStart="-1" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="carichter" text="The IU School of Dentistry is limited in these &lt;b&gt;times&lt;/b&gt; because it is impractical to raise tuition and fees sufficiently to offset lost state appropriations." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/513C-L152.anc" start="1576" end="1581" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" annotator="comcgeetubb" text="Our faculty and students need support to be able to keep up with &lt;b&gt;rapid&lt;/b&gt; advancements in oral health care and the use of technology for many procedures." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/513C-L152.anc" start="411" end="415" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text="The IU School of Dentistry is limited in these times because it is impractical to raise tuition and fees sufficiently to offset &lt;b&gt;lost&lt;/b&gt; state appropriations." />
+    <s path="[OANC]/data/written_1/letters/icic/513C-L152.anc" start="1675" end="1679" sStart="null" offset="7" sid="r10.help.v.0989" wn="3" wnkey="help%2:42:00::" annotator="veweser" text="We can help the school achieve this goal with donations to the 1993 Annual Fund." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/513C-L152.anc" start="626" end="634" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="carichter" text="I hope you have read, in the school's Alumni Bulletin, how our dental school has taken aggressive steps to streamline operations and enhance academic opportunities while &lt;b&gt;becoming&lt;/b&gt; more financially efficient." />
+  </sentences>
+</list>

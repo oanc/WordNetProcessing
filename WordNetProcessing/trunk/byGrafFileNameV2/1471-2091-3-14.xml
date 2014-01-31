@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2091-3-14.anc" start="54758" end="54765" sStart="-1" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="veweser" text="AM, KK, SB, AP, and FK aided in data interpretation, Bioinformatics, literature searches and &lt;b&gt;writing&lt;/b&gt; the manuscript." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2091-3-14.anc" start="54758" end="54765" sStart="null" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="jeneale" text="AM, KK, SB, AP, and FK aided in data interpretation, Bioinformatics, literature searches and &lt;b&gt;writing&lt;/b&gt; the manuscript." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2091-3-14.anc" start="54758" end="54765" sStart="null" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="carichter" text="AM, KK, SB, AP, and FK aided in data interpretation, Bioinformatics, literature searches and &lt;b&gt;writing&lt;/b&gt; the manuscript." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2091-3-14.anc" start="51458" end="51463" sStart="null" offset="47" sid="r7.1.use.v.0095" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="Gene expression of CEM and ACH2 were performed using Atlas Human cDNA Expression Array (Clontech Laboratories Inc., Palo Alto, CA) according to the manufacturer's directions." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2091-3-14.anc" start="48306" end="48317" sStart="null" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" annotator="veweser" text="Total cellular protein was separated on 4-20% Tris-glycine gels (Novex, Inc.) and &lt;b&gt;transferred&lt;/b&gt; to a polvinylidene difluoride (PVDF) membranes (Immobilon-P transfer membranes; Millipore Corp.) overnight at 0.08 A. Following the transfer, blots were blocked with 5% non-fat dry milk in 50 ml of TNE 50 (100 mM Tris-Cl [pH 8.0], 50 mM NaCl, 1 mM EDTA) plus 0.1% NP-40." />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3873.anc" start="1755" end="1759" sStart="1675" offset="80" sid="r9.late.j.0662" wn="2" wnkey="late%5:00:00:unpunctual:00" annotator="anfahmy" text="Yesterday, the WP was able to squeeze early news of the 2 a.m. agreement into a late edition." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/15/Article247_3873.anc" start="1656" end="1660" sStart="null" offset="0" sid="null" wn="8" wnkey="fair%5:00:00:equitable:00" annotator="carichter" text="Even though Senate Republicans acceded to a Democratic provision that will prevent banks with unsatisfactory lending records from moving into other financial services, advocates for disadvantaged borrowers argue that the agreement fails to strengthen &lt;b&gt;fair&lt;/b&gt; lending laws." />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3873.anc" start="4145" end="4156" sStart="null" offset="35" sid="r11.combination.n.0287" wn="1" wnkey="combination%1:14:00::" annotator="anfahmy" text="Some ethicists are troubled by the combination of e-commerce, eugenics and egg pimping." />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3873.anc" start="3500" end="3507" sStart="null" offset="101" sid="r11.absence.n.0906" wn="2" wnkey="absence%1:04:00::" annotator="adelpriore" text="The WP asserts that after the debate the five attending politicians blasted Bush by arguing that his absence from the stage was an affront to voters." />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3873.anc" start="1697" end="1701" sStart="null" offset="22" sid="r11.able.j.0900" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="Yesterday, the WP was able to squeeze early news of the 2 a.m. agreement into a late edition." />
+  </sentences>
+</list>

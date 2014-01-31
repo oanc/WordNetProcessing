@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/18/Article247_4166.anc" start="1233" end="1238" sStart="-1" offset="0" sid="null" wn="3" wnkey="show%2:32:00::" annotator="elstickles" text="Take the story in England that has been running for the past two weeks and more--the revelation that Jeffrey Archer, the famous novelist and a Tory parliamentary whip, who had announced his Conservative candidacy for the mayor of London, was &lt;b&gt;shown&lt;/b&gt; to have lied and covered up a liaison with a prostitute a dozen years ago." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/18/Article247_4166.anc" start="1233" end="1238" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="carichter" text="Take the story in England that has been running for the past two weeks and more--the revelation that Jeffrey Archer, the famous novelist and a Tory parliamentary whip, who had announced his Conservative candidacy for the mayor of London, was &lt;b&gt;shown&lt;/b&gt; to have lied and covered up a liaison with a prostitute a dozen years ago." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4166.anc" start="1340" end="1345" sStart="null" offset="26" sid="r9.paper.n.0871" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="The News of the World , a paper that specializes in sleaze, had paid Archer's friend Ted Francis 14,000 pounds to reveal that he had given Archer a false alibi in 1987, when the Daily Star accused Archer of marital infidelity with a prostitute, Monica Couglan." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4166.anc" start="1996" end="2000" sStart="null" offset="53" sid="r7.1.face.n.0618" wn="1 11" wnkey="null" annotator="jeneale" text="William Hague, the Tory leader, has egg all over his face." />
+  </sentences>
+</list>

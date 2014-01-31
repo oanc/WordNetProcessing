@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/46/sw4622-ms98-a-trans.anc" start="4037" end="4041" sStart="4031" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="cgozo" text="quite &lt;b&gt;warm&lt;/b&gt; in the summertime not hot like uh i lived in the midwest for a while" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/46/sw4622-ms98-a-trans.anc" start="3122" end="3129" sStart="null" offset="0" sid="null" wn="4" wnkey="success%1:18:00::" annotator="cgozo" text="and so this dress for &lt;b&gt;success&lt;/b&gt; thing i think is uh by and large i've i'm kind of uh convinced that uh by that just that one uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/46/sw4622-ms98-a-trans.anc" start="3122" end="3129" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="and so this dress for &lt;b&gt;success&lt;/b&gt; thing i think is uh by and large i've i'm kind of uh convinced that uh by that just that one uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/46/sw4622-ms98-a-trans.anc" start="1572" end="1577" sStart="null" offset="0" sid="null" wn="8" wnkey="image%1:07:01::" annotator="brubin" text="&lt;b&gt;image&lt;/b&gt; kind of thing to go out to &lt;b&gt;meet&lt;/b&gt; people and interview people and stuff like that so" />
+  </sentences>
+</list>

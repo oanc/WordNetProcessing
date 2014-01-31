@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3728-ms98-a-trans.anc" start="613" end="617" sStart="609" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" annotator="brubin" text="and &lt;b&gt;read&lt;/b&gt; it and then i keep the radio on quite a bit when i'm home" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3728-ms98-a-trans.anc" start="2965" end="2969" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="um the top headlines are always a murder you know and that's because there's a high crime &lt;b&gt;rate&lt;/b&gt; yeah" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3728-ms98-a-trans.anc" start="2965" end="2969" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="um the top headlines are always a murder you know and that's because there's a high crime &lt;b&gt;rate&lt;/b&gt; yeah" />
+  </sentences>
+</list>

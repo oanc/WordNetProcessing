@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4008.anc" start="844" end="847" sStart="685" offset="159" sid="r8.way.n.0932" wn="1" wnkey="way%1:07:01::" annotator="cgozo" text="The Times reported that Human Rights Watch endorsed the China deal, but failed to point out that the organization is conditioning its support in the following way:" />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4008.anc" start="2246" end="2254" sStart="null" offset="7" sid="r7.strike.v.0087" wn="2147483645" wnkey="null" annotator="jeneale" text="What's striking is the lack of interest in examining whether this premise is correct." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4008.anc" start="2246" end="2254" sStart="null" offset="7" sid="r7.strike.v.0087" wn="2147483645" wnkey="null" annotator="cgozo" text="What's striking is the lack of interest in examining whether this premise is correct." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4008.anc" start="2246" end="2254" sStart="null" offset="7" sid="r7.strike.v.0087" wn="2147483645" wnkey="null" annotator="brubin" text="What's striking is the lack of interest in examining whether this premise is correct." />
+  </sentences>
+</list>

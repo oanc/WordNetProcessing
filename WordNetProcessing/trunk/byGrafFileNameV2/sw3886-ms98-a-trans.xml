@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3886-ms98-a-trans.anc" start="1498" end="1505" sStart="-1" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="a uh uh a syndicated thing that's run by a group that operates here in Washington uh but if you have any public radio stations in your area &lt;b&gt;chances&lt;/b&gt; are pretty good" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3886-ms98-a-trans.anc" start="1498" end="1505" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="tofox" text="a uh uh a syndicated thing that's run by a group that operates here in Washington uh but if you have any public radio stations in your area &lt;b&gt;chances&lt;/b&gt; are pretty good" />
+  </sentences>
+</list>

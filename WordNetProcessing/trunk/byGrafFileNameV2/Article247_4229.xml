@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4229.anc" start="5167" end="5172" sStart="5153" offset="14" sid="r9.paper.n.0918" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="Tomorrow, the paper will print the results of media writer David Shaw's investigation into the matter." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4229.anc" start="3283" end="3289" sStart="null" offset="142" sid="r9.normal.j.0158" wn="1" wnkey="normal%3:00:01::" annotator="anfahmy" text="These sites are jockeying to build &quot;brand names in the new millennium&quot; (NYT), by hotly pursuing tactics that &quot;would be, in any normal business, ruinous&quot; (WP)." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4229.anc" start="4656" end="4660" sStart="null" offset="76" sid="r8.live.v.0684" wn="2147483646" wnkey="null" annotator="cgozo" text=": Fear of something worse around the corner persuades the administration to live with known evils." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4229.anc" start="5425" end="5430" sStart="null" offset="174" sid="r8.life.n.0375" wn="3" wnkey="life%1:26:02::" annotator="brubin" text="Below their note the paper runs its statement of principles: &quot;Our mission is to provide the news, information, analysis and commentary [readers] need to lead successful lives and to be effective citizens in a democracy.&quot;" />
+  </sentences>
+</list>

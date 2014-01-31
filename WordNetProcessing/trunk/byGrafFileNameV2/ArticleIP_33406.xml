@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33406.anc" start="6480" end="6483" sStart="6440" offset="40" sid="r8.way.n.0505" wn="2" wnkey="way%1:04:01::" annotator="veweser" text="I do not deny that this was the perfect way to sell the movie, considering the scary witch story behind it; however, I think James Surowiecki is missing the whole point." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33406.anc" start="5817" end="5822" sStart="null" offset="88" sid="r8.1.great.j.0888" wn="4" wnkey="great%5:00:00:good:01" annotator="cgozo" text="Twenty of 32 historians surveyed judged Nixon's presidency a 'failure'; none called it 'great." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33406.anc" start="4293" end="4299" sStart="null" offset="65" sid="r10.common.j.0421" wn="4" wnkey="common%5:00:00:familiar:02" annotator="veweser" text="They range from theological importance of the first magnitude to common practices that traditionally supported the theology being taught." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33406.anc" start="6017" end="6021" sStart="null" offset="119" sid="r11.able.j.0462" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="I suspect that someday historians who were not Nixon's contemporaries and didn't feel the emotions of that era will be able to give a more objective ranking--perhaps higher, perhaps lower." />
+  </sentences>
+</list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2663-ms98-a-trans.anc" start="2281" end="2287" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="you know a lot of times in his interviews he was talking about you know &lt;b&gt;people&lt;/b&gt; asking why are you doing this why are you doing that he says i'm following the orders of my President i'm not the one who &lt;b&gt;writes&lt;/b&gt; the orders i'm just the one who follows them" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2663-ms98-a-trans.anc" start="1045" end="1053" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="carichter" text="was comparing to corporate presidents and they said that in general generals are more &lt;b&gt;familiar&lt;/b&gt; with training that they believe in training more" />
+  </sentences>
+</list>

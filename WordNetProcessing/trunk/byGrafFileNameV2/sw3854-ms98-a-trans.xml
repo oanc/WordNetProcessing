@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3854-ms98-a-trans.anc" start="4230" end="4234" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="a a good &lt;b&gt;rate&lt;/b&gt; you get a better &lt;b&gt;rate&lt;/b&gt; than you do uh cashing in traveler's checks of course there are" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3854-ms98-a-trans.anc" start="4252" end="4256" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="a a good &lt;b&gt;rate&lt;/b&gt; you get a better &lt;b&gt;rate&lt;/b&gt; than you do uh cashing in traveler's checks of course there are" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3854-ms98-a-trans.anc" start="4230" end="4234" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="a a good &lt;b&gt;rate&lt;/b&gt; you get a better &lt;b&gt;rate&lt;/b&gt; than you do uh cashing in traveler's checks of course there are" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3854-ms98-a-trans.anc" start="4252" end="4256" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="a a good &lt;b&gt;rate&lt;/b&gt; you get a better &lt;b&gt;rate&lt;/b&gt; than you do uh cashing in traveler's checks of course there are" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3854-ms98-a-trans.anc" start="5192" end="5196" sStart="null" offset="0" sid="null" wn="4" wnkey="lose%2:40:01::" annotator="veweser" text="and you don't get uh anything charged to you and that's great it's just insurance we're very responsible with our cards but nonetheless if we &lt;b&gt;lost&lt;/b&gt; them" />
+  </sentences>
+</list>

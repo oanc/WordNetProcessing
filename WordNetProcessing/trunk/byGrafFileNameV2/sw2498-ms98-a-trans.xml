@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2498-ms98-a-trans.anc" start="3351" end="3356" sStart="-1" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="veweser" text="the &lt;b&gt;power&lt;/b&gt; given to those &lt;b&gt;people&lt;/b&gt; is just well beyond it should be" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2498-ms98-a-trans.anc" start="3351" end="3356" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="tofox" text="the &lt;b&gt;power&lt;/b&gt; given to those &lt;b&gt;people&lt;/b&gt; is just well beyond it should be" />
+  </sentences>
+</list>

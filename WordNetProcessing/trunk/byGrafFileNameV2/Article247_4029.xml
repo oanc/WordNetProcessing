@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4029.anc" start="1213" end="1217" sStart="1213" offset="0" sid="r11.true.j.0618" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="True, thanks to New York's absurd election laws, it's hard to get on the ballot unless you have the blessing of the party establishment." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4029.anc" start="1506" end="1510" sStart="null" offset="10" sid="r11.true.j.0543" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="It's also true that whoever runs against Hillary would infuriate that same party establishment." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4029.anc" start="2854" end="2860" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="Then, if New York's Republican Mayor Rudolph Giuliani, deprived of the &lt;b&gt;chance&lt;/b&gt; to beat Hillary himself, opts out of the race, it would leave you with a clear shot at the U.S." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4029.anc" start="2854" end="2860" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="Then, if New York's Republican Mayor Rudolph Giuliani, deprived of the &lt;b&gt;chance&lt;/b&gt; to beat Hillary himself, opts out of the race, it would leave you with a clear shot at the U.S." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020297.anc" start="8345" end="8351" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="Modern mathematics, together with Kolmogorov complexity and information theory, has taught us another fundamental concept that may be relevant when &lt;b&gt;trying&lt;/b&gt; to understand the logic of the mind." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020297.anc" start="8345" end="8351" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="tofox" text="Modern mathematics, together with Kolmogorov complexity and information theory, has taught us another fundamental concept that may be relevant when &lt;b&gt;trying&lt;/b&gt; to understand the logic of the mind." />
+    <s path="file:/c:/OANC/data/written_2/technical/plos/journal.pbio.0020297.anc" start="7042" end="7048" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="elstickles" text="Feldman presented subjects with all possible categories (of a fixed number of exemplars) in different universes and &lt;b&gt;showed&lt;/b&gt; that the critical parameter to rank the difficulty of a given subset was its Kolmogrov complexity." />
+    <s path="file:/c:/OANC/data/written_2/technical/plos/journal.pbio.0020297.anc" start="7042" end="7048" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="carichter" text="Feldman presented subjects with all possible categories (of a fixed number of exemplars) in different universes and &lt;b&gt;showed&lt;/b&gt; that the critical parameter to rank the difficulty of a given subset was its Kolmogrov complexity." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/35/ArticleIP_2302.anc" start="6688" end="6692" sStart="-1" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" annotator="cgozo" text="Oreskes declined to &lt;b&gt;tell&lt;/b&gt; him, of course, who the &lt;b&gt;Times&lt;/b&gt; ' sources were." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2302.anc" start="3228" end="3236" sStart="null" offset="69" sid="r7.strike.v.0215" wn="21" wnkey="strike%2:31:00::" annotator="brubin" text="At the moment it broke, Lewinsky was facing an imminent deadline for striking an immunity deal with Starr's office." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2302.anc" start="4565" end="4570" sStart="null" offset="4" sid="r9.paper.n.0209" wn="3" wnkey="paper%1:10:03::" annotator="veweser" text="The paper had to report on the debate about where its leak had come from." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2302.anc" start="949" end="957" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="jeneale" text="According to the Times story, which was attributed to &quot;lawyers familiar with her account,&quot; Clinton summoned Currie to the White House Sunday, Jan." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/35/ArticleIP_2302.anc" start="949" end="957" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="comcgeetubb" text="According to the Times story, which was attributed to &quot;lawyers &lt;b&gt;familiar&lt;/b&gt; with her account,&quot; Clinton summoned Currie to the White House Sunday, Jan." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2302.anc" start="2649" end="2655" sStart="null" offset="94" sid="r8.ask.v.0450" wn="1" wnkey="ask%2:32:01::" annotator="jeneale" text="By casting Clinton's question to Currie as rhetorical, the Times ' source implied that he was asking Currie to lie to back up his version of events." />
+  </sentences>
+</list>

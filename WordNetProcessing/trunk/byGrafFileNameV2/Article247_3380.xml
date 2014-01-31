@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/10/Article247_3380.anc" start="756" end="760" sStart="-1" offset="0" sid="null" wn="3" wnkey="work%1:04:01::" annotator="kaolla" text="As you might expect, the plant's &lt;b&gt;work&lt;/b&gt; force has been struck with all kinds of cancer." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/10/Article247_3380.anc" start="756" end="760" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="As you might expect, the plant's &lt;b&gt;work&lt;/b&gt; force has been struck with all kinds of cancer." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3380.anc" start="776" end="782" sStart="null" offset="53" sid="r7.strike.v.0106" wn="6" wnkey="strike%2:35:02::" annotator="jeneale" text="As you might expect, the plant's work force has been struck with all kinds of cancer." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3380.anc" start="761" end="766" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="As you might expect, the plant's work &lt;b&gt;force&lt;/b&gt; has been struck with all kinds of cancer." />
+  </sentences>
+</list>

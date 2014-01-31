@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1084.anc" start="2830" end="2834" sStart="2819" offset="11" sid="r11.true.j.0468" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="If this is true, he's either a Don Juan or a sex maniac." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/22/ArticleIP_1084.anc" start="6364" end="6368" sStart="null" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" annotator="brubin" text="Men of presidential quality tend to be arrogant, with a sense of &quot;entitlement and lordly expectation&quot; (David Remnick, The New Yorker ). The best example of presidential bravura ever: When &lt;b&gt;told&lt;/b&gt; of John F. Kennedy's womanizing, Lyndon Johnson responded, &quot;God damn it, I had more women by accident than he ever had by design!&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1084.anc" start="6232" end="6237" sStart="null" offset="56" sid="r9.sense.n.0834" wn="1" wnkey="sense%1:09:05::" annotator="anfahmy" text="Men of presidential quality tend to be arrogant, with a sense of &quot;entitlement and lordly expectation&quot; (David Remnick, The New Yorker ). The best example of presidential bravura ever: When told of John F. Kennedy's womanizing, Lyndon Johnson responded, &quot;God damn it, I had more women by accident than he ever had by design!&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1084.anc" start="6818" end="6825" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text=", gave them many &lt;b&gt;chances&lt;/b&gt; to reproduce their genes)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1084.anc" start="6818" end="6825" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text=", gave them many &lt;b&gt;chances&lt;/b&gt; to reproduce their genes)." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1084.anc" start="183" end="189" sStart="null" offset="106" sid="r8.ask.v.0515" wn="2" wnkey="ask%2:32:02::" annotator="brubin" text="Asking why President Clinton would have sex with all the women he is alleged to have had sex with is like asking why a hungry man would want to eat." />
+  </sentences>
+</list>

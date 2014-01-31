@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3099-ms98-a-trans.anc" start="6076" end="6080" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="well if i work &lt;b&gt;part&lt;/b&gt; time that might be doable" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3099-ms98-a-trans.anc" start="6076" end="6080" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="well if i work &lt;b&gt;part&lt;/b&gt; time that might be doable" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3099-ms98-a-trans.anc" start="6076" end="6080" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="carichter" text="well if i work &lt;b&gt;part&lt;/b&gt; time that might be doable" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3099-ms98-a-trans.anc" start="5381" end="5384" sStart="null" offset="0" sid="null" wn="1" wnkey="meet%2:38:01::" annotator="veweser" text="not that she will remember them but she's &lt;b&gt;met&lt;/b&gt; them" />
+  </sentences>
+</list>

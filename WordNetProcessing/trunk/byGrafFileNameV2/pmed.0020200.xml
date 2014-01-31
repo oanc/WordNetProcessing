@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020200.anc" start="2363" end="2367" sStart="2225" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" annotator="veweser" text="People who intended to &lt;b&gt;lose&lt;/b&gt; weight, and who did so, also had a slightly higher mortality than those who did not intend to &lt;b&gt;lose&lt;/b&gt; weight and whose weight was stable." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020200.anc" start="61" end="67" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" annotator="veweser" text="If you are overweight, then &lt;b&gt;losing&lt;/b&gt; weight is good for your health, surely?" />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020200.anc" start="1895" end="1899" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" annotator="veweser" text="Information on mortality was then collected over the next 18 years; the authors then analyzed mortality in relation to intention to &lt;b&gt;lose&lt;/b&gt; weight and actual weight change." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020200.anc" start="2962" end="2968" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" annotator="cgozo" text="Perhaps the safest interpretation of these results is that by the time adults are overweight, the health benefits of &lt;b&gt;losing&lt;/b&gt; weight are not clear-cut." />
+  </sentences>
+</list>

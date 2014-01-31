@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29775.anc" start="6231" end="6236" sStart="6208" offset="28" sid="r9.sense.n.0985" wn="1" wnkey="sense%1:09:05::" annotator="veweser" text="&quot;There is an increased sense of desperation in China about Taiwan." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29775.anc" start="91" end="96" sStart="null" offset="15" sid="r9.sense.n.0521" wn="4" wnkey="sense%1:09:04::" annotator="veweser" text="Trying to make sense of U.S.-China relations these days can reduce even the most resolute Sinologist to a blubbering wreck." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29775.anc" start="7466" end="7471" sStart="null" offset="59" sid="r8.1.great.j.0881" wn="1" wnkey="great%5:00:01:large:00" annotator="veweser" text="Yes, China is an emerging power and, yes, China may be the great American rival of the next century, but Americans have transformed China into an otherworldly nation, a mysterious angel, a baffling demon." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29775.anc" start="893" end="899" sStart="null" offset="0" sid="null" wn="3" wnkey="forget%2:31:03::" annotator="comcgeetubb" text="Oh, and I &lt;b&gt;forgot&lt;/b&gt; to mention that today is the 10 th anniversary of the Tiananmen Square massacre." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29775.anc" start="2700" end="2704" sStart="null" offset="77" sid="r11.able.j.0220" wn="1" wnkey="able%3:00:00::" annotator="vebatchelder" text="So our policy needs firewalls : The American business community shouldn't be able to force the United States to cave on human rights just to improve economic ties." />
+  </sentences>
+</list>

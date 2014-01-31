@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2146.anc" start="766" end="772" sStart="762" offset="4" sid="r8.state.n.0725" wn="1" wnkey="state%1:15:01::" annotator="veweser" text="The states face quite a challenge in finding employment for all these people." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2146.anc" start="4187" end="4191" sStart="null" offset="4" sid="r7.poor.j.0497" wn="2" wnkey="poor%3:00:00::" annotator="veweser" text="But poor people are usually not in a position to demand stock options." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2146.anc" start="4187" end="4191" sStart="null" offset="4" sid="r7.poor.j.0497" wn="2" wnkey="poor%3:00:00::" annotator="jeneale" text="But poor people are usually not in a position to demand stock options." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2146.anc" start="6038" end="6046" sStart="null" offset="53" sid="r11.benefit.n.0824" wn="1" wnkey="benefit%1:21:00::" annotator="anfahmy" text="Now that Washington has stopped guaranteeing welfare benefits, a compassionate government surely owes its poorest citizens no less than this." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2146.anc" start="2116" end="2124" sStart="null" offset="106" sid="r11.benefit.n.0073" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="People are unlikely to invest in the feeding and care of others if they are not in a position to reap the benefits." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2146.anc" start="685" end="693" sStart="null" offset="71" sid="r11.benefit.n.0492" wn="1" wnkey="benefit%1:21:00::" annotator="adelpriore" text="It supplies less money, not more, to the states, frees them to cut off benefits, and largely leaves the details to them to figure out." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2146.anc" start="2116" end="2124" sStart="null" offset="106" sid="r11.benefit.n.0073" wn="2" wnkey="benefit%1:07:00::" annotator="adelpriore" text="People are unlikely to invest in the feeding and care of others if they are not in a position to reap the benefits." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3705-ms98-a-trans.anc" start="948" end="953" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="i tell you it gets tough when you know we have i've tried to &lt;b&gt;write&lt;/b&gt; something out on a computer and stuff but it seems like every week there's something that comes up and makes it about impossible to" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3705-ms98-a-trans.anc" start="126" end="131" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="well i sort of i mean in my mind i do i don't &lt;b&gt;write&lt;/b&gt; anything down or anything like that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3705-ms98-a-trans.anc" start="2958" end="2963" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="well it's actually Utah's been lucky we haven't been hit by the recession so housing prices have stayed up the only thing that's helping us is that the mortgage &lt;b&gt;rates&lt;/b&gt; are going down but uh it's still moving pretty brisk and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3705-ms98-a-trans.anc" start="2958" end="2963" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="well it's actually Utah's been lucky we haven't been hit by the recession so housing prices have stayed up the only thing that's helping us is that the mortgage &lt;b&gt;rates&lt;/b&gt; are going down but uh it's still moving pretty brisk and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3705-ms98-a-trans.anc" start="3326" end="3330" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="veweser" text="yeah well i'm lucky i'll never &lt;b&gt;lose&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3705-ms98-a-trans.anc" start="3403" end="3407" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" annotator="brubin" text="but you know it doesn't matter if i &lt;b&gt;lose&lt;/b&gt; a job one place i'll just go somewhere else so" />
+  </sentences>
+</list>

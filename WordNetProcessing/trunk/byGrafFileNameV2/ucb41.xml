@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/ucb41.anc" start="751" end="761" sStart="669" offset="82" sid="null" wn="2" wnkey="suspicious%5:00:00:questionable:00" annotator="sophiavv" text="As always, if you receive any unsolicited e-mails, phone calls, faxes or other suspicious attempts to gain personal or confidential information, please e-mail us at fraudprevention@cfgcustomers.com or call Cash Management Client Services at 1-877-550-5933, Monday to Friday, 7 a.m. to 6 p.m. ET." />
+    <s path="[MASC]/data/written/ucb41.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="vebatchelder" text="We continue to be informed that customers and non-customers are receiving fraudulent phishing emails requesting confidential information and credentials." />
+  </sentences>
+</list>

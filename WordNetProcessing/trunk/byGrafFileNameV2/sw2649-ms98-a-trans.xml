@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2649-ms98-a-trans.anc" start="7961" end="7967" sStart="-1" offset="0" sid="null" wn="1" wnkey="mature%2:30:00::" annotator="veweser" text="you're going to you're going to pay for uh technology that's not &lt;b&gt;mature&lt;/b&gt; yet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2649-ms98-a-trans.anc" start="7961" end="7967" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="jeneale" text="you're going to you're going to pay for uh technology that's not &lt;b&gt;mature&lt;/b&gt; yet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2649-ms98-a-trans.anc" start="7961" end="7967" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="cgozo" text="you're going to you're going to pay for uh technology that's not &lt;b&gt;mature&lt;/b&gt; yet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2649-ms98-a-trans.anc" start="7961" end="7967" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text="you're going to you're going to pay for uh technology that's not &lt;b&gt;mature&lt;/b&gt; yet" />
+  </sentences>
+</list>

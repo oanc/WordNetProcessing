@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2183.anc" start="1106" end="1113" sStart="1005" offset="101" sid="r7.serve.v.0063" wn="4" wnkey="serve%2:41:00::" annotator="veweser" text="Our ServerSearch TM team traveled the globe in pursuit of the very best software for serving you, our readers." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2183.anc" start="1106" end="1113" sStart="null" offset="101" sid="r7.serve.v.0063" wn="4 10" wnkey="null" annotator="jeneale" text="Our ServerSearch TM team traveled the globe in pursuit of the very best software for serving you, our readers." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2183.anc" start="1106" end="1113" sStart="null" offset="101" sid="r7.serve.v.0063" wn="8" wnkey="serve_well%2:42:00::" annotator="cgozo" text="Our ServerSearch TM team traveled the globe in pursuit of the very best software for serving you, our readers." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2183.anc" start="254" end="261" sStart="null" offset="35" sid="r7.serve.v.0575" wn="6" wnkey="serve_up%2:34:00::" annotator="brubin" text="(Well, this Thursday we were still serving up Wednesday's edition for a good part of the morning, but that's a different story.)" />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2183.anc" start="1106" end="1113" sStart="null" offset="101" sid="r7.serve.v.0063" wn="8" wnkey="serve_well%2:42:00::" annotator="brubin" text="Our ServerSearch TM team traveled the globe in pursuit of the very best software for serving you, our readers." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2183.anc" start="4099" end="4104" sStart="null" offset="10" sid="r9.paper.n.0711" wn="4" wnkey="paper%1:10:00::" annotator="cgozo" text="An actual paper edition of &quot;Slate on Paper&quot; can be mailed to you (call 800-555-4995), but that costs money and can take a few days to arrive." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2183.anc" start="4126" end="4131" sStart="null" offset="42" sid="r9.paper.n.0175" wn="4" wnkey="paper%1:10:00::" annotator="cgozo" text="An actual paper edition of &quot;Slate on Paper&quot; can be mailed to you (call 800-555-4995), but that costs money and can take a few days to arrive." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3270.anc" start="4855" end="4860" sStart="4842" offset="13" sid="r7.sound.n.0463" wn="1" wnkey="sound%1:07:00::" annotator="brubin" text="I put in the sound of cartilage being crunched and show the bright red blood pouring out of someone's nose, and I give you a close up of the other person's broken fingers beginning to swell." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/9/Article247_3270.anc" start="4893" end="4897" sStart="null" offset="0" sid="null" wn="5" wnkey="show%2:36:00::" annotator="elstickles" text="I put in the sound of cartilage being crunched and &lt;b&gt;show&lt;/b&gt; the bright red blood pouring out of someone's nose, and I give you a close up of the other person's broken fingers beginning to swell." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/9/Article247_3270.anc" start="4893" end="4897" sStart="null" offset="0" sid="null" wn="5" wnkey="show%2:36:00::" annotator="carichter" text="I put in the sound of cartilage being crunched and &lt;b&gt;show&lt;/b&gt; the bright red blood pouring out of someone's nose, and I give you a close up of the other person's broken fingers beginning to swell." />
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3270.anc" start="1364" end="1370" sStart="null" offset="55" sid="r8.family.n.0928" wn="1" wnkey="family%1:14:02::" annotator="cgozo" text="Take Blockbuster, which prides itself on being a &quot;family video store.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3270.anc" start="4304" end="4309" sStart="null" offset="51" sid="r10.board.n.0733" wn="1" wnkey="board%1:14:00::" annotator="veweser" text="A director who frequently tangled with the ratings board told me an instructive story." />
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3270.anc" start="393" end="398" sStart="null" offset="49" sid="r10.board.n.0468" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="Yippee: another occasion for bashing the ratings board." />
+  </sentences>
+</list>

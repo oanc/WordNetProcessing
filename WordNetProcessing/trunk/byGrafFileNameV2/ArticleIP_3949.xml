@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3949.anc" start="1856" end="1861" sStart="1828" offset="28" sid="r7.sound.n.0361" wn="1" wnkey="sound%1:07:00::" annotator="veweser" text="Who and what influenced The Sound ? James Joyce and Ulysses ? Can only a Southerner truly appreciate Faulkner's settings?" />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3949.anc" start="1606" end="1611" sStart="null" offset="23" sid="r7.sound.n.0360" wn="2147483645" wnkey="null" annotator="cgozo" text="William Faulkner's The Sound and the Fury was the subject of the new &quot;Reading&quot; thread this week." />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3949.anc" start="800" end="809" sStart="null" offset="52" sid="r11.refer.v.0156" wn="7" wnkey="refer%2:32:04::" annotator="adelpriore" text="Clinton's critics have turned up the rhetoric, even referring to him as a &quot;rapist&quot;--while Starr's critics are accusing him of being party to a witness-tampering scheme." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/47/ArticleIP_3949.anc" start="1740" end="1745" sStart="null" offset="0" sid="null" wn="3" wnkey="forcefulness%1:07:00::" annotator="carichter" text="Chapter 1, a k a the &quot;Benjy&quot; chapter, was deemed &quot;a tour de &lt;b&gt;force&lt;/b&gt; ranking with anything Joyce, Dickens, or Shakespeare &lt;b&gt;wrote&lt;/b&gt;&quot; by the thread's host." />
+  </sentences>
+</list>

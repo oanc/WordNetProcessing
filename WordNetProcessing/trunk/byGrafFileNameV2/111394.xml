@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/111394.anc" start="100" end="104" sStart="3" offset="102" sid="r10.help.v.0189" wn="1" wnkey="help%2:41:00::" annotator="veweser" text="Date: Fri, 11 Feb 2011 16:28:54 +0700 (WIT) Subject: ***Confirm Account Update*** From: &quot;Webmail Help Desk&quot; &lt;info@support.com&gt; To:" />
+    <s path="[MASC]/data/written/111394.anc" start="529" end="533" sStart="null" offset="43" sid="null" wn="5" wnkey="date%1:28:03::" annotator="vebatchelder" text="User ID: * Password: * Re-type Password: * Date of Birth:" />
+    <s path="[MASC]/data/written/111394.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Date: Fri, 11 Feb 2011 16:28:54 +0700 (WIT) Subject: ***Confirm Account Update*** From: &quot;Webmail Help Desk&quot; &lt;info@support.com&gt; To:" />
+  </sentences>
+</list>

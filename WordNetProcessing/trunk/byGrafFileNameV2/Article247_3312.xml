@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3312.anc" start="453" end="457" sStart="392" offset="61" sid="r10.wait.v.0145" wn="2" wnkey="wait%2:42:01::" annotator="veweser" text="Then Senator Phil Gramm, R-Texas, says he would just as soon wait on a tax cut until George W. becomes president." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3312.anc" start="358" end="364" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="comcgeetubb" text="For example, on NBC's Meet the Press , Senator Daniel Patrick Moynihan, D-N.Y., says it would be best to just &lt;b&gt;forget&lt;/b&gt; cutting taxes and go home." />
+  </sentences>
+</list>

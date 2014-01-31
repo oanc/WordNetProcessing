@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3455-ms98-a-trans.anc" start="3108" end="3114" sStart="-1" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="there's been movies out that i've been wanting to see i just you know don't get a &lt;b&gt;chance&lt;/b&gt; to get out and see them" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3455-ms98-a-trans.anc" start="3108" end="3114" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="comcgeetubb" text="there's been movies out that i've been wanting to see i just you know don't get a &lt;b&gt;chance&lt;/b&gt; to get out and see them" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3455-ms98-a-trans.anc" start="3108" end="3114" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="there's been movies out that i've been wanting to see i just you know don't get a &lt;b&gt;chance&lt;/b&gt; to get out and see them" />
+  </sentences>
+</list>

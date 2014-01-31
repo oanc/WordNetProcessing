@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/35/ArticleIP_2318.anc" start="7639" end="7642" sStart="7626" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="veweser" text="But had Dole &lt;b&gt;won&lt;/b&gt; the election, our policy would almost certainly have remained the same." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2318.anc" start="4049" end="4055" sStart="null" offset="122" sid="r8.state.n.0277" wn="4" wnkey="state%1:14:00::" annotator="veweser" text="It was also Carter who granted MFN trade status to China for the first time and invited Deng Xiaoping to visit the United States." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/35/ArticleIP_2318.anc" start="7831" end="7836" sStart="null" offset="0" sid="null" wn="4" wnkey="power%1:26:00::" annotator="veweser" text="In &lt;b&gt;power&lt;/b&gt;, the yin reasserts itself." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/35/ArticleIP_2318.anc" start="7831" end="7836" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="tofox" text="In &lt;b&gt;power&lt;/b&gt;, the yin reasserts itself." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/35/ArticleIP_2318.anc" start="2826" end="2831" sStart="null" offset="0" sid="null" wn="4" wnkey="power%1:26:00::" annotator="carichter" text="Those out of &lt;b&gt;power&lt;/b&gt; love to accuse those in &lt;b&gt;power&lt;/b&gt; of being overly solicitous toward Beijing on human rights and other issues." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2318.anc" start="4776" end="4780" sStart="null" offset="7" sid="r9.late.j.0985" wn="1" wnkey="late%3:00:00::" annotator="veweser" text="In the late 1970s, as he prepared to run against Reagan for the Republican presidential nomination, Bush opposed Carter's move to establish formal diplomatic relations with the PRC, calling it &quot;an abject American retreat.&quot;" />
+  </sentences>
+</list>

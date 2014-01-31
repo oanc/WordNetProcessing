@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2226.anc" start="956" end="963" sStart="-1" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="cgozo" text="In a world where a formidable institution like the Wall Street Journal has 180,000-plus paying online subscribers more than a year after it started charging, and where Playboy's site is considered a &lt;b&gt;success&lt;/b&gt; at 22,000 subscribers, we're pretty pleased that 10,000 people signed up before they even had to." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2226.anc" start="956" end="963" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="In a world where a formidable institution like the Wall Street Journal has 180,000-plus paying online subscribers more than a year after it started charging, and where Playboy's site is considered a &lt;b&gt;success&lt;/b&gt; at 22,000 subscribers, we're pretty pleased that 10,000 people signed up before they even had to." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2226.anc" start="2529" end="2533" sStart="null" offset="8" sid="r9.full.j.0568" wn="1" wnkey="full%3:00:00::" annotator="brubin" text="Life is full of mysteries." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2226.anc" start="2863" end="2867" sStart="null" offset="57" sid="r11.dark.j.0190" wn="2" wnkey="dark%3:00:02::" annotator="vebatchelder" text="The consensus among all these establishment white men in dark suits was that you'll never make it." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2226.anc" start="2605" end="2609" sStart="null" offset="8" sid="r11.able.j.0691" wn="1" wnkey="able%3:00:00::" annotator="vebatchelder" text="will be able to solve some of them." />
+  </sentences>
+</list>

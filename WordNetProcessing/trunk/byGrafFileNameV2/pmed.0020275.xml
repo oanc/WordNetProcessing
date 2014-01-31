@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020275.anc" start="290" end="297" sStart="175" offset="115" sid="r1.history.n.0068" wn="" wnkey="null" annotator="vebatchelder" text="An important question for researchers is to establish whether dementia incidence, prevalence, and national history vary from one location to another." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020275.anc" start="290" end="297" sStart="null" offset="115" sid="r1.history.n.0068" wn="1" wnkey="history%1:28:00::" annotator="sophiavv" text="An important question for researchers is to establish whether dementia incidence, prevalence, and national history vary from one location to another." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020275.anc" start="290" end="297" sStart="null" offset="115" sid="r1.history.n.0068" wn="1" wnkey="history%1:28:00::" annotator="anfahmy" text="An important question for researchers is to establish whether dementia incidence, prevalence, and national history vary from one location to another." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020275.anc" start="290" end="297" sStart="null" offset="115" sid="r1.history.n.0068" wn="2147483646" wnkey="null" annotator="adelpriore" text="An important question for researchers is to establish whether dementia incidence, prevalence, and national history vary from one location to another." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020275.anc" start="1467" end="1471" sStart="null" offset="10" sid="r10.high.j.0607" wn="1" wnkey="high%3:00:02::" annotator="cgozo" text="A high proportion of dementia patients are thought to have a vascular component to their dementia, and it has been assumed that dementia incidence could be reduced if vascular risk were better controlled." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020275.anc" start="1222" end="1228" sStart="null" offset="41" sid="r10.common.j.0605" wn="4" wnkey="common%5:00:00:familiar:02" annotator="veweser" text="Risk factors for other chronic disorders common in old age (notably cardiovascular disease and cancers) do vary in their prevalence between and within countries." />
+  </sentences>
+</list>

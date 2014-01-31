@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3688-ms98-a-trans.anc" start="3670" end="3675" sStart="-1" offset="0" sid="null" wn="9" wnkey="power%1:19:01::" annotator="carichter" text="and even that's you know small time mostly uh the biggest chunk of what's going on there is is uh industries coal mines and chemical plants and &lt;b&gt;power&lt;/b&gt; plants" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3688-ms98-a-trans.anc" start="4197" end="4202" sStart="null" offset="0" sid="null" wn="4" wnkey="force%1:14:00::" annotator="veweser" text="well you've got some experience behind you in the work &lt;b&gt;force&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3688-ms98-a-trans.anc" start="4197" end="4202" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="well you've got some experience behind you in the work &lt;b&gt;force&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3688-ms98-a-trans.anc" start="2127" end="2135" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="carichter" text="um i don't know how &lt;b&gt;familiar&lt;/b&gt; you are with that area of the country but" />
+  </sentences>
+</list>

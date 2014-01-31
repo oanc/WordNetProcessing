@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/111372.anc" start="340" end="349" sStart="292" offset="48" sid="null" wn="1" wnkey="recommend%2:32:01::" annotator="vebatchelder" text="Sequel to this she has asked me to look for and recommend a reputable and reliable person/company who can conveniently and sincerely be in Partnership with her in the investment." />
+    <s path="[MASC]/data/written/111372.anc" start="340" end="349" sStart="null" offset="48" sid="null" wn="2" wnkey="recommend%2:32:00::" annotator="anfahmy" text="Sequel to this she has asked me to look for and recommend a reputable and reliable person/company who can conveniently and sincerely be in Partnership with her in the investment." />
+    <s path="[MASC]/data/written/111372.anc" start="340" end="349" sStart="null" offset="48" sid="r11.recommend.v.0004" wn="2" wnkey="recommend%2:32:00::" annotator="anfahmy" text="Sequel to this she has asked me to look for and recommend a reputable and reliable person/company who can conveniently and sincerely be in Partnership with her in the investment." />
+    <s path="[MASC]/data/written/111372.anc" start="340" end="349" sStart="null" offset="48" sid="null" wn="2" wnkey="recommend%2:32:00::" annotator="adelpriore" text="Sequel to this she has asked me to look for and recommend a reputable and reliable person/company who can conveniently and sincerely be in Partnership with her in the investment." />
+    <s path="[MASC]/data/written/111372.anc" start="340" end="349" sStart="null" offset="48" sid="r11.recommend.v.0004" wn="2" wnkey="recommend%2:32:00::" annotator="adelpriore" text="Sequel to this she has asked me to look for and recommend a reputable and reliable person/company who can conveniently and sincerely be in Partnership with her in the investment." />
+    <s path="[MASC]/data/written/111372.anc" start="144" end="148" sStart="null" offset="3" sid="null" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="My name is Paul Daisie a lawyer and financial consultant, I have a client who is willing to invest in your company or country on a partnership basis." />
+    <s path="[MASC]/data/written/111372.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Date: Mon, 15 Nov 2010 16:02:20 +0100 (CET) From: j_daisie@rediffmail.com To: j_daisie@rediffmail.com Subject: REPLY ASAP" />
+  </sentences>
+</list>

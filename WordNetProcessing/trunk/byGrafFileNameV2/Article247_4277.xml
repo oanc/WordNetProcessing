@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4277.anc" start="439" end="446" sStart="70" offset="369" sid="r7.serve.v.0800" wn="1" wnkey="serve%2:42:03::" annotator="cgozo" text="The New York Times leads with new Russian President Vladimir Putin's visit to troops fighting in Chechnya, a story run above the fold in the Los Angeles Times and on Page A17 in the Washington Post . The Post and LAT lead with pieces on Y2K computer glitches--or rather the lack thereof--a story fronted by the NYT (technically, the Post story is part of a Y2K package serving as the top non-local lead)." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4277.anc" start="5499" end="5503" sStart="null" offset="0" sid="r9.late.j.0835" wn="6" wnkey="late%3:00:02::" annotator="cgozo" text="" />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4277.anc" start="5789" end="5800" sStart="null" offset="2" sid="r11.combination.n.0861" wn="1" wnkey="combination%1:14:00::" annotator="adelpriore" text="A combination of jingoism among political elites and insularity among the business elites who spearheaded this new international commerce provoked a near-50-year reaction against free trade and global communications." />
+  </sentences>
+</list>

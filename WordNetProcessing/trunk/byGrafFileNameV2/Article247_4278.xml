@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/19/Article247_4278.anc" start="1028" end="1031" sStart="975" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="cgozo" text="George F. Will argues that for Bradley and McCain to &lt;b&gt;win&lt;/b&gt; their party's nominations, independent voters (that is, those not affiliated with a single party) would have to become decisive, which is very unlikely in the primaries." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4278.anc" start="2132" end="2136" sStart="null" offset="102" sid="r7.poor.j.0821" wn="2147483645" wnkey="null" annotator="veweser" text="Historian Doris Kearns Goodwin opines that the 21st century will provide more opportunity to help the poor." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4278.anc" start="2132" end="2136" sStart="null" offset="102" sid="r7.poor.j.0821" wn="2147483645" wnkey="null" annotator="jeneale" text="Historian Doris Kearns Goodwin opines that the 21st century will provide more opportunity to help the poor." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4278.anc" start="4700" end="4704" sStart="null" offset="66" sid="r8.life.n.0168" wn="1" wnkey="life%1:26:01::" annotator="cgozo" text="People put me up on a pedestal that I don't belong in my personal life." />
+  </sentences>
+</list>

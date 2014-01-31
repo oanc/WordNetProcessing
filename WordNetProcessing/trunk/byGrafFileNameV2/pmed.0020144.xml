@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020144.anc" start="3452" end="3456" sStart="-1" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="The simplest case considers a disease with only two macroscopic epidemiological characteristics, an infection &lt;b&gt;rate&lt;/b&gt; and a removal &lt;b&gt;rate&lt;/b&gt;, which may change over time as in the case of meningococcal meningitis." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020144.anc" start="3452" end="3456" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="The simplest case considers a disease with only two macroscopic epidemiological characteristics, an infection &lt;b&gt;rate&lt;/b&gt; and a removal &lt;b&gt;rate&lt;/b&gt;, which may change over time as in the case of meningococcal meningitis." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020144.anc" start="3540" end="3550" sStart="null" offset="3" sid="r10.particular.j.0125" wn="2147483647" wnkey="null" annotator="veweser" text="In particular, we assume that there is no immunity in the population and that infection and removal are independent in time." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020144.anc" start="5476" end="5484" sStart="null" offset="58" sid="r11.benefit.n.0335" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="Finally, notwithstanding limits to precision, the benefits to be obtained from estimates of the average final epidemic size and the timing of epidemics alone may warrant considerable investment in EWSs." />
+  </sentences>
+</list>

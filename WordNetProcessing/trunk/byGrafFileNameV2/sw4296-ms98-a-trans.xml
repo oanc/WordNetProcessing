@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4296-ms98-a-trans.anc" start="2978" end="2985" sStart="-1" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="veweser" text="given the &lt;b&gt;success&lt;/b&gt; or rather lack there of of the police in controlling the market in drugs i sort of wonder uh you know really how effective it would be but i don't i don't mean that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4296-ms98-a-trans.anc" start="2978" end="2985" sStart="null" offset="0" sid="null" wn="3" wnkey="success%1:26:00::" annotator="cgozo" text="given the &lt;b&gt;success&lt;/b&gt; or rather lack there of of the police in controlling the market in drugs i sort of wonder uh you know really how effective it would be but i don't i don't mean that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4296-ms98-a-trans.anc" start="2978" end="2985" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="given the &lt;b&gt;success&lt;/b&gt; or rather lack there of of the police in controlling the market in drugs i sort of wonder uh you know really how effective it would be but i don't i don't mean that" />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4223.anc" start="2287" end="2290" sStart="2280" offset="7" sid="r8.way.n.0931" wn="2147483647" wnkey="null" annotator="brubin" text="By the way, I'm not your host; I'm just the guy who camps here year-round." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/19/Article247_4223.anc" start="1304" end="1309" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="veweser" text="A &lt;b&gt;smart&lt;/b&gt;, twentysomething former  Slate  writer tried to explain to me the other day that the point of Fight Club is that the hero spends the whole movie punching himself in the face." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/19/Article247_4223.anc" start="1304" end="1309" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="A &lt;b&gt;smart&lt;/b&gt;, twentysomething former  Slate  writer tried to explain to me the other day that the point of Fight Club is that the hero spends the whole movie punching himself in the face." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/19/Article247_4223.anc" start="1304" end="1309" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="A &lt;b&gt;smart&lt;/b&gt;, twentysomething former  Slate  writer tried to explain to me the other day that the point of Fight Club is that the hero spends the whole movie punching himself in the face." />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4223.anc" start="1172" end="1176" sStart="null" offset="128" sid="r11.dark.j.0139" wn="4" wnkey="dark%5:00:00:evil:00" annotator="vebatchelder" text="Some of the greatest artists burrow so deeply into their characters' twisted psyches that they risk making a case for &quot;the dark side.&quot;" />
+  </sentences>
+</list>

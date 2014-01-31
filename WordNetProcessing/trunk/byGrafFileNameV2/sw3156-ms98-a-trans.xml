@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3156-ms98-a-trans.anc" start="2965" end="2972" sStart="-1" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="veweser" text="um the &lt;b&gt;success&lt;/b&gt; &lt;b&gt;rate&lt;/b&gt; of getting it sorted properly seemed to be poor so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3156-ms98-a-trans.anc" start="2965" end="2972" sStart="null" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="cgozo" text="um the &lt;b&gt;success&lt;/b&gt; &lt;b&gt;rate&lt;/b&gt; of getting it sorted properly seemed to be poor so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3156-ms98-a-trans.anc" start="2965" end="2972" sStart="null" offset="0" sid="null" wn="3" wnkey="success%1:26:00::" annotator="cgozo" text="um the &lt;b&gt;success&lt;/b&gt; &lt;b&gt;rate&lt;/b&gt; of getting it sorted properly seemed to be poor so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3156-ms98-a-trans.anc" start="2965" end="2972" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="um the &lt;b&gt;success&lt;/b&gt; &lt;b&gt;rate&lt;/b&gt; of getting it sorted properly seemed to be poor so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3156-ms98-a-trans.anc" start="2965" end="2972" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="um the &lt;b&gt;success&lt;/b&gt; &lt;b&gt;rate&lt;/b&gt; of getting it sorted properly seemed to be poor so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3156-ms98-a-trans.anc" start="2973" end="2977" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="um the &lt;b&gt;success&lt;/b&gt; &lt;b&gt;rate&lt;/b&gt; of getting it sorted properly seemed to be poor so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3156-ms98-a-trans.anc" start="2973" end="2977" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="um the &lt;b&gt;success&lt;/b&gt; &lt;b&gt;rate&lt;/b&gt; of getting it sorted properly seemed to be poor so" />
+  </sentences>
+</list>

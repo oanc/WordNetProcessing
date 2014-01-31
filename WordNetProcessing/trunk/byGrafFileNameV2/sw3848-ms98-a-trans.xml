@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3848-ms98-a-trans.anc" start="2834" end="2841" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="yeah well i tried &lt;b&gt;writing&lt;/b&gt; letters to get it straightened out but it uh it took about eight months and i finally said cancel the account and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3848-ms98-a-trans.anc" start="2263" end="2274" sStart="null" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" annotator="tofox" text="some bills came in under the old account after they &lt;b&gt;transferred&lt;/b&gt; all the money out" />
+  </sentences>
+</list>

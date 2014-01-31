@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020048.anc" start="1014" end="1018" sStart="859" offset="155" sid="r10.help.v.0774" wn="6" wnkey="help%2:41:12::" annotator="anfahmy" text="In reality, it is the pharmaceutical industry that stands to gain the most if data are made public as such data inform future research and help smaller, innovative companies avoid redundancy." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020048.anc" start="429" end="435" sStart="null" offset="44" sid="r10.board.n.0174" wn="1" wnkey="board%1:14:00::" annotator="anfahmy" text="I suggest that institutional review boards refuse to allow human experimentation unless the protocol is filed in a central (online) repository." />
+  </sentences>
+</list>

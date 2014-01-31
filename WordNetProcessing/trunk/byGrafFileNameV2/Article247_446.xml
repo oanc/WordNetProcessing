@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_446.anc" start="82" end="88" sStart="74" offset="0" sid="null" wn="4" wnkey="string%1:14:00::" annotator="veweser" text="After a &lt;b&gt;string&lt;/b&gt; of party-line days, news diversity breaks out." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_446.anc" start="82" end="88" sStart="null" offset="0" sid="null" wn="4" wnkey="string%1:14:00::" annotator="jeneale" text="After a &lt;b&gt;string&lt;/b&gt; of party-line days, news diversity breaks out." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_446.anc" start="82" end="88" sStart="null" offset="0" sid="null" wn="4" wnkey="string%1:14:00::" annotator="cgozo" text="After a &lt;b&gt;string&lt;/b&gt; of party-line days, news diversity breaks out." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_446.anc" start="82" end="88" sStart="null" offset="0" sid="null" wn="4" wnkey="string%1:14:00::" annotator="brubin" text="After a &lt;b&gt;string&lt;/b&gt; of party-line days, news diversity breaks out." />
+  </sentences>
+</list>

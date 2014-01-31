@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/45/sw4570-ms98-a-trans.anc" start="5921" end="5929" sStart="-1" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="cgozo" text="and a lot of if you have a a YMCA or something they have kind of a tot programs where they have little &lt;b&gt;exercise&lt;/b&gt; class for kids her age and all kinds of things" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/45/sw4570-ms98-a-trans.anc" start="5921" end="5929" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="brubin" text="and a lot of if you have a a YMCA or something they have kind of a tot programs where they have little &lt;b&gt;exercise&lt;/b&gt; class for kids her age and all kinds of things" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/45/sw4570-ms98-a-trans.anc" start="5921" end="5929" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="bpassonneau" text="and a lot of if you have a a YMCA or something they have kind of a tot programs where they have little &lt;b&gt;exercise&lt;/b&gt; class for kids her age and all kinds of things" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/45/sw4570-ms98-a-trans.anc" start="1859" end="1865" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="and once a week we get together and this is a &lt;b&gt;chance&lt;/b&gt; when the kids can say whatever they want without us getting insulted about it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/45/sw4570-ms98-a-trans.anc" start="1859" end="1865" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="and once a week we get together and this is a &lt;b&gt;chance&lt;/b&gt; when the kids can say whatever they want without us getting insulted about it" />
+  </sentences>
+</list>

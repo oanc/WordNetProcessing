@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/letters/icic/106CWL030.anc" start="547" end="551" sStart="-1" offset="0" sid="null" wn="1" wnkey="time%1:11:00::" annotator="kaolla" text="One out of every four people in the United States will be diagnosed with having cancer at one point and &lt;b&gt;time&lt;/b&gt; in their life." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/106CWL030.anc" start="547" end="551" sStart="null" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="carichter" text="One out of every four people in the United States will be diagnosed with having cancer at one point and &lt;b&gt;time&lt;/b&gt; in their life." />
+    <s path="[OANC]/data/written_1/letters/icic/106CWL030.anc" start="561" end="565" sStart="null" offset="124" sid="r8.life.n.0789" wn="3" wnkey="life%1:26:02::" annotator="veweser" text="One out of every four people in the United States will be diagnosed with having cancer at one point and time in their life." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/106CWL030.anc" start="149" end="153" sStart="null" offset="0" sid="null" wn="5" wnkey="know%2:31:04::" annotator="elstickles" text="If you have had cancer, you already &lt;b&gt;know&lt;/b&gt; why." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/106CWL030.anc" start="149" end="153" sStart="null" offset="0" sid="null" wn="3" wnkey="know%2:31:02::" annotator="comcgeetubb" text="If you have had cancer, you already &lt;b&gt;know&lt;/b&gt; why." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/106CWL030.anc" start="149" end="153" sStart="null" offset="0" sid="null" wn="5" wnkey="know%2:31:04::" annotator="cgozo" text="If you have had cancer, you already &lt;b&gt;know&lt;/b&gt; why." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/106CWL030.anc" start="149" end="153" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" annotator="carichter" text="If you have had cancer, you already &lt;b&gt;know&lt;/b&gt; why." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/106CWL030.anc" start="149" end="153" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" annotator="brubin" text="If you have had cancer, you already &lt;b&gt;know&lt;/b&gt; why." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/106CWL030.anc" start="617" end="624" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="However, preventive measures can reduce the &lt;b&gt;chances&lt;/b&gt; of one's contracting cancer." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/106CWL030.anc" start="617" end="624" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="comcgeetubb" text="However, preventive measures can reduce the &lt;b&gt;chances&lt;/b&gt; of one's contracting cancer." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/106CWL030.anc" start="617" end="624" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="However, preventive measures can reduce the &lt;b&gt;chances&lt;/b&gt; of one's contracting cancer." />
+  </sentences>
+</list>

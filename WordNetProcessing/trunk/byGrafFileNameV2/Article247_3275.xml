@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3275.anc" start="1233" end="1240" sStart="1066" offset="172" sid="r9.kill.v.0387" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="The Aviation Consumer Action Project, a Ralph Nader group, says that in an attempted water landing, a wide body jet would &quot;shatter like a raw egg dropped on pavement, killing most if not all passengers on impact, even in calm seas with well-trained pilots and good landing trajectories.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/9/Article247_3275.anc" start="224" end="232" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="tofox" text="Many people, though, fly often in commercial planes and are &lt;b&gt;familiar&lt;/b&gt; with instructions on what to do in case of what is euphemistically called a &quot;water landing.&quot;" />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3559.anc" start="583" end="587" sStart="566" offset="17" sid="r10.find.v.0692" wn="5" wnkey="find%2:31:10::" annotator="brubin" text="I hope you don't find this too personal or indelicate a subject for public consumption, but I am in a dilemma about a relationship." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3559.anc" start="2248" end="2254" sStart="null" offset="4" sid="r10.common.j.0616" wn="2" wnkey="common%3:00:01::" annotator="brubin" text="One common confusion surrounds the use of &quot;mister&quot; when addressing more than one man." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3559.anc" start="1876" end="1881" sStart="null" offset="43" sid="r10.board.n.0523" wn="1" wnkey="board%1:14:00::" annotator="cgozo" text="Prudie does not wish to sound like a Ouija board or the thing in the cookie, but time reveals much." />
+  </sentences>
+</list>

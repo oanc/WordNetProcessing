@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4412.anc" start="475" end="478" sStart="437" offset="38" sid="r8.way.n.0708" wn="11" wnkey="way%1:09:01::" annotator="cgozo" text="So that leaves me without much in the way of research as I try to comment on the day's events." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4412.anc" start="1199" end="1202" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="OK, maybe I should &lt;b&gt;try&lt;/b&gt; the Internet ..." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4412.anc" start="1199" end="1202" sStart="null" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" annotator="carichter" text="OK, maybe I should &lt;b&gt;try&lt;/b&gt; the Internet ..." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4412.anc" start="1160" end="1165" sStart="null" offset="80" sid="r9.sense.n.0180" wn="4" wnkey="sense%1:09:04::" annotator="brubin" text="See, this is the problem with reading yesterday's horoscope--it never makes any sense." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4412.anc" start="899" end="903" sStart="null" offset="0" sid="null" wn="3" wnkey="date%1:14:00::" annotator="cgozo" text="A new flame may break a &lt;b&gt;date&lt;/b&gt;, but try to be forgiving.&quot;" />
+  </sentences>
+</list>

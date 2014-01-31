@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/32/ArticleIP_2057.anc" start="2711" end="2715" sStart="-1" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" annotator="cgozo" text="So I complained about this prospect, and before &lt;b&gt;long&lt;/b&gt; we were back to the default situation: chronic late payment." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2057.anc" start="2379" end="2383" sStart="null" offset="78" sid="r9.late.j.0287" wn="2" wnkey="late%5:00:00:unpunctual:00" annotator="cgozo" text="In the summer of 1989, apparently responding to my endless lamentations about late payments, AP started paying me ahead of time, i.e., a few days before the first of the month." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2057.anc" start="2763" end="2767" sStart="null" offset="100" sid="r9.late.j.0462" wn="2" wnkey="late%5:00:00:unpunctual:00" annotator="anfahmy" text="So I complained about this prospect, and before long we were back to the default situation: chronic late payment." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2057.anc" start="1532" end="1538" sStart="null" offset="0" sid="null" wn="3" wnkey="forget%2:31:03::" annotator="comcgeetubb" text="It seemed doubly odd when months came where the secretary &lt;b&gt;forgot&lt;/b&gt; to put the requisition through." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/32/ArticleIP_2057.anc" start="1719" end="1723" sStart="null" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" annotator="carichter" text="To be &lt;b&gt;fair&lt;/b&gt;, there was only one &quot;did-we-pay-you-this-month?&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2057.anc" start="7748" end="7753" sStart="null" offset="28" sid="r8.ask.v.0400" wn="4" wnkey="ask%2:32:04::" annotator="cgozo" text="The woman I spoke to coolly asked how much I made as a writer, judged the amount too high to warrant condolences, and said I should be glad to pay my share." />
+  </sentences>
+</list>

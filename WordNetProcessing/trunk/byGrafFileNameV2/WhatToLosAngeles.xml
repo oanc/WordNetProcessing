@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/WhatToLosAngeles.anc" start="14405" end="14408" sStart="-1" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" annotator="veweser" text="Among the other popular water sports you might &lt;b&gt;try&lt;/b&gt; are scuba diving and snorkeling." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/WhatToLosAngeles.anc" start="14405" end="14408" sStart="null" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" annotator="tofox" text="Among the other popular water sports you might &lt;b&gt;try&lt;/b&gt; are scuba diving and snorkeling." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/WhatToLosAngeles.anc" start="14196" end="14199" sStart="null" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" annotator="comcgeetubb" text="Parasailing is a new and trendy sport; you can &lt;b&gt;try&lt;/b&gt; it at the Balboa Pavilion." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3905.anc" start="3370" end="3374" sStart="3302" offset="68" sid="r11.true.j.0587" wn="6" wnkey="true%5:00:00:trustworthy:00" annotator="anfahmy" text="In his review of The Big Lebowski , Alex Ross shows himself to be a true spokesman for the film establishment." />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3905.anc" start="4988" end="4993" sStart="null" offset="15" sid="r9.sense.n.0615" wn="4" wnkey="sense%1:09:04::" annotator="cgozo" text="And that makes sense." />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3905.anc" start="171" end="177" sStart="null" offset="46" sid="r8.number.n.0535" wn="4" wnkey="number%1:10:03::" annotator="brubin" text="Please include your address and daytime phone number (for confirmation only)." />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3905.anc" start="1267" end="1271" sStart="null" offset="201" sid="r9.late.j.0556" wn="2" wnkey="late%5:00:00:unpunctual:00" annotator="brubin" text="The whole idea comes from the OPEN sign phenomenon where one might be rushing to the store just before closing time, or maybe during imagined weekend hours, only to find, upon arrival, that one is too late or too early." />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3905.anc" start="5579" end="5583" sStart="null" offset="15" sid="r10.find.v.0808" wn="7" wnkey="find%2:40:01::" annotator="brubin" text="Surely you can find alternatives to being too PC on one hand and going for easy O.J. laughs on the other." />
+    <s path="[OANC]/data/written_1/journal/slate/47/ArticleIP_3905.anc" start="5639" end="5643" sStart="null" offset="75" sid="r7.1.easy.j.0883" wn="1" wnkey="easy%3:00:01::" annotator="brubin" text="Surely you can find alternatives to being too PC on one hand and going for easy O.J. laughs on the other." />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_481.anc" start="334" end="341" sStart="96" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="cgozo" text="USA Today leads with the Dept. of Justice's attempt to have Microsoft held in contempt because the company is allegedly flouting the recently issued court order requiring it to market its Web browser Internet Explorer separately from its &lt;b&gt;Windows&lt;/b&gt; 95 operating system." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_481.anc" start="1512" end="1518" sStart="null" offset="13" sid="r8.state.n.0585" wn="2147483645" wnkey="null" annotator="veweser" text="The LAT lead states that economic normalization between the U.S. and Vietnam will result from the administration's decision, based on its view that Vietnam's emigration policies have improved considerably, to grant Vietnam a waiver from the Jackson-Vanik Amendment, which bars full economic relations with Communist countries that don't permit free emigration." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_481.anc" start="2033" end="2037" sStart="null" offset="49" sid="r10.high.j.0561" wn="1" wnkey="high%3:00:02::" annotator="veweser" text="It would have been helpful if the story had said high up in what respects Vietnam's emigration stance has improved, and had also explained how it is that the president can alter a country's trade status like this unilaterally, without Senate approval." />
+  </sentences>
+</list>

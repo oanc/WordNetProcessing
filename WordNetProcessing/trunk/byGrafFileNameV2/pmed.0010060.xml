@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0010060.anc" start="4203" end="4210" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="After the primary reviewers have &lt;b&gt;written&lt;/b&gt; their reviews, shorter reviews are &lt;b&gt;written&lt;/b&gt; by their superiors, with the process culminating in a decision about whether to approve the drug for the proposed indication." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0010060.anc" start="7722" end="7729" sStart="null" offset="12" sid="r8.suggest.v.0616" wn="1" wnkey="suggest%2:32:00::" annotator="cgozo" text="I therefore suggest that we increase access to the clinical trials registry and results database that already exist within the FDA." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0010060.anc" start="1186" end="1191" sStart="null" offset="10" sid="r10.find.v.0491" wn="4" wnkey="find%2:32:00::" annotator="cgozo" text="One study found that, of 127 cancer protocols sponsored by pharmaceutical companies that met criteria for inclusion, only 48% were in fact submitted to the registry [5]." />
+  </sentences>
+</list>

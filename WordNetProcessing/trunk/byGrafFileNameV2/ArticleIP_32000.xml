@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32000.anc" start="1112" end="1116" sStart="1111" offset="6" sid="r10.wait.v.0602" wn="2" wnkey="wait%2:42:01::" annotator="anfahmy" text="&quot;Wait, has The Nation 's annual cruise left already?&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32000.anc" start="1871" end="1876" sStart="null" offset="65" sid="r7.sound.n.0423" wn="2147483645" wnkey="null" annotator="brubin" text="Other people's chants, particularly when chanted in translation, sound a little silly." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32000.anc" start="4247" end="4252" sStart="null" offset="79" sid="r11.refer.v.0436" wn="1" wnkey="refer%2:32:01::" annotator="vebatchelder" text="OK, that's two things again, but the challenge remains: Which of these remarks refer to Sen." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32000.anc" start="4299" end="4304" sStart="null" offset="38" sid="r11.refer.v.0136" wn="1" wnkey="refer%2:32:01::" annotator="vebatchelder" text="Bob Smith of New Hampshire, and which refer to Mr. Peanut?" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32000.anc" start="3605" end="3609" sStart="null" offset="48" sid="r9.kill.v.0107" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="Other chants included: &quot;Army brothers, why kill brothers?" />
+  </sentences>
+</list>

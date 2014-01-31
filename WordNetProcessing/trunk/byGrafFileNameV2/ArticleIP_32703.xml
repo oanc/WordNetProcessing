@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="3709" end="3715" sStart="3684" offset="25" sid="r9.kill.v.0530" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="A disgruntled day trader killed 12 people in Atlanta." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="1113" end="1116" sStart="null" offset="13" sid="null" wn="8" wnkey="hit%2:33:02::" annotator="veweser" text="Mark McGwire hit his 500 th home run." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="1145" end="1152" sStart="null" offset="7" sid="r9.hit.v.0565" wn="13" wnkey="hit%2:38:07::" annotator="veweser" text="Before hitting No." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="1113" end="1116" sStart="null" offset="13" sid="null" wn="8" wnkey="hit%2:33:02::" annotator="sophiavv" text="Mark McGwire hit his 500 th home run." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="1113" end="1116" sStart="null" offset="13" sid="null" wn="1" wnkey="hit%2:35:03::" annotator="cgozo" text="Mark McGwire hit his 500 th home run." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="1113" end="1116" sStart="null" offset="13" sid="null" wn="8" wnkey="hit%2:33:02::" annotator="brubin" text="Mark McGwire hit his 500 th home run." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="1113" end="1116" sStart="null" offset="13" sid="r9.hit.v.0564" wn="1" wnkey="hit%2:35:03::" annotator="brubin" text="Mark McGwire hit his 500 th home run." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="1113" end="1116" sStart="null" offset="13" sid="null" wn="8" wnkey="hit%2:33:02::" annotator="bpassonneau" text="Mark McGwire hit his 500 th home run." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32703.anc" start="1113" end="1116" sStart="null" offset="13" sid="null" wn="13" wnkey="hit%2:38:07::" annotator="anfahmy" text="Mark McGwire hit his 500 th home run." />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2507.anc" start="2867" end="2871" sStart="2811" offset="56" sid="r11.true.j.0961" wn="1" wnkey="true%3:00:00::" annotator="vebatchelder" text="Saying that taxes would be lower if taxes were lower is true, but not edifying." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2507.anc" start="3656" end="3661" sStart="null" offset="35" sid="r7.sight.n.0147" wn="3" wnkey="sight%1:09:00::" annotator="brubin" text="But if we thought of it as a &quot;sight penalty&quot; and calculated it as the added tax a person pays now for the privilege of being able to see, it works out to something like $208 per sighted taxpayer." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2507.anc" start="1225" end="1229" sStart="null" offset="71" sid="r7.poor.j.0797" wn="2" wnkey="poor%3:00:00::" annotator="veweser" text="(Click if you're interested in another marriage penalty on the working poor that no one seems upset about.)" />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2507.anc" start="1225" end="1229" sStart="null" offset="71" sid="r7.poor.j.0797" wn="2147483645" wnkey="null" annotator="jeneale" text="(Click if you're interested in another marriage penalty on the working poor that no one seems upset about.)" />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2507.anc" start="378" end="388" sStart="null" offset="57" sid="r10.particular.j.0853" wn="2" wnkey="particular%5:00:02:specific:00" annotator="veweser" text="But now many in Congress are making a great cause of one particular differential: the one between married and unmarried couples." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2507.anc" start="1517" end="1521" sStart="null" offset="75" sid="r7.1.face.n.0447" wn="6" wnkey="face%1:15:00::" annotator="brubin" text="If two partners earn $40,000 each, a decision to get married could, on its face, cost them more than $1,000." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2507.anc" start="3858" end="3863" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="cgozo" text="The &quot;marriage penalty&quot; &lt;b&gt;dates&lt;/b&gt; back to 1969." />
+  </sentences>
+</list>

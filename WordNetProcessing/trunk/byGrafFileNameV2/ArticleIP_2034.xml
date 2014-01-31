@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2034.anc" start="4203" end="4207" sStart="4151" offset="52" sid="r11.true.j.0343" wn="7" wnkey="true%5:00:00:sincere:00" annotator="vebatchelder" text="We have been told on reasonably high authority that true charity vaunteth not itself; it is not puffed up." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2034.anc" start="1381" end="1385" sStart="null" offset="43" sid="r8.life.n.0910" wn="5 3" wnkey="null" annotator="jeneale" text="When it comes to handling the rest of your life, we give you exactly the same advice." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2034.anc" start="1896" end="1904" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="veweser" text="Two hours on the golf course makes a serious dent in the problem of getting some &lt;b&gt;exercise&lt;/b&gt;; maybe it's time to see what else in life is worthy of attention." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2034.anc" start="1896" end="1904" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="cgozo" text="Two hours on the golf course makes a serious dent in the problem of getting some &lt;b&gt;exercise&lt;/b&gt;; maybe it's time to see what else in life is worthy of attention." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2034.anc" start="1896" end="1904" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="brubin" text="Two hours on the golf course makes a serious dent in the problem of getting some &lt;b&gt;exercise&lt;/b&gt;; maybe it's time to see what else in life is worthy of attention." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2034.anc" start="3299" end="3308" sStart="null" offset="82" sid="r8.1.different.j.0292" wn="4" wnkey="different%5:00:01:other:00" annotator="cgozo" text="But if you care about your own sense of satisfaction, you'll enjoy pointing to 10 different charities and saying, &quot;I gave to all those!&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2034.anc" start="2865" end="2871" sStart="null" offset="45" sid="r10.common.j.0862" wn="2" wnkey="common%3:00:01::" annotator="anfahmy" text="But such delusions of grandeur can't be very common." />
+  </sentences>
+</list>

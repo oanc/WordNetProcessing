@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4205-ms98-a-trans.anc" start="1882" end="1885" sStart="1839" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="the North Vietnamese would have definitely &lt;b&gt;won&lt;/b&gt; and then our views in those days they would have become communist or pinko" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4205-ms98-a-trans.anc" start="2159" end="2165" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="carichter" text="Russia has Cuba which is an &lt;b&gt;island&lt;/b&gt; outside the United States and United States has Japan that's right out side of Cuba it it does Vietnam have a any strategic location" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4205-ms98-a-trans.anc" start="1935" end="1941" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="veweser" text="the North Vietnamese would have definitely won and then our views in those days they would have &lt;b&gt;become&lt;/b&gt; communist or pinko" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4205-ms98-a-trans.anc" start="1935" end="1941" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="tofox" text="the North Vietnamese would have definitely won and then our views in those days they would have &lt;b&gt;become&lt;/b&gt; communist or pinko" />
+  </sentences>
+</list>

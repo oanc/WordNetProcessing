@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2073.anc" start="5667" end="5671" sStart="5602" offset="65" sid="r11.true.j.0622" wn="7" wnkey="true%5:00:00:sincere:00" annotator="vebatchelder" text="It turns government suggestions into veiled threats and devalues true voluntarism." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2073.anc" start="5075" end="5087" sStart="null" offset="148" sid="r11.recommend.v.0158" wn="1" wnkey="recommend%2:32:01::" annotator="anfahmy" text="Even though 90 percent of all new bunk beds sold conform to the voluntary standards, Newsday reported last month that the commission's staff is now recommending mandatory standards." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2073.anc" start="260" end="264" sStart="null" offset="197" sid="r8.life.n.0187" wn="2" wnkey="life%1:09:00::" annotator="brubin" text="A stickup artist shoves a Smith &amp; Wesson in your face: Your money or your life, he says, by which he means you can surrender your money or you can surrender your slightly bloody money and your life." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2073.anc" start="2938" end="2944" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="Observers gave Kennedy's bill little &lt;b&gt;chance&lt;/b&gt; of passing, but Seagram found itself flummoxed anyway." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/32/ArticleIP_2073.anc" start="2938" end="2944" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="carichter" text="Observers gave Kennedy's bill little &lt;b&gt;chance&lt;/b&gt; of passing, but Seagram found itself flummoxed anyway." />
+  </sentences>
+</list>

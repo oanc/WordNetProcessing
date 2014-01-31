@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_34994.anc" start="70" end="74" sStart="-1" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="carichter" text="How the Iowa Electronic Markets &lt;b&gt;Work&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34994.anc" start="354" end="358" sStart="null" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="veweser" text="If the candidate &lt;b&gt;wins&lt;/b&gt;, you get a dollar for each share you own." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34994.anc" start="801" end="805" sStart="null" offset="76" sid="r10.wait.v.0632" wn="2" wnkey="wait%2:42:01::" annotator="brubin" text="If you buy shares in the candidate when his stock is low, you don't have to wait for Election Day to cash in." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34994.anc" start="407" end="412" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="tofox" text="If he &lt;b&gt;loses&lt;/b&gt;, your shares are worthless." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34994.anc" start="407" end="412" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="comcgeetubb" text="If he &lt;b&gt;loses&lt;/b&gt;, your shares are worthless." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34994.anc" start="407" end="412" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="cgozo" text="If he &lt;b&gt;loses&lt;/b&gt;, your shares are worthless." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34994.anc" start="407" end="412" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="brubin" text="If he &lt;b&gt;loses&lt;/b&gt;, your shares are worthless." />
+  </sentences>
+</list>

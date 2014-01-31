@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/530C-L209.anc" start="2120" end="2127" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="Two law reviews provide opportunities for research and &lt;b&gt;writing&lt;/b&gt;, as well as a forum for articles of state, national, and international interest" />
+    <s path="[OANC]/data/written_1/letters/icic/530C-L209.anc" start="375" end="381" sStart="null" offset="0" sid="r8.number.n.0896" wn="1" wnkey="number%1:07:00::" annotator="cgozo" text="Number of undergraduate institutions represented: 75" />
+  </sentences>
+</list>

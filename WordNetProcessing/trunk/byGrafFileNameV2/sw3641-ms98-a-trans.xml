@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3641-ms98-a-trans.anc" start="5883" end="5887" sStart="5825" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" annotator="brubin" text="so i feel sorry for all the liberals in town they have to &lt;b&gt;read&lt;/b&gt; the good stuff now" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3641-ms98-a-trans.anc" start="2991" end="2995" sStart="null" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" annotator="brubin" text="that you know i've been personably person known what's going on and then you &lt;b&gt;read&lt;/b&gt; what's in the newspaper about it and it doesn't always match up" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3641-ms98-a-trans.anc" start="2653" end="2659" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="they're charging they're making a man look guilty before he's even given a &lt;b&gt;chance&lt;/b&gt; to hear his side of the story but" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3641-ms98-a-trans.anc" start="2653" end="2659" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="they're charging they're making a man look guilty before he's even given a &lt;b&gt;chance&lt;/b&gt; to hear his side of the story but" />
+  </sentences>
+</list>

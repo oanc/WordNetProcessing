@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2670-ms98-a-trans.anc" start="7282" end="7285" sStart="7226" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="yeah but he who has the biggest stick is still going to &lt;b&gt;win&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2670-ms98-a-trans.anc" start="10262" end="10267" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="so &lt;b&gt;smart&lt;/b&gt; they're such geniuses that they've cross that line and they're they're psychotic and it's amazing" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2670-ms98-a-trans.anc" start="10262" end="10267" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="so &lt;b&gt;smart&lt;/b&gt; they're such geniuses that they've cross that line and they're they're psychotic and it's amazing" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2670-ms98-a-trans.anc" start="2892" end="2896" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="carichter" text="that happened in that &lt;b&gt;part&lt;/b&gt; of the war" />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4017.anc" start="519" end="525" sStart="-1" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="veweser" text="Just a short note to get the ball rolling this morning: I know this is a national forum and all, but since the other Breakfast Table participants I've read seemed to have no qualms about discussing what was in their local news (Long &lt;b&gt;Island&lt;/b&gt; politics, the New York Senate race, etc.), I figured I'd follow suit." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4017.anc" start="519" end="525" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="Just a short note to get the ball rolling this morning: I know this is a national forum and all, but since the other Breakfast Table participants I've read seemed to have no qualms about discussing what was in their local news (Long &lt;b&gt;Island&lt;/b&gt; politics, the New York Senate race, etc.), I figured I'd follow suit." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4017.anc" start="658" end="663" sStart="null" offset="62" sid="r10.board.n.0780" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="Man, that Bill Leuders is really hopping mad about the zoning board today!" />
+  </sentences>
+</list>

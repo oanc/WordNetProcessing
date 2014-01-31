@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2334-3-11.anc" start="19783" end="19794" sStart="-1" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" annotator="carichter" text="No hospitalized patient was &lt;b&gt;transferred&lt;/b&gt; to a nursing home or required other forms of placement that might influence the length of hospital stay." />
+    <s path="file:/c:/OANC/data/written_2/technical/biomed/1471-2334-3-11.anc" start="9372" end="9377" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="elstickles" text="[ 7 ] Women have also been &lt;b&gt;shown&lt;/b&gt; to have greater willingness to acknowledge and report illness." />
+    <s path="file:/c:/OANC/data/written_2/technical/biomed/1471-2334-3-11.anc" start="9372" end="9377" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="carichter" text="[ 7 ] Women have also been &lt;b&gt;shown&lt;/b&gt; to have greater willingness to acknowledge and report illness." />
+    <s path="file:/c:/OANC/data/written_2/technical/biomed/1471-2334-3-11.anc" start="11717" end="11722" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="carichter" text="[ 14 ] In addition, Schoenbaum et al have &lt;b&gt;shown&lt;/b&gt; that blacks are less likely to demand or receive adequate information about their disease process and more likely to report themselves to be in poor health than whites of the same age group and gender." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2334-3-11.anc" start="23005" end="23016" sStart="null" offset="59" sid="r11.recommend.v.0453" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text="Similar larger prospective multicenter studies are recommended." />
+  </sentences>
+</list>
