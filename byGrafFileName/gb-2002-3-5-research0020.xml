@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/gb-2002-3-5-research0020.anc" start="29535" end="29540" sStart="29385" offset="150" sid="r7.1.use.v.0068" wn="1" wnkey="use%2:34:01::" text="Nevertheless, this is the first attempt to produce an allergen-induced gene-expression profile in the lung of a non-human primate using genomic tools such as microarray and RT-PCR." />
+    <s path="[OANC]/data/written_2/technical/biomed/gb-2002-3-5-research0020.anc" start="35872" end="35877" sStart="null" offset="46" sid="r7.1.use.v.0378" wn="1" wnkey="use%2:34:01::" text="These computations were carried out using the S-PLUS software package (Mathsoft, Seattle, WA)." />
+  </sentences>
+</list>

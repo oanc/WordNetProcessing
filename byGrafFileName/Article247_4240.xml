@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/19/Article247_4240.anc" start="2003" end="2006" sStart="1999" offset="0" sid="null" wn="2147483646" wnkey="null" text="YOU &lt;b&gt;WON&lt;/b&gt;'T BE SORRY!" />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4240.anc" start="435" end="439" sStart="null" offset="24" sid="r7.1.easy.j.0983" wn="1" wnkey="easy%3:00:01::" text="Fortunately, there's an easy solution!" />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4240.anc" start="1613" end="1621" sStart="null" offset="230" sid="r11.benefit.n.0507" wn="1" wnkey="benefit%1:21:00::" text="So they lash out at one another by each accusing the other of favoring politically unpopular, but programmatically wise policy positions: to raise taxes if circumstances warrant it; to raise the retirement age for Social Security benefits; to consider school vouchers on an experimental basis; and so on." />
+  </sentences>
+</list>

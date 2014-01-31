@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1663.anc" start="2828" end="2833" sStart="2734" offset="94" sid="r11.refer.v.0735" wn="7" wnkey="refer%2:32:04::" text="Riffing off a recent New Yorker article, which reported that Clinton administration officials refer to her as the &quot;Martian,&quot; Shribman said now she's the administration's &quot;favorite Martian.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1663.anc" start="3141" end="3144" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" text="His befuddlement was enough to 1) make you think you had finally &lt;b&gt;met&lt;/b&gt; an honest pundit or 2) make you reach for the channel changer." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1663.anc" start="1085" end="1088" sStart="null" offset="68" sid="r9.hit.v.0246" wn="2" wnkey="hit%2:35:01::" text="The president's unveiled message to Freeh: &quot;Don't let the door hit you on the way out&quot; (Gwen Ifill, Washington Week in Review ). &quot;Louie Freeh all of a sudden became free Louie,&quot; said David Shribman ( Washington Week in Review ), who predicted that the director would leave the FBI in two months." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1663.anc" start="5943" end="5947" sStart="null" offset="54" sid="r7.1.face.n.0848" wn="2147483645" wnkey="null" text="(Reno didn't seem to receive any special treatment on Face the Nation , where she appeared Sunday.)" />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1663.anc" start="5971" end="5979" sStart="null" offset="82" sid="r9.appear.v.0759" wn="7" wnkey="appear%2:41:03::" text="(Reno didn't seem to receive any special treatment on Face the Nation , where she appeared Sunday.)" />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1663.anc" start="5807" end="5813" sStart="null" offset="108" sid="r9.appear.v.0387" wn="7" wnkey="appear%2:41:03::" text="Halfway through the program--and apropos of nothing--host Donaldson explained that Reno had been invited to appear on the show but had &quot;set conditions&quot; that the show was &quot;not able to meet.&quot;" />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21767.anc" start="3801" end="3807" sStart="3784" offset="17" sid="r7.strike.v.0331" wn="21" wnkey="strike%2:31:00::" text="In 1703, England struck a deal, the Methuen Treaty, which got Portugal to ally itself with England and Holland against the Catholic powers." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21767.anc" start="5643" end="5649" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" text="All of which makes me glad that the two great &lt;b&gt;powers&lt;/b&gt; that lost out in this century's &lt;b&gt;power&lt;/b&gt; struggles were Germany and Russia, or we might be savoring the delights of borscht, potatoes, and sauerkraut, washed down by gallons of vodka!" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_21767.anc" start="2168" end="2173" sStart="null" offset="0" sid="null" wn="1" wnkey="land%1:21:01::" text="(The duke's &lt;b&gt;lands&lt;/b&gt; included Bordeaux.)" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_21767.anc" start="2168" end="2173" sStart="null" offset="0" sid="null" wn="7" wnkey="landed_estate%1:21:00::" text="(The duke's &lt;b&gt;lands&lt;/b&gt; included Bordeaux.)" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21767.anc" start="1491" end="1496" sStart="null" offset="95" sid="r8.1.great.j.0691" wn="1" wnkey="great%5:00:01:large:00" text="They make valuable the detailed knowledge of countries' histories, which intellectuals have in great supply." />
+  </sentences>
+</list>

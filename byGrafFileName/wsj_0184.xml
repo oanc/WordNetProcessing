@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/wsj_0184.anc" start="753" end="757" sStart="710" offset="43" sid="null" wn="9" wnkey="part%1:09:00::" text="Chairman Theodore Cooper called the program part of the company's two-year strategy to implement budget constraints and &quot;an effective headcount-control program.&quot;" />
+    <s path="[MASC]/data/written/wsj_0184.anc" start="592" end="600" sStart="null" offset="107" sid="null" wn="1" wnkey="benefit%1:21:00::" text="The program, available to Upjohn employees 55 years old or older, could increase an individual's retirement benefits 10% to 20%." />
+    <s path="[MASC]/data/written/wsj_0184.anc" start="592" end="600" sStart="null" offset="107" sid="null" wn="2147483645" wnkey="null" text="The program, available to Upjohn employees 55 years old or older, could increase an individual's retirement benefits 10% to 20%." />
+    <s path="[MASC]/data/written/wsj_0184.anc" start="592" end="600" sStart="null" offset="107" sid="r11.benefit.n.0068" wn="2147483645" wnkey="null" text="The program, available to Upjohn employees 55 years old or older, could increase an individual's retirement benefits 10% to 20%." />
+    <s path="[MASC]/data/written/wsj_0184.anc" start="592" end="600" sStart="null" offset="107" sid="null" wn="1" wnkey="benefit%1:21:00::" text="The program, available to Upjohn employees 55 years old or older, could increase an individual's retirement benefits 10% to 20%." />
+    <s path="[MASC]/data/written/wsj_0184.anc" start="592" end="600" sStart="null" offset="107" sid="r11.benefit.n.0068" wn="1" wnkey="benefit%1:21:00::" text="The program, available to Upjohn employees 55 years old or older, could increase an individual's retirement benefits 10% to 20%." />
+  </sentences>
+</list>

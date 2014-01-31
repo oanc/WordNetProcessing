@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-31.anc" start="14910" end="14915" sStart="14862" offset="48" sid="r7.1.use.v.0749" wn="1" wnkey="use%2:34:01::" text="The yield of aRNA amplified from BC91 total RNA using different protocols is shown in Table 2. Assuming 1% of the total RNA is poly(A) +RNA, a 253 and 370-fold amplification was observed in the presence and absence of TS primer, respectively." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-31.anc" start="32987" end="32992" sStart="null" offset="73" sid="r7.1.use.v.0754" wn="1" wnkey="use%2:34:01::" text="The concentration of total RNA and poly(A) +RNA was determined using a GeneSpec I spectrophotometer (Hitachi) and the integrity of total RNA and poly(A) +RNA was assessed using a 2100 Bioanalyzer (Agilent)." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-31.anc" start="5246" end="5251" sStart="null" offset="76" sid="r7.1.use.v.0122" wn="1" wnkey="use%2:34:01::" text="Hu and co-workers [ 27 ] compared amplified and unamplified samples using total RNA obtained from human glioma cell lines and 2300 clone microarrays (printed with duplicates on the same array) to evaluate a similar T7 based protocol with a TS mechanism adopted from Wang and Miller et al." />
+  </sentences>
+</list>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="4335" end="4339" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" text="It didn't hurt the &lt;b&gt;work&lt;/b&gt; I was doing." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="4335" end="4339" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" text="It didn't hurt the &lt;b&gt;work&lt;/b&gt; I was doing." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="572" end="578" sStart="null" offset="81" sid="r10.wait.v.0539" wn="2" wnkey="wait%2:42:01::" text="Lewinsky delivers her canned message in the interview's opening seconds: &quot;I waited a long time to be able to express to the country how very sorry I am for my part in this past year's ordeal." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="5322" end="5326" sStart="null" offset="76" sid="r11.true.j.0632" wn="1" wnkey="true%3:00:00::" text="What the interview actually suggests, however, is that both perceptions are true." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="3861" end="3865" sStart="null" offset="25" sid="r11.true.j.0549" wn="7" wnkey="true%5:00:00:sincere:00" text="&quot;I have learned the true meaning of friendship.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="3238" end="3243" sStart="null" offset="35" sid="r7.trace.v.0175" wn="2147483645" wnkey="null" text="She delivers this speech without a trace of irony." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="1534" end="1540" sStart="null" offset="4" sid="r11.refer.v.0790" wn="1" wnkey="refer%2:32:01::" text="She refers constantly to self-esteem and anti-depressant medication." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="712" end="718" sStart="null" offset="20" sid="r8.ask.v.0353" wn="1" wnkey="ask%2:32:01::" text="I wouldn't dream of asking Chelsea and Mrs. Clinton to forgive me." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="1013" end="1017" sStart="null" offset="13" sid="r8.ask.v.0165" wn="4" wnkey="ask%2:32:04::" text="When Walters asks whether she takes &quot;responsibility&quot; for the affair, Lewinsky answers, &quot;Not complete responsibility.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="712" end="718" sStart="null" offset="20" sid="r8.ask.v.0353" wn="" wnkey="null" text="I wouldn't dream of asking Chelsea and Mrs. Clinton to forgive me." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21234.anc" start="1013" end="1017" sStart="null" offset="13" sid="r8.ask.v.0165" wn="" wnkey="null" text="When Walters asks whether she takes &quot;responsibility&quot; for the affair, Lewinsky answers, &quot;Not complete responsibility.&quot;" />
+  </sentences>
+</list>

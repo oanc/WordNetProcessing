@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3299-ms98-a-trans.anc" start="503" end="508" sStart="-1" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="&lt;b&gt;smart&lt;/b&gt; woman" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3299-ms98-a-trans.anc" start="503" end="508" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="&lt;b&gt;smart&lt;/b&gt; woman" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3299-ms98-a-trans.anc" start="503" end="508" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="&lt;b&gt;smart&lt;/b&gt; woman" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3299-ms98-a-trans.anc" start="1659" end="1663" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="and then i said well we'll see what happens then because she she had to take some time off work and she probably will even quit her job now and maybe do some &lt;b&gt;part&lt;/b&gt; time work" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3299-ms98-a-trans.anc" start="1659" end="1663" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="and then i said well we'll see what happens then because she she had to take some time off work and she probably will even quit her job now and maybe do some &lt;b&gt;part&lt;/b&gt; time work" />
+  </sentences>
+</list>

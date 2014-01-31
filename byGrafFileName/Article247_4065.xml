@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4065.anc" start="49" end="56" sStart="38" offset="11" sid="r7.strike.n.0121" wn="2" wnkey="strike%1:04:02::" text="The Empire Strikes Back" />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4065.anc" start="1196" end="1201" sStart="null" offset="84" sid="r9.paper.n.0399" wn="3" wnkey="paper%1:10:03::" text="But Russia hasn't explained how these differ from ones employed previously, and the paper doesn't seem to know either." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4065.anc" start="4110" end="4118" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" text="Yesterday morning, says an LAT front-pager, a man was killed in a shootout with police &lt;b&gt;officers&lt;/b&gt; after he lead them on a three-hour freeway car chase." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4065.anc" start="4110" end="4118" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" text="Yesterday morning, says an LAT front-pager, a man was killed in a shootout with police &lt;b&gt;officers&lt;/b&gt; after he lead them on a three-hour freeway car chase." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4065.anc" start="4110" end="4118" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" text="Yesterday morning, says an LAT front-pager, a man was killed in a shootout with police &lt;b&gt;officers&lt;/b&gt; after he lead them on a three-hour freeway car chase." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4065.anc" start="4334" end="4341" sStart="null" offset="89" sid="r9.kill.v.0164" wn="1" wnkey="kill%2:35:00::" text="The stations defended themselves by arguing that they could have showed close-ups of the killing but refrained from doing so." />
+  </sentences>
+</list>

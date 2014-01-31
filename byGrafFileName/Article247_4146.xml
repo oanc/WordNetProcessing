@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4146.anc" start="1056" end="1061" sStart="-1" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="And let's put it this way: She is easily as &lt;b&gt;smart&lt;/b&gt; as Dubya." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4146.anc" start="1056" end="1061" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="And let's put it this way: She is easily as &lt;b&gt;smart&lt;/b&gt; as Dubya." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4146.anc" start="510" end="517" sStart="null" offset="28" sid="r10.control.n.0860" wn="2" wnkey="control%1:24:00::" text="We need a Candidate Quality Control Board." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4146.anc" start="76" end="81" sStart="null" offset="38" sid="r10.board.n.0889" wn="1" wnkey="board%1:14:00::" text="Proposal: A Candidate Quality Control Board" />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4146.anc" start="518" end="523" sStart="null" offset="36" sid="r10.board.n.0784" wn="1" wnkey="board%1:14:00::" text="We need a Candidate Quality Control Board." />
+  </sentences>
+</list>

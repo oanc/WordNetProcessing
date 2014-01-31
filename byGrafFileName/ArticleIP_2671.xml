@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2671.anc" start="2764" end="2768" sStart="2751" offset="13" sid="r10.wait.v.0376" wn="2" wnkey="wait%2:42:01::" text="Why do women wait so long before seeking an abortion?" />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2671.anc" start="6241" end="6245" sStart="null" offset="99" sid="r8.life.n.0310" wn="8" wnkey="life%1:18:00::" text="Two of my obstetrician friends, both strongly pro-choice, told me that, even when it is a mother's life at stake and abortion is absolutely necessary, doing the D and E feels &quot;horrible.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2671.anc" start="6437" end="6441" sStart="null" offset="32" sid="r9.late.j.0993" wn="2" wnkey="late%5:00:00:unpunctual:00" text="And if there were, any elective late abortion--even by induction--would be wrong, though D and E and partial-birth abortion would seem especially cruel." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2671.anc" start="3028" end="3032" sStart="null" offset="6" sid="r9.late.j.0157" wn="6" wnkey="late%3:00:02::" text="A few late abortions are done for the mother's health, to save her, for example, from possible disaster caused by an infected uterus or a newly diagnosed heart condition." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2671.anc" start="6060" end="6064" sStart="null" offset="13" sid="r9.late.j.0764" wn="1" wnkey="late%3:00:00::" text="What makes a late abortion disturbing is that the fetus is big now--like a fully formed child." />
+  </sentences>
+</list>

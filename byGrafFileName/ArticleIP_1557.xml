@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1557.anc" start="76" end="79" sStart="69" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" text="France &lt;b&gt;won&lt;/b&gt; the World Cup." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1557.anc" start="529" end="536" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="The sophisticated spin: Black, mixed-race, and second-generation French &lt;b&gt;players&lt;/b&gt; (led by Zidane, the Muslim son of Algerian immigrants) beat the team that had been embraced, overhyped, and overcommercialized by the global sports media and business elite." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1557.anc" start="3432" end="3438" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:03::" text="6) After the story collapsed, &quot;I was basically told to be a good team &lt;b&gt;player&lt;/b&gt; and not say anything.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1557.anc" start="529" end="536" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="The sophisticated spin: Black, mixed-race, and second-generation French &lt;b&gt;players&lt;/b&gt; (led by Zidane, the Muslim son of Algerian immigrants) beat the team that had been embraced, overhyped, and overcommercialized by the global sports media and business elite." />
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1557.anc" start="3235" end="3239" sStart="null" offset="38" sid="r7.1.face.n.0186" wn="1" wnkey="face%1:08:00::" text="4) &quot;I was never informed that my face on the air gave me responsibility for a major story.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1557.anc" start="4606" end="4610" sStart="null" offset="37" sid="r7.1.easy.j.0526" wn="2147483647" wnkey="null" text="The negative spin: Rich kids get off easy because they can afford good lawyers who know how to plea-bargain." />
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1557.anc" start="2960" end="2963" sStart="null" offset="80" sid="r8.ask.v.0167" wn="2" wnkey="ask%2:32:02::" text="2) It's standard practice for producers to enlist correspondents such as him to ask scripted questions on camera without having done the preparatory work." />
+  </sentences>
+</list>

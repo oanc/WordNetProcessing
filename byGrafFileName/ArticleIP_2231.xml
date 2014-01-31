@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2231.anc" start="3219" end="3226" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" text="And Taylor thinks: If I really believe what I've been &lt;b&gt;writing&lt;/b&gt;, don't I have a patriotic duty to do whatever I can to prevent this tragedy?" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/34/ArticleIP_2231.anc" start="444" end="448" sStart="null" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" text="Taylor &lt;b&gt;told&lt;/b&gt; Starr no thanks." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2231.anc" start="634" end="639" sStart="null" offset="20" sid="r9.sense.n.0466" wn="1" wnkey="sense%1:09:05::" text="&quot;He conveyed a sense of independence and objectivity that I now think is fraudulent.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2231.anc" start="6673" end="6677" sStart="null" offset="7" sid="r7.1.easy.j.0333" wn="1" wnkey="easy%3:00:01::" text="That's easy to believe." />
+  </sentences>
+</list>

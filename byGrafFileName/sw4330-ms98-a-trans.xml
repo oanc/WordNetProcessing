@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4330-ms98-a-trans.anc" start="5218" end="5227" sStart="-1" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" text="but i had &lt;b&gt;forgotten&lt;/b&gt; about that and so basically i'd already peed off in that morning and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4330-ms98-a-trans.anc" start="5218" end="5227" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" text="but i had &lt;b&gt;forgotten&lt;/b&gt; about that and so basically i'd already peed off in that morning and" />
+    <s path="file:/C:/OANC/data/spoken/telephone/switchboard/43/sw4330-ms98-a-trans.anc" start="1536" end="1544" sStart="null" offset="0" sid="null" wn="2" wnkey="exercise%2:41:00::" text="but i think it's got a little more relevance since they are around dangerous equipment and things like that and do have to &lt;b&gt;exercise&lt;/b&gt; some quick judgment in the field what is the nature of your company's business" />
+    <s path="file:/C:/OANC/data/spoken/telephone/switchboard/43/sw4330-ms98-a-trans.anc" start="1536" end="1544" sStart="null" offset="0" sid="null" wn="1" wnkey="exercise%2:34:00::" text="but i think it's got a little more relevance since they are around dangerous equipment and things like that and do have to &lt;b&gt;exercise&lt;/b&gt; some quick judgment in the field what is the nature of your company's business" />
+  </sentences>
+</list>

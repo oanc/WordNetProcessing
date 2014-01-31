@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/ucb7.anc" start="192" end="196" sStart="247" offset="0" sid="null" wn="3" wnkey="help%2:42:00::" text="" />
+    <s path="[MASC]/data/written/ucb7.anc" start="192" end="196" sStart="null" offset="0" sid="null" wn="3" wnkey="help%2:42:00::" text="" />
+    <s path="[MASC]/data/written/ucb7.anc" start="192" end="196" sStart="null" offset="0" sid="r10.help.v.0351" wn="1" wnkey="help%2:41:00::" text="" />
+    <s path="[MASC]/data/written/ucb7.anc" start="192" end="196" sStart="null" offset="0" sid="null" wn="2" wnkey="help%2:29:00::" text="" />
+    <s path="[MASC]/data/written/ucb7.anc" start="192" end="196" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="" />
+    <s path="[MASC]/data/written/ucb7.anc" start="100" end="104" sStart="null" offset="0" sid="null" wn="2147483644" wnkey="null" text="" />
+    <s path="[MASC]/data/written/ucb7.anc" start="844" end="850" sStart="null" offset="0" sid="null" wn="2147483644" wnkey="null" text="" />
+  </sentences>
+</list>

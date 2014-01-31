@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3829.anc" start="1085" end="1089" sStart="1022" offset="63" sid="r11.true.j.0933" wn="1" wnkey="true%3:00:00::" text="Even though it's not really a law, Moore's prediction has held true for the past three decades." />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3829.anc" start="1751" end="1759" sStart="null" offset="24" sid="r8.suggest.v.0849" wn="1" wnkey="suggest%2:32:00::" text="But the Science article suggests that Moore's Law may encounter physical limits sooner." />
+    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3829.anc" start="223" end="232" sStart="null" offset="11" sid="r11.refer.v.0531" wn="1" wnkey="refer%2:32:01::" text="What is he referring to?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/15/Article247_3829.anc" start="310" end="315" sStart="null" offset="0" sid="null" wn="7" wnkey="power%1:07:02::" text="Moore's Law is really just a prediction that the processing &lt;b&gt;power&lt;/b&gt; of the state-of-the-art computer chip will double every 18 months." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/15/Article247_3829.anc" start="310" end="315" sStart="null" offset="0" sid="null" wn="3" wnkey="power%1:09:01::" text="Moore's Law is really just a prediction that the processing &lt;b&gt;power&lt;/b&gt; of the state-of-the-art computer chip will double every 18 months." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/15/Article247_3829.anc" start="310" end="315" sStart="null" offset="0" sid="null" wn="3" wnkey="power%1:09:01::" text="Moore's Law is really just a prediction that the processing &lt;b&gt;power&lt;/b&gt; of the state-of-the-art computer chip will double every 18 months." />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/plos/journal.pbio.0020064.anc" start="15303" end="15307" sStart="-1" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" text="This may &lt;b&gt;tell&lt;/b&gt; us not only about taste but about how the nervous system in general is put together, &lt;b&gt;says&lt;/b&gt; Ryba." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020064.anc" start="15522" end="15530" sStart="null" offset="9" sid="r8.suggest.v.0845" wn="1" wnkey="suggest%2:32:00::" text="DeSimone suggests that by understanding salt receptors, it may be possible to design artificial ligands to help people lower their salt intake." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020064.anc" start="9580" end="9586" sStart="null" offset="40" sid="r11.strong.j.0902" wn="2" wnkey="strong%5:00:00:intense:00" text="DeSimone's current idea is that strong acids enter taste cells through a proton channel (probably a known channel present on other cell types) while weak acids, like acetic acid (vinegar), enter as neutral molecules and then dissociate to lower intracellular pH." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020064.anc" start="998" end="1003" sStart="null" offset="13" sid="r9.sense.n.0659" wn="3" wnkey="sense%1:09:02::" text="Taste is the sense by which the chemical qualities of food in the mouth are distinguished by the brain, based on information provided by the taste buds." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020064.anc" start="393" end="398" sStart="null" offset="118" sid="r9.sense.n.0936" wn="3" wnkey="sense%1:09:02::" text="And now, as researchers begin to understand some of the nuts and bolts of taste perception, it seems that the sense of taste may also have more subtle effects on health." />
+  </sentences>
+</list>

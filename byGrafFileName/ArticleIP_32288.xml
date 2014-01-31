@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32288.anc" start="4488" end="4492" sStart="4457" offset="31" sid="r7.1.use.v.0171" wn="6" wnkey="use%2:41:03::" text="When I was a boy in Detroit we used to go to the movies on Saturday afternoon and watch the violence between cowboys and Indians." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_32288.anc" start="5740" end="5745" sStart="null" offset="0" sid="null" wn="5" wnkey="show%2:36:00::" text="Context isn't everything, but it's worth noting that the TV channel that &lt;b&gt;shows&lt;/b&gt; the most violence is the History Channel, with its endless replaying of World War II: I have not heard anyone &lt;b&gt;say&lt;/b&gt; that is an encouragement to crime." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_32288.anc" start="5740" end="5745" sStart="null" offset="0" sid="null" wn="5" wnkey="show%2:36:00::" text="Context isn't everything, but it's worth noting that the TV channel that &lt;b&gt;shows&lt;/b&gt; the most violence is the History Channel, with its endless replaying of World War II: I have not heard anyone &lt;b&gt;say&lt;/b&gt; that is an encouragement to crime." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32288.anc" start="3072" end="3078" sStart="null" offset="136" sid="r8.number.n.0465" wn="1" wnkey="number%1:07:00::" text="If you compare the murders linked to hate crimes with the murders linked to street crimes, the most obvious thing you notice is how the number of street killings dwarfs that of hate killings." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32288.anc" start="792" end="798" sStart="null" offset="62" sid="r9.kill.v.0312" wn="1" wnkey="kill%2:35:00::" text="Then along comes the Midwest assassin, who earlier this month killed a black man and a Korean-American man and wounded nine other blacks, Asians, and Jews (coming out of a synagogue)." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32288.anc" start="4674" end="4678" sStart="null" offset="63" sid="r9.kill.v.0136" wn="1" wnkey="kill%2:35:00::" text="Though we played cowboys and Indians in the street, we did not kill any real Indians." />
+  </sentences>
+</list>

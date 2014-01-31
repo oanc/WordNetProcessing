@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/25/ArticleIP_1306.anc" start="3501" end="3505" sStart="3471" offset="0" sid="null" wn="5" wnkey="win%2:40:06::" text="British playwright David Hare &lt;b&gt;wins&lt;/b&gt; praise for adapting Chekhov into colloquial language, though the melodrama of the original is said to remain." />
+    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1306.anc" start="4628" end="4638" sStart="null" offset="133" sid="r10.particular.j.0907" wn="2" wnkey="particular%5:00:02:specific:00" text="In The New Yorker , Gore Vidal defends Seymour Hersh's Kennedy-bashing book: &quot;The fact that [Hersh has] found more muck in this particular Augean stable than most people want to acknowledge is hardly his fault.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/25/ArticleIP_1306.anc" start="979" end="983" sStart="null" offset="0" sid="null" wn="4" wnkey="date%1:28:02::" text="Francis Ford Coppola's legal thriller is judged the best Grisham film to &lt;b&gt;date&lt;/b&gt;, as well as a modest comeback for the once-great director." />
+    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1306.anc" start="4571" end="4575" sStart="null" offset="71" sid="r10.book.n.0384" wn="1" wnkey="book%1:10:00::" text="In The New Yorker , Gore Vidal defends Seymour Hersh's Kennedy-bashing book: &quot;The fact that [Hersh has] found more muck in this particular Augean stable than most people want to acknowledge is hardly his fault.&quot;" />
+  </sentences>
+</list>

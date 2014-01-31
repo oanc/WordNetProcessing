@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_774.anc" start="1929" end="1935" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Currently, eight million disabled &lt;b&gt;people&lt;/b&gt; of working age receive more than $50 billion a year from Social Security and Supplemental Security Income, says the paper, and fewer than 1 percent of them work." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_774.anc" start="1929" end="1935" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Currently, eight million disabled &lt;b&gt;people&lt;/b&gt; of working age receive more than $50 billion a year from Social Security and Supplemental Security Income, says the paper, and fewer than 1 percent of them work." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_774.anc" start="4696" end="4703" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" text="There's a &lt;b&gt;curious&lt;/b&gt; lapse in today's effort by the WP 's generally excellent media reporter Howard Kurtz." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_774.anc" start="4696" end="4703" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" text="There's a &lt;b&gt;curious&lt;/b&gt; lapse in today's effort by the WP 's generally excellent media reporter Howard Kurtz." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_774.anc" start="4696" end="4703" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" text="There's a &lt;b&gt;curious&lt;/b&gt; lapse in today's effort by the WP 's generally excellent media reporter Howard Kurtz." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_774.anc" start="90" end="96" sStart="null" offset="29" sid="r10.common.j.0628" wn="3" wnkey="common%5:00:00:shared:00" text="Three of the leads address a common theme: strengthening patients' rights." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_774.anc" start="460" end="468" sStart="null" offset="157" sid="r11.benefit.n.0529" wn="1" wnkey="benefit%1:21:00::" text="The New York Times goes with word that President Clinton will propose expanding Medicaid and Medicare to allow those with disabilities to continue receiving benefits even if they work." />
+  </sentences>
+</list>

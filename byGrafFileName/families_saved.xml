@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Media/families_saved.anc" start="1665" end="1675" sStart="-1" offset="0" sid="null" wn="2" wnkey="succeed%2:41:01::" text="In the &lt;b&gt;succeeding&lt;/b&gt; months, these attorneys worked with representatives of the Greater Wenatchee Housing Authority, the state Office of Community Development, Chelan County, the City of East Wenatchee, state legislators, Jennings and others to secure funding and find a solution." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Media/families_saved.anc" start="1665" end="1675" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="In the &lt;b&gt;succeeding&lt;/b&gt; months, these attorneys worked with representatives of the Greater Wenatchee Housing Authority, the state Office of Community Development, Chelan County, the City of East Wenatchee, state legislators, Jennings and others to secure funding and find a solution." />
+    <s path="[OANC]/data/written_2/technical/government/Media/families_saved.anc" start="2976" end="2981" sStart="null" offset="80" sid="r8.state.n.0903" wn="1" wnkey="state%1:15:01::" text="4 million in annual state funding for civil legal services - nearly half of the state's yearly contribution to legal services programs statewide." />
+    <s path="[OANC]/data/written_2/technical/government/Media/families_saved.anc" start="1196" end="1204" sStart="null" offset="99" sid="r8.family.n.0688" wn="1" wnkey="family%1:14:02::" text="Formerly owned by local businessman Dan Jennings, Mobile Park Plaza had been home to 45 low-income families, many of them Latino farm workers." />
+    <s path="[OANC]/data/written_2/technical/government/Media/families_saved.anc" start="251" end="259" sStart="null" offset="118" sid="r8.family.n.0140" wn="1" wnkey="family%1:14:02::" text="EAST WENATCHEE - After more than a year of effort, attorneys with Northwest Justice Project earlier this week told 25 families in a mobile home park here that they can keep their homes and no longer need to fear eviction." />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3407.anc" start="3005" end="3010" sStart="-1" offset="0" sid="null" wn="2147483645" wnkey="null" text="Utah Jazz &lt;b&gt;power&lt;/b&gt; forward Karl Malone." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3407.anc" start="3005" end="3010" sStart="null" offset="0" sid="null" wn="7 1" wnkey="null" text="Utah Jazz &lt;b&gt;power&lt;/b&gt; forward Karl Malone." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3407.anc" start="3413" end="3417" sStart="null" offset="42" sid="r8.life.n.0868" wn="3" wnkey="life%1:26:02::" text="Debby Boone singing &quot;You Light Up My Life.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3407.anc" start="2899" end="2908" sStart="null" offset="4" sid="r1.legendary.j.0047" wn="1" wnkey="legendary%5:00:00:known:00" text="The legendary Vic Damone." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3407.anc" start="2899" end="2908" sStart="null" offset="4" sid="r1.legendary.j.0047" wn="1" wnkey="legendary%5:00:00:known:00" text="The legendary Vic Damone." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3407.anc" start="2899" end="2908" sStart="null" offset="4" sid="r1.legendary.j.0047" wn="1" wnkey="legendary%5:00:00:known:00" text="The legendary Vic Damone." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3407.anc" start="3684" end="3688" sStart="null" offset="43" sid="r7.1.face.n.0509" wn="1" wnkey="human_face%1:08:01::" text="Moonwalk, air slide, clowns on stilts, and face painting." />
+  </sentences>
+</list>

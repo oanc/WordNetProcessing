@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3282-ms98-a-trans.anc" start="3845" end="3849" sStart="-1" offset="0" sid="null" wn="4" wnkey="part%1:09:02::" text="uh-huh well that's probably a bonus on our &lt;b&gt;part&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3282-ms98-a-trans.anc" start="3845" end="3849" sStart="null" offset="0" sid="null" wn="4" wnkey="part%1:09:02::" text="uh-huh well that's probably a bonus on our &lt;b&gt;part&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3282-ms98-a-trans.anc" start="3845" end="3849" sStart="null" offset="0" sid="null" wn="4" wnkey="part%1:09:02::" text="uh-huh well that's probably a bonus on our &lt;b&gt;part&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3282-ms98-a-trans.anc" start="3049" end="3054" sStart="null" offset="0" sid="null" wn="6" wnkey="force%1:04:01::" text="yeah i think they they look at &lt;b&gt;force&lt;/b&gt; as a way of" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3282-ms98-a-trans.anc" start="3049" end="3054" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="yeah i think they they look at &lt;b&gt;force&lt;/b&gt; as a way of" />
+  </sentences>
+</list>

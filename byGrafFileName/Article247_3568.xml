@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/12/Article247_3568.anc" start="1448" end="1452" sStart="1403" offset="0" sid="null" wn="2" wnkey="warm%3:00:02::" text="Fodor's solidity and unapologetic stodginess &lt;b&gt;warm&lt;/b&gt; my heart, but its Compass American book can't make up in literary savvy what it lacks in maps and practical information." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3568.anc" start="3330" end="3341" sStart="null" offset="36" sid="r11.recommend.v.0110" wn="2147483645" wnkey="null" text="Most guides contain a list of &quot;recommended&quot; films and books, including travel guides." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3568.anc" start="3469" end="3478" sStart="null" offset="84" sid="r11.recommend.v.0111" wn="2" wnkey="recommend%2:32:00::" text="Brands like Frommer's and Fodor's, who produce multiple New York titles, invariably recommend several or all of their other guides." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3568.anc" start="1967" end="1971" sStart="null" offset="53" sid="r9.full.j.0489" wn="7" wnkey="full%5:00:00:high:02" text="I love that the drive for tourist-free fun is coming full circle, pushing hipsters back on the beaten path." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/12/Article247_3568.anc" start="286" end="292" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" text="But the guidebook might be extinct before you have a &lt;b&gt;chance&lt;/b&gt; to bring your gifts to the tourist masses." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/12/Article247_3568.anc" start="286" end="292" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" text="But the guidebook might be extinct before you have a &lt;b&gt;chance&lt;/b&gt; to bring your gifts to the tourist masses." />
+  </sentences>
+</list>

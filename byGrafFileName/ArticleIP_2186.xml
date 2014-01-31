@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2186.anc" start="625" end="630" sStart="522" offset="113" sid="r9.sense.n.0971" wn="5" wnkey="sense%1:09:06::" text="Our &quot;Letter From Washington&quot; concerns an admirable (but possibly doomed) campaign to improve the style sense on the Microsoft campus." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2186.anc" start="230" end="235" sStart="null" offset="109" sid="r9.sense.n.0448" wn="2" wnkey="sense%1:10:00::" text="We certainly don't intend to be a magazine of fashion, either in the sense of being about clothing or in the sense of following the fashion in general matters." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2186.anc" start="955" end="960" sStart="null" offset="42" sid="r9.sense.n.0338" wn="1" wnkey="sense%1:09:05::" text="Wednesday (April 16) brings &quot;Clothes Sense,&quot; our regular monthly column from Anne Hollander." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2186.anc" start="4097" end="4107" sStart="null" offset="251" sid="r10.particular.j.0745" wn="2" wnkey="particular%5:00:02:specific:00" text="Often, we've discovered, the best way to frame an interesting and useful dialogue is not to get a liberal vs. a conservative, but to get two people from roughly the same part of the spectrum who disagree on the application of their shared values to a particular issue." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2186.anc" start="1856" end="1866" sStart="null" offset="131" sid="r10.particular.j.0928" wn="2147483645" wnkey="null" text="Not long ago, Bill Gates saw one of Slate's program managers, Peter Randall, walking across the campus, and observed, to no one in particular, &quot;I'd kill for that tie.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2186.anc" start="2780" end="2784" sStart="null" offset="37" sid="r10.book.n.0718" wn="1" wnkey="book%1:10:00::" text="(Dershowitz recently reviewed Amar's book on this subject for Slate.)" />
+  </sentences>
+</list>

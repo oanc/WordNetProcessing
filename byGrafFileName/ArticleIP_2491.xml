@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/36/ArticleIP_2491.anc" start="2392" end="2396" sStart="-1" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" text="In his history of the Kennedy era, Richard Reeves writes that Kennedy, concerned that increasingly clamorous rumors of an affair with Monroe might actually make it into print, sent former journalist and Peace Corps official William Haddad to &lt;b&gt;tell&lt;/b&gt; various publications that Kennedy himself &lt;b&gt;said&lt;/b&gt; the stories weren't true." />
+    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2491.anc" start="6375" end="6380" sStart="null" offset="9" sid="r9.paper.n.0359" wn="3" wnkey="paper%1:10:03::" text="When the paper contacted the unnamed woman said to have met Clinton in the basement, she responded that &quot;there was no improper relationship.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2491.anc" start="6258" end="6266" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" text="And a now eerily familiar phrase--one that seems unlikely to be spoken spontaneously--recurs in the Los Angeles Times story." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/36/ArticleIP_2491.anc" start="6258" end="6266" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" text="And a now eerily &lt;b&gt;familiar&lt;/b&gt; phrase--one that seems unlikely to be spoken spontaneously--recurs in the Los Angeles Times story." />
+  </sentences>
+</list>

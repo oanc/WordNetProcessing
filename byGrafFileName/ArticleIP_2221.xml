@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2221.anc" start="1779" end="1786" sStart="-1" offset="0" sid="null" wn="5" wnkey="player%1:18:05::" text="In &quot;Frame Game,&quot; William Saletan analyzes how the various &lt;b&gt;players&lt;/b&gt; are struggling to position Monica Lewinsky in the public mind." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2221.anc" start="1779" end="1786" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:03::" text="In &quot;Frame Game,&quot; William Saletan analyzes how the various &lt;b&gt;players&lt;/b&gt; are struggling to position Monica Lewinsky in the public mind." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2221.anc" start="1446" end="1450" sStart="null" offset="0" sid="null" wn="3" wnkey="date%1:14:00::" text="David Plotz's &quot;Assessment&quot; this week is a composite portrait of Bill Clinton's dream &lt;b&gt;date&lt;/b&gt;." />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21208.anc" start="2906" end="2910" sStart="2902" offset="0" sid="null" wn="2" wnkey="win%2:40:00::" text="Who &lt;b&gt;wins&lt;/b&gt; a Jesse &quot;The Body&quot; vs." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21208.anc" start="2209" end="2212" sStart="null" offset="44" sid="r8.way.n.0329" wn="2147483645" wnkey="null" text="Now this well-timed new book should put him way ahead." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21208.anc" start="1433" end="1437" sStart="null" offset="4" sid="r11.true.j.0752" wn="" wnkey="null" text="Me: True." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21208.anc" start="2735" end="2739" sStart="null" offset="4" sid="r11.true.j.0948" wn="1" wnkey="true%3:00:00::" text="Me: True." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21208.anc" start="2319" end="2325" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="And a &lt;b&gt;player&lt;/b&gt; to be named later." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21208.anc" start="2319" end="2325" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="And a &lt;b&gt;player&lt;/b&gt; to be named later." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21208.anc" start="1927" end="1933" sStart="null" offset="44" sid="r10.common.j.0853" wn="1" wnkey="common%3:00:02::" text="They all want to talk about what we have in common, as if I'm doing Lutheran standup." />
+  </sentences>
+</list>

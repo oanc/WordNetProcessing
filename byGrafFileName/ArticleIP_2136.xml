@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2136.anc" start="1439" end="1444" sStart="1387" offset="52" sid="r7.sound.n.0234" wn="8" wnkey="sound%1:17:00::" text="The city seemed on the verge of slipping into Puget Sound and disappearing forever." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/33/ArticleIP_2136.anc" start="1562" end="1566" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" text="Three-and-a-half decades after its &lt;b&gt;fair&lt;/b&gt;, the city has emerged as an international destination for the ambitious and the fashionable." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/33/ArticleIP_2136.anc" start="1562" end="1566" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="Three-and-a-half decades after its &lt;b&gt;fair&lt;/b&gt;, the city has emerged as an international destination for the ambitious and the fashionable." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2136.anc" start="986" end="992" sStart="null" offset="28" sid="r10.common.j.0565" wn="3" wnkey="common%5:00:00:shared:00" text="Seattle of 1972 had more in common with the Great Depression of the '30s than with the 21 st century." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/33/ArticleIP_2136.anc" start="3861" end="3867" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="A shoe store called Nordstrom, for example, reinvented the department store by &lt;b&gt;adding&lt;/b&gt; service, and took the idea nationally." />
+  </sentences>
+</list>

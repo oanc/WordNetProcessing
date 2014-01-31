@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/WhatToMallorca.anc" start="12216" end="12223" sStart="12156" offset="60" sid="r10.wait.v.0911" wn="3" wnkey="wait%2:31:00::" text="Tee off early: At times, youÕll spend a lot of time waiting for players ahead of you." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/WhatToMallorca.anc" start="3974" end="3977" sStart="null" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" text="Look out for jewelry along carrer Plateria, and &lt;b&gt;try&lt;/b&gt; carrer Jaume II for clothing and fans." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/WhatToMallorca.anc" start="3974" end="3977" sStart="null" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" text="Look out for jewelry along carrer Plateria, and &lt;b&gt;try&lt;/b&gt; carrer Jaume II for clothing and fans." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/WhatToMallorca.anc" start="5995" end="6001" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="You may be offered tickets to buy while lying on the beach, or even free ones if the owners are &lt;b&gt;trying&lt;/b&gt; to boost a place, or if the tiquetero thinks that your good looks will be an asset." />
+  </sentences>
+</list>

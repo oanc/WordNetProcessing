@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2377-1-2.anc" start="7663" end="7667" sStart="7591" offset="72" sid="r7.1.use.v.0105" wn="1" wnkey="use%2:34:01::" text="[ 18] The two published US proportions (5% and 15%) were also used in a sensitivity analysis." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2377-1-2.anc" start="14210" end="14214" sStart="null" offset="95" sid="r11.true.j.0851" wn="5" wnkey="true%5:00:00:typical:00" text="We used sensitivity analyses to illustrate the potential impact of a different true percentage." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2377-1-2.anc" start="14200" end="14209" sStart="null" offset="85" sid="r8.1.different.j.0837" wn="1" wnkey="different%3:00:00::" text="We used sensitivity analyses to illustrate the potential impact of a different true percentage." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2377-1-2.anc" start="12801" end="12812" sStart="null" offset="27" sid="r11.combination.n.0712" wn="1" wnkey="combination%1:14:00::" text="It may be due to a combination of inflation and inpatient healthcare practice changes or healthcare reimbursement regulation changes." />
+  </sentences>
+</list>

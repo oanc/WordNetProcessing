@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020155.anc" start="3132" end="3137" sStart="2998" offset="134" sid="r7.serve.v.0954" wn="4" wnkey="serve%2:41:00::" text="Furthermore, we also determined what catchment area each HCF should service; specifically, we calculated that each HCF should serve (if the objective is to achieve treatment equity) a catchment area of 40Ð60 km." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020155.anc" start="347" end="352" sStart="null" offset="147" sid="r9.paper.n.0965" wn="5" wnkey="paper%1:10:02::" text="We were disappointed to find that the editorial perspective written by the World Health Organization (WHO) ethicists regarding our paper [2] was based upon a substantial misunderstanding of our novel quantitative analyses and our important results." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020155.anc" start="2870" end="2875" sStart="null" offset="184" sid="r9.paper.n.0756" wn="5" wnkey="paper%1:10:02::" text="This is a very complex problem and the antiretroviral allocation strategies that we calculated (by using our model) to be optimal are very complex (see Figure 3 in our paper, which graphically shows the proportion of drugs that should be allocated to each of the available HCFs)." />
+  </sentences>
+</list>

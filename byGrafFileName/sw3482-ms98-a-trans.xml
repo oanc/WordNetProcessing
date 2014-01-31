@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3482-ms98-a-trans.anc" start="1107" end="1111" sStart="-1" offset="0" sid="null" wn="2147483645" wnkey="null" text="he's a a mutt he's &lt;b&gt;part&lt;/b&gt; Schipperkes and &lt;b&gt;part&lt;/b&gt; Chow" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3482-ms98-a-trans.anc" start="1107" end="1111" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="he's a a mutt he's &lt;b&gt;part&lt;/b&gt; Schipperkes and &lt;b&gt;part&lt;/b&gt; Chow" />
+  </sentences>
+</list>

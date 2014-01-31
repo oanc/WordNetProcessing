@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/4/Article247_598.anc" start="2822" end="2828" sStart="2711" offset="0" sid="null" wn="1" wnkey="window%1:06:00::" text="&quot;Today's Papers&quot; can only guess they are shoes so expensive that most folks can only look at them in the store &lt;b&gt;window&lt;/b&gt;, or on their lawyers." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_598.anc" start="1226" end="1229" sStart="null" offset="72" sid="r8.way.n.0972" wn="6" wnkey="way%1:06:00::" text="The NYT says the success of the anti-bilingualism measure will pave the way for similar &quot;assaults&quot; on other such programs around the country." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_598.anc" start="4145" end="4155" sStart="null" offset="101" sid="r10.particular.j.0424" wn="1" wnkey="particular%5:00:00:specific:00" text="As a result, billions of dollars of goods customarily sit for hours at the three borders involved, a particular disaster in today's just-in-time inventory economy." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_598.anc" start="2335" end="2340" sStart="null" offset="72" sid="r9.paper.n.0645" wn="3" wnkey="paper%1:10:03::" text="Everybody looks down on lawyers who pay to advertise in the back of the paper." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_598.anc" start="3748" end="3753" sStart="null" offset="19" sid="r9.paper.n.0309" wn="5" wnkey="paper%1:10:02::" text="The case, says the paper, could result in the largest fine in EPA history." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_598.anc" start="2434" end="2439" sStart="null" offset="92" sid="r9.paper.n.0910" wn="3" wnkey="paper%1:10:03::" text="The goal, apparently, is to be the kind of lawyer paid to be advertised in the front of the paper." />
+  </sentences>
+</list>

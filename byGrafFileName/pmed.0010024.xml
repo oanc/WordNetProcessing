@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0010024.anc" start="2030" end="2036" sStart="1806" offset="224" sid="r11.severe.j.0640" wn="1" wnkey="severe%5:00:00:intense:00" text="Krishna and colleagues used heavy-water distribution to calculate the total body water and bromide distribution to determine the extracellular volume in 19 children with moderately severe malaria and 16 with severe malaria in Gabon." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0010024.anc" start="383" end="389" sStart="null" offset="111" sid="r11.severe.j.0637" wn="1" wnkey="severe%5:00:00:intense:00" text="Now, Sanjeev Krishna and colleagues have shown that in children with severe malaria dehydration is not severe and is not correlated with other measures of disease severity." />
+  </sentences>
+</list>

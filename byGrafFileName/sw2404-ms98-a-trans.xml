@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2404-ms98-a-trans.anc" start="8613" end="8617" sStart="-1" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" text="poor thing &lt;b&gt;part&lt;/b&gt; of it was my fault i guess i just didn't take care of it like i should have" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2404-ms98-a-trans.anc" start="5868" end="5876" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" text="my cat stays inside because she's declawed so i don't really have a problem with that but yeah if you had a dog you know they need &lt;b&gt;exercise&lt;/b&gt; and you have to walk them" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2404-ms98-a-trans.anc" start="5868" end="5876" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" text="my cat stays inside because she's declawed so i don't really have a problem with that but yeah if you had a dog you know they need &lt;b&gt;exercise&lt;/b&gt; and you have to walk them" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2404-ms98-a-trans.anc" start="5868" end="5876" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="my cat stays inside because she's declawed so i don't really have a problem with that but yeah if you had a dog you know they need &lt;b&gt;exercise&lt;/b&gt; and you have to walk them" />
+  </sentences>
+</list>

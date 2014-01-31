@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_412.anc" start="1216" end="1221" sStart="1174" offset="42" sid="r9.paper.n.0323" wn="3" wnkey="paper%1:10:03::" text="Of the 544 biggest U.S. corporations, the paper reports, 26 percent made no political contributions and didn't operate PACs during the 1995-1996 election cycle." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_412.anc" start="3509" end="3512" sStart="null" offset="32" sid="r9.hit.v.0253" wn="4" wnkey="hit%2:38:00::" text="The fight, says the Times , has hit Congress too." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_412.anc" start="1778" end="1783" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="That's because states will be able to use the directory to locate deadbeat parents and dun them, typically by getting court orders that &lt;b&gt;force&lt;/b&gt; their employers to deduct the owed child support from paychecks." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_412.anc" start="1778" end="1783" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="That's because states will be able to use the directory to locate deadbeat parents and dun them, typically by getting court orders that &lt;b&gt;force&lt;/b&gt; their employers to deduct the owed child support from paychecks." />
+  </sentences>
+</list>

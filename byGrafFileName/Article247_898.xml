@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/7/Article247_898.anc" start="2998" end="3004" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="From Lorena to Eleanor: &quot;I've been &lt;b&gt;trying&lt;/b&gt; today to bring back your face." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_898.anc" start="3030" end="3034" sStart="null" offset="72" sid="r7.1.face.n.0127" wn="1" wnkey="human_face%1:08:01::" text="From Lorena to Eleanor: &quot;I've been trying today to bring back your face." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_898.anc" start="125" end="129" sStart="null" offset="37" sid="r7.1.easy.j.0462" wn="1" wnkey="easy%3:00:01::" text="Concealing an extramarital affair is easy as long as there are no witnesses." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_898.anc" start="348" end="353" sStart="null" offset="27" sid="r10.book.n.0381" wn="2" wnkey="book%1:06:00::" text="Gifts, such as dresses and books of poetry (even that of Walt Whitman), represent only circumstantial evidence, and tape recordings of private conversations are problematic in their own right." />
+  </sentences>
+</list>

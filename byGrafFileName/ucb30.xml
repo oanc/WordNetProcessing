@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/ucb30.anc" start="577" end="580" sStart="535" offset="42" sid="null" wn="1" wnkey="try%2:41:00::" text="You owe it to yourself to at least let us try and help you achieve your dreams." />
+    <s path="[MASC]/data/written/ucb30.anc" start="222" end="227" sStart="null" offset="42" sid="null" wn="1" wnkey="power%1:07:00::" text="Obtain a prosperous future, money-earning power, and the prestige that comes with havint the career position you've always dreamed of." />
+    <s path="[MASC]/data/written/ucb30.anc" start="585" end="589" sStart="null" offset="50" sid="r10.help.v.0348" wn="1" wnkey="help%2:41:00::" text="You owe it to yourself to at least let us try and help you achieve your dreams." />
+    <s path="[MASC]/data/written/ucb30.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" text="Give your career a makeover with a new degree" />
+    <s path="[MASC]/data/written/ucb30.anc" start="53" end="59" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" text="Give your career a makeover with a new degree" />
+  </sentences>
+</list>

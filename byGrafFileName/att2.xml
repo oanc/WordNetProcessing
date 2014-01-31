@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/att2.anc" start="1237" end="1244" sStart="1211" offset="26" sid="null" wn="1" wnkey="write%2:36:00::" text="AutoPay EFT Payments Skip writing checks and have your payment made electronically from your bank account each month." />
+    <s path="[MASC]/data/written/att2.anc" start="1680" end="1683" sStart="null" offset="60" sid="null" wn="1" wnkey="use%2:34:01::" text="Personal Identification Number (PIN) Choose your own PIN to use for cash access and calling." />
+  </sentences>
+</list>

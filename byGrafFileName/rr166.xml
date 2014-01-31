@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/rr166.anc" start="20150" end="20154" sStart="20085" offset="65" sid="null" wn="1" wnkey="use%2:34:01::" text="Furthermore, a significant proportion of the fibroblasts used in the study by Keerthisingam et al. [ 21 ] were obtained from patients with systemic sclerosis, which makes their fibroblast population more heterogeneous." />
+    <s path="[MASC]/data/written/rr166.anc" start="19794" end="19798" sStart="null" offset="71" sid="null" wn="1" wnkey="use%2:34:01::" text="This study differed from ours in that a different stimulus was used." />
+    <s path="[MASC]/data/written/rr166.anc" start="11479" end="11484" sStart="null" offset="47" sid="null" wn="1" wnkey="use%2:34:01::" text="Comparisons between HF-IPF and HF-NL were done using the Mann-Whitney test." />
+  </sentences>
+</list>

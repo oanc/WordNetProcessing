@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030051.anc" start="10128" end="10138" sStart="9993" offset="135" sid="r10.particular.j.0159" wn="2" wnkey="particular%5:00:02:specific:00" text="Studies using diffusion tensor imaging can examine whether there are large-scale connections between neural areas posited by a particular model." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030051.anc" start="4733" end="4737" sStart="null" offset="7" sid="r9.late.j.0583" wn="1" wnkey="late%3:00:00::" text="In the late 1980s, neuroimaging experiments made possible the examination of activity in localized brain areas, first through the use of injected radionuclides detected by positron emission tomography (PET) [12] and later through the use of an externally imposed magnetic field in functional magnetic resonance imaging (fMRI) [13]." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030051.anc" start="295" end="299" sStart="null" offset="9" sid="r9.late.j.0390" wn="1" wnkey="late%3:00:00::" text="From the late 1800s until 1950, the field was built almost entirely around a single method: measuring and comparing people's reaction times during simple cognitive tasks." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030051.anc" start="1588" end="1592" sStart="null" offset="81" sid="r10.help.v.0713" wn="3" wnkey="help%2:42:00::" text="However, when combined with other methods, the latency of responding can help connect brain studies to the behavior of humans in real situations." />
+  </sentences>
+</list>

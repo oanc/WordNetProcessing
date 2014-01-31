@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="371" end="375" sStart="354" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" text="There, fresh and &lt;b&gt;warm&lt;/b&gt;, are  Slate 's &quot;Today's Papers,&quot; a few of your other favorite  Slate  departments, maybe even a non- Slate" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="998" end="1005" sStart="null" offset="141" sid="r10.wait.v.0329" wn="1" wnkey="wait%2:42:00::" text="It occurred to us a while ago: Why can't people leave their computers and their printers on overnight, or whenever, and have their printouts waiting for them, rather than vice versa?" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="705" end="709" sStart="null" offset="28" sid="r10.wait.v.0328" wn="1" wnkey="wait%2:42:00::" text="No need to read onscreen or wait for a printout." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="832" end="837" sStart="null" offset="0" sid="r7.sound.n.0040" wn="3" wnkey="sound%1:19:00::" text="Sound good?" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="832" end="837" sStart="null" offset="0" sid="r7.sound.n.0040" wn="2147483645" wnkey="null" text="Sound good?" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="832" end="837" sStart="null" offset="0" sid="r7.sound.n.0040" wn="2147483645" wnkey="null" text="Sound good?" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="832" end="837" sStart="null" offset="0" sid="r7.sound.n.0040" wn="2147483645" wnkey="null" text="Sound good?" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="3496" end="3501" sStart="null" offset="67" sid="r9.paper.n.0558" wn="1" wnkey="paper%1:27:00::" text="Second, it very cleverly reformats the pages to look good and save paper when printed out." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="2014" end="2018" sStart="null" offset="41" sid="r7.1.easy.j.0102" wn="1" wnkey="easy%3:00:01::" text="And he added, &quot;If you think it's so easy, why don't you do it yourself?&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2242.anc" start="1985" end="1990" sStart="null" offset="0" sid="null" wn="2" wnkey="add%2:32:01::" text="And he &lt;b&gt;added&lt;/b&gt;, &quot;If you think it's so easy, why don't you do it yourself?&quot;" />
+  </sentences>
+</list>

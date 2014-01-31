@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/plos/pmed.0020114.anc" start="2357" end="2361" sStart="-1" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" text="The numbers of gametocytes and the infectiousness to mosquitoes at day 7 were also reduced compared to a combination of CQ and SP, &lt;b&gt;said&lt;/b&gt; the authors." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020114.anc" start="772" end="783" sStart="null" offset="178" sid="r1.development.n.0075" wn="" wnkey="null" text="These trends have forced many countries to change their treatment policies and use more expensive drugs, including drug combinations that will hopefully slow the development of resistance." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020114.anc" start="772" end="783" sStart="null" offset="178" sid="r1.development.n.0075" wn="1" wnkey="development%1:04:01::" text="These trends have forced many countries to change their treatment policies and use more expensive drugs, including drug combinations that will hopefully slow the development of resistance." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020114.anc" start="772" end="783" sStart="null" offset="178" sid="r1.development.n.0075" wn="3" wnkey="development%1:22:01::" text="These trends have forced many countries to change their treatment policies and use more expensive drugs, including drug combinations that will hopefully slow the development of resistance." />
+  </sentences>
+</list>

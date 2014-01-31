@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_661.anc" start="1088" end="1096" sStart="1057" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" text="But the LAT quotes one &quot;lawyer familiar with the matter&quot; as saying that this is indeed the phrase he's heard mentioned by &quot;folks at the White House.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_661.anc" start="1088" end="1096" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" text="But the LAT quotes one &quot;lawyer &lt;b&gt;familiar&lt;/b&gt; with the matter&quot; as saying that this is indeed the phrase he's heard mentioned by &quot;folks at the White House.&quot;" />
+  </sentences>
+</list>

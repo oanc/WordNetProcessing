@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2172-4-1.anc" start="17683" end="17687" sStart="17670" offset="13" sid="r11.true.j.0703" wn="1" wnkey="true%3:00:00::" text="This was not true for IL-4-negative or IFN?-producing cells." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2172-4-1.anc" start="13858" end="13866" sStart="null" offset="5" sid="r8.suggest.v.0885" wn="3" wnkey="suggest%2:32:02::" text="This suggests that CD81's effects on cytokine production may not be uniquely mediated by LFA-1." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2172-4-1.anc" start="10420" end="10426" sStart="null" offset="25" sid="r8.number.n.0929" wn="1" wnkey="number%1:07:00::" text="As seen in Figure 5, the number of IL-4-producing CD4 T cells increased much more significantly over time in cultures incubated with anti-CD81 mAb than in those without." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2172-4-1.anc" start="6498" end="6504" sStart="null" offset="73" sid="r8.number.n.0137" wn="1" wnkey="number%1:07:00::" text="As seen in Figure 2, addition of 5A6 approximately doubled the number of cytokine-producing cells for each cytokine at these doses of SEB (0." />
+  </sentences>
+</list>

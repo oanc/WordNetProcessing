@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/42/ArticleIP_3146.anc" start="819" end="824" sStart="-1" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="Among other things, the film led to a &quot;magic bullet&quot; thesis to account for a lot of wounds from three &lt;b&gt;rapid&lt;/b&gt; shots and, later, to the &quot;neurospasm&quot; and &quot;jet effect&quot; theories to account for JFK's &quot;head snap&quot; reaction to the final shot." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/42/ArticleIP_3146.anc" start="819" end="824" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="Among other things, the film led to a &quot;magic bullet&quot; thesis to account for a lot of wounds from three &lt;b&gt;rapid&lt;/b&gt; shots and, later, to the &quot;neurospasm&quot; and &quot;jet effect&quot; theories to account for JFK's &quot;head snap&quot; reaction to the final shot." />
+    <s path="[OANC]/data/written_1/journal/slate/42/ArticleIP_3146.anc" start="1168" end="1177" sStart="null" offset="102" sid="r8.1.different.j.0636" wn="1" wnkey="different%3:00:00::" text="Many still think so, but in recent years a late-stage hard core of Z-film specialists has developed a different view." />
+    <s path="[OANC]/data/written_1/journal/slate/42/ArticleIP_3146.anc" start="3391" end="3395" sStart="null" offset="175" sid="r11.dark.j.0243" wn="2147483644" wnkey="null" text="David Lifton, famous for his theory that JFK's body was surgically altered before the autopsy, has written elsewhere that portions of the head shot sequence look suspiciously dark to him and that some of JFK's &quot;movements&quot; may be special effects." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_437.anc" start="1301" end="1306" sStart="-1" offset="0" sid="null" wn="2147483645" wnkey="null" text="The most concise is in USAT , which says that a section of the 1995 consent decree &quot;bans Microsoft from signing licensing agreements that &lt;b&gt;force&lt;/b&gt; PC makers to also license other Microsoft products." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_437.anc" start="1840" end="1845" sStart="null" offset="117" sid="r8.ask.v.0637" wn="1" wnkey="ask%2:32:01::" text="And the WP has the detail that the DOJ says at least three unnamed computer manufacturers were turned down when they asked Microsoft for permission either to remove the Internet Explorer browser entirely or just the desktop icon for it." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_437.anc" start="1840" end="1845" sStart="null" offset="117" sid="r8.ask.v.0637" wn="" wnkey="null" text="And the WP has the detail that the DOJ says at least three unnamed computer manufacturers were turned down when they asked Microsoft for permission either to remove the Internet Explorer browser entirely or just the desktop icon for it." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_437.anc" start="2170" end="2176" sStart="null" offset="11" sid="r8.ask.v.0575" wn="1" wnkey="ask%2:32:01::" text="The DOJ is asking for the imposition of a daily $1 million fine until Microsoft complies, and also asked the court to force the company to revise the non-disclosure provisions of the contracts it has product licensees sign, on the grounds that such provisions have a chilling effect on those wishing to complain." />
+  </sentences>
+</list>

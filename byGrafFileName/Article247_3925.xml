@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3925.anc" start="1767" end="1772" sStart="-1" offset="0" sid="null" wn="7" wnkey="smart%5:00:00:automatic:00" text="Now, imagine when all those cell-phoners start browsing the Web through their &lt;b&gt;smart&lt;/b&gt; phones ..." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3925.anc" start="1767" end="1772" sStart="null" offset="0" sid="null" wn="7" wnkey="smart%5:00:00:automatic:00" text="Now, imagine when all those cell-phoners start browsing the Web through their &lt;b&gt;smart&lt;/b&gt; phones ..." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3925.anc" start="824" end="828" sStart="null" offset="12" sid="r7.1.easy.j.0876" wn="1" wnkey="easy%3:00:01::" text="Again, it's easy to leap to the wrong conclusions when you wander around Hong Kong and see how wired everyone is." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3925.anc" start="559" end="568" sStart="null" offset="98" sid="r8.1.different.j.0237" wn="1" wnkey="different%3:00:00::" text="The thing that I think will totally mess up businesspeople when they consider Hong Kong and, to a different degree, the rest of China, is the extent to which e-commerce--and the Net--will catch on." />
+  </sentences>
+</list>

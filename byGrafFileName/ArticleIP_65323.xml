@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="7673" end="7684" sStart="-1" offset="0" sid="null" wn="7" wnkey="transfer%2:35:00::" text="The Internet has simply &lt;b&gt;transferred&lt;/b&gt; this principle to cyberspace." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="7673" end="7684" sStart="null" offset="0" sid="null" wn="9" wnkey="transfer%2:30:00::" text="The Internet has simply &lt;b&gt;transferred&lt;/b&gt; this principle to cyberspace." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="7673" end="7684" sStart="null" offset="0" sid="null" wn="9" wnkey="transfer%2:30:00::" text="The Internet has simply &lt;b&gt;transferred&lt;/b&gt; this principle to cyberspace." />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="51" end="58" sStart="null" offset="13" sid="r7.strike.n.0367" wn="2147483645" wnkey="null" text="The Emporium Strikes Back" />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="1593" end="1599" sStart="null" offset="88" sid="r7.sound.n.0455" wn="2" wnkey="sound%1:09:00::" text="To lure Christmas shoppers, the malls promise tree lightings and other &quot;sights and sounds of the holidays.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="1582" end="1588" sStart="null" offset="77" sid="r7.sight.n.0239" wn="2" wnkey="sight%1:10:00::" text="To lure Christmas shoppers, the malls promise tree lightings and other &quot;sights and sounds of the holidays.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="832" end="836" sStart="null" offset="112" sid="r8.live.v.0297" wn="2147483647" wnkey="null" text="But while the malls do advertise sensory advantages, they talk less about merchandise than about entertainment: live music, fashion shows, baby pageants, carousels, and miniature golf." />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="548" end="551" sStart="null" offset="80" sid="r9.hit.v.0628" wn="4" wnkey="hit%2:38:00::" text="They're colonizing cyberspace with Web sites that invite surfers to log off and hit the stores." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="3748" end="3756" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" text="On a page for shoppers, the mall says it plays &quot;motivational music on Mills TV, so you can treat your mind and body to an enjoyable, healthy and rewarding &lt;b&gt;exercise&lt;/b&gt; program.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_65323.anc" start="2912" end="2920" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" text="3. We're good &lt;b&gt;exercise&lt;/b&gt;." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_5863.anc" start="7611" end="7614" sStart="7576" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" text="He may have moderated his views to &lt;b&gt;win&lt;/b&gt;, but he is mostly principled and mostly honest." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5863.anc" start="4096" end="4102" sStart="null" offset="39" sid="r11.refer.v.0542" wn="1" wnkey="refer%2:32:01::" text="Here's the peculiarity: She also never refers to Bill Clinton by name." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5863.anc" start="3984" end="3993" sStart="null" offset="60" sid="r11.refer.v.0666" wn="1" wnkey="refer%2:32:01::" text="She clearly loathes D'Amato, and she makes a point of never referring to him by name." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5863.anc" start="2680" end="2685" sStart="null" offset="31" sid="r9.paper.n.0588" wn="4" wnkey="paper%1:10:00::" text="But if Schumer is a Clinton on paper, he certainly isn't in the flesh." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5863.anc" start="4684" end="4689" sStart="null" offset="22" sid="r8.live.v.0668" wn="1" wnkey="live%2:42:08::" text="My mother-in-law, who lives in Schumer's congressional district and always votes for him, says she's thinking of supporting D'Amato this year: &quot;He's a sleaze." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5863.anc" start="6488" end="6492" sStart="null" offset="70" sid="r7.1.face.n.0548" wn="1" wnkey="face%1:08:00::" text="And every time D'Amato has attacked, Schumer has fired it back in his face." />
+  </sentences>
+</list>

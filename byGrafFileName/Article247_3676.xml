@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3676.anc" start="333" end="337" sStart="319" offset="14" sid="r11.true.j.0593" wn="1" wnkey="true%3:00:00::" text="Could this be true?" />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3676.anc" start="1338" end="1344" sStart="null" offset="62" sid="r8.number.n.0184" wn="1" wnkey="number%1:07:00::" text="In fact, seismologists have a rough method for predicting the number of aftershocks on a given day: It declines in inverse proportion to the time since the mainshock (i.e., day four has one-fourth the number of quakes as day one)." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3676.anc" start="1035" end="1041" sStart="null" offset="178" sid="r9.normal.j.0322" wn="2" wnkey="normal%3:00:02::" text="An aftershock is defined as a quake that occurs on or near the original fault (usually within 10 miles of the epicenter) and before the region's seismic activity has returned to normal." />
+  </sentences>
+</list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020113.anc" start="244" end="256" sStart="237" offset="7" sid="r11.recommend.v.0793" wn="2" wnkey="recommend%2:32:00::" text="Beyond recommending lifestyle changes such as losing weight, quitting smoking, and lowering salt and alcohol intake, prescription drugs are indicated in many patients." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020113.anc" start="1518" end="1529" sStart="null" offset="86" sid="r11.combination.n.0824" wn="1" wnkey="combination%1:14:00::" text="Less than a third of these patients received thiazides (alone or as part of a combination regimen) as a first-line treatment." />
+  </sentences>
+</list>

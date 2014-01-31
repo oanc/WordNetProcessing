@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2710-ms98-a-trans.anc" start="4879" end="4883" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" text="i have worked on a &lt;b&gt;part&lt;/b&gt; &lt;b&gt;part&lt;/b&gt; time job um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2710-ms98-a-trans.anc" start="4879" end="4883" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="i have worked on a &lt;b&gt;part&lt;/b&gt; &lt;b&gt;part&lt;/b&gt; time job um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2710-ms98-a-trans.anc" start="5440" end="5444" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" text="uh you know they &lt;b&gt;lost&lt;/b&gt; their job or uh they they've signed for a friend" />
+  </sentences>
+</list>

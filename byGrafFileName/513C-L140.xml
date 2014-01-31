@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/513C-L140.anc" start="127" end="132" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" text="A few months ago, Carl Newton and I &lt;b&gt;wrote&lt;/b&gt; a letter asking you to consider a financial contribution to graduate Endodontics at Indiana University." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/513C-L140.anc" start="127" end="132" sStart="null" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" text="A few months ago, Carl Newton and I &lt;b&gt;wrote&lt;/b&gt; a letter asking you to consider a financial contribution to graduate Endodontics at Indiana University." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/513C-L140.anc" start="127" end="132" sStart="null" offset="0" sid="null" wn="2 1" wnkey="null" text="A few months ago, Carl Newton and I &lt;b&gt;wrote&lt;/b&gt; a letter asking you to consider a financial contribution to graduate Endodontics at Indiana University." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L140.anc" start="265" end="269" sStart="null" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" text="I am pleased to &lt;b&gt;tell&lt;/b&gt; you that we have had a positive response to the letter." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L140.anc" start="353" end="357" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" text="It is great to &lt;b&gt;know&lt;/b&gt; that people, like you, who have graduated from our program are willing to support us in such a significant way." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L140.anc" start="353" end="357" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" text="It is great to &lt;b&gt;know&lt;/b&gt; that people, like you, who have graduated from our program are willing to support us in such a significant way." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L140.anc" start="725" end="729" sStart="null" offset="0" sid="null" wn="3" wnkey="know%2:31:02::" text="I'm sending this follow-up letter to let you &lt;b&gt;know&lt;/b&gt; that your support is greatly needed and appreciated by everyone involved with graduate Endodontics at IU." />
+    <s path="[OANC]/data/written_1/letters/icic/513C-L140.anc" start="142" end="148" sStart="null" offset="51" sid="r8.ask.v.0501" wn="4" wnkey="ask%2:32:04::" text="A few months ago, Carl Newton and I wrote a letter asking you to consider a financial contribution to graduate Endodontics at Indiana University." />
+    <s path="[OANC]/data/written_1/letters/icic/513C-L140.anc" start="142" end="148" sStart="null" offset="51" sid="r8.ask.v.0501" wn="" wnkey="null" text="A few months ago, Carl Newton and I wrote a letter asking you to consider a financial contribution to graduate Endodontics at Indiana University." />
+  </sentences>
+</list>

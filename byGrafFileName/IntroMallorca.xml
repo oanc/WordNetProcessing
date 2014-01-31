@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/IntroMallorca.anc" start="4567" end="4573" sStart="4316" offset="251" sid="r7.sight.n.0301" wn="2" wnkey="sight%1:10:00::" text="From medieval mountain villages and the dramatic lunar landscape of MallorcaÕs Formentor promontory to mysterious prehistoric settlements and isolated beaches accessible only by foot on Menorca, the islands abound with sights that are anything but blandly international." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/IntroMallorca.anc" start="9066" end="9071" sStart="null" offset="76" sid="r9.sense.n.0164" wn="5" wnkey="sense%1:09:06::" text="Many islanders have learned to regard the latest occupations with a sense of dry humor." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/IntroMallorca.anc" start="7958" end="7963" sStart="null" offset="0" sid="null" wn="5" wnkey="part%1:15:00::" text="In &lt;b&gt;parts&lt;/b&gt; of Mallorca, Germans own about 80 percent of all homes; along traditionally British vacation spots on Menorca, three-quarters of the homes are first or second residences belonging to the English." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/lists-046-12142206.anc" start="937" end="944" sStart="831" offset="106" sid="null" wn="2" wnkey="write%2:32:00::" text="I certainly support the use of ISO TR 9573 entity names for mathematical and technical symbols, as I have written earlier." />
+    <s path="[MASC]/data/written/lists-046-12142206.anc" start="929" end="935" sStart="null" offset="0" sid="null" wn="2147483644" wnkey="null" text="I've read the proposal from Wolfram Research again." />
+    <s path="[MASC]/data/written/lists-046-12142206.anc" start="881" end="886" sStart="null" offset="50" sid="null" wn="1" wnkey="name%1:10:00::" text="I certainly support the use of ISO TR 9573 entity names for mathematical and technical symbols, as I have written earlier." />
+    <s path="[MASC]/data/written/lists-046-12142206.anc" start="29" end="33" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="I've read the proposal from Wolfram Research again." />
+    <s path="[MASC]/data/written/lists-046-12142206.anc" start="642" end="654" sStart="null" offset="98" sid="null" wn="" wnkey="null" text="I also had the feeling for some time, and the same feeling exists in the SGML community, that the developments of HTML-Math and of HTML in general were suffering from a NIH syndrome." />
+    <s path="[MASC]/data/written/lists-046-12142206.anc" start="642" end="654" sStart="null" offset="98" sid="null" wn="1" wnkey="development%1:04:01::" text="I also had the feeling for some time, and the same feeling exists in the SGML community, that the developments of HTML-Math and of HTML in general were suffering from a NIH syndrome." />
+  </sentences>
+</list>

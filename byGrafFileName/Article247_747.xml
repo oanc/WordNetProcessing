@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_747.anc" start="1511" end="1514" sStart="1434" offset="77" sid="r8.way.n.0272" wn="2" wnkey="way%1:04:01::" text="The WP off-lead reveals that the FAA, which recently decided to overhaul the way insulation on commercial airliners is tested for flammability, received warnings about its test's unreliability as far back as 1988." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_747.anc" start="2431" end="2434" sStart="null" offset="36" sid="r8.way.n.0803" wn="1" wnkey="way%1:07:01::" text="A front page WP report explores the way health-related charities rely on media buzz to generate private donations and government funding." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_747.anc" start="2225" end="2232" sStart="null" offset="11" sid="r10.wait.v.0692" wn="3" wnkey="wait%2:31:00::" text="In a quote waiting for a paperback rear cover, Lewis writes, &quot;The novel contains passages as powerful and as beautiful as anything written." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_747.anc" start="3388" end="3393" sStart="null" offset="19" sid="r7.trace.v.0195" wn="1" wnkey="trace%2:31:00::" text="These developments trace back to one Manhattan strip bar's attempt to avoid Rudy's wrath by admitting minors accompanied by adults." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_747.anc" start="1240" end="1245" sStart="null" offset="0" sid="null" wn="6" wnkey="force%1:04:01::" text="The NYT off-lead says that the U.S. will abandon U.N. arms inspections as a means of restraining Iraq in favor of traditional methods like sanctions and &lt;b&gt;force&lt;/b&gt;." />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_35790.anc" start="5744" end="5748" sStart="5640" offset="104" sid="r10.wait.v.0637" wn="1" wnkey="wait%2:42:00::" text="In fact, there is little danger that teen-agers are going to order unusual wines from distant wineries, wait days for them to arrive, arrange to have their parents out of the house when they do, and then ..." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_35790.anc" start="2786" end="2792" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" text="At the risk of making a one-way trip to Rikers &lt;b&gt;Island&lt;/b&gt; (&quot;I must take the Fifth about my wine purchases, senator&quot;), I spent a couple of weeks this summer surfing the Web for vino." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_35790.anc" start="2786" end="2792" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" text="At the risk of making a one-way trip to Rikers &lt;b&gt;Island&lt;/b&gt; (&quot;I must take the Fifth about my wine purchases, senator&quot;), I spent a couple of weeks this summer surfing the Web for vino." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_35790.anc" start="6975" end="6980" sStart="null" offset="0" sid="null" wn="9" wnkey="force%1:07:02::" text="The regulations in &lt;b&gt;force&lt;/b&gt; are maintained and strengthened because distributors, wholesalers, and large wineries benefit from them, and they are organized and politically powerful." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_35790.anc" start="6975" end="6980" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="The regulations in &lt;b&gt;force&lt;/b&gt; are maintained and strengthened because distributors, wholesalers, and large wineries benefit from them, and they are organized and politically powerful." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_35790.anc" start="482" end="485" sStart="null" offset="17" sid="r8.ask.v.0307" wn="4" wnkey="ask%2:32:04::" text="The editors will ask meekly, &quot;Dr." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_35790.anc" start="4037" end="4040" sStart="null" offset="62" sid="r8.ask.v.0271" wn="4" wnkey="ask%2:32:04::" text="Precisely how I obtained the wines is a matter of &quot;don't ask, don't tell.&quot;" />
+  </sentences>
+</list>

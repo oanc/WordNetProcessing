@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/516CZL125.anc" start="863" end="868" sStart="-1" offset="0" sid="null" wn="3" wnkey="write%2:32:08::" text="I &lt;b&gt;write&lt;/b&gt; to ask you to &lt;b&gt;become&lt;/b&gt; a supporter of the Moving Company." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/516CZL125.anc" start="1216" end="1221" sStart="null" offset="0" sid="null" wn="5" wnkey="date%1:28:03::" text="&lt;b&gt;Dates&lt;/b&gt; for the Moving Company's spring concert are April 27th and 28th at 8 p.m." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/516CZL125.anc" start="883" end="889" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" text="I &lt;b&gt;write&lt;/b&gt; to ask you to &lt;b&gt;become&lt;/b&gt; a supporter of the Moving Company." />
+    <s path="[OANC]/data/written_1/letters/icic/516CZL125.anc" start="872" end="875" sStart="null" offset="11" sid="r8.ask.v.0985" wn="1" wnkey="ask%2:32:01::" text="I write to ask you to become a supporter of the Moving Company." />
+    <s path="[OANC]/data/written_1/letters/icic/516CZL125.anc" start="872" end="875" sStart="null" offset="11" sid="r8.ask.v.0985" wn="" wnkey="null" text="I write to ask you to become a supporter of the Moving Company." />
+  </sentences>
+</list>

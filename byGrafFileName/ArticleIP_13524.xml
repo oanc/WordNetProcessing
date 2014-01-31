@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_13524.anc" start="2383" end="2390" sStart="-1" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="Pandas (misinformed &lt;b&gt;players&lt;/b&gt; only)--0" />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_13524.anc" start="5053" end="5059" sStart="null" offset="33" sid="r9.kill.v.0600" wn="9" wnkey="kill%2:35:02::" text="A. &quot;A bare-assed codger was killed near Bangkok this morning when his motorcycle collided with a low-flying game bird that police say was 'hurled in his path by a vengeful god." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_13524.anc" start="2270" end="2275" sStart="null" offset="25" sid="r10.board.n.0144" wn="1" wnkey="board%1:14:00::" text="Australia Reference Tote Board" />
+  </sentences>
+</list>

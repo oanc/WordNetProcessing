@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18666.anc" start="3210" end="3214" sStart="3193" offset="17" sid="r7.1.face.n.0867" wn="1" wnkey="human_face%1:08:01::" text="2. Draw a smiley face on the bill." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18666.anc" start="2061" end="2069" sStart="null" offset="64" sid="r10.control.n.0192" wn="9" wnkey="control%1:06:00::" text="Next year's millennial mat: A dolphin and his lawyer sit at the controls of an atomic monorail filled with Latin American millionaires throwing oranges at the ghost of Jackie Gleason as he flees inside the Fontainbleu Hotel." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18666.anc" start="3378" end="3384" sStart="null" offset="47" sid="r8.ask.v.0175" wn="2" wnkey="ask%2:32:02::" text="4. Rub the customer on the thigh and wink when asking, &quot;Anything else?&quot;" />
+  </sentences>
+</list>

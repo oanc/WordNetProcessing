@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/ucb26.anc" start="102" end="106" sStart="148" offset="0" sid="null" wn="2147483646" wnkey="null" text="About this mailing:" />
+    <s path="[MASC]/data/written/ucb26.anc" start="480" end="486" sStart="null" offset="95" sid="r9.appear.v.0097" wn="3" wnkey="appear%2:30:01::" text="This will not unsubscribe you from e-mail communications from third-party advertisers that may appear in MSN Feature Offers." />
+    <s path="[MASC]/data/written/ucb26.anc" start="480" end="486" sStart="null" offset="95" sid="r9.appear.v.0097" wn="5" wnkey="appear%2:30:02::" text="This will not unsubscribe you from e-mail communications from third-party advertisers that may appear in MSN Feature Offers." />
+    <s path="[MASC]/data/written/ucb26.anc" start="480" end="486" sStart="null" offset="95" sid="r9.appear.v.0097" wn="5" wnkey="appear%2:30:02::" text="This will not unsubscribe you from e-mail communications from third-party advertisers that may appear in MSN Feature Offers." />
+    <s path="[MASC]/data/written/ucb26.anc" start="480" end="486" sStart="null" offset="95" sid="r9.appear.v.0097" wn="5" wnkey="appear%2:30:02::" text="This will not unsubscribe you from e-mail communications from third-party advertisers that may appear in MSN Feature Offers." />
+  </sentences>
+</list>

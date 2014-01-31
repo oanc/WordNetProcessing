@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3894.anc" start="802" end="807" sStart="-1" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" text="Olson criticizes Cameron's findings that gays experience &quot;shockingly high &lt;b&gt;rates&lt;/b&gt; of violent death.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3894.anc" start="802" end="807" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" text="Olson criticizes Cameron's findings that gays experience &quot;shockingly high &lt;b&gt;rates&lt;/b&gt; of violent death.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3894.anc" start="797" end="801" sStart="null" offset="74" sid="r10.high.j.0632" wn="1" wnkey="high%3:00:02::" text="Olson criticizes Cameron's findings that gays experience &quot;shockingly high rates of violent death.&quot;" />
+  </sentences>
+</list>

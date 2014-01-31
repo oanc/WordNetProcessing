@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20215.anc" start="2734" end="2739" sStart="2659" offset="75" sid="r8.state.n.0461" wn="1" wnkey="state%1:15:01::" text="The 4,100 member provincial police force, more a sort of regional FBI than state troopers, accepted the scathing criticism delivered by a public inquiry last month and will undertake sweeping reforms, reports Monique Beaudin in the Montreal Gazette . &quot;We are taking this very seriously,&quot; said SQ chief Florent GagnŽ." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20215.anc" start="4007" end="4013" sStart="null" offset="15" sid="r1.launch.v.0084" wn="2" wnkey="launch%2:35:00::" text="After lunch, I launch myself into a low Earth orbit to battle giant space monkeys from Neptune.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20215.anc" start="4007" end="4013" sStart="null" offset="15" sid="r1.launch.v.0084" wn="4" wnkey="launch%2:30:10::" text="After lunch, I launch myself into a low Earth orbit to battle giant space monkeys from Neptune.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20215.anc" start="4007" end="4013" sStart="null" offset="15" sid="r1.launch.v.0084" wn="2" wnkey="launch%2:35:00::" text="After lunch, I launch myself into a low Earth orbit to battle giant space monkeys from Neptune.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20215.anc" start="4155" end="4161" sStart="null" offset="67" sid="r9.appear.v.0940" wn="6" wnkey="appear%2:36:00::" text="--Lawyer Johnnie Cochran sets aside time from his busy schedule to appear on Guiding Light ." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_20215.anc" start="3371" end="3376" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="Each final sentence &lt;b&gt;added&lt;/b&gt; by News Quiz." />
+  </sentences>
+</list>

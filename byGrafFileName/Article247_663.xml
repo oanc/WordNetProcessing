@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_663.anc" start="4946" end="4950" sStart="4844" offset="107" sid="r10.wait.v.0533" wn="2" wnkey="wait%2:42:01::" text="The Times quotes the headline of an Italian newspaper story about the scramble: &quot;The Pope: Heaven Can Wait, the Networks Cannot.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_663.anc" start="952" end="957" sStart="null" offset="21" sid="r9.paper.n.0988" wn="3" wnkey="paper%1:10:03::" text="Looming large in the paper's survey are the reactions of California's senators, both Democrats." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_663.anc" start="4613" end="4617" sStart="null" offset="117" sid="r8.live.v.0363" wn="2147483645" wnkey="null" text="CBS News, for instance, reportedly just paid $180,000 for the exclusive use of a terrace overlooking the Vatican for live &quot;stand-ups&quot; by Dan Rather and its other anchors." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_663.anc" start="3672" end="3677" sStart="null" offset="0" sid="null" wn="5" wnkey="military_force%1:14:00::" text="Today, the Post says the Pakistanis were told that the bin Laden &lt;b&gt;force&lt;/b&gt; numbers 4,000 to 5,000 members and that it has taken &lt;b&gt;part&lt;/b&gt; in prior armed actions, including attacks against U.S. &lt;b&gt;forces&lt;/b&gt; in Somalia, resulting in the deaths of 18 American soldiers." />
+  </sentences>
+</list>

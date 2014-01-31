@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020237.anc" start="232" end="238" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Despite these vaccines, about 2 billion &lt;b&gt;people&lt;/b&gt; have been infected with hepatitis B virus (HBV), and more than 350 million have lifelong infections." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020237.anc" start="2842" end="2849" sStart="null" offset="141" sid="r10.control.n.0330" wn="4" wnkey="control%1:09:02::" text="Using siRNA, designed to reduce endogenous hnRNPK, they showed suppression of both hnRNPK mRNA and HBV viral load, whereas a control siRNA had no effect on HBV viral load." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020237.anc" start="3863" end="3874" sStart="null" offset="87" sid="r11.combination.n.0217" wn="1" wnkey="combination%1:14:00::" text="The authors conclude that the future of long-term viral clearance will require combination therapy of targeting the virus directly, blocking host support proteins, and using immuno-modulating agents." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020237.anc" start="3093" end="3104" sStart="null" offset="196" sid="r11.combination.n.0187" wn="1" wnkey="combination%1:14:00::" text="Despite these findings, the mechanism behind hnRNPK on HBV replication needs further exploration, the authors say, concluding that viral replication efficiency was determined by a combination of viral sequence and interaction with specific host proteins." />
+  </sentences>
+</list>

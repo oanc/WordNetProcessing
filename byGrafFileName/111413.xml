@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/111413.anc" start="210" end="215" sStart="184" offset="26" sid="null" wn="3" wnkey="write%2:32:08::" text="Well it is my pleasure to write to you this moment." />
+    <s path="[MASC]/data/written/111413.anc" start="461" end="465" sStart="null" offset="3" sid="null" wn="1" wnkey="name%1:10:00::" text="My name is LiNa." />
+    <s path="[MASC]/data/written/111413.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" text="Date: Mon, 29 Nov 2010 13:37:19 -0800 (PST) From: Lina &lt;linadavid@att.net&gt; Reply-To: linathiara@yahoo.no Subject: Hello To: undisclosed recipients: ;" />
+    <s path="[MASC]/data/written/111413.anc" start="408" end="415" sStart="null" offset="76" sid="null" wn="1" wnkey="control%1:07:00::" text="It is my firm belief that life is treating you real good and that God is in control of every other thing that matters to you" />
+    <s path="[MASC]/data/written/111413.anc" start="408" end="415" sStart="null" offset="76" sid="r10.control.n.0013" wn="1" wnkey="control%1:07:00::" text="It is my firm belief that life is treating you real good and that God is in control of every other thing that matters to you" />
+    <s path="[MASC]/data/written/111413.anc" start="408" end="415" sStart="null" offset="76" sid="null" wn="1" wnkey="control%1:07:00::" text="It is my firm belief that life is treating you real good and that God is in control of every other thing that matters to you" />
+    <s path="[MASC]/data/written/111413.anc" start="408" end="415" sStart="null" offset="76" sid="r10.control.n.0013" wn="2" wnkey="control%1:24:00::" text="It is my firm belief that life is treating you real good and that God is in control of every other thing that matters to you" />
+    <s path="[MASC]/data/written/111413.anc" start="408" end="415" sStart="null" offset="76" sid="null" wn="1" wnkey="control%1:07:00::" text="It is my firm belief that life is treating you real good and that God is in control of every other thing that matters to you" />
+    <s path="[MASC]/data/written/111413.anc" start="408" end="415" sStart="null" offset="76" sid="r10.control.n.0013" wn="1" wnkey="control%1:07:00::" text="It is my firm belief that life is treating you real good and that God is in control of every other thing that matters to you" />
+    <s path="[MASC]/data/written/111413.anc" start="408" end="415" sStart="null" offset="76" sid="null" wn="6" wnkey="control%1:26:00::" text="It is my firm belief that life is treating you real good and that God is in control of every other thing that matters to you" />
+    <s path="[MASC]/data/written/111413.anc" start="408" end="415" sStart="null" offset="76" sid="r10.control.n.0013" wn="6" wnkey="control%1:26:00::" text="It is my firm belief that life is treating you real good and that God is in control of every other thing that matters to you" />
+    <s path="[MASC]/data/written/111413.anc" start="879" end="884" sStart="null" offset="26" sid="null" wn="1" wnkey="color%1:07:00::" text="Remember age, distance or color does not matter but love and understanding matters most in life." />
+  </sentences>
+</list>

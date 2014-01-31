@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020005.anc" start="4614" end="4620" sStart="4511" offset="0" sid="null" wn="5" wnkey="window%1:28:00::" text="The problem of scale also arises when we need to identify the appropriate timing (the temporal &lt;b&gt;window&lt;/b&gt;) to detect strong associations between disease outbreaks and environmental covariates." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020005.anc" start="955" end="961" sStart="null" offset="20" sid="r11.strong.j.0968" wn="2" wnkey="strong%5:00:00:intense:00" text="The study reports a strong association between the yearly onset of epidemics and a large-scale regional index for atmospheric circulation related to the Harmattan winds in Sahelo-Sudanian Africa." />
+  </sentences>
+</list>

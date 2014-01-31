@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_981.anc" start="2037" end="2043" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Except most of the American &lt;b&gt;people&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_981.anc" start="2037" end="2043" sStart="null" offset="0" sid="null" wn="2" wnkey="people%1:14:01::" text="Except most of the American &lt;b&gt;people&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_981.anc" start="1487" end="1493" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="It reminded me of the only good scene in Primary &lt;b&gt;Colors&lt;/b&gt; when he learns that he may have made a young black girl pregnant." />
+  </sentences>
+</list>

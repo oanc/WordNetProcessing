@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/letters/icic/107CYL011.anc" start="153" end="157" sStart="-1" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" text="Holidays are a &lt;b&gt;time&lt;/b&gt; for sharing." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/107CYL011.anc" start="153" end="157" sStart="null" offset="0" sid="null" wn="4" wnkey="time%1:28:06::" text="Holidays are a &lt;b&gt;time&lt;/b&gt; for sharing." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/107CYL011.anc" start="346" end="350" sStart="null" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" text="But for many of the children and seniors that Visiting Nurse Service cares for, it can also be a troubling &lt;b&gt;time&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/107CYL011.anc" start="1188" end="1192" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" text="Serving the needy has been an important &lt;b&gt;part&lt;/b&gt; of our mission." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/107CYL011.anc" start="1188" end="1192" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="Serving the needy has been an important &lt;b&gt;part&lt;/b&gt; of our mission." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/107CYL011.anc" start="1100" end="1104" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" text="Visiting Nurse Service has been a &lt;b&gt;part&lt;/b&gt; of this community for over 85 years." />
+  </sentences>
+</list>

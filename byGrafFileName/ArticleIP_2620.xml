@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2620.anc" start="3697" end="3707" sStart="3694" offset="3" sid="r11.recommend.v.0182" wn="1" wnkey="recommend%2:32:01::" text="He recommends that investors leverage their existing capital, so that more than half of their investments are purchased on margin (that is, loaned to them by their broker)." />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2620.anc" start="3994" end="4004" sStart="null" offset="26" sid="r11.recommend.v.0183" wn="1" wnkey="recommend%2:32:01::" text="And, most importantly, he recommends buying and selling complex arrays of options, often at the same time." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/38/ArticleIP_2620.anc" start="280" end="286" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" text="&quot;[B]uy stocks in companies that have a good &lt;b&gt;chance&lt;/b&gt; of going up.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/38/ArticleIP_2620.anc" start="280" end="286" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" text="&quot;[B]uy stocks in companies that have a good &lt;b&gt;chance&lt;/b&gt; of going up.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/38/ArticleIP_2620.anc" start="702" end="707" sStart="null" offset="24" sid="r10.board.n.0153" wn="1" wnkey="board%1:14:00::" text="Cook is chairman of the board of , whose only business is marketing Cook's books, his cassettes, and his two-day Wall Street Workshops, in which you can enroll for the piddling sum of $2,500." />
+  </sentences>
+</list>

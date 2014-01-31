@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/25/ArticleIP_1301.anc" start="235" end="242" sStart="-1" offset="0" sid="null" wn="2147483645" wnkey="null" text="Critics can't decide whether this fable by An &lt;b&gt;Officer&lt;/b&gt; and a Gentleman director Taylor Hackford is good kitschy fun or a &quot;never-never land of movie awfulness&quot; (David Denby, New York ). Praise goes to Al Pacino's frenetic performance as the devil--a Manhattan lawyer--who wants to corrupt his naive junior partner, played by Keanu Reeves." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/25/ArticleIP_1301.anc" start="235" end="242" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" text="Critics can't decide whether this fable by An &lt;b&gt;Officer&lt;/b&gt; and a Gentleman director Taylor Hackford is good kitschy fun or a &quot;never-never land of movie awfulness&quot; (David Denby, New York ). Praise goes to Al Pacino's frenetic performance as the devil--a Manhattan lawyer--who wants to corrupt his naive junior partner, played by Keanu Reeves." />
+    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1301.anc" start="6137" end="6141" sStart="null" offset="0" sid="r10.book.n.0275" wn="1" wnkey="book%1:10:00::" text="Book -- Toward the End of Time , by John Updike;" />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2559.anc" start="4605" end="4611" sStart="4520" offset="85" sid="r8.state.n.0305" wn="4" wnkey="state%1:14:00::" text="That is a funny story, but it should not have been told by a president of the United States, who should have realized that the historic relation between the federal government and the American Indians is no laughing matter." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2559.anc" start="5853" end="5858" sStart="null" offset="12" sid="r9.sense.n.0830" wn="2" wnkey="sense%1:10:00::" text="That is the sense in which we are all on the same bus." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2559.anc" start="2719" end="2724" sStart="null" offset="0" sid="null" wn="8" wnkey="world_power%1:14:00::" text="What a concentration of worldwide &lt;b&gt;power&lt;/b&gt;!" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2559.anc" start="2719" end="2724" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" text="What a concentration of worldwide &lt;b&gt;power&lt;/b&gt;!" />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2559.anc" start="6265" end="6270" sStart="null" offset="12" sid="r8.1.great.j.0499" wn="3" wnkey="great%5:00:01:extraordinary:00" text="Race is the great American problem." />
+  </sentences>
+</list>

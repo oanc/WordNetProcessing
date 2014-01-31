@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_27428.anc" start="4142" end="4149" sStart="3994" offset="163" sid="r10.wait.v.0568" wn="3" wnkey="wait%2:31:00::" text="He has &quot;surpassed Netanyahu in status at the White House,&quot; the editorial said, while &quot;Europe stands united behind him, and the Arab states are only waiting for the signal to send official representatives to the Palestinian state.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_27428.anc" start="5862" end="5866" sStart="null" offset="50" sid="r11.true.j.0708" wn="7" wnkey="true%5:00:00:sincere:00" text="It has also opened the public's eyes to &quot;the true nature of these leaders and their methods.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_27428.anc" start="114" end="120" sStart="null" offset="41" sid="r11.strong.j.0417" wn="2" wnkey="strong%5:00:00:intense:00" text="The German daily Die Welt reported &quot;strong irritation&quot; in Bonn over the arrangements for President Clinton's visit to Germany." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_27428.anc" start="3434" end="3439" sStart="null" offset="128" sid="r8.state.n.0907" wn="4" wnkey="state%1:14:00::" text="In Israel, Ha'aretz led Wednesday with Palestinian leader Yasser Arafat's decision to postpone the declaration of a Palestinian state." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_27428.anc" start="7558" end="7564" sStart="null" offset="82" sid="r8.state.n.0363" wn="2147483647" wnkey="null" text="In Japan, Asahi Shimbun reported Wednesday that raccoons imported from the United States as pets have become an ecological and agricultural &quot;nightmare&quot; in Japan." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_27428.anc" start="2648" end="2654" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" text="The prefect, Bernard Bonnet, who was sent to Napoleon's &lt;b&gt;island&lt;/b&gt; by the socialist Prime Minister Lionel Jospin to impose law and order on unruly Corsican nationalists, is alleged to have ordered his police &lt;b&gt;force&lt;/b&gt; to burn down a beach restaurant as an example to them." />
+  </sentences>
+</list>

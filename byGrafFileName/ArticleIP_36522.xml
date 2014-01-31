@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="6932" end="6936" sStart="6914" offset="18" sid="r10.wait.v.0649" wn="1" wnkey="wait%2:42:00::" text="Guests should not wait for a grace or benediction before eating." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="3920" end="3927" sStart="null" offset="16" sid="r10.wait.v.0647" wn="3" wnkey="wait%2:31:00::" text="&quot;If you're waiting around for me to say, 'Oooh, sorry your bird's brain is bleeding,' &quot; Ostroff did not add, &quot;you've got a long wait coming.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="5801" end="5805" sStart="null" offset="0" sid="r10.wait.v.0648" wn="2" wnkey="wait%2:42:01::" text="Wait for grace to be said before eating." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="4740" end="4746" sStart="null" offset="16" sid="r7.serve.v.0679" wn="6" wnkey="serve_up%2:34:00::" text="Q: Will Food Be Served?" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="5300" end="5305" sStart="null" offset="0" sid="r9.sense.n.0638" wn="" wnkey="null" text="" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="5316" end="5322" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" text="&lt;b&gt;Forget&lt;/b&gt; it, Jake, it's religious tradition.)" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="5316" end="5322" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="&lt;b&gt;Forget&lt;/b&gt; it, Jake, it's religious tradition.)" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="5316" end="5322" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" text="&lt;b&gt;Forget&lt;/b&gt; it, Jake, it's religious tradition.)" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36522.anc" start="608" end="615" sStart="null" offset="102" sid="r10.control.n.0897" wn="2" wnkey="control%1:24:00::" text="&quot;You won't hear any apologies from me,&quot; said Dr. Stephen Ostroff of the Centers for Disease Control." />
+  </sentences>
+</list>

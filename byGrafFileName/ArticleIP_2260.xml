@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2260.anc" start="3381" end="3384" sStart="3334" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" text="Perhaps more than any other single issue, this &lt;b&gt;won&lt;/b&gt; Clinton the 1996 election." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/34/ArticleIP_2260.anc" start="4118" end="4123" sStart="null" offset="0" sid="null" wn="4" wnkey="show%2:39:00::" text="Unfortunately, Clinton &lt;b&gt;shows&lt;/b&gt; little sign of doing either." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2260.anc" start="5753" end="5761" sStart="null" offset="33" sid="r11.benefit.n.0472" wn="2" wnkey="benefit%1:07:00::" text="Because it would reduce mandated benefits of various kinds in a reasonable way, it would go a long way not just toward fixing Social Security, but also toward bringing the federal budget into structural balance." />
+  </sentences>
+</list>

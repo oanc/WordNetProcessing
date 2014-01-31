@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_36877.anc" start="573" end="577" sStart="-1" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" text="How &lt;b&gt;long&lt;/b&gt; have they been doing so?" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36877.anc" start="1042" end="1045" sStart="null" offset="120" sid="r9.hit.v.0594" wn="2147483646" wnkey="null" text="The idea was that the campaign staffs , if not the candidates themselves, would immediately download our questionnaire, hit &quot;Reply,&quot; answer its not terribly demanding questions on the spot, and ship back the answers within moments." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36877.anc" start="2352" end="2359" sStart="null" offset="19" sid="r10.help.v.0501" wn="2" wnkey="help%2:29:00::" text="(Predictably, it's helping.)" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36877.anc" start="1303" end="1307" sStart="null" offset="149" sid="r7.1.face.n.0268" wn="2147483645" wnkey="null" text="To encourage a prompt response, we assured all candidates that we didn't intend to judge harshly those who displayed poor Web literacy, since--let's face it--computer skills rank fairly low on the list of the things one needs to master in order to be president." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36877.anc" start="2852" end="2858" sStart="null" offset="31" sid="r10.common.j.0358" wn="2" wnkey="common%3:00:01::" text="On the other hand, it's fairly common for a presidential candidate not to use e-mail in connection with his campaign." />
+  </sentences>
+</list>

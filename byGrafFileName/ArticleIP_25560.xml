@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_25560.anc" start="1193" end="1196" sStart="1053" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" text="The paper said that &quot;leaked documents&quot; included a CIA assessment from January claiming that Milosevic has no stomach for a war he could not &lt;b&gt;win&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_25560.anc" start="2020" end="2025" sStart="null" offset="52" sid="r9.paper.n.0103" wn="3" wnkey="paper%1:10:03::" text="&quot;Poison cloud engulfs Belgrade,&quot; said the paper's main front-page headline over a warning of &quot;an ecological disaster.&quot;" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_25560.anc" start="3745" end="3749" sStart="null" offset="0" sid="null" wn="2" wnkey="long%3:00:01::" text="&quot;Whether the United States will have a taste for the &lt;b&gt;long&lt;/b&gt; haul in the Balkans, or will withdraw from Europe to protect its clearer national interests, hangs in the balance.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_25560.anc" start="4131" end="4136" sStart="null" offset="91" sid="r8.live.v.0253" wn="1" wnkey="live%2:42:08::" text="In a formal complaint to the newspaper industry's self-regulatory body, Milosevic (who has lived in Britain for 19 years and calls himself Dan) listed at least a dozen news organizations that have been camping on his doorstep or otherwise pestering him, his family, and his east London neighbors since the NATO bombing of Yugoslavia began." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_25560.anc" start="4884" end="4888" sStart="null" offset="122" sid="r8.live.v.0268" wn="1" wnkey="live%2:42:08::" text="Quoting &quot;her friend and confidant&quot; Sir Ian McKellen, the Oscar-nominated actor, the paper said she was going to live there because the press and public are more sympathetic toward her in Britain." />
+  </sentences>
+</list>

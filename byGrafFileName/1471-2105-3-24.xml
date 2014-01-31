@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2105-3-24.anc" start="953" end="961" sStart="840" offset="113" sid="r8.suggest.v.0460" wn="3" wnkey="suggest%2:32:02::" text="This work supports recent efforts to collect disease associated mutational data in databases and suggests that many of the mutations represented in those databases are the likely underlying molecular cause of disease." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2105-3-24.anc" start="536" end="544" sStart="null" offset="122" sid="r11.function.n.0732" wn="2" wnkey="function%1:07:00::" text="While it has been shown in specific cases that disease-associated amino acid substitutions affect protein function, until now few studies have examined this across many genes." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2105-3-24.anc" start="3848" end="3856" sStart="null" offset="258" sid="r11.function.n.0369" wn="2" wnkey="function%1:07:00::" text="Early tools using phylogenetic and structural information have shown promise in predicting the functional consequences of a mutation [ 13 ] . These reports predict that anywhere between 20-36% of non-synonymous SNPs alter the function of a gene's protein product." />
+  </sentences>
+</list>

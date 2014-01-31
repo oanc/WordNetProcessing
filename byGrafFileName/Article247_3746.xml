@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3746.anc" start="1106" end="1111" sStart="-1" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="Cohen does not mean to suggest that movie studios should charge more for movies that cost more to make (as Edgar Bronfman, who was &quot;just &lt;b&gt;smart&lt;/b&gt; enough to get it completely wrong,&quot; once proposed)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3746.anc" start="1106" end="1111" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="Cohen does not mean to suggest that movie studios should charge more for movies that cost more to make (as Edgar Bronfman, who was &quot;just &lt;b&gt;smart&lt;/b&gt; enough to get it completely wrong,&quot; once proposed)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3746.anc" start="872" end="878" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="Wouldn't &lt;b&gt;people&lt;/b&gt; pay more to see Titanic than Wild, Wild West ?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3746.anc" start="872" end="878" sStart="null" offset="0" sid="null" wn="4 1" wnkey="null" text="Wouldn't &lt;b&gt;people&lt;/b&gt; pay more to see Titanic than Wild, Wild West ?" />
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3746.anc" start="3030" end="3035" sStart="null" offset="24" sid="r10.book.n.0272" wn="1" wnkey="book%1:10:00::" text=", sell the most popular books and cd's at a specially low discount." />
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3746.anc" start="2799" end="2805" sStart="null" offset="101" sid="r9.appear.v.0651" wn="1" wnkey="appear%2:39:00::" text="Publishing seems to be in between--books by [Michael] Crichton, [Stephen] King, and other superstars appear to get a small premium (about $3 more in hardback based on a casual flip through Amazon)." />
+  </sentences>
+</list>

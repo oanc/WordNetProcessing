@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3045.anc" start="3987" end="3992" sStart="3926" offset="61" sid="r9.sense.n.0959" wn="1" wnkey="sense%1:09:05::" text="The year is 1837--that of Victoria's accession--but we get a sense not of empire or of politely crumpeting tearooms but of decay and disease, of the more-Dickensian-than-Dickens underside of rapid industrialization and urban growth." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/41/ArticleIP_3045.anc" start="4117" end="4122" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="The year is 1837--that of Victoria's accession--but we get a sense not of empire or of politely crumpeting tearooms but of decay and disease, of the more-Dickensian-than-Dickens underside of &lt;b&gt;rapid&lt;/b&gt; industrialization and urban growth." />
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3045.anc" start="6648" end="6658" sStart="null" offset="36" sid="r10.particular.j.0664" wn="1" wnkey="particular%5:00:00:specific:00" text="They are allowed to transcend their particular poverties--of class, gender, or nationality--in a way Dickens granted precious few Micawbers." />
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3045.anc" start="3910" end="3915" sStart="null" offset="182" sid="r8.life.n.0253" wn="3" wnkey="life%1:26:02::" text="Maggs ' London is Dickens' London, only darker: a city whose humanity has long since run dry and whose juveniles--the Twists and Dorrits and Chuzzlewits and Maggses--are forced into lives of crime." />
+  </sentences>
+</list>

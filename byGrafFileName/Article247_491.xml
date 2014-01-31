@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_491.anc" start="2850" end="2856" sStart="2817" offset="38" sid="r7.strike.n.0212" wn="1" wnkey="strike%1:04:00::" text="&quot;Unfortunately, we feel a hunger strike is the only way we can be heard,&quot; one of the strikers tells the LAT . Well no, we still can't hear you because of the." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_491.anc" start="2667" end="2673" sStart="null" offset="89" sid="r7.strike.n.0211" wn="1" wnkey="strike%1:04:00::" text="Sunday's LAT reports that over the weekend, some Latino workers in L.A. started a hunger strike on the steps of City Hall." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_491.anc" start="2417" end="2420" sStart="null" offset="67" sid="r9.hit.v.0264" wn="13" wnkey="hit%2:38:07::" text="A piece inside the NYT that wonders when the downsizing trend will hit higher ed reports that between 1984 and 1994, the cost of college tuition went up about 150 percent, outpacing even medical care (111 percent)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_491.anc" start="996" end="1002" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" text="The Times says that without Levy, Netanyahu is likely to grow more dependent on right-wing parties, and thus to &lt;b&gt;become&lt;/b&gt; more resistant to pro-Palestinian concessions." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_491.anc" start="996" end="1002" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" text="The Times says that without Levy, Netanyahu is likely to grow more dependent on right-wing parties, and thus to &lt;b&gt;become&lt;/b&gt; more resistant to pro-Palestinian concessions." />
+  </sentences>
+</list>

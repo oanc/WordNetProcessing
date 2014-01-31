@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3945.anc" start="1277" end="1284" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" text="Others have &lt;b&gt;written&lt;/b&gt; about the Staples controversy and will continue to do so." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3945.anc" start="3528" end="3532" sStart="null" offset="32" sid="r11.true.j.0255" wn="1" wnkey="true%3:00:00::" text="Chatterbox suspects the same is true of the ad signs; but even if there's stupendous value in the TV exposure that results, it's hard to see how the ads could be worth more than $500,000." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3945.anc" start="4049" end="4057" sStart="null" offset="5" sid="r8.suggest.v.0485" wn="3" wnkey="suggest%2:32:02::" text="This suggests that, instead of paying $2 million to $3 million per year to the Staples Center, Downing should be paying something under $1 million." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3945.anc" start="2607" end="2612" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="Times think its Staples deal was &lt;b&gt;smart&lt;/b&gt; from a business perspective?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3945.anc" start="2607" end="2612" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="Times think its Staples deal was &lt;b&gt;smart&lt;/b&gt; from a business perspective?" />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3945.anc" start="1624" end="1628" sStart="null" offset="161" sid="r9.late.j.0179" wn="1" wnkey="late%3:00:00::" text="The petition cites as the main precedent for such an investigation Donald Barlett and James Steele's Philadelphia Inquirer investigation of Laura Foreman in the late 1970s." />
+  </sentences>
+</list>

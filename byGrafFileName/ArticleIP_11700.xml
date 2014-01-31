@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_11700.anc" start="2127" end="2130" sStart="1949" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" text="Raves for this biopic of infamous Irish thief Martin Cahill (&quot;The General&quot;): It &quot;belongs on a long list of history's best gangster movies&quot; (Mike Clark, USA Today ). John Boorman &lt;b&gt;won&lt;/b&gt; Best Director at Cannes for the film." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_11700.anc" start="5011" end="5016" sStart="null" offset="206" sid="r8.1.great.j.0127" wn="4" wnkey="great%5:00:00:good:01" text="Reviewers hail this biography as &quot;a work of deep research and intense concentration, full of archive-sweat, legwork and looking&quot; (Julian Barnes, the New York Times Book Review ), not to mention a great read." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_11700.anc" start="4900" end="4904" sStart="null" offset="90" sid="r9.full.j.0866" wn="1" wnkey="full%3:00:00::" text="Reviewers hail this biography as &quot;a work of deep research and intense concentration, full of archive-sweat, legwork and looking&quot; (Julian Barnes, the New York Times Book Review ), not to mention a great read." />
+  </sentences>
+</list>

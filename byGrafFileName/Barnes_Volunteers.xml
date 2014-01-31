@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Barnes_Volunteers.anc" start="437" end="441" sStart="-1" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" text="&quot;One day I'll probably do some legal &lt;b&gt;work&lt;/b&gt; that I will charge a handsome fee for - at least I hope there are those that are still willing to pay,&quot; he &lt;b&gt;told&lt;/b&gt; reporters." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Barnes_Volunteers.anc" start="1285" end="1289" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" text="Mr. Barnes &lt;b&gt;said&lt;/b&gt; he was hoping to send a message to other lawyers." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Barnes_Volunteers.anc" start="1725" end="1729" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" text="Steven Gottlieb, the society's executive director, &lt;b&gt;said&lt;/b&gt;, &quot;I can't imagine anything that could be better than to have the governor of the state, in his first act as a private citizen, donate six months of his &lt;b&gt;time&lt;/b&gt; to represent poor people . . . That's just astounding to me.&quot;" />
+    <s path="[OANC]/data/written_2/technical/government/Media/Barnes_Volunteers.anc" start="1900" end="1904" sStart="null" offset="231" sid="r7.poor.j.0608" wn="2" wnkey="poor%3:00:00::" text="Steven Gottlieb, the society's executive director, said, &quot;I can't imagine anything that could be better than to have the governor of the state, in his first act as a private citizen, donate six months of his time to represent poor people . . . That's just astounding to me.&quot;" />
+    <s path="[OANC]/data/written_2/technical/government/Media/Barnes_Volunteers.anc" start="1230" end="1234" sStart="null" offset="45" sid="r7.poor.j.0303" wn="2" wnkey="poor%3:00:00::" text="Atlanta Legal Aid provides civil services to poor people in five metro Atlanta counties." />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_18581.anc" start="6141" end="6149" sStart="-1" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" text="In 1975, the American Mathematical Society wanted to elect a slate of four &lt;b&gt;officers&lt;/b&gt; from a list of eight candidates." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_18581.anc" start="6141" end="6149" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" text="In 1975, the American Mathematical Society wanted to elect a slate of four &lt;b&gt;officers&lt;/b&gt; from a list of eight candidates." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_18581.anc" start="6141" end="6149" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" text="In 1975, the American Mathematical Society wanted to elect a slate of four &lt;b&gt;officers&lt;/b&gt; from a list of eight candidates." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_18581.anc" start="5949" end="5954" sStart="null" offset="0" sid="null" wn="4" wnkey="meet%2:34:00::" text="A third approach is to accept flip-flops as part of life and get on with designing a voting system that &lt;b&gt;meets&lt;/b&gt; other reasonable criteria." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18581.anc" start="3506" end="3510" sStart="null" offset="22" sid="r7.1.easy.j.0606" wn="1" wnkey="easy%3:00:01::" text="This criterion is the easy one." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18581.anc" start="3839" end="3843" sStart="null" offset="5" sid="r7.1.easy.j.0339" wn="1" wnkey="easy%3:00:01::" text="It's easy to imagine an election where Clinton is initially ahead of Dole, but a third party entry by, say, Jesse Jackson, pushes Dole ahead of Clinton." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18581.anc" start="6632" end="6638" sStart="null" offset="67" sid="r9.appear.v.0779" wn="4" wnkey="appear%2:39:01::" text="Instead, refer to Appendices IV and V, where eleven pages of rules appear to leave no ambiguities.&quot;" />
+  </sentences>
+</list>

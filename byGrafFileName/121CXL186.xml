@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/letters/icic/121CXL186.anc" start="140" end="144" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" text="Each day you participate directly and indirectly in a search for a cure for cancer through your &lt;b&gt;work&lt;/b&gt; with Walther Cancer Institute." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/121CXL186.anc" start="140" end="144" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" text="Each day you participate directly and indirectly in a search for a cure for cancer through your &lt;b&gt;work&lt;/b&gt; with Walther Cancer Institute." />
+    <s path="[OANC]/data/written_1/letters/icic/121CXL186.anc" start="588" end="595" sStart="null" offset="109" sid="r10.find.v.0694" wn="4" wnkey="find%2:32:00::" text="Just as a disease as complex as cancer will not be cured by just one scientist at just one university, finding better ways to prevent, treat and eventually cure cancer will require support from all of us." />
+    <s path="[OANC]/data/written_1/letters/icic/121CXL186.anc" start="1221" end="1226" sStart="null" offset="126" sid="r10.board.n.0902" wn="1" wnkey="board%1:14:00::" text="Gifts designated for a specific area of research are matched on a one-to-one basis by a special fund established by our Board of Directors." />
+    <s path="[OANC]/data/written_1/letters/icic/121CXL186.anc" start="354" end="357" sStart="null" offset="16" sid="r8.ask.v.0873" wn="1" wnkey="ask%2:32:01::" text="Once a year, we ask you to consider supporting the mission of the Institute in another way -- through a charitable contribution." />
+    <s path="[OANC]/data/written_1/letters/icic/121CXL186.anc" start="354" end="357" sStart="null" offset="16" sid="r8.ask.v.0873" wn="" wnkey="null" text="Once a year, we ask you to consider supporting the mission of the Institute in another way -- through a charitable contribution." />
+  </sentences>
+</list>

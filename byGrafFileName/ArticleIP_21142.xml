@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21142.anc" start="3654" end="3661" sStart="3420" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" text="The daily New Vision of Uganda led its front page Wednesday with a report not mentioning the murders but stressing that 17 of the 32 abducted tourists had escaped, and it placed this next to an account of a 19-year-old Namibian woman &lt;b&gt;winning&lt;/b&gt; the 1999 Face-of-Africa modeling contest at the Windhoek Country Club." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21142.anc" start="2599" end="2604" sStart="null" offset="65" sid="r9.sense.n.0168" wn="2" wnkey="sense%1:10:00::" text="It said, &quot;Those who died in the Bwindi Park have been, in a sense, the victims of past indifference of outsiders.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21142.anc" start="824" end="832" sStart="null" offset="6" sid="r11.refer.v.0945" wn="1" wnkey="refer%2:32:01::" text="Zahra referred to an interview Monday in the Turkish daily Milliyet in which Frank Ricciardone, the American diplomat in charge of &quot;transition&quot; in Iraq, said that the division of Iraq imposed by the no-fly zones was intended to be permanent." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21142.anc" start="3156" end="3160" sStart="null" offset="90" sid="r9.kill.v.0522" wn="1" wnkey="kill%2:35:00::" text="The London Evening Standard led Wednesday with a report that Rwandan rebels threatened to kill U.S. and British tourists two weeks before the murders, but the Ugandan authorities failed to pass on the warnings." />
+  </sentences>
+</list>

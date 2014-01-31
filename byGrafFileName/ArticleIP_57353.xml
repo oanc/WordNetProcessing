@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57353.anc" start="2941" end="2947" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="&quot;This year, we are not only allowing people to find out about John McCain but &lt;b&gt;trying&lt;/b&gt; to push people to be involved.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57353.anc" start="3676" end="3683" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" text="Will they &lt;b&gt;succeed&lt;/b&gt;?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57353.anc" start="3676" end="3683" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" text="Will they &lt;b&gt;succeed&lt;/b&gt;?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57353.anc" start="3676" end="3683" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" text="Will they &lt;b&gt;succeed&lt;/b&gt;?" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/53/ArticleIP_57353.anc" start="2400" end="2405" sStart="null" offset="0" sid="null" wn="4" wnkey="know%2:31:00::" text="They use the programming language ColdFusion, which is &lt;b&gt;known&lt;/b&gt; for e-mail integration." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/53/ArticleIP_57353.anc" start="2400" end="2405" sStart="null" offset="0" sid="null" wn="9" wnkey="know%2:31:11::" text="They use the programming language ColdFusion, which is &lt;b&gt;known&lt;/b&gt; for e-mail integration." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57353.anc" start="3843" end="3849" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="6. &quot;We already qualified Bay Ridge, Brooklyn, and Staten &lt;b&gt;Island&lt;/b&gt; in the first day,&quot; says O'Brien hopefully." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57353.anc" start="1165" end="1171" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="The McCain campaign has actually had an active office in New York for only a few weeks, and it is in the relatively isolated location of Staten &lt;b&gt;Island&lt;/b&gt;, the smallest of New York City's five boroughs." />
+  </sentences>
+</list>

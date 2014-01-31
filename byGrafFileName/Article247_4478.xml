@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4478.anc" start="5679" end="5683" sStart="5664" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" text="(Click here to &lt;b&gt;read&lt;/b&gt; William Saletan's &quot;Frame Game&quot; on McCain's evolution.)" />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4478.anc" start="4905" end="4909" sStart="null" offset="89" sid="r7.poor.j.0936" wn="2" wnkey="poor%3:00:00::" text="When all the candidates were asked about the &quot;digital divide&quot;--the notion that poor people and minorities are suffering from their lack of access to computers--McCain gave an answer that could have been Al Gore's, lauding efforts to connect schools and libraries to the Internet and decrying &quot;the growing gap between the haves and have-nots in America.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4478.anc" start="4752" end="4756" sStart="null" offset="46" sid="r9.late.j.0533" wn="3" wnkey="late%5:00:00:past:00" text="The most striking thing to me about McCain of late is his continuing dalliance with American Prospect- type liberalism." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4478.anc" start="3405" end="3409" sStart="null" offset="53" sid="r7.1.face.n.0842" wn="1" wnkey="face%1:08:00::" text="Right away, you saw the notorious smirk cross Bush's face." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4478.anc" start="3615" end="3619" sStart="null" offset="97" sid="r7.1.face.n.0492" wn="1" wnkey="face%1:08:00::" text="Then Bush turned away from the question, as if resisting the effort to laugh in the questioner's face." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4478.anc" start="4395" end="4400" sStart="null" offset="84" sid="r8.ask.v.0246" wn="4" wnkey="ask%2:32:04::" text="He had some effective rejoinders, such as when he told Keyes to buzz off when Keyes asked him a question about how he would handle his daughter wanting an abortion." />
+  </sentences>
+</list>

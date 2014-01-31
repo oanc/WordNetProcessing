@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/ucb13.anc" start="442" end="447" sStart="389" offset="53" sid="null" wn="5" wnkey="part%1:15:00::" text="We carry tablets of the best quality to the remotest parts of the planet." />
+    <s path="[MASC]/data/written/ucb13.anc" start="501" end="506" sStart="null" offset="36" sid="null" wn="7" wnkey="order%1:10:01::" text="Come please to our site to place an order for pharmas you need immediately straight to your location." />
+    <s path="[MASC]/data/written/ucb13.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" text="LegalRX drugstore propose all cures that you require to restore your health at little cost." />
+  </sentences>
+</list>

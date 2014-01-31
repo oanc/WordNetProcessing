@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2121-3-30.anc" start="42371" end="42375" sStart="42224" offset="147" sid="r7.1.use.v.0470" wn="1" wnkey="use%2:34:01::" text="It is plausible that in some other mammalian cell types, subcellular targeting signals similar to Arabidopsis may be used." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2121-3-30.anc" start="38163" end="38175" sStart="null" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" text="Although most evidence suggests that RING fingers may not directly participate in the enzymatic &lt;b&gt;transferring&lt;/b&gt; of ubiquitin from E2s to the substrates, intact RING structures are essential for this function." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2121-3-30.anc" start="52437" end="52448" sStart="null" offset="0" sid="null" wn="3" wnkey="transfer%2:38:05::" text="2.5 ml of this suspension were &lt;b&gt;transferred&lt;/b&gt; to each centrifuge tube and laid between a 100 ul STM 2.1 cushion and 200 ul of STM 0.8 (50 mM Tris/HCl, pH 7.4, 0.8 M sucrose, 5 mM MgSO 4 , 2 mM DTT, 1? protease inhibitor cocktail, 1 mM PMSF)." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2121-3-30.anc" start="38163" end="38175" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="Although most evidence suggests that RING fingers may not directly participate in the enzymatic &lt;b&gt;transferring&lt;/b&gt; of ubiquitin from E2s to the substrates, intact RING structures are essential for this function." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2121-3-30.anc" start="38163" end="38175" sStart="null" offset="0" sid="null" wn="7 2" wnkey="null" text="Although most evidence suggests that RING fingers may not directly participate in the enzymatic &lt;b&gt;transferring&lt;/b&gt; of ubiquitin from E2s to the substrates, intact RING structures are essential for this function." />
+  </sentences>
+</list>

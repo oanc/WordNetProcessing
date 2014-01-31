@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/45/ArticleIP_3572.anc" start="3986" end="3990" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" text="I, my mother, my grandmothers, and my great-grandmothers haven't been fighting for equality for the past 150 years just to have this dubious woman sweep our &lt;b&gt;work&lt;/b&gt; under the rug." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/45/ArticleIP_3572.anc" start="3986" end="3990" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" text="I, my mother, my grandmothers, and my great-grandmothers haven't been fighting for equality for the past 150 years just to have this dubious woman sweep our &lt;b&gt;work&lt;/b&gt; under the rug." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/45/ArticleIP_3572.anc" start="2423" end="2429" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" text="Your letter was so charming that Prudie almost &lt;b&gt;forgot&lt;/b&gt; it was about a problem." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/45/ArticleIP_3572.anc" start="2423" end="2429" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" text="Your letter was so charming that Prudie almost &lt;b&gt;forgot&lt;/b&gt; it was about a problem." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3572.anc" start="587" end="591" sStart="null" offset="19" sid="r7.1.easy.j.0723" wn="1" wnkey="easy%3:00:01::" text="Tipping waiters is easy enough--15 percent for adequate service, 20 percent if they give me the post-dinner coffee free." />
+  </sentences>
+</list>

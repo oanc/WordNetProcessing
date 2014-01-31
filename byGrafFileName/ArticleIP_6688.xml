@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_6688.anc" start="2936" end="2939" sStart="2912" offset="0" sid="null" wn="5" wnkey="win%2:40:06::" text="Herr Schroeder may have &lt;b&gt;won&lt;/b&gt; over Germany's inherently conservative voters with his talk of a 'new centre,' but his election swings Europe firmly leftward.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_6688.anc" start="4127" end="4132" sStart="null" offset="0" sid="null" wn="8" wnkey="world_power%1:14:00::" text="Saying in an editorial Monday that &quot;Saddam means terror, confrontation and war,&quot; that &quot;[h]e is bent on building Iraq into a dominant regional &lt;b&gt;power&lt;/b&gt; with the assistance of weapons of mass destruction,&quot; and that the authority of the United Nations would be &quot;in tatters if he is allowed to terminate Unscom operations.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_6688.anc" start="1721" end="1727" sStart="null" offset="188" sid="r9.normal.j.0163" wn="1" wnkey="normal%3:00:01::" text="An article titled &quot;The Difficult Profession of Francophile&quot; said that, in contrast to other countries, France &quot;starts from the principle that 'francophilia is a natural and normal thing for other peoples' &quot; It asked, &quot;Are we not the fatherland of the rights of man?" />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_6688.anc" start="4432" end="4435" sStart="null" offset="30" sid="r9.hit.v.0459" wn="10" wnkey="hit%2:33:00::" text="What is needed is the will to hit Iraq repeatedly from the air until Saddam backs down.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_6688.anc" start="1844" end="1848" sStart="null" offset="30" sid="r10.high.j.0309" wn="1" wnkey="high%3:00:02::" text="Haven't we in the past raised high the standard of political and social emancipation for which the whole planet owes us recognition?&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_6688.anc" start="4494" end="4499" sStart="null" offset="0" sid="null" wn="2" wnkey="add%2:32:01::" text="It &lt;b&gt;added&lt;/b&gt;, &quot;He must now believe he can defy the UN with impunity." />
+  </sentences>
+</list>

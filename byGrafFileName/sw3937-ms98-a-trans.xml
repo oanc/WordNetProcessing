@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3937-ms98-a-trans.anc" start="532" end="538" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="that makes a difference uh here in Dallas they're &lt;b&gt;trying&lt;/b&gt; to" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3937-ms98-a-trans.anc" start="532" end="538" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="that makes a difference uh here in Dallas they're &lt;b&gt;trying&lt;/b&gt; to" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3937-ms98-a-trans.anc" start="5128" end="5135" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" text="uh there they seem to be having &lt;b&gt;success&lt;/b&gt; and but it is a uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3937-ms98-a-trans.anc" start="5128" end="5135" sStart="null" offset="0" sid="null" wn="3" wnkey="success%1:26:00::" text="uh there they seem to be having &lt;b&gt;success&lt;/b&gt; and but it is a uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3937-ms98-a-trans.anc" start="5128" end="5135" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" text="uh there they seem to be having &lt;b&gt;success&lt;/b&gt; and but it is a uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3937-ms98-a-trans.anc" start="4916" end="4924" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" text="um that's a small yeah well it's next to Provo Utah i don't know if you're &lt;b&gt;familiar&lt;/b&gt; with Utah at all but anyway" />
+  </sentences>
+</list>

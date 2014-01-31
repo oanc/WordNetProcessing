@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2520-ms98-a-trans.anc" start="2739" end="2745" sStart="-1" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" text="they have a nice dish in there for a chicken dish i &lt;b&gt;forgot&lt;/b&gt; the name of it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2520-ms98-a-trans.anc" start="2739" end="2745" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="they have a nice dish in there for a chicken dish i &lt;b&gt;forgot&lt;/b&gt; the name of it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2520-ms98-a-trans.anc" start="2739" end="2745" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" text="they have a nice dish in there for a chicken dish i &lt;b&gt;forgot&lt;/b&gt; the name of it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2520-ms98-a-trans.anc" start="3151" end="3157" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="it's almost like it has red dye in it or something when you cook it it bleeds and it &lt;b&gt;colors&lt;/b&gt; the food" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2520-ms98-a-trans.anc" start="3986" end="3989" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="i have a have an idea of what i wanna do i don't really know how to get started so i i look at something get me get me ah yeah well i'll &lt;b&gt;add&lt;/b&gt; this to it and do this and turns out pretty good sometimes" />
+  </sentences>
+</list>

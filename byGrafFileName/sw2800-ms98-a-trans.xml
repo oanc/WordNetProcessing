@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2800-ms98-a-trans.anc" start="946" end="950" sStart="858" offset="0" sid="null" wn="2147483647" wnkey="null" text="staring those bills in the face and you go i don't remember doing all that stuff and it &lt;b&gt;adds&lt;/b&gt; up" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2800-ms98-a-trans.anc" start="979" end="982" sStart="null" offset="0" sid="null" wn="5" wnkey="add_up%2:32:00::" text="yeah they &lt;b&gt;add&lt;/b&gt; up quick" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2800-ms98-a-trans.anc" start="2808" end="2811" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="yeah yeah and then some of them &lt;b&gt;add&lt;/b&gt; late fees on it and say they don't get paid and" />
+  </sentences>
+</list>

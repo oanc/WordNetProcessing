@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_611.anc" start="2306" end="2311" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="Among commonly complained-about overcharges: video rentals, legal fees, theme park admissions, and pay phone &lt;b&gt;rates&lt;/b&gt; (up to 35 cents from a quarter)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_611.anc" start="2306" end="2311" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="Among commonly complained-about overcharges: video rentals, legal fees, theme park admissions, and pay phone &lt;b&gt;rates&lt;/b&gt; (up to 35 cents from a quarter)." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_611.anc" start="3097" end="3104" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="Everyone agrees that the politically heated match was marked by excellent sportsmanship from fans and &lt;b&gt;players&lt;/b&gt; on both sides." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_611.anc" start="3097" end="3104" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" text="Everyone agrees that the politically heated match was marked by excellent sportsmanship from fans and &lt;b&gt;players&lt;/b&gt; on both sides." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_611.anc" start="1236" end="1240" sStart="null" offset="65" sid="r9.fold.v.0578" wn="" wnkey="null" text="While the other papers all put the story out front and above the fold, the WP oddly buries it on page A22." />
+  </sentences>
+</list>

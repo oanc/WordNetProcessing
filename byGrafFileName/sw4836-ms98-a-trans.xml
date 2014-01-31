@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4836-ms98-a-trans.anc" start="1589" end="1596" sStart="1560" offset="0" sid="null" wn="2147483646" wnkey="null" text="the new one the 386 it's got &lt;b&gt;Windows&lt;/b&gt; on it and so you can toggle back and forth between uh applications and you know get a" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4836-ms98-a-trans.anc" start="2370" end="2376" sStart="null" offset="0" sid="null" wn="4" wnkey="window%1:17:00::" text="a &lt;b&gt;window&lt;/b&gt; into there to the Unix world" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4836-ms98-a-trans.anc" start="3505" end="3510" sStart="null" offset="0" sid="null" wn="1" wnkey="force%1:07:01::" text="that uh that's a powerful &lt;b&gt;force&lt;/b&gt; once you that's a powerful &lt;b&gt;force&lt;/b&gt; once you learn something you you tend to wanna stick with it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4836-ms98-a-trans.anc" start="3539" end="3544" sStart="null" offset="0" sid="null" wn="5" wnkey="military_force%1:14:00::" text="that uh that's a powerful &lt;b&gt;force&lt;/b&gt; once you that's a powerful &lt;b&gt;force&lt;/b&gt; once you learn something you you tend to wanna stick with it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4836-ms98-a-trans.anc" start="3505" end="3510" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="that uh that's a powerful &lt;b&gt;force&lt;/b&gt; once you that's a powerful &lt;b&gt;force&lt;/b&gt; once you learn something you you tend to wanna stick with it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4836-ms98-a-trans.anc" start="3539" end="3544" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="that uh that's a powerful &lt;b&gt;force&lt;/b&gt; once you that's a powerful &lt;b&gt;force&lt;/b&gt; once you learn something you you tend to wanna stick with it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4836-ms98-a-trans.anc" start="2777" end="2785" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" text="i'm &lt;b&gt;familiar&lt;/b&gt; with Unix commands like um copying files and compressing them things like that i just have a fun time using their mainframe at the base but" />
+  </sentences>
+</list>

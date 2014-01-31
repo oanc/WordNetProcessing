@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2346-ms98-a-trans.anc" start="5777" end="5783" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="but that didn't work out too well so now we're we're &lt;b&gt;trying&lt;/b&gt; to build it back up" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2346-ms98-a-trans.anc" start="5777" end="5783" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="but that didn't work out too well so now we're we're &lt;b&gt;trying&lt;/b&gt; to build it back up" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2346-ms98-a-trans.anc" start="3457" end="3461" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="uh i i couldn't keep him in his own cage he just uh flew &lt;b&gt;lose&lt;/b&gt; in the house all the time" />
+  </sentences>
+</list>

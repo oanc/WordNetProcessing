@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Media/Wingates_winds.anc" start="1601" end="1607" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="``We're &lt;b&gt;trying&lt;/b&gt; to get what we can for our dollar." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Wingates_winds.anc" start="1396" end="1400" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" text="But the second grant is by no means guaranteed, Wilson &lt;b&gt;said&lt;/b&gt;, adding that his agency's budget has already been cut by $6 million." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Wingates_winds.anc" start="1719" end="1723" sStart="null" offset="74" sid="r10.high.j.0763" wn="1" wnkey="high%3:00:02::" text="The study proposal goes beyond looking at a link between the landfill and high rates of cancer near it, and also seeks to study non-fatal diseases such as skin rashes, thyroid disorders and abnormal liver function, among other illnesses." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Wingates_winds.anc" start="426" end="430" sStart="null" offset="131" sid="r10.high.j.0371" wn="1" wnkey="high%3:00:02::" text="That was among the latest ideas suggested in a proposed study that would search for a link between the landfill's contaminants and high rates of illness around it." />
+  </sentences>
+</list>

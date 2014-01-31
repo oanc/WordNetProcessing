@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3580-ms98-a-trans.anc" start="335" end="339" sStart="317" offset="0" sid="null" wn="4" wnkey="date%1:28:02::" text="i'm not too up to &lt;b&gt;date&lt;/b&gt; on the space" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3580-ms98-a-trans.anc" start="1399" end="1405" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" text="well i don't know you think you'd you think you'd uh go up in space you had a &lt;b&gt;chance&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3580-ms98-a-trans.anc" start="1399" end="1405" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" text="well i don't know you think you'd you think you'd uh go up in space you had a &lt;b&gt;chance&lt;/b&gt;" />
+  </sentences>
+</list>

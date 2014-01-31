@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3040.anc" start="3226" end="3231" sStart="3216" offset="10" sid="r7.sound.n.0290" wn="2147483645" wnkey="null" text="Does that sound like a recipe for self-offing?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/41/ArticleIP_3040.anc" start="1180" end="1185" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="They are both &lt;b&gt;smart&lt;/b&gt; enough to notice you noticing this, and their answers are identical: more sixteenth notes!" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/41/ArticleIP_3040.anc" start="1180" end="1185" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="They are both &lt;b&gt;smart&lt;/b&gt; enough to notice you noticing this, and their answers are identical: more sixteenth notes!" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/41/ArticleIP_3040.anc" start="1180" end="1185" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="They are both &lt;b&gt;smart&lt;/b&gt; enough to notice you noticing this, and their answers are identical: more sixteenth notes!" />
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3040.anc" start="5324" end="5329" sStart="null" offset="236" sid="r11.refer.v.0227" wn="7" wnkey="refer%2:32:04::" text="Sometimes you don't know whether he did his research by letting himself be washed by television for endless stretches, or whether he went so deep he knows expressions you've never heard (or haven't heard since fifth grade: Do cops ever refer to a perp as a &quot;hoody&quot;?)" />
+  </sentences>
+</list>
