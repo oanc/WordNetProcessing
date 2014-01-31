@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2444-ms98-a-trans.anc" start="5204" end="5210" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="i'm &lt;b&gt;trying&lt;/b&gt; to have the oil changed at the the right times and things like that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2444-ms98-a-trans.anc" start="5204" end="5210" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="tofox" text="i'm &lt;b&gt;trying&lt;/b&gt; to have the oil changed at the the right times and things like that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2444-ms98-a-trans.anc" start="1741" end="1750" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="well that i had &lt;b&gt;forgotten&lt;/b&gt; my uh i i i have a little station wagon that i drive to work and my husband has a a van that he uses in his business" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2444-ms98-a-trans.anc" start="1741" end="1750" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="well that i had &lt;b&gt;forgotten&lt;/b&gt; my uh i i i have a little station wagon that i drive to work and my husband has a a van that he uses in his business" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2444-ms98-a-trans.anc" start="1741" end="1750" sStart="null" offset="0" sid="null" wn="4" wnkey="forget%2:31:02::" annotator="carichter" text="well that i had &lt;b&gt;forgotten&lt;/b&gt; my uh i i i have a little station wagon that i drive to work and my husband has a a van that he uses in his business" />
+  </sentences>
+</list>

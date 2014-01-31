@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3642.anc" start="2387" end="2394" sStart="2207" offset="180" sid="r10.wait.v.0169" wn="2" wnkey="wait%2:42:01::" annotator="veweser" text="Since this sort of information can evidently be put together in 24 hours, wouldn't it be better to require authorities to do so before a gun purchase could legally be made, rather waiting for reporters to do so after a shooting?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3642.anc" start="2907" end="2912" sStart="null" offset="0" sid="null" wn="3" wnkey="power%1:09:01::" annotator="veweser" text="Yesterday, the Clinton administration said exporting encryption is okay, while it also gave law enforcement increased &lt;b&gt;power&lt;/b&gt; to combat criminal uses of computers, although not as much as had been contemplated in several working drafts of the decision." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3642.anc" start="2907" end="2912" sStart="null" offset="0" sid="null" wn="3" wnkey="power%1:09:01::" annotator="tofox" text="Yesterday, the Clinton administration said exporting encryption is okay, while it also gave law enforcement increased &lt;b&gt;power&lt;/b&gt; to combat criminal uses of computers, although not as much as had been contemplated in several working drafts of the decision." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3642.anc" start="3944" end="3950" sStart="null" offset="120" sid="r8.number.n.0501" wn="1" wnkey="number%1:07:00::" annotator="veweser" text="The head of the United Negro College Fund is quoted by the Times saying the gift would increase by 15 to 40 percent the number of minorities who receive doctorates in the targeted fields." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3642.anc" start="2048" end="2052" sStart="null" offset="66" sid="r9.full.j.0498" wn="1" wnkey="full%3:00:00::" annotator="anfahmy" text="The LAT headline is almost a template, calling him a &quot;loner, full of rage.&quot;" />
+  </sentences>
+</list>

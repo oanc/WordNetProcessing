@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2131-ms98-a-trans.anc" start="8487" end="8494" sStart="-1" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="veweser" text="well the problem is that most of the record &lt;b&gt;players&lt;/b&gt; now will not play them because you have to have that needle that uh particular kind of needle" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2131-ms98-a-trans.anc" start="8978" end="8985" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="think there'd be a market for i i'm sure you could find old &lt;b&gt;players&lt;/b&gt; for them but that'd cost a fortune if you could find them that worked oh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2131-ms98-a-trans.anc" start="8487" end="8494" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="well the problem is that most of the record &lt;b&gt;players&lt;/b&gt; now will not play them because you have to have that needle that uh particular kind of needle" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2131-ms98-a-trans.anc" start="8978" end="8985" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="tofox" text="think there'd be a market for i i'm sure you could find old &lt;b&gt;players&lt;/b&gt; for them but that'd cost a fortune if you could find them that worked oh" />
+  </sentences>
+</list>

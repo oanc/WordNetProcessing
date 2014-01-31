@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3967-ms98-a-trans.anc" start="2012" end="2017" sStart="-1" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="but she's she's pretty &lt;b&gt;smart&lt;/b&gt; although she you know she gets angry and she's just like a child when she um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3967-ms98-a-trans.anc" start="2012" end="2017" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="but she's she's pretty &lt;b&gt;smart&lt;/b&gt; although she you know she gets angry and she's just like a child when she um" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3967-ms98-a-trans.anc" start="2684" end="2690" sStart="null" offset="0" sid="null" wn="5" wnkey="lose%2:39:00::" annotator="veweser" text="this uh almost a fight you know it's like you can't tell me that you know so she starts &lt;b&gt;losing&lt;/b&gt; her patience and then we &lt;b&gt;lose&lt;/b&gt; our patience" />
+  </sentences>
+</list>

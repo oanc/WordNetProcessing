@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_8692.anc" start="3784" end="3788" sStart="3707" offset="77" sid="r7.poor.j.0920" wn="2" wnkey="poor%3:00:00::" annotator="cgozo" text="7. Suppose the fish were really rich, should it pay the same income tax as a poor fish, maybe like a shad who works at Denny's?" />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_8692.anc" start="3418" end="3422" sStart="null" offset="17" sid="r7.poor.j.0272" wn="1" wnkey="poor%5:00:00:unfortunate:00" annotator="cgozo" text="That is what the poor fish goes through.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_8692.anc" start="2310" end="2316" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="veweser" text="But here in America, to be creeped out by unwanted mass transit eroticism shoved at you from every direction, you must make do with loudmouthed cell phone sex on the Long &lt;b&gt;Island&lt;/b&gt; Railroad." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_8692.anc" start="2310" end="2316" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="But here in America, to be creeped out by unwanted mass transit eroticism shoved at you from every direction, you must make do with loudmouthed cell phone sex on the Long &lt;b&gt;Island&lt;/b&gt; Railroad." />
+  </sentences>
+</list>

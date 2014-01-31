@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2210.anc" start="2596" end="2600" sStart="2381" offset="225" sid="r8.life.n.0573" wn="2" wnkey="life%1:09:00::" annotator="veweser" text="Steven E. Landsburg, who writes Slate 's &quot;Everyday Economics&quot; column, has a new book out called Fair Play: What Your Child Can Teach You About Economics, Values, and the Meaning of Life . Click here to order it from the publisher, The Free Press." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2210.anc" start="2921" end="2925" sStart="null" offset="259" sid="r9.full.j.0962" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="Several chapters originated as columns in Slate . Steve specializes in delightful explanations of apparent economic anomalies, so he surely can explain why ordering this excellent volume directly from the publisher costs the full price of $24 plus shipping and handling, while a bookstore with vast overheads of real estate and espresso machines will sell it to you at a 10-percent or 20-percent discount." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2210.anc" start="2120" end="2129" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="Have we &lt;b&gt;forgotten&lt;/b&gt; your preference?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2210.anc" start="2120" end="2129" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="tofox" text="Have we &lt;b&gt;forgotten&lt;/b&gt; your preference?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2210.anc" start="1343" end="1347" sStart="null" offset="0" sid="null" wn="5" wnkey="date%1:28:03::" annotator="brubin" text="And those of any browser, race, or creed who prefer our &quot;by &lt;b&gt;date&lt;/b&gt;&quot; contents page, which lists all current  Slate  articles and features in reverse chronological order--i.e." />
+  </sentences>
+</list>

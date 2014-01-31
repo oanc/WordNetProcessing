@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2496-ms98-a-trans.anc" start="8361" end="8365" sStart="-1" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="uh pretty substantially because the the unemployment &lt;b&gt;rate&lt;/b&gt; is pretty high" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2496-ms98-a-trans.anc" start="8361" end="8365" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="uh pretty substantially because the the unemployment &lt;b&gt;rate&lt;/b&gt; is pretty high" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2496-ms98-a-trans.anc" start="5628" end="5634" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="veweser" text="i'm afraid to take the &lt;b&gt;chance&lt;/b&gt; when i go down there" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2496-ms98-a-trans.anc" start="5628" end="5634" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="tofox" text="i'm afraid to take the &lt;b&gt;chance&lt;/b&gt; when i go down there" />
+  </sentences>
+</list>

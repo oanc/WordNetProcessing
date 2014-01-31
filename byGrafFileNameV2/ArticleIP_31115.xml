@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31115.anc" start="1525" end="1532" sStart="1500" offset="30" sid="r10.wait.v.0591" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="&quot;That scientist is still waiting for Al Gore to let him know about those test rabbits.&quot;" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_31115.anc" start="5510" end="5514" sStart="null" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" annotator="cgozo" text="&quot;Let me &lt;b&gt;tell&lt;/b&gt; you something, you invade my privacy this way, six months from now, I'll whip your ass.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_31115.anc" start="6816" end="6822" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="comcgeetubb" text="&quot; 'Hockey,' performed to Cole Porter's 'Every Time We Say Goodbye' and to music by Alkistis Protopsaltis, is a gliding in-line skating duet for the deliciously goofy Tony Guglietti as the &lt;b&gt;Player&lt;/b&gt; and Cheryl Lewis as the Elusive Puck who tames him.&quot;" />
+  </sentences>
+</list>

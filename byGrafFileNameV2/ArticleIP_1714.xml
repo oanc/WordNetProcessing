@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1714.anc" start="1132" end="1136" sStart="1099" offset="33" sid="r11.true.j.0237" wn="7" wnkey="true%5:00:00:sincere:00" annotator="adelpriore" text="In this it has lost sight of its true objective: to oust Saddam in the pursuit of a peace in the Middle East and a semblance of human rights in Iraq." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1714.anc" start="3182" end="3188" sStart="null" offset="22" sid="r7.strike.v.0186" wn="4" wnkey="strike%2:33:00::" annotator="jeneale" text="&quot;We will have to strike his [Saddam's] 'palaces,' military installations, and also civilian infrastructures, from bridges to power stations,&quot; he was quoted as saying." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1714.anc" start="1119" end="1124" sStart="null" offset="20" sid="r7.sight.n.0139" wn="4" wnkey="sight%1:09:03::" annotator="brubin" text="In this it has lost sight of its true objective: to oust Saddam in the pursuit of a peace in the Middle East and a semblance of human rights in Iraq." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1714.anc" start="2830" end="2835" sStart="null" offset="115" sid="r7.serve.v.0942" wn="3" wnkey="serve%2:42:01::" annotator="jeneale" text="&quot;Will strafing Iraqi military installations one more time make the Middle East a safer place--or will it only serve to perpetuate Saddam's malign influence by perversely giving him added kudos with his long-suffering people?&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/29/ArticleIP_1714.anc" start="2698" end="2703" sStart="null" offset="0" sid="null" wn="6" wnkey="force%1:04:01::" annotator="carichter" text="Even the ultraconservative tabloid the Daily Mail urged Blair to be wary about using &lt;b&gt;force&lt;/b&gt; against Saddam." />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_433.anc" start="3093" end="3098" sStart="2983" offset="115" sid="r8.state.n.0159" wn="4" wnkey="state%1:14:00::" annotator="brubin" text="&quot;The silent majority in Israel stopped caring a long time ago about Nablus or Hebron or Gaza or a Palestinian state." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/3/Article247_433.anc" start="1981" end="1987" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" annotator="brubin" text="USAT also stresses this, calling it an &quot;extraordinary arrangement,&quot; but then goes on to quote a Justice spokesman &lt;b&gt;saying&lt;/b&gt; that Reno and Freeh have entered into such agreements before." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_433.anc" start="63" end="70" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:05::" annotator="veweser" text="The Riady for Prime Time &lt;b&gt;Players&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_433.anc" start="63" end="70" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:03::" annotator="tofox" text="The Riady for Prime Time &lt;b&gt;Players&lt;/b&gt;" />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_433.anc" start="831" end="841" sStart="null" offset="14" sid="r10.particular.j.0676" wn="1" wnkey="particular%5:00:00:specific:00" annotator="brubin" text="No matter the particular outcome, the NYT sees the dealing as indicative of the telecommunications industry's trend towards increasing consolidation, noting that a combined GTE-MCI would be the first company since the breakup of AT&amp;T to have a large presence in both local and long-distance markets." />
+  </sentences>
+</list>

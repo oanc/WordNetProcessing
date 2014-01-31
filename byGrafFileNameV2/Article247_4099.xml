@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4099.anc" start="1720" end="1724" sStart="1712" offset="8" sid="r8.live.v.0500" wn="1" wnkey="live%2:42:08::" annotator="cgozo" text="The two live together in a suspiciously well-decorated castle on a lake outside Celesteville." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4099.anc" start="3281" end="3289" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="tofox" text="The name sounds &lt;b&gt;familiar&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4099.anc" start="3281" end="3289" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="tofox" text="The name sounds &lt;b&gt;familiar&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4099.anc" start="3281" end="3289" sStart="null" offset="16" sid="r7.familiar.j.0119" wn="1" wnkey="familiar%3:00:00::" annotator="ksuderman" text="The name sounds familiar." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4099.anc" start="3281" end="3289" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="comcgeetubb" text="The name sounds &lt;b&gt;familiar&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4099.anc" start="3281" end="3289" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="comcgeetubb" text="The name sounds &lt;b&gt;familiar&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4099.anc" start="3281" end="3289" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="carichter" text="The name sounds &lt;b&gt;familiar&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4099.anc" start="3281" end="3289" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="carichter" text="The name sounds &lt;b&gt;familiar&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4099.anc" start="1302" end="1306" sStart="null" offset="27" sid="r10.book.n.0432" wn="1" wnkey="book%1:10:00::" annotator="brubin" text="But if it's gay children's book characters you're searching for, look no further than the Babar series." />
+  </sentences>
+</list>

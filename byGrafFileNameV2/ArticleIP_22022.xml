@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22022.anc" start="2514" end="2524" sStart="2465" offset="49" sid="r10.particular.j.0178" wn="1" wnkey="particular%5:00:00:specific:00" annotator="anfahmy" text="Who will be our next cartoon old-timer, and what particular geriatric qualities will he or she embody?" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22022.anc" start="1207" end="1212" sStart="null" offset="11" sid="r9.paper.n.0324" wn="2147483647" wnkey="null" annotator="brubin" text="The liquid paper is to fix the signs of protesters, while the diapers and Kevlar are just precautionary.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22022.anc" start="1876" end="1884" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="&quot;Three things you will need if you are a 110-year-old black writer intent on composing your autobiography on a manual typewriter in an outdoor location where New York police &lt;b&gt;officers&lt;/b&gt; may happen to walk by.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22022.anc" start="1876" end="1884" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="&quot;Three things you will need if you are a 110-year-old black writer intent on composing your autobiography on a manual typewriter in an outdoor location where New York police &lt;b&gt;officers&lt;/b&gt; may happen to walk by.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22022.anc" start="2254" end="2258" sStart="null" offset="32" sid="r8.live.v.0128" wn="5" wnkey="live%2:42:00::" annotator="cgozo" text="But the fact is neither man can live forever." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22022.anc" start="3835" end="3842" sStart="null" offset="60" sid="r11.benefit.n.0328" wn="1" wnkey="benefit%1:21:00::" annotator="vebatchelder" text="Actual event at Monday night's Drama League benefit: Mary Tyler Moore, Diane Sawyer, Katie Couric, and Liz Smith dance in a number from Cabaret ." />
+  </sentences>
+</list>

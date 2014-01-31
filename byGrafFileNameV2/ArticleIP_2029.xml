@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2029.anc" start="5696" end="5699" sStart="5639" offset="57" sid="r8.way.n.0601" wn="9" wnkey="way%1:07:02::" annotator="veweser" text="In that enterprise, a little economic theory goes a long way." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2029.anc" start="772" end="776" sStart="null" offset="12" sid="r10.wait.v.0313" wn="2" wnkey="wait%2:42:01::" annotator="veweser" text="Do you dare wait that long?" />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2029.anc" start="707" end="711" sStart="null" offset="47" sid="r10.wait.v.0312" wn="2" wnkey="wait%2:42:01::" annotator="brubin" text="If you choose to remain silent, you'll have to wait till after the election to collect your reward." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2029.anc" start="3170" end="3174" sStart="null" offset="35" sid="r11.true.j.0226" wn="1" wnkey="true%3:00:00::" annotator="vebatchelder" text="In other words, if the stories are true, then the Vietnamese got a fabulous bargain." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2029.anc" start="1476" end="1481" sStart="null" offset="81" sid="r7.serve.v.0774" wn="9" wnkey="serve%2:42:00::" annotator="jeneale" text="Then, assuming you can't get away with bogus accusations, your only option is to serve your time in silence." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2029.anc" start="1978" end="1982" sStart="null" offset="86" sid="r10.high.j.0985" wn="1" wnkey="high%3:00:02::" annotator="veweser" text="Her silence means either that she knows nothing or that she knows enough to extract a high price for her silence." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2029.anc" start="508" end="512" sStart="null" offset="183" sid="r9.full.j.0843" wn="3" wnkey="full%5:00:00:complete:00" annotator="cgozo" text="If all your motives are selfish, you'll probably first make some discreet inquiries to determine whether the president is prepared to outbid the prosecutor--say with the promise of a full pardon." />
+    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2029.anc" start="3441" end="3445" sStart="null" offset="67" sid="r11.able.j.0962" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="If Ron Brown had been the only administration official willing and able to sell out to the Vietnamese, he could have extracted a price commensurate with the multimillion-dollar value of his product." />
+  </sentences>
+</list>

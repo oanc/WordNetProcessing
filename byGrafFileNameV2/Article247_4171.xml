@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4171.anc" start="4075" end="4078" sStart="3916" offset="159" sid="r8.way.n.0392" wn="2" wnkey="way%1:04:01::" annotator="cgozo" text="But while B2B businesses will probably migrate more quickly, and while obviously there's a lot of business that will always be offline (unless we figure out a way to get a virtual haircut), it's illogical that B2B on the Web will explode while B2C will remain stagnant." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4171.anc" start="3588" end="3593" sStart="null" offset="0" sid="null" wn="13" wnkey="part%1:06:01::" annotator="veweser" text="In fact, if you add up all the money GM and its suppliers spend on &lt;b&gt;parts&lt;/b&gt; and databases and infrastructure, it's less than consumers spend on GM cars, again by definition." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4171.anc" start="3588" end="3593" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="In fact, if you add up all the money GM and its suppliers spend on &lt;b&gt;parts&lt;/b&gt; and databases and infrastructure, it's less than consumers spend on GM cars, again by definition." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4171.anc" start="1618" end="1625" sStart="null" offset="0" sid="null" wn="1" wnkey="justify%2:32:00::" annotator="comcgeetubb" text="There are, as usual, a host of studies by various research groups to &lt;b&gt;justify&lt;/b&gt; the swing in sentiment toward B2B stocks." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4171.anc" start="2311" end="2316" sStart="null" offset="27" sid="r8.1.great.j.0601" wn="4" wnkey="great%5:00:00:good:01" annotator="veweser" text="3 trillion, then you're in great shape." />
+  </sentences>
+</list>

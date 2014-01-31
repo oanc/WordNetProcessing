@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22639.anc" start="1530" end="1537" sStart="1492" offset="0" sid="null" wn="4" wnkey="win%2:41:04::" annotator="cgozo" text="In &quot;,&quot; Saletan shows how Milosevic is &lt;b&gt;winning&lt;/b&gt; the spin war." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_22639.anc" start="745" end="750" sStart="null" offset="0" sid="null" wn="4" wnkey="know%2:31:00::" annotator="carichter" text="Massa Gessen introduces , the minister nobody &lt;b&gt;knows&lt;/b&gt;, in &quot;Assessment.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22639.anc" start="1317" end="1324" sStart="null" offset="0" sid="null" wn="1" wnkey="justify%2:32:00::" annotator="comcgeetubb" text="In a &quot;,&quot; he asks: &quot;How can we &lt;b&gt;justify&lt;/b&gt; invading Kosovo after promising not to?&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22639.anc" start="1701" end="1705" sStart="null" offset="8" sid="r8.ask.v.0529" wn="4" wnkey="ask%2:32:04::" annotator="veweser" text="Clinton asks, &quot;Why not?&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22639.anc" start="1701" end="1705" sStart="null" offset="8" sid="r8.ask.v.0529" wn="" wnkey="null" annotator="ksuderman" text="Clinton asks, &quot;Why not?&quot;" />
+  </sentences>
+</list>

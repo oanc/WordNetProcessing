@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4140.anc" start="1171" end="1178" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="Mitchell, currently with NPR and the Fort Worth Star-Telegram , has the perfect sensibility for &lt;b&gt;writing&lt;/b&gt; about a steady profusion of disaster movies and romantic comedies." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4140.anc" start="2341" end="2348" sStart="null" offset="0" sid="null" wn="3" wnkey="success%1:26:00::" annotator="veweser" text="And his rap empire is a great &lt;b&gt;success&lt;/b&gt; story of capitalism." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4140.anc" start="2341" end="2348" sStart="null" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="cgozo" text="And his rap empire is a great &lt;b&gt;success&lt;/b&gt; story of capitalism." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4140.anc" start="2341" end="2348" sStart="null" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="brubin" text="And his rap empire is a great &lt;b&gt;success&lt;/b&gt; story of capitalism." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4140.anc" start="2188" end="2193" sStart="null" offset="18" sid="r8.live.v.0737" wn="3" wnkey="live%2:42:04::" annotator="veweser" text="(If Notorious had lived, perhaps their partnership would have flourished into the rap equivalent of the Miles Davis-Gil Evans relationship.)" />
+  </sentences>
+</list>

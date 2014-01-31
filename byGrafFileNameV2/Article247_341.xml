@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_341.anc" start="2771" end="2776" sStart="2651" offset="120" sid="r10.wait.v.0227" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="The piece dwells on such issues as the problem of lost sales tax revenue and the export of encryption technologies, and waits until the last paragraph to reveal that this position was reached for the president by Ira Magaziner, who designed his health care plan." />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_341.anc" start="1743" end="1747" sStart="null" offset="130" sid="r9.late.j.0176" wn="4" wnkey="late%5:00:00:dead:01" annotator="brubin" text="The Los Angeles Times reports today that a 1991 trip to Asia, made by the then-Chairman of the Democratic National Committee, the late Ron Brown, a trip which has yet to draw the scrutiny of investigators, may have provided the groundwork for the Democrats' foreign fund-raising from Asian special interests." />
+  </sentences>
+</list>

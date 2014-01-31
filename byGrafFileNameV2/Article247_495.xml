@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_495.anc" start="2102" end="2108" sStart="1919" offset="183" sid="r11.strong.j.0882" wn="6" wnkey="strong%5:00:00:sound:01" annotator="adelpriore" text="The Times has the most detail about the U.S. role, reporting that President Clinton insisted in a 20-minute phone call with Suharto on Thursday night that Indonesia must put in place strong economic reforms." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_495.anc" start="630" end="634" sStart="null" offset="23" sid="r1.rule.v.0061" wn="2147483647" wnkey="null" annotator="sophiavv" text="(Presumably they could rule out a really hot date.)" />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_495.anc" start="630" end="634" sStart="null" offset="23" sid="r1.rule.v.0061" wn="2147483647" wnkey="null" annotator="anfahmy" text="(Presumably they could rule out a really hot date.)" />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_495.anc" start="630" end="634" sStart="null" offset="23" sid="r1.rule.v.0061" wn="2147483647" wnkey="null" annotator="adelpriore" text="(Presumably they could rule out a really hot date.)" />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_495.anc" start="2707" end="2716" sStart="null" offset="49" sid="r11.recommend.v.0152" wn="1" wnkey="recommend%2:32:01::" annotator="anfahmy" text="The Times makes it clear that the judge can only recommend sentence conditions, which ultimately are determined by prison officials." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/3/Article247_495.anc" start="652" end="656" sStart="null" offset="0" sid="null" wn="3" wnkey="date%1:14:00::" annotator="veweser" text="(Presumably they could rule out a really hot &lt;b&gt;date&lt;/b&gt;.)" />
+  </sentences>
+</list>

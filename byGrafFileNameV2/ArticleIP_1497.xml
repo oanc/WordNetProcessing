@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/26/ArticleIP_1497.anc" start="5559" end="5566" sStart="5418" offset="146" sid="r8.suggest.v.0625" wn="3" wnkey="suggest%2:32:02::" annotator="veweser" text="Controversy 1: The Los Angeles Times asks whether it was rape or, &quot;as dozens of male respondents to local newspapers and talk radio programs suggest, the answer to every schoolboy's dream.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/26/ArticleIP_1497.anc" start="3007" end="3013" sStart="null" offset="61" sid="r8.state.n.0780" wn="2147483647" wnkey="null" annotator="cgozo" text="Israeli Prime Minister Benjamin Netanyahu came to the United States to plead for Jewish unity." />
+    <s path="[OANC]/data/written_1/journal/slate/26/ArticleIP_1497.anc" start="655" end="661" sStart="null" offset="67" sid="r8.state.n.0223" wn="2147483647" wnkey="null" annotator="brubin" text="The charitable view: Russia is playing good cop , while the United States plays bad cop." />
+    <s path="[OANC]/data/written_1/journal/slate/26/ArticleIP_1497.anc" start="2329" end="2333" sStart="null" offset="91" sid="r7.poor.j.0926" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="jeneale" text="The Los Angeles Times linked the massacre to similar bloodshed in Algeria and blamed it on poor security." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/26/ArticleIP_1497.anc" start="2820" end="2824" sStart="null" offset="0" sid="null" wn="4" wnkey="lose%2:40:01::" annotator="brubin" text="Best argument against it: Kids will &lt;b&gt;lose&lt;/b&gt; their laptops." />
+    <s path="[OANC]/data/written_1/journal/slate/26/ArticleIP_1497.anc" start="7040" end="7044" sStart="null" offset="10" sid="r8.life.n.0425" wn="14" wnkey="life%1:28:03::" annotator="veweser" text="They face life sentences." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/26/ArticleIP_1497.anc" start="942" end="947" sStart="null" offset="0" sid="null" wn="6" wnkey="force%1:04:01::" annotator="carichter" text="3) The Wall Street Journal accelerated the backspin against military action with a Wednesday piece criticizing &quot;facile Washington commentary&quot; that exaggerates the ease of deposing or crippling Saddam Hussein through &lt;b&gt;force&lt;/b&gt;." />
+  </sentences>
+</list>

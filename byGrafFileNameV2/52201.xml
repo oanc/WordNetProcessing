@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/52201.anc" start="803" end="809" sStart="746" offset="57" sid="null" wn="1" wnkey="try%2:41:00::" annotator="vebatchelder" text="I'd like to think that is in large part what I have been trying to do." />
+    <s path="[MASC]/data/written/52201.anc" start="570" end="577" sStart="null" offset="71" sid="null" wn="1" wnkey="player%1:18:01::" annotator="vebatchelder" text="These aren't just the minor leaguers in Sacramento, but the big league players in Washington." />
+    <s path="[MASC]/data/written/52201.anc" start="309" end="315" sStart="null" offset="36" sid="null" wn="1" wnkey="people%1:14:00::" annotator="sophiavv" text="I agree with you that it's a lesson people need to learn over and over again." />
+    <s path="[MASC]/data/written/52201.anc" start="781" end="785" sStart="null" offset="35" sid="null" wn="2147483647" wnkey="null" annotator="sophiavv" text="I'd like to think that is in large part what I have been trying to do." />
+    <s path="[MASC]/data/written/52201.anc" start="60" end="64" sStart="null" offset="63" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Message-ID: &lt;7553175.1075863444700.JavaMail.evans@thyme&gt; Date: Mon, 17 Sep 2001 21:01:37 -0700 (PDT) From: wolak@zia.stanford.edu To: j.kaminski@enron.com Subject: Mime-Version: 1.0 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit" />
+  </sentences>
+</list>

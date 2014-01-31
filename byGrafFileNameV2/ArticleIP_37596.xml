@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_37596.anc" start="206" end="212" sStart="195" offset="11" sid="r7.trace.v.0188" wn="1" wnkey="trace%2:31:00::" annotator="cgozo" text="An article traces the similarities between Edmund Morris' Dutch and a 1994 short story by Daniel Voll." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_37596.anc" start="4286" end="4291" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="The piece attributes the record job-jumping &lt;b&gt;rates&lt;/b&gt; to the overheated economy and the ease of finding work online." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_37596.anc" start="4286" end="4291" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="The piece attributes the record job-jumping &lt;b&gt;rates&lt;/b&gt; to the overheated economy and the ease of finding work online." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_37596.anc" start="917" end="923" sStart="null" offset="36" sid="r10.board.n.0589" wn="1" wnkey="board%1:14:00::" annotator="veweser" text="The cover story says that corporate boards are firing CEOs more often than they used to." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_37596.anc" start="1040" end="1045" sStart="null" offset="70" sid="r10.board.n.0490" wn="1" wnkey="board%1:14:00::" annotator="anfahmy" text="Institutional investors insist upon sacking nonperforming bosses, and board members fear that lackluster leadership will damage their own reputations." />
+  </sentences>
+</list>

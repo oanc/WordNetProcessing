@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3753-ms98-a-trans.anc" start="5061" end="5066" sStart="-1" offset="0" sid="null" wn="2" wnkey="force%1:19:00::" annotator="veweser" text="a rotation speed so that the centrifugal &lt;b&gt;force&lt;/b&gt; pretty much is one uh is is equal to earth gravity" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3753-ms98-a-trans.anc" start="4296" end="4301" sStart="null" offset="0" sid="null" wn="2" wnkey="force%1:19:00::" annotator="veweser" text="so they can get them spinning centrifugal &lt;b&gt;force&lt;/b&gt; comes close enough to uh uh simulating gravity that there's very little problem with uh uh gravityless uh side effects" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3753-ms98-a-trans.anc" start="5061" end="5066" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="a rotation speed so that the centrifugal &lt;b&gt;force&lt;/b&gt; pretty much is one uh is is equal to earth gravity" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3753-ms98-a-trans.anc" start="4296" end="4301" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="so they can get them spinning centrifugal &lt;b&gt;force&lt;/b&gt; comes close enough to uh uh simulating gravity that there's very little problem with uh uh gravityless uh side effects" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3753-ms98-a-trans.anc" start="2238" end="2241" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="brubin" text="and they'd have to take several projects to go up there before and &lt;b&gt;add&lt;/b&gt; on piece by piece" />
+  </sentences>
+</list>

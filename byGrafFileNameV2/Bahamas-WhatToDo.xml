@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Bahamas-WhatToDo.anc" start="5927" end="5932" sStart="-1" offset="0" sid="null" wn="2 4" wnkey="null" annotator="tofox" text="Call them toll-free at 800-32-SPORT (within the US only) or at 305-932-0051, or &lt;b&gt;write&lt;/b&gt; for information to 19495 Biscayne Boulevard, Suite 809, Aventura, Florida 33180, USA." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Bahamas-WhatToDo.anc" start="5927" end="5932" sStart="null" offset="0" sid="null" wn="3" wnkey="write%2:32:08::" annotator="tofox" text="Call them toll-free at 800-32-SPORT (within the US only) or at 305-932-0051, or &lt;b&gt;write&lt;/b&gt; for information to 19495 Biscayne Boulevard, Suite 809, Aventura, Florida 33180, USA." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Bahamas-WhatToDo.anc" start="5927" end="5932" sStart="null" offset="0" sid="null" wn="5" wnkey="write%2:32:01::" annotator="carichter" text="Call them toll-free at 800-32-SPORT (within the US only) or at 305-932-0051, or &lt;b&gt;write&lt;/b&gt; for information to 19495 Biscayne Boulevard, Suite 809, Aventura, Florida 33180, USA." />
+  </sentences>
+</list>

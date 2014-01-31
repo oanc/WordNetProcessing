@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4413.anc" start="7565" end="7570" sStart="7519" offset="46" sid="r9.sense.n.0435" wn="1" wnkey="sense%1:09:05::" annotator="cgozo" text="What is truly optimistic about the Net is the sense of ratios." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/21/Article247_4413.anc" start="1611" end="1615" sStart="null" offset="0" sid="null" wn="1" wnkey="land%1:21:01::" annotator="brubin" text="And if someone could acquire the &lt;b&gt;land&lt;/b&gt; to build a private road beside a public one, we should not begrudge him because he removes some traffic from the common infrastructure." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4413.anc" start="556" end="565" sStart="null" offset="117" sid="r8.1.different.j.0181" wn="1" wnkey="different%3:00:00::" annotator="veweser" text="Substantively, the question he poses at the outset of his letter is one that we should all answer: Why is this space different from any other space?" />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4413.anc" start="7929" end="7933" sStart="null" offset="50" sid="r11.dark.j.0146" wn="4" wnkey="dark%5:00:00:evil:00" annotator="anfahmy" text="The blurb on Larry's book speaks of it as a &quot;dark, exhilarating work.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4413.anc" start="8010" end="8014" sStart="null" offset="55" sid="r11.dark.j.0147" wn="6" wnkey="dark%5:00:00:ill-natured:00" annotator="adelpriore" text="I see the cause of exhilaration but don't have Larry's dark forebodings." />
+  </sentences>
+</list>

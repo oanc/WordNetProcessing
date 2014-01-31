@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_23174.anc" start="3474" end="3482" sStart="-1" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="veweser" text="If any of the couples &lt;b&gt;succeeds&lt;/b&gt;, the radio station will pay a $1 million prize." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_23174.anc" start="3474" end="3482" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="cgozo" text="If any of the couples &lt;b&gt;succeeds&lt;/b&gt;, the radio station will pay a $1 million prize." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_23174.anc" start="3474" end="3482" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="brubin" text="If any of the couples &lt;b&gt;succeeds&lt;/b&gt;, the radio station will pay a $1 million prize." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_23174.anc" start="5455" end="5462" sStart="null" offset="47" sid="r9.kill.v.0410" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="The bomb blew up a Pan Am plane over Scotland, killing 270 people, most of them Americans." />
+  </sentences>
+</list>

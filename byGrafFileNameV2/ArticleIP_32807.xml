@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_32807.anc" start="3166" end="3170" sStart="3107" offset="0" sid="null" wn="2" wnkey="warm%3:00:02::" annotator="brubin" text="Maggie is a great role for Roberts, who can be alternately &lt;b&gt;warm&lt;/b&gt; and skittish, promiscuous and clammy." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32807.anc" start="1843" end="1847" sStart="null" offset="490" sid="r10.wait.v.0615" wn="3" wnkey="wait%2:31:00::" annotator="cgozo" text="Gere is Ike Graham, a New York-based USA Today columnist, who hears about Maggie in a bar and, without even a call to confirm his facts ( check ), devotes his next piece to an un-PC screed on the inconstancy of all women ( check ) with this &quot;runaway bride&quot; as Exhibit A. The column makes him instantly ( check ) unpopular with all those Manhattan USA Today readers ( check ) who recognize him on the street ( check ), not to mention the hordes of small-town USA Today readers who wait for the paper's delivery truck as if it were the Good Humor man ( check ). After the subject of the column responds with a letter composed on a manual typewriter ( check ) disputing its facts, his editor and ex-wife ( check ) (Rita Wilson) promptly ( check ) fires him ( check )." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32807.anc" start="2560" end="2564" sStart="null" offset="34" sid="r7.1.face.n.0520" wn="2" wnkey="face%1:07:03::" annotator="cgozo" text="He'll drop everything for a goofy face, a riff, a flaky bit of business." />
+  </sentences>
+</list>

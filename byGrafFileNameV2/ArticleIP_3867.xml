@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3867.anc" start="5873" end="5881" sStart="5844" offset="29" sid="r8.suggest.v.0588" wn="3" wnkey="suggest%2:32:02::" annotator="cgozo" text="I submit that this oversight suggests either that Foer isn't as informed on the subject as he appears to be, or that his politics are showing." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3867.anc" start="5092" end="5098" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="comcgeetubb" text="The source for greatness is the individual &lt;b&gt;player&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3867.anc" start="4356" end="4363" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="comcgeetubb" text="In &quot;Boycott Nike and Reebok,&quot; Robert Wright wants shoe companies to sign &lt;b&gt;players&lt;/b&gt; who will help inner-city kids conform their conduct to the expectations of a suburban job interview." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3867.anc" start="7873" end="7877" sStart="null" offset="69" sid="r10.book.n.0570" wn="1" wnkey="book%1:10:00::" annotator="anfahmy" text="The 1995 match is documented at the Chinook Web site and in a recent book by Jonathan Schaeffer on the Chinook project." />
+  </sentences>
+</list>

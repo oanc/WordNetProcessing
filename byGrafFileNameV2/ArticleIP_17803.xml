@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17803.anc" start="1434" end="1438" sStart="1430" offset="4" sid="r10.wait.v.0520" wn="2147483646" wnkey="null" annotator="brubin" text="Oh, wait." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/49/ArticleIP_17803.anc" start="4617" end="4622" sStart="null" offset="0" sid="null" wn="2" wnkey="quiet%3:00:01::" annotator="brubin" text="&quot;Please be &lt;b&gt;quiet&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17803.anc" start="2922" end="2926" sStart="null" offset="40" sid="r9.late.j.0669" wn="4" wnkey="late%5:00:00:dead:01" annotator="veweser" text="Carl Reiner thought he was praising the late Lucille Kallen, a writer for Sid Caesar's Your Show of Shows , who died last Monday at 76." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17803.anc" start="1473" end="1476" sStart="null" offset="10" sid="r9.hit.v.0480" wn="5" wnkey="hit%2:35:05::" annotator="brubin" text="I've been hit with a restraining order prohibiting me from finishing the sentence.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17803.anc" start="2322" end="2327" sStart="null" offset="85" sid="r8.1.great.j.0707" wn="4" wnkey="great%5:00:00:good:01" annotator="brubin" text="Not if it's pseudopraise, the poison ivy disguised as a rose bouquet: &quot;You look great." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_17803.anc" start="2091" end="2097" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="On the other hand, those who encourage us to &lt;b&gt;forget&lt;/b&gt; the past are usually Gen." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_17803.anc" start="2091" end="2097" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="On the other hand, those who encourage us to &lt;b&gt;forget&lt;/b&gt; the past are usually Gen." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_17803.anc" start="2091" end="2097" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="carichter" text="On the other hand, those who encourage us to &lt;b&gt;forget&lt;/b&gt; the past are usually Gen." />
+  </sentences>
+</list>

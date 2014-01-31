@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/biomed/1471-213X-2-1.anc" start="2391" end="2395" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="carichter" text="The site of origin of these cells in the olfactory placode, as well as the &lt;b&gt;time&lt;/b&gt; course and migratory route along the olfactory nerve (ON) and into the forebrain are well documented [ 11 12 13 14 ] . Previous &lt;b&gt;work&lt;/b&gt; in the laboratory has &lt;b&gt;shown&lt;/b&gt; that olfactory axons emerge from the olfactory epithelium at stage 18 and are first joined by glia [ 15 ] and GnRH neurons [ 16 ] at stage 21." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-213X-2-1.anc" start="28695" end="28701" sStart="null" offset="0" sid="null" wn="4" wnkey="window%1:17:00::" annotator="brubin" text="A &lt;b&gt;window&lt;/b&gt; was cut in each shell to determine the developmental stage of each embryo [ 22 ] . To visualize the extraembryonic membranes, Fast Green (1:10,000 Molecular Probes, Eugene, OR) was applied to the surface of the embryo and membranes were teased apart using forceps." />
+  </sentences>
+</list>

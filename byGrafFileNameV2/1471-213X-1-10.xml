@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-213X-1-10.anc" start="13245" end="13249" sStart="13212" offset="33" sid="r11.true.j.0346" wn="1" wnkey="true%3:00:00::" annotator="vebatchelder" text="To determine if this was true we generated embryos from ES cells containing LacZ at the Hnf3 ? locus ( Hnf3?LacZ ES cells) and stained for expression of ?-galactosidase." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-213X-1-10.anc" start="26231" end="26243" sStart="null" offset="0" sid="null" wn="2 7" wnkey="null" annotator="tofox" text="Aggregates that formed blastocysts after overnight culture were allowed to continue their development in utero by &lt;b&gt;transferring&lt;/b&gt; them to a pseudopregnant surrogate mother." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-213X-1-10.anc" start="4945" end="4950" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" annotator="comcgeetubb" text="Step 2 is &lt;b&gt;rapid&lt;/b&gt; and straightforward because Cre-mediated recombination is extremely efficient." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-213X-1-10.anc" start="18568" end="18576" sStart="null" offset="47" sid="r11.function.n.0926" wn="2" wnkey="function%1:07:00::" annotator="anfahmy" text="Transgenic mice are often used to examine gene function through ectopic expression studies." />
+  </sentences>
+</list>

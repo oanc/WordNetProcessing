@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2951-ms98-a-trans.anc" start="8144" end="8149" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="because they still had the stuff you know and they could &lt;b&gt;write&lt;/b&gt; it off" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2951-ms98-a-trans.anc" start="8325" end="8329" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="determines uh the percentage &lt;b&gt;rate&lt;/b&gt; that they have to repay but it is not surely" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2951-ms98-a-trans.anc" start="8325" end="8329" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="determines uh the percentage &lt;b&gt;rate&lt;/b&gt; that they have to repay but it is not surely" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2951-ms98-a-trans.anc" start="1263" end="1268" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="brubin" text="i make i i &lt;b&gt;added&lt;/b&gt; like uh uh wrote uh an addition to to my car loan through the credit union which i knew was lower interest just to pay them all off and then i swore i would never use them again" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2951-ms98-a-trans.anc" start="8987" end="8990" sStart="null" offset="0" sid="null" wn="2" wnkey="add%2:32:01::" annotator="brubin" text="do you have any do you have anything else you want to &lt;b&gt;add&lt;/b&gt;" />
+  </sentences>
+</list>

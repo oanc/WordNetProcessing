@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2361-ms98-a-trans.anc" start="11137" end="11143" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="and right in Rhode &lt;b&gt;Island&lt;/b&gt; there are some nice colleges too Rhode &lt;b&gt;Island&lt;/b&gt; college and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2361-ms98-a-trans.anc" start="11091" end="11097" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="and right in Rhode &lt;b&gt;Island&lt;/b&gt; there are some nice colleges too Rhode &lt;b&gt;Island&lt;/b&gt; college and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2361-ms98-a-trans.anc" start="3996" end="4002" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="it gives you a &lt;b&gt;chance&lt;/b&gt; to feel like you're a part of a group or the organization and that you're heard" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2361-ms98-a-trans.anc" start="3996" end="4002" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="it gives you a &lt;b&gt;chance&lt;/b&gt; to feel like you're a part of a group or the organization and that you're heard" />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/9/Article247_3296.anc" start="2242" end="2247" sStart="-1" offset="0" sid="null" wn="4" wnkey="power%1:26:00::" annotator="veweser" text="She ushered in (or, more accurately, restored) an era in which political &lt;b&gt;power&lt;/b&gt; was seized not through backroom deals and exchanges of money but through cause-based kudos-accumulation." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/9/Article247_3296.anc" start="2242" end="2247" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="tofox" text="She ushered in (or, more accurately, restored) an era in which political &lt;b&gt;power&lt;/b&gt; was seized not through backroom deals and exchanges of money but through cause-based kudos-accumulation." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/9/Article247_3296.anc" start="2801" end="2805" sStart="null" offset="0" sid="null" wn="1" wnkey="land%1:21:01::" annotator="rstandig" text="You cannot carp, as Eleanor did, about privileges of race and gender without begging the question of your own megaprivileges: &lt;b&gt;land&lt;/b&gt;, family, connections, fame, not to mention having a husband who's president." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/9/Article247_3296.anc" start="2801" end="2805" sStart="null" offset="0" sid="null" wn="1" wnkey="land%1:21:01::" annotator="brubin" text="You cannot carp, as Eleanor did, about privileges of race and gender without begging the question of your own megaprivileges: &lt;b&gt;land&lt;/b&gt;, family, connections, fame, not to mention having a husband who's president." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/9/Article247_3296.anc" start="210" end="215" sStart="null" offset="0" sid="null" wn="7" wnkey="force%1:18:00::" annotator="carichter" text="At the risk of letting you lure me into a very old argument, I'd say Eleanor was a &lt;b&gt;force&lt;/b&gt; for ill." />
+  </sentences>
+</list>

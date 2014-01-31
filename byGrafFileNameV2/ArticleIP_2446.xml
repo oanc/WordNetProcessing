@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/36/ArticleIP_2446.anc" start="7144" end="7147" sStart="7130" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="While Clinton &lt;b&gt;won&lt;/b&gt; the kiddie-cash sweepstakes for the cycle, the leading contenders in the primary season were two cash-hungry Republicans: Texas Sen." />
+    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2446.anc" start="6482" end="6487" sStart="null" offset="96" sid="r9.level.n.0458" wn="1" wnkey="level%1:07:00::" annotator="anfahmy" text="(That election was a high-water mark for student donations in a nonpresidential year--twice the level of the 1989-90 campaigns.)" />
+    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2446.anc" start="6699" end="6705" sStart="null" offset="62" sid="r10.help.v.0949" wn="2" wnkey="help%2:29:00::" annotator="veweser" text="Another big Democratic money raiser, Howard Glicken, also was helped by his sons." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/36/ArticleIP_2446.anc" start="4008" end="4013" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="tofox" text="The Branson kids, Buck, Frank L. IV, and Jennifer, were listed as students on $10,000 worth of FEC filings, donations that &lt;b&gt;added&lt;/b&gt; to their trial-lawyer parents' $175,304." />
+    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2446.anc" start="5424" end="5428" sStart="null" offset="26" sid="r11.able.j.0262" wn="1" wnkey="able%3:00:00::" annotator="vebatchelder" text="In every case where I was able to establish a parent-child relationship, minors gave to exactly the same campaigns as their parents, almost always on the same day." />
+  </sentences>
+</list>

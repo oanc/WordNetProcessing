@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3557-ms98-a-trans.anc" start="751" end="757" sStart="-1" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="veweser" text="has the opportunity to get out of control and &lt;b&gt;become&lt;/b&gt; a huge problem" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3557-ms98-a-trans.anc" start="751" end="757" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="tofox" text="has the opportunity to get out of control and &lt;b&gt;become&lt;/b&gt; a huge problem" />
+  </sentences>
+</list>

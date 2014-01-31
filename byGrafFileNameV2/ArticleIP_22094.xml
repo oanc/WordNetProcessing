@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22094.anc" start="1430" end="1434" sStart="1181" offset="249" sid="r11.true.j.0408" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="It would make a wonderful tale if these two (both associated with the American Enterprise Institute, a conservative Washington think tank) had discovered what the entire finance establishment had missed, and written the next Wealth of Nations . The true tale, sadly, is somewhat less inspiring." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_22094.anc" start="2676" end="2680" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="carichter" text="You can &lt;b&gt;show&lt;/b&gt; mathematically that $6 a year forever and $1 this year plus $1." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22094.anc" start="3784" end="3788" sStart="null" offset="20" sid="r9.late.j.0320" wn="2" wnkey="late%5:00:00:unpunctual:00" annotator="brubin" text="(Maybe it's not too late to call the book Dow 40,000 .)" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22094.anc" start="399" end="402" sStart="null" offset="22" sid="r9.hit.v.0523" wn="4" wnkey="hit%2:38:00::" annotator="cgozo" text="This week, as the Dow hit 10,000, Glassman and Hassett repeat their argument in the Journal . They admit that the &quot;financial establishment&quot; has reacted with guffaws." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22094.anc" start="3801" end="3805" sStart="null" offset="37" sid="r10.book.n.0876" wn="1" wnkey="book%1:10:00::" annotator="brubin" text="(Maybe it's not too late to call the book Dow 40,000 .)" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22094.anc" start="1714" end="1720" sStart="null" offset="19" sid="r8.ask.v.0778" wn="4" wnkey="ask%2:32:04::" annotator="jeneale" text="Glassman begins by asking whether you'd rather have $100 in a savings account that pays 6 percent interest or a $100 share of a company that earned $1 per share last year." />
+  </sentences>
+</list>

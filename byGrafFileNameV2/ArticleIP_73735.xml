@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/55/ArticleIP_73735.anc" start="5041" end="5048" sStart="4909" offset="132" sid="r10.wait.v.0683" wn="1" wnkey="wait%2:42:00::" annotator="cgozo" text="People who register to vote when they are engaged by a political Web site are more likely to turn out than folks who register while waiting in line at the DMV." />
+    <s path="[OANC]/data/written_1/journal/slate/55/ArticleIP_73735.anc" start="2063" end="2070" sStart="null" offset="174" sid="r10.help.v.0404" wn="1" wnkey="help%2:41:00::" annotator="brubin" text="Grass-roots organizations, political parties, and candidates routinely spend enormous sums of money and time on voter registration drives without any guarantee that they are helping their cause." />
+  </sentences>
+</list>

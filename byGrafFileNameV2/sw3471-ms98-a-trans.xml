@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3471-ms98-a-trans.anc" start="5622" end="5628" sStart="-1" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="we didn't get a &lt;b&gt;chance&lt;/b&gt; but um we've got the swings and had a trampoline" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3471-ms98-a-trans.anc" start="5622" end="5628" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="we didn't get a &lt;b&gt;chance&lt;/b&gt; but um we've got the swings and had a trampoline" />
+  </sentences>
+</list>

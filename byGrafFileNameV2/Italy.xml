@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/Italy.anc" start="1428" end="1435" sStart="1423" offset="5" sid="null" wn="2" wnkey="write%2:32:00::" annotator="sophiavv" text="I've written about Urbino before , but because the wife is providing me with such dazzling photographs of the city, I feel compelled to do so again." />
+    <s path="[MASC]/data/written/Italy.anc" start="599" end="606" sStart="null" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="sophiavv" text="" />
+    <s path="[MASC]/data/written/Italy.anc" start="5267" end="5271" sStart="null" offset="8" sid="r10.wait.v.0055" wn="3" wnkey="wait%2:31:00::" annotator="veweser" text="I can't wait to get Alzheimer's so I can watch Buffy again like it was the first time." />
+    <s path="[MASC]/data/written/Italy.anc" start="5267" end="5271" sStart="null" offset="8" sid="r10.wait.v.0055" wn="3" wnkey="wait%2:31:00::" annotator="cgozo" text="I can't wait to get Alzheimer's so I can watch Buffy again like it was the first time." />
+    <s path="[MASC]/data/written/Italy.anc" start="5267" end="5271" sStart="null" offset="8" sid="r10.wait.v.0055" wn="2147483647" wnkey="null" annotator="brubin" text="I can't wait to get Alzheimer's so I can watch Buffy again like it was the first time." />
+    <s path="[MASC]/data/written/Italy.anc" start="5267" end="5271" sStart="null" offset="8" sid="r10.wait.v.0055" wn="2147483646" wnkey="null" annotator="anfahmy" text="I can't wait to get Alzheimer's so I can watch Buffy again like it was the first time." />
+    <s path="[MASC]/data/written/Italy.anc" start="3357" end="3361" sStart="null" offset="23" sid="r11.true.j.0053" wn="1" wnkey="true%3:00:00::" annotator="anfahmy" text="This isn't technically true, but it accurately describes how it feels to those unaccustomed to the city's geography." />
+    <s path="[MASC]/data/written/Italy.anc" start="3357" end="3361" sStart="null" offset="23" sid="r11.true.j.0053" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="This isn't technically true, but it accurately describes how it feels to those unaccustomed to the city's geography." />
+  </sentences>
+</list>

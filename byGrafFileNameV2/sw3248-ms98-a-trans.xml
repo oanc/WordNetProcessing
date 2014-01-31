@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3248-ms98-a-trans.anc" start="2383" end="2386" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="and and gradually as things &lt;b&gt;try&lt;/b&gt; and uh and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3248-ms98-a-trans.anc" start="2383" end="2386" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="tofox" text="and and gradually as things &lt;b&gt;try&lt;/b&gt; and uh and" />
+  </sentences>
+</list>

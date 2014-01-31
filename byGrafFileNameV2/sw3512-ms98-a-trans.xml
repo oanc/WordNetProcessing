@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3512-ms98-a-trans.anc" start="3703" end="3708" sStart="-1" offset="0" sid="null" wn="1" wnkey="greek%3:01:01::" annotator="veweser" text="um we don't i don't even think we have a &lt;b&gt;Greek&lt;/b&gt; restaurant in Arlington we uh i used to go to a &lt;b&gt;Greek&lt;/b&gt; restaurant over in Dallas couple of them i thought they were great" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3512-ms98-a-trans.anc" start="3703" end="3708" sStart="null" offset="0" sid="null" wn="1" wnkey="greek%3:01:01::" annotator="tofox" text="um we don't i don't even think we have a &lt;b&gt;Greek&lt;/b&gt; restaurant in Arlington we uh i used to go to a &lt;b&gt;Greek&lt;/b&gt; restaurant over in Dallas couple of them i thought they were great" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3512-ms98-a-trans.anc" start="3757" end="3762" sStart="null" offset="0" sid="null" wn="1" wnkey="greek%3:01:01::" annotator="carichter" text="um we don't i don't even think we have a &lt;b&gt;Greek&lt;/b&gt; restaurant in Arlington we uh i used to go to a &lt;b&gt;Greek&lt;/b&gt; restaurant over in Dallas couple of them i thought they were great" />
+  </sentences>
+</list>

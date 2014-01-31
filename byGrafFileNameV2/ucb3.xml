@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/ucb3.anc" start="500" end="504" sStart="435" offset="65" sid="null" wn="1" wnkey="true%3:00:00::" annotator="vebatchelder" text="We have a solution that will make all your 'se^xual dreams come true" />
+    <s path="[MASC]/data/written/ucb3.anc" start="500" end="504" sStart="null" offset="65" sid="null" wn="2147483647" wnkey="null" annotator="anfahmy" text="We have a solution that will make all your 'se^xual dreams come true" />
+    <s path="[MASC]/data/written/ucb3.anc" start="500" end="504" sStart="null" offset="65" sid="r11.true.j.0089" wn="2147483647" wnkey="null" annotator="anfahmy" text="We have a solution that will make all your 'se^xual dreams come true" />
+    <s path="[MASC]/data/written/ucb3.anc" start="500" end="504" sStart="null" offset="65" sid="null" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="We have a solution that will make all your 'se^xual dreams come true" />
+    <s path="[MASC]/data/written/ucb3.anc" start="500" end="504" sStart="null" offset="65" sid="r11.true.j.0089" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="We have a solution that will make all your 'se^xual dreams come true" />
+    <s path="[MASC]/data/written/ucb3.anc" start="266" end="272" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="anfahmy" text="At last you will never worry about your size any more" />
+    <s path="[MASC]/data/written/ucb3.anc" start="153" end="157" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="vebatchelder" text="At last you will never worry about your size any more" />
+    <s path="[MASC]/data/written/ucb3.anc" start="112" end="119" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="sophiavv" text="At last you will never worry about your size any more" />
+  </sentences>
+</list>

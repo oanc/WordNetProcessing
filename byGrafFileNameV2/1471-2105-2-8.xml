@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2105-2-8.anc" start="56468" end="56475" sStart="56285" offset="0" sid="null" wn="4" wnkey="window%1:17:00::" annotator="veweser" text="These alignments were then classified by QRNA in scanning mode, scoring overlapping &lt;b&gt;windows&lt;/b&gt; of 200 nucleotides sliding 50 nucleotides at a time, and all &lt;b&gt;windows&lt;/b&gt; with scores of ³ 5 bits for one of the three models were annotated as RNA, COD, or OTH correspondingly." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2105-2-8.anc" start="41134" end="41140" sStart="null" offset="0" sid="null" wn="5" wnkey="window%1:28:00::" annotator="cgozo" text="The &lt;b&gt;window&lt;/b&gt; slides across the alignment and each &lt;b&gt;window&lt;/b&gt; is scored independently from the others." />
+  </sentences>
+</list>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/150CZL269.anc" start="164" end="169" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="It is wonderful to be able to &lt;b&gt;write&lt;/b&gt; this letter to you as a special friend of the Leukemia Society of America." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/150CZL269.anc" start="845" end="852" sStart="null" offset="0" sid="null" wn="3" wnkey="write%2:32:08::" annotator="tofox" text="I'm &lt;b&gt;writing&lt;/b&gt; to you as one of our strongest supporters asking for a gift of $100." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/150CZL269.anc" start="711" end="715" sStart="null" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" annotator="cgozo" text="I can also &lt;b&gt;tell&lt;/b&gt; you that the 1990's will be a &quot;break through &quot; decade for us here at the Indiana Chapter." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/150CZL269.anc" start="1654" end="1660" sStart="null" offset="0" sid="null" wn="9" wnkey="say%2:32:13::" annotator="cgozo" text="Nick is in his fifth year of remission and we're &lt;b&gt;saying&lt;/b&gt; he's been cured." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/150CZL269.anc" start="972" end="976" sStart="null" offset="0" sid="null" wn="6" wnkey="part%1:04:01::" annotator="veweser" text="00 before June 30 so that we can fulfill our &lt;b&gt;part&lt;/b&gt; in the Leukemia Society's National Research Program." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/150CZL269.anc" start="972" end="976" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="00 before June 30 so that we can fulfill our &lt;b&gt;part&lt;/b&gt; in the Leukemia Society's National Research Program." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/150CZL269.anc" start="258" end="262" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" annotator="elstickles" text="As you &lt;b&gt;know&lt;/b&gt;, my husband Layton and I have been active in the Leukemia Society since our son Nick was diagnosed with leukemia." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/150CZL269.anc" start="258" end="262" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" annotator="carichter" text="As you &lt;b&gt;know&lt;/b&gt;, my husband Layton and I have been active in the Leukemia Society since our son Nick was diagnosed with leukemia." />
+  </sentences>
+</list>

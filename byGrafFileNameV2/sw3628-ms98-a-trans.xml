@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3628-ms98-a-trans.anc" start="4386" end="4390" sStart="4334" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="brubin" text="oh yeah me too uh me too unless i'm going somewhere &lt;b&gt;warm&lt;/b&gt; for the winter yeah that'd be nice" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3628-ms98-a-trans.anc" start="128" end="134" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="veweser" text="well i really enjoyed um i went to Mackinaw &lt;b&gt;Island&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3628-ms98-a-trans.anc" start="128" end="134" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="tofox" text="well i really enjoyed um i went to Mackinaw &lt;b&gt;Island&lt;/b&gt;" />
+  </sentences>
+</list>

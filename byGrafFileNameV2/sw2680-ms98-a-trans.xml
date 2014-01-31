@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2680-ms98-a-trans.anc" start="6287" end="6293" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="exactly and and the rich &lt;b&gt;people&lt;/b&gt; get off the hook" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2680-ms98-a-trans.anc" start="6287" end="6293" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="exactly and and the rich &lt;b&gt;people&lt;/b&gt; get off the hook" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2680-ms98-a-trans.anc" start="98" end="102" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" annotator="cgozo" text="nice to &lt;b&gt;meet&lt;/b&gt; you" />
+  </sentences>
+</list>

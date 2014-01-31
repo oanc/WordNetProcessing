@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3784-ms98-a-trans.anc" start="3763" end="3768" sStart="-1" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="veweser" text="to prevent that kind of misuse of &lt;b&gt;power&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3784-ms98-a-trans.anc" start="3763" end="3768" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="tofox" text="to prevent that kind of misuse of &lt;b&gt;power&lt;/b&gt;" />
+  </sentences>
+</list>

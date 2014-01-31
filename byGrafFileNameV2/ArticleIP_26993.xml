@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26993.anc" start="6043" end="6049" sStart="6014" offset="29" sid="r10.wait.v.0567" wn="4" wnkey="wait%2:41:00::" annotator="cgozo" text="Kuwaitis are rich lay-abouts waited on by impoverished foreigners." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26993.anc" start="4880" end="4885" sStart="null" offset="97" sid="r1.rule.v.0041" wn="1" wnkey="rule%2:41:00::" annotator="sophiavv" text="The Amir twice suspended constitutional provisions, from 1976 to 1981 and from 1986 to 1992, and ruled extraconstitutionally during these periods." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26993.anc" start="4880" end="4885" sStart="null" offset="97" sid="r1.rule.v.0041" wn="1" wnkey="rule%2:41:00::" annotator="anfahmy" text="The Amir twice suspended constitutional provisions, from 1976 to 1981 and from 1986 to 1992, and ruled extraconstitutionally during these periods." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26993.anc" start="4880" end="4885" sStart="null" offset="97" sid="r1.rule.v.0041" wn="1" wnkey="rule%2:41:00::" annotator="adelpriore" text="The Amir twice suspended constitutional provisions, from 1976 to 1981 and from 1986 to 1992, and ruled extraconstitutionally during these periods." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_26993.anc" start="5318" end="5323" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="Foreigners constitute 98 percent of the private sector work &lt;b&gt;force&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_26993.anc" start="5221" end="5226" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="According to government statistics, 92 percent of the indigenous work &lt;b&gt;force&lt;/b&gt; is employed by the government." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26993.anc" start="4472" end="4478" sStart="null" offset="37" sid="r8.family.n.0514" wn="4" wnkey="family%1:14:01::" annotator="jeneale" text="Amirs, or princes, from the Al-Sabah family have ruled Kuwait in consultation with prominent community figures for over 200 years." />
+  </sentences>
+</list>

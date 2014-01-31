@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1203.anc" start="6814" end="6820" sStart="6744" offset="70" sid="r11.strong.j.0261" wn="1" wnkey="strong%3:00:00::" annotator="adelpriore" text="Another article says one reason Rudy Giuliani won re-election was his strong connection to New York's long-neglected outer-borough residents." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/24/ArticleIP_1203.anc" start="1938" end="1942" sStart="null" offset="0" sid="null" wn="2" wnkey="say%2:32:01::" annotator="brubin" text="An article &lt;b&gt;says&lt;/b&gt; the two camps can learn from each other: Indies offer character development and plot, while big-budget movies create &quot;a coveted gloss and Zeitgeist energy that cannot be matched in the world of the shoestring budget.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/24/ArticleIP_1203.anc" start="6721" end="6727" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="cgozo" text="They &lt;b&gt;lose&lt;/b&gt; or come uncomfortably close to &lt;b&gt;losing&lt;/b&gt; if they don't.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1203.anc" start="8035" end="8043" sStart="null" offset="78" sid="r8.family.n.0883" wn="1" wnkey="family%1:14:02::" annotator="brubin" text="We know perfectly well that children are most at risk at home, from their own families and adult friends.&quot;" />
+  </sentences>
+</list>

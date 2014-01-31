@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4289-ms98-a-trans.anc" start="4729" end="4734" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="veweser" text="i'm in the Air &lt;b&gt;Force&lt;/b&gt; so that kind of" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4289-ms98-a-trans.anc" start="4729" end="4734" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="i'm in the Air &lt;b&gt;Force&lt;/b&gt; so that kind of" />
+  </sentences>
+</list>

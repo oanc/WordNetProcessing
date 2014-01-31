@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3743-ms98-a-trans.anc" start="4014" end="4019" sStart="-1" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="cgozo" text="not very &lt;b&gt;smart&lt;/b&gt; i think that's difficult on them so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3743-ms98-a-trans.anc" start="4014" end="4019" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="not very &lt;b&gt;smart&lt;/b&gt; i think that's difficult on them so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3743-ms98-a-trans.anc" start="4014" end="4019" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="not very &lt;b&gt;smart&lt;/b&gt; i think that's difficult on them so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3743-ms98-a-trans.anc" start="4014" end="4019" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="not very &lt;b&gt;smart&lt;/b&gt; i think that's difficult on them so" />
+  </sentences>
+</list>

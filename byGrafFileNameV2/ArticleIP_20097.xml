@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_20097.anc" start="3378" end="3381" sStart="3283" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="cgozo" text="Several Democratic senators, assisted by the media, depicted the House prosecutors' failure to &lt;b&gt;win&lt;/b&gt; a majority vote in the Senate as a disgraceful setback for the GOP." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20097.anc" start="5177" end="5183" sStart="null" offset="48" sid="r9.kill.v.0949" wn="2" wnkey="kill%2:41:01::" annotator="veweser" text="First DeLay blocked it in the House, then Gramm killed it in the Senate, insisting that senators render an all-or-nothing verdict." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20097.anc" start="4947" end="4951" sStart="null" offset="50" sid="r9.kill.v.0732" wn="2" wnkey="kill%2:41:01::" annotator="brubin" text="The political Republicans' first objective was to kill the censure resolution." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20097.anc" start="5078" end="5082" sStart="null" offset="26" sid="r9.kill.v.0614" wn="2" wnkey="kill%2:41:01::" annotator="anfahmy" text="But the GOP's decision to kill it for the same reason was no less political." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20097.anc" start="9007" end="9011" sStart="null" offset="3" sid="r7.1.face.n.0353" wn="2147483645" wnkey="null" annotator="veweser" text="On Face the Nation , political consultant Ralph Reed went further, calling the scandal Al Gore's &quot;albatross&quot; because &quot;he acted as an advocate for a president who 73 percent of the American people believe committed perjury and only 24 percent think is honest and trustworthy.&quot;" />
+  </sentences>
+</list>

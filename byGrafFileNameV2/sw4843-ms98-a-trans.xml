@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4843-ms98-a-trans.anc" start="944" end="950" sStart="-1" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="so that uh &lt;b&gt;forget&lt;/b&gt; about this balanced budget this would immediately force them" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4843-ms98-a-trans.anc" start="944" end="950" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="so that uh &lt;b&gt;forget&lt;/b&gt; about this balanced budget this would immediately force them" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4843-ms98-a-trans.anc" start="944" end="950" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="carichter" text="so that uh &lt;b&gt;forget&lt;/b&gt; about this balanced budget this would immediately force them" />
+  </sentences>
+</list>

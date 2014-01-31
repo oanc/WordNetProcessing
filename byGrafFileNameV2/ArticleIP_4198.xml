@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_4198.anc" start="1095" end="1103" sStart="988" offset="107" sid="r7.strike.v.0302" wn="14" wnkey="strike%2:35:08::" annotator="jeneale" text="But simply listing a set of criteria is neither a justification for expanding them nor an argument against striking a few." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_4198.anc" start="430" end="434" sStart="null" offset="34" sid="r7.poor.j.0440" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="cgozo" text="If Shuger believes Congress did a poor job of redacting the report before it was posted, he should say so." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_4198.anc" start="1823" end="1831" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" annotator="tofox" text="After three days of using the gel, my mouth has returned to its &lt;b&gt;familiar&lt;/b&gt; self." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_4198.anc" start="1823" end="1831" sStart="null" offset="64" sid="r7.familiar.j.0056" wn="" wnkey="null" annotator="ksuderman" text="After three days of using the gel, my mouth has returned to its familiar self." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3332-ms98-a-trans.anc" start="2239" end="2244" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="credit card &lt;b&gt;rates&lt;/b&gt; in Pennsylvania for example down here when you go to a gas station" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3332-ms98-a-trans.anc" start="2218" end="2223" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="how well how are the laws in Pennsylvania uh as as regard well not the laws but the &lt;b&gt;rates&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3332-ms98-a-trans.anc" start="2239" end="2244" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="credit card &lt;b&gt;rates&lt;/b&gt; in Pennsylvania for example down here when you go to a gas station" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3332-ms98-a-trans.anc" start="2218" end="2223" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="how well how are the laws in Pennsylvania uh as as regard well not the laws but the &lt;b&gt;rates&lt;/b&gt;" />
+  </sentences>
+</list>

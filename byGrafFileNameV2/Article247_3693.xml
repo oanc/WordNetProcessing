@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3693.anc" start="3178" end="3183" sStart="3137" offset="41" sid="r10.wait.v.0174" wn="2" wnkey="wait%2:42:01::" annotator="anfahmy" text="One important grain of salt that the LAT waits until the 32nd paragraph to sprinkle: HMOs still can (and the implication is, will) prevent patients from suing under the bill by requiring their agreement to binding arbitration as a condition of treatment." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3693.anc" start="4960" end="4969" sStart="null" offset="111" sid="r11.refer.v.0110" wn="1" wnkey="refer%2:32:01::" annotator="anfahmy" text="None of the papers mention a fact about Tripp that makes this last claim puzzling: During the time frame she's referring to she remained one of the DOD's highest-paid employees, making $90-plus K. She even got a raise." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3693.anc" start="6017" end="6024" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="Not to mention his decision once there to meet with the team and inspire the &lt;b&gt;players&lt;/b&gt; to victory by comparing the final day's competition to the Alamo." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3693.anc" start="6017" end="6024" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="tofox" text="Not to mention his decision once there to meet with the team and inspire the &lt;b&gt;players&lt;/b&gt; to victory by comparing the final day's competition to the Alamo." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3693.anc" start="5337" end="5342" sStart="null" offset="4" sid="r9.paper.n.0397" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The paper points out that the highway program already includes the Boy Scouts, who exclude girls and gays, and the Knights of Columbus, who exclude non-Catholics." />
+  </sentences>
+</list>

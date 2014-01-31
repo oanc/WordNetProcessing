@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_485.anc" start="3007" end="3016" sStart="2972" offset="35" sid="r11.refer.v.0814" wn="1" wnkey="refer%2:32:01::" annotator="vebatchelder" text="The Post makes a rookie mistake in referring to the jury's &quot;innocent&quot; verdicts." />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_485.anc" start="960" end="966" sStart="null" offset="127" sid="r9.kill.v.0839" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="Instead, when it comes to particulars, we have everybody quoting the comment of a woman whose Secret Service agent husband was killed in the Oklahoma blast: &quot;It was a slap in the face.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_485.anc" start="2581" end="2588" sStart="null" offset="180" sid="r9.kill.v.0702" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="But then the paper trots out a dubious answer: &quot;Still, that may be a reasonable decision in that Mr. Nichols may not have planned that the bomb be set off with the purpose of killing these agents.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/3/Article247_485.anc" start="1012" end="1016" sStart="null" offset="184" sid="r7.1.face.n.0035" wn="1" wnkey="human_face%1:08:01::" annotator="veweser" text="Instead, when it comes to particulars, we have everybody quoting the comment of a woman whose Secret Service agent husband was killed in the Oklahoma blast: &quot;It was a slap in the face.&quot;" />
+  </sentences>
+</list>

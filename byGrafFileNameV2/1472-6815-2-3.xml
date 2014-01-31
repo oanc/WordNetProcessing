@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1472-6815-2-3.anc" start="30077" end="30080" sStart="-1" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" annotator="comcgeetubb" text="If a patient follows all of the initial recommendations and yet the severity of his tinnitus does not improve over the course of six months, we either suggested different strategies for him to &lt;b&gt;try&lt;/b&gt; or asked the patient to return to the clinic for re-evaluation and additional counseling." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1472-6815-2-3.anc" start="539" end="546" sStart="null" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="cgozo" text="Innumerable treatments for this condition have been utilized - with varying degrees of &lt;b&gt;success&lt;/b&gt; - by clinicians and patients." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1472-6815-2-3.anc" start="539" end="546" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="Innumerable treatments for this condition have been utilized - with varying degrees of &lt;b&gt;success&lt;/b&gt; - by clinicians and patients." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6815-2-3.anc" start="23292" end="23297" sStart="null" offset="297" sid="r7.sound.n.0685" wn="3" wnkey="sound%1:19:00::" annotator="veweser" text="Depending on test results and individual preferences, patients can increase the level of pleasant sounds in any environment by using hearing aids, in-the-ear sound generators, tinnitus instruments (combinations of hearing aids + sound generators), tabletop sound generation machines, Sound Pillows, tapes or CDs." />
+  </sentences>
+</list>

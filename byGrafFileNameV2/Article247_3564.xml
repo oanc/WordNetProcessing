@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3564.anc" start="2850" end="2856" sStart="2842" offset="8" sid="r11.refer.v.0820" wn="1" wnkey="refer%2:32:01::" annotator="vebatchelder" text="It also refers to the individual articles on the op-ed page (e.g., &quot;Henry Kissinger's New York Times op-ed on the nuclear test ban treaty&quot;)." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3564.anc" start="3611" end="3619" sStart="null" offset="20" sid="r11.refer.v.0362" wn="6" wnkey="refer%2:32:00::" annotator="anfahmy" text="The term originally referred to the pieces of lead which held the type in place on printing presses." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3564.anc" start="3768" end="3773" sStart="null" offset="47" sid="r9.paper.n.0961" wn="3" wnkey="paper%1:10:03::" annotator="veweser" text="Stuff (as a verb): To place a story inside the paper." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3564.anc" start="2755" end="2760" sStart="null" offset="71" sid="r9.paper.n.0752" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="Op-Ed: The page in a newspaper where opinion pieces not written by the paper's editorial board appear." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3564.anc" start="3186" end="3193" sStart="null" offset="53" sid="r9.appear.v.0921" wn="3" wnkey="appear%2:30:01::" annotator="veweser" text="Reefer : A brief front-page synopsis of a story that appears inside the paper." />
+  </sentences>
+</list>

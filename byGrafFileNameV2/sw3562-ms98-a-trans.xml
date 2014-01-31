@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3562-ms98-a-trans.anc" start="1972" end="1978" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="except with the few exceptions of &lt;b&gt;people&lt;/b&gt; that are unemployed which is unfortunate lately um every woman i know works my wife took some time off after we had our uh child our first child" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3562-ms98-a-trans.anc" start="1972" end="1978" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="except with the few exceptions of &lt;b&gt;people&lt;/b&gt; that are unemployed which is unfortunate lately um every woman i know works my wife took some time off after we had our uh child our first child" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3562-ms98-a-trans.anc" start="4227" end="4230" sStart="null" offset="0" sid="null" wn="1" wnkey="meet%2:38:01::" annotator="veweser" text="that's not i haven't found anybody like that i've heard of that but i haven't &lt;b&gt;met&lt;/b&gt; anyone like that" />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/WhereToIstanbul.anc" start="17801" end="17808" sStart="-1" offset="0" sid="null" wn="5" wnkey="write%2:36:01::" annotator="carichter" text="The Museum of the Ancient Orient (Eski Èark Eserleri MŸzesi) displays objects from ancient Near and Middle Eastern civilizations, including Babylonian ceramic panels from the time of King Nebuchadnezzar (605Ð 562 b.c. ), Hittite stone lions, and clay tablets bearing the earliest known examples of &lt;b&gt;writing&lt;/b&gt; (2700 b.c. ), and the oldest recorded set of laws, the Code of Hammurabi (1750 b.c. )." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/WhereToIstanbul.anc" start="12696" end="12700" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="kaolla" text="The tours are rushed, and the route may vary due to restoration &lt;b&gt;work&lt;/b&gt;." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/WhereToIstanbul.anc" start="12696" end="12700" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="carichter" text="The tours are rushed, and the route may vary due to restoration &lt;b&gt;work&lt;/b&gt;." />
+  </sentences>
+</list>

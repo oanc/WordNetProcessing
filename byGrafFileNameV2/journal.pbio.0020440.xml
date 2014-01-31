@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020440.anc" start="7813" end="7819" sStart="7802" offset="11" sid="r7.strike.v.0037" wn="2" wnkey="strike%2:37:00::" annotator="jeneale" text="He is also struck by what is left unexplained when size is accounted for: animals of the same size can still show more than an order of magnitude variation in metabolic rate." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020440.anc" start="7813" end="7819" sStart="null" offset="11" sid="r7.strike.v.0037" wn="2" wnkey="strike%2:37:00::" annotator="cgozo" text="He is also struck by what is left unexplained when size is accounted for: animals of the same size can still show more than an order of magnitude variation in metabolic rate." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020440.anc" start="7813" end="7819" sStart="null" offset="11" sid="r7.strike.v.0037" wn="2" wnkey="strike%2:37:00::" annotator="brubin" text="He is also struck by what is left unexplained when size is accounted for: animals of the same size can still show more than an order of magnitude variation in metabolic rate." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020440.anc" start="12568" end="12575" sStart="null" offset="193" sid="r7.strike.n.0526" wn="2147483645" wnkey="null" annotator="jeneale" text="Nevertheless, when McNab sees attempts to explain variation in metabolism using a few parameters applied across a wide range of sizes and taxonomic groups, what isn't explained strikes him as forcefully as what is." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020440.anc" start="7987" end="7991" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="He is also struck by what is left unexplained when size is accounted for: animals of the same size can still show more than an order of magnitude variation in metabolic &lt;b&gt;rate&lt;/b&gt;." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_832.anc" start="2691" end="2701" sStart="2620" offset="71" sid="r1.successful.j.0024" wn="1" wnkey="successful%3:00:00::" annotator="sophiavv" text="Salinas was found guilty by the trial judge of being the author of the successful 1994 assassination of a fast-rising political star." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_832.anc" start="2691" end="2701" sStart="null" offset="71" sid="r1.successful.j.0024" wn="1" wnkey="successful%3:00:00::" annotator="anfahmy" text="Salinas was found guilty by the trial judge of being the author of the successful 1994 assassination of a fast-rising political star." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_832.anc" start="2691" end="2701" sStart="null" offset="71" sid="r1.successful.j.0024" wn="1" wnkey="successful%3:00:00::" annotator="adelpriore" text="Salinas was found guilty by the trial judge of being the author of the successful 1994 assassination of a fast-rising political star." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/7/Article247_832.anc" start="2142" end="2147" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" annotator="comcgeetubb" text="And the LAT 's lead editorial calls for bringing the trial to a &lt;b&gt;rapid&lt;/b&gt; end." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_832.anc" start="4343" end="4347" sStart="null" offset="88" sid="r7.poor.j.0359" wn="2" wnkey="poor%3:00:00::" annotator="brubin" text="Church officials defend the practice, says the Post , as a way of avoiding charging the poor to see the pontiff." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_832.anc" start="1376" end="1381" sStart="null" offset="8" sid="r9.paper.n.0358" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="But the paper leaves out what happened next, which is however reported by the WP : Bumpers pointed at his former colleagues, saying, &quot;Just as you and you and you and you, and millions of other people who have been caught in similar circumstances, should have thought of it before.&quot;" />
+  </sentences>
+</list>

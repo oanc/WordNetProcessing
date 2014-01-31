@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Amsterdam-History.anc" start="12651" end="12656" sStart="-1" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="carichter" text="His daughter Anne &lt;b&gt;wrote&lt;/b&gt; a diary during their time in the attic, which &lt;b&gt;became&lt;/b&gt; an international bestseller after the war." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz2/Amsterdam-History.anc" start="8896" end="8900" sStart="null" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" annotator="elstickles" text="The artists Rembrandt, Frans Hals, Vermeer, and Paulus Potter were all working in this era, their &lt;b&gt;work&lt;/b&gt; much in demand by the merchant classes." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz2/Amsterdam-History.anc" start="8896" end="8900" sStart="null" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" annotator="carichter" text="The artists Rembrandt, Frans Hals, Vermeer, and Paulus Potter were all working in this era, their &lt;b&gt;work&lt;/b&gt; much in demand by the merchant classes." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Amsterdam-History.anc" start="12982" end="12985" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="In September 1944, Operation Market Garden, made famous in the film A Bridge Too Far, saw thousands of allied paratroops dropping into the Netherlands to &lt;b&gt;try&lt;/b&gt; and take key bridges on rivers leading to Germany." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Amsterdam-History.anc" start="12982" end="12985" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="tofox" text="In September 1944, Operation Market Garden, made famous in the film A Bridge Too Far, saw thousands of allied paratroops dropping into the Netherlands to &lt;b&gt;try&lt;/b&gt; and take key bridges on rivers leading to Germany." />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57443.anc" start="814" end="818" sStart="796" offset="0" sid="null" wn="2147483644" wnkey="null" annotator="veweser" text="World broods with &lt;b&gt;warm&lt;/b&gt; breast and with ah!" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57443.anc" start="1289" end="1295" sStart="null" offset="0" sid="null" wn="3 1 5" wnkey="null" annotator="tofox" text="In this poem, he sees divine grandeur not simply in a trite vision of &quot;nature,&quot; but in nature as human nature affects it, too: industrial &lt;b&gt;images&lt;/b&gt; such as shaking metal foil or crushed oil embody the grandeur." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57443.anc" start="1289" end="1295" sStart="null" offset="0" sid="null" wn="1" wnkey="mental_image%1:09:00::" annotator="comcgeetubb" text="In this poem, he sees divine grandeur not simply in a trite vision of &quot;nature,&quot; but in nature as human nature affects it, too: industrial &lt;b&gt;images&lt;/b&gt; such as shaking metal foil or crushed oil embody the grandeur." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57443.anc" start="1289" end="1295" sStart="null" offset="0" sid="null" wn="3" wnkey="image%1:06:00::" annotator="cgozo" text="In this poem, he sees divine grandeur not simply in a trite vision of &quot;nature,&quot; but in nature as human nature affects it, too: industrial &lt;b&gt;images&lt;/b&gt; such as shaking metal foil or crushed oil embody the grandeur." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/53/ArticleIP_57443.anc" start="1289" end="1295" sStart="null" offset="0" sid="null" wn="5" wnkey="image%1:10:00::" annotator="brubin" text="In this poem, he sees divine grandeur not simply in a trite vision of &quot;nature,&quot; but in nature as human nature affects it, too: industrial &lt;b&gt;images&lt;/b&gt; such as shaking metal foil or crushed oil embody the grandeur." />
+  </sentences>
+</list>

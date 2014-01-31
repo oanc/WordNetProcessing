@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/lists-046-11485666.anc" start="1602" end="1608" sStart="1638" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="sophiavv" text="Disclaimer: The opinions expressed are my own and in no way should be taken as representative of my employer, Adobe Systems Inc." />
+    <s path="[MASC]/data/written/lists-046-11485666.anc" start="1527" end="1533" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="sophiavv" text="Disclaimer: The opinions expressed are my own and in no way should be taken as representative of my employer, Adobe Systems Inc." />
+    <s path="[MASC]/data/written/lists-046-11485666.anc" start="30" end="34" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="anfahmy" text="I'll mail this out while it's fresh in my head:" />
+    <s path="[MASC]/data/written/lists-046-11485666.anc" start="1109" end="1116" sStart="null" offset="37" sid="r9.appear.v.0095" wn="5" wnkey="appear%2:30:02::" annotator="veweser" text="Given that the contentious statement appears in our &quot;rationale&quot; document, I thought it sufficiently importatn to have clarified." />
+    <s path="[MASC]/data/written/lists-046-11485666.anc" start="1109" end="1116" sStart="null" offset="37" sid="r9.appear.v.0095" wn="5" wnkey="appear%2:30:02::" annotator="cgozo" text="Given that the contentious statement appears in our &quot;rationale&quot; document, I thought it sufficiently importatn to have clarified." />
+    <s path="[MASC]/data/written/lists-046-11485666.anc" start="1109" end="1116" sStart="null" offset="37" sid="r9.appear.v.0095" wn="5" wnkey="appear%2:30:02::" annotator="brubin" text="Given that the contentious statement appears in our &quot;rationale&quot; document, I thought it sufficiently importatn to have clarified." />
+    <s path="[MASC]/data/written/lists-046-11485666.anc" start="1109" end="1116" sStart="null" offset="37" sid="r9.appear.v.0095" wn="3" wnkey="appear%2:30:01::" annotator="anfahmy" text="Given that the contentious statement appears in our &quot;rationale&quot; document, I thought it sufficiently importatn to have clarified." />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3287.anc" start="4825" end="4830" sStart="4795" offset="30" sid="r9.paper.n.0563" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="A WP reader notes that in the paper's recent reprise of three 20-year-old stories about Skylab, none of the stories gave the same weight for the space craft." />
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3287.anc" start="2174" end="2181" sStart="null" offset="107" sid="r9.kill.v.0610" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="The paper adds that in a jailhouse interview Monday night, he told a TV reporter that he had dreamed about killing women for 30 years." />
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3287.anc" start="2347" end="2351" sStart="null" offset="145" sid="r10.find.v.0708" wn="3" wnkey="find%2:40:00::" annotator="brubin" text="The suspect had previously hidden evidence from investigators but had also written them an anonymous letter leading them to a body they couldn't find." />
+    <s path="[OANC]/data/written_1/journal/slate/9/Article247_3287.anc" start="3632" end="3639" sStart="null" offset="105" sid="r11.benefit.n.0303" wn="2147483645" wnkey="null" annotator="adelpriore" text="In other words, the folks who have benefited least from the upswing in salaries or the stock market also benefit least from the Republican tax stance." />
+  </sentences>
+</list>

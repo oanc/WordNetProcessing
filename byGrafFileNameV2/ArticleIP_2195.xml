@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/33/ArticleIP_2195.anc" start="674" end="683" sStart="-1" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="veweser" text="The first year has, of course, brought both &lt;b&gt;successes&lt;/b&gt; and disappointments." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/33/ArticleIP_2195.anc" start="674" end="683" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="cgozo" text="The first year has, of course, brought both &lt;b&gt;successes&lt;/b&gt; and disappointments." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/33/ArticleIP_2195.anc" start="674" end="683" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="The first year has, of course, brought both &lt;b&gt;successes&lt;/b&gt; and disappointments." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2195.anc" start="1041" end="1045" sStart="null" offset="8" sid="r7.1.easy.j.0574" wn="1" wnkey="easy%3:00:01::" annotator="jeneale" text="it's an easy mistake to make)." />
+  </sentences>
+</list>

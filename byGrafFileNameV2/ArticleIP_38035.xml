@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_38035.anc" start="4321" end="4326" sStart="4057" offset="284" sid="r9.sense.n.0121" wn="1" wnkey="sense%1:09:05::" annotator="veweser" text="Turow's just gets richer and smarter&quot; (Tom DeHaven, Entertainment Weekly ). Michiko Kakutani delivers one of the few downbeat reviews, claiming that the novel &quot;imparts little of the insider's knowledge&quot; that graced his other books and that &quot;it lacks a fundamental sense of suspense&quot; (the New York Times ). (Click here to read an excerpt from the book.)" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_38035.anc" start="1060" end="1068" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" annotator="jeneale" text="full of bravura moments and high-wire performances&quot; ( Newsweek ), and Roger Ebert raves that &quot;it contains some of [Scorsese's] most brilliant sequences&quot; ( Chicago Sun-Times ). Overall, though, the reviews complain that the film feels too familiar and short on plot." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_38035.anc" start="1060" end="1068" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" annotator="carichter" text="full of bravura moments and high-wire performances&quot; ( Newsweek ), and Roger Ebert raves that &quot;it contains some of [Scorsese's] most brilliant sequences&quot; ( Chicago Sun-Times ). Overall, though, the reviews complain that the film feels too &lt;b&gt;familiar&lt;/b&gt; and short on plot." />
+  </sentences>
+</list>

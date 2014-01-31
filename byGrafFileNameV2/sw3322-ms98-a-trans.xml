@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3322-ms98-a-trans.anc" start="5870" end="5874" sStart="5829" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" annotator="veweser" text="oh yeah i &lt;b&gt;lost&lt;/b&gt; twenty five pounds yeah i &lt;b&gt;lost&lt;/b&gt; twenty five pounds now you can do the same oh yeah" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3322-ms98-a-trans.anc" start="6033" end="6041" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="cgozo" text="uh-huh and &lt;b&gt;exercise&lt;/b&gt; and do all this fancy stuff at morning noon and night" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3322-ms98-a-trans.anc" start="6033" end="6041" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="brubin" text="uh-huh and &lt;b&gt;exercise&lt;/b&gt; and do all this fancy stuff at morning noon and night" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3322-ms98-a-trans.anc" start="6033" end="6041" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="bpassonneau" text="uh-huh and &lt;b&gt;exercise&lt;/b&gt; and do all this fancy stuff at morning noon and night" />
+  </sentences>
+</list>

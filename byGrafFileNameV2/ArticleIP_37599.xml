@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_37599.anc" start="153" end="158" sStart="-1" offset="0" sid="null" wn="3" wnkey="part%1:17:00::" annotator="carichter" text="&quot;This is a dream for me--to find the soft &lt;b&gt;parts&lt;/b&gt; and touch them and even smell them." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_37599.anc" start="1206" end="1212" sStart="null" offset="0" sid="null" wn="3" wnkey="forget%2:31:03::" annotator="veweser" text="(You &lt;b&gt;forgot&lt;/b&gt; to mention she was lip-syncing &quot;Helter Skelter.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_37599.anc" start="1206" end="1212" sStart="null" offset="0" sid="null" wn="3" wnkey="forget%2:31:03::" annotator="tofox" text="(You &lt;b&gt;forgot&lt;/b&gt; to mention she was lip-syncing &quot;Helter Skelter.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_37599.anc" start="2894" end="2905" sStart="null" offset="137" sid="r11.combination.n.0635" wn="1" wnkey="combination%1:14:00::" annotator="anfahmy" text="The ad is for the Mills Corp.'s 10 th and newest mall, each organized around the theme &quot;total experience,&quot; by which is meant a combination of shopping and entertainment, by which is meant a chance to buy stuff at Foot Locker and then play a video game." />
+  </sentences>
+</list>

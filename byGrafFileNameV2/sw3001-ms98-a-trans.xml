@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3001-ms98-a-trans.anc" start="1308" end="1312" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="yeah they're hospitals that they're uh agreeing with uh TI that they'll be a certain &lt;b&gt;rate&lt;/b&gt; you know for rooms and care and all that kind of stuff to keep costs you know costs down" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3001-ms98-a-trans.anc" start="1308" end="1312" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="yeah they're hospitals that they're uh agreeing with uh TI that they'll be a certain &lt;b&gt;rate&lt;/b&gt; you know for rooms and care and all that kind of stuff to keep costs you know costs down" />
+  </sentences>
+</list>

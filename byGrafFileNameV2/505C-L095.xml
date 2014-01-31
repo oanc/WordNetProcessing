@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/letters/icic/505C-L095.anc" start="2197" end="2202" sStart="-1" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" annotator="cgozo" text="I have enclosed a brochure which &lt;b&gt;tells&lt;/b&gt; you more about the Chancellor's Circle and which includes a reply card." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/505C-L095.anc" start="1449" end="1456" sStart="null" offset="0" sid="null" wn="2" wnkey="success%1:04:00::" annotator="cgozo" text="Your support of the Chancellor's Circle will contribute to the &lt;b&gt;success&lt;/b&gt; of the campus as our community and IUPUI continue to grow and to change." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/505C-L095.anc" start="1449" end="1456" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="Your support of the Chancellor's Circle will contribute to the &lt;b&gt;success&lt;/b&gt; of the campus as our community and IUPUI continue to grow and to change." />
+    <s path="[OANC]/data/written_1/letters/icic/505C-L095.anc" start="843" end="850" sStart="null" offset="313" sid="r10.help.v.0811" wn="1" wnkey="help%2:41:00::" annotator="cgozo" text="Contributions to the Chancellor's Circle have already been extraordinarily valuable to IUPUI and to Jerry: by helping to recruit a national expert in institutional planning, Trudy Banta, by bringing the advice of consultants on such topics as race relations and freshman retention, and by helping us to strengthen our ties with the community through participation in programs like WordStruck, Indiana's four-day festival of books and reading." />
+  </sentences>
+</list>

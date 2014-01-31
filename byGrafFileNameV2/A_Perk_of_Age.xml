@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Media/A_Perk_of_Age.anc" start="1057" end="1063" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="Anyone who meets the age requirement can call the hot line, but hands-on legal counsel goes first to &lt;b&gt;people&lt;/b&gt; with the greatest financial or social needs." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Media/A_Perk_of_Age.anc" start="1057" end="1063" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="Anyone who meets the age requirement can call the hot line, but hands-on legal counsel goes first to &lt;b&gt;people&lt;/b&gt; with the greatest financial or social needs." />
+    <s path="[OANC]/data/written_2/technical/government/Media/A_Perk_of_Age.anc" start="731" end="739" sStart="null" offset="80" sid="r11.benefit.n.0440" wn="1" wnkey="benefit%1:21:00::" annotator="anfahmy" text="The hot lines and referral services tackle estate planning, pension, and health benefits, elder abuse and neglect, guardianship custodial issues involving grandchildren, consumer protection and other elder-law issues." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2285.anc" start="6996" end="6999" sStart="6987" offset="9" sid="r7.1.use.v.0673" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="He could use the complex House rules to smother the bill." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2285.anc" start="6141" end="6144" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="comcgeetubb" text="This kind of public execution of reform would look terrible, so Lott might &lt;b&gt;try&lt;/b&gt; to mitigate a filibuster by offering as a substitute his own phony reform bill . Think of this as a &quot;pod&quot; or replicate version of campaign-finance reform." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2285.anc" start="5455" end="5461" sStart="null" offset="26" sid="r11.strong.j.0345" wn="2147483644" wnkey="null" annotator="adelpriore" text="If McCain holds out for a strong bill, Lott may have no alternative to an old-fashioned filibuster . Supporters of McCain-Feingold will probably need not just 50 votes for victory (with the tie to be broken by Al Gore) but 60 votes to invoke &quot;cloture&quot; and break a filibuster." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2285.anc" start="5193" end="5198" sStart="null" offset="151" sid="r8.state.n.0835" wn="1" wnkey="state%1:15:01::" annotator="brubin" text="He might try to undo the ban on direct corporate and labor contributions that has been in effect since 1907 or undo soft-money restrictions by leaving state committees free to dabble in federal races." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2285.anc" start="7736" end="7741" sStart="null" offset="94" sid="r8.life.n.0951" wn="5" wnkey="life%1:28:00::" annotator="brubin" text="And that's just the stuff they've thought of so far . McCain-Feingold may be a bill with nine lives." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2285.anc" start="6819" end="6823" sStart="null" offset="88" sid="r9.kill.v.0344" wn="2" wnkey="kill%2:41:01::" annotator="brubin" text="If McCain-Feingold gains enough shame-leverage to pass the Senate, expect an attempt to kill it in the House." />
+  </sentences>
+</list>

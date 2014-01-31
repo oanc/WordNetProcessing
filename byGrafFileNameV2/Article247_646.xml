@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_646.anc" start="1186" end="1190" sStart="-1" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="veweser" text="The NYT says that family planning groups are pushing federal and state lawmakers to mandate employer coverage of contraception as &lt;b&gt;part&lt;/b&gt; of employee healthcare plans." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_646.anc" start="1186" end="1190" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="The NYT says that family planning groups are pushing federal and state lawmakers to mandate employer coverage of contraception as &lt;b&gt;part&lt;/b&gt; of employee healthcare plans." />
+  </sentences>
+</list>

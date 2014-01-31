@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3463-ms98-a-trans.anc" start="2845" end="2849" sStart="2840" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="veweser" text="they &lt;b&gt;lose&lt;/b&gt; it they say wow this is harder than i thought well hm you know" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3463-ms98-a-trans.anc" start="1998" end="2003" sStart="null" offset="0" sid="null" wn="4" wnkey="force%1:14:00::" annotator="veweser" text="you'd say no i work in the home and it was it was then it was almost like a put down particularly particularly even by women in the work &lt;b&gt;force&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3463-ms98-a-trans.anc" start="1998" end="2003" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="you'd say no i work in the home and it was it was then it was almost like a put down particularly particularly even by women in the work &lt;b&gt;force&lt;/b&gt;" />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33556.anc" start="2559" end="2566" sStart="-1" offset="0" sid="null" wn="2" wnkey="succeed%2:41:01::" annotator="cgozo" text="If history repeats itself, we ought to be able to figure out who's destined to &lt;b&gt;succeed&lt;/b&gt; Bill Clinton in the White House." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_33556.anc" start="2559" end="2566" sStart="null" offset="0" sid="null" wn="2" wnkey="succeed%2:41:01::" annotator="brubin" text="If history repeats itself, we ought to be able to figure out who's destined to &lt;b&gt;succeed&lt;/b&gt; Bill Clinton in the White House." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33556.anc" start="492" end="501" sStart="null" offset="122" sid="r1.legendary.j.0051" wn="1" wnkey="legendary%5:00:00:known:00" annotator="sophiavv" text="Senior statesmen of Henry's own Lancastrian party judged him an unworthy successor to their previous standard-bearer, the legendary Henry V, identified in the popular mind with the romance of chivalry and the tragedy of an early death." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33556.anc" start="492" end="501" sStart="null" offset="122" sid="r1.legendary.j.0051" wn="1" wnkey="legendary%5:00:00:known:00" annotator="anfahmy" text="Senior statesmen of Henry's own Lancastrian party judged him an unworthy successor to their previous standard-bearer, the legendary Henry V, identified in the popular mind with the romance of chivalry and the tragedy of an early death." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33556.anc" start="492" end="501" sStart="null" offset="122" sid="r1.legendary.j.0051" wn="1" wnkey="legendary%5:00:00:known:00" annotator="adelpriore" text="Senior statesmen of Henry's own Lancastrian party judged him an unworthy successor to their previous standard-bearer, the legendary Henry V, identified in the popular mind with the romance of chivalry and the tragedy of an early death." />
+  </sentences>
+</list>

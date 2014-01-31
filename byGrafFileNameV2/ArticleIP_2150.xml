@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="1932" end="1935" sStart="1868" offset="64" sid="r8.way.n.0739" wn="2147483647" wnkey="null" annotator="brubin" text="4) Bill Gates will not have you killed . By the way, e-mail delivery of Slate makes a marvelous Christmas present." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="955" end="960" sStart="null" offset="105" sid="r9.paper.n.0131" wn="4" wnkey="paper%1:10:00::" annotator="cgozo" text="What you get, every Friday afternoon, is a file, nicely formatted and ready to be printed out on 8? x 11 paper." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="1240" end="1248" sStart="null" offset="71" sid="r11.function.n.0190" wn="3" wnkey="function%1:04:00::" annotator="vebatchelder" text="But if, for any reason, you cannot or would prefer not to perform this function (as the flight attendants like to say), just e-mail us at slate@msn.com." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="2475" end="2483" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="veweser" text="And you may even enjoy the &lt;b&gt;exercise&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="2475" end="2483" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="jeneale" text="And you may even enjoy the &lt;b&gt;exercise&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="2475" end="2483" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="cgozo" text="And you may even enjoy the &lt;b&gt;exercise&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="2475" end="2483" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="brubin" text="And you may even enjoy the &lt;b&gt;exercise&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="1784" end="1788" sStart="null" offset="5" sid="r7.1.easy.j.0809" wn="1" wnkey="easy%3:00:01::" annotator="veweser" text="It's easy." />
+    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2150.anc" start="1067" end="1071" sStart="null" offset="14" sid="r7.1.easy.j.0721" wn="1" wnkey="easy%3:00:01::" annotator="veweser" text="Signing up is easy: Just go to the &quot;Slate Help&quot; page (or click here, you lazy bum) and type in your e-mail address." />
+  </sentences>
+</list>

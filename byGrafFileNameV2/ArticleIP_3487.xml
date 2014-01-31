@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/44/ArticleIP_3487.anc" start="621" end="624" sStart="614" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="veweser" text="He had &lt;b&gt;won&lt;/b&gt; 16 consecutive races and been named Horse of the Year twice in a row." />
+    <s path="[OANC]/data/written_1/journal/slate/44/ArticleIP_3487.anc" start="6086" end="6093" sStart="null" offset="119" sid="r10.wait.v.0457" wn="1" wnkey="wait%2:42:00::" annotator="veweser" text="Obviously, the traditional breeding method is a lot harder than just letting a couple of horses loose in a pasture and waiting for nature to take its course." />
+    <s path="[OANC]/data/written_1/journal/slate/44/ArticleIP_3487.anc" start="1620" end="1626" sStart="null" offset="25" sid="r11.strong.j.0361" wn="1" wnkey="strong%3:00:00::" annotator="vebatchelder" text="This incredibly fast and strong and durable thoroughbred, heroic of stature and stout of heart, was a genetic dead end." />
+    <s path="[OANC]/data/written_1/journal/slate/44/ArticleIP_3487.anc" start="3621" end="3626" sStart="null" offset="51" sid="r7.sound.n.0347" wn="2" wnkey="sound%1:09:00::" annotator="brubin" text="He looked as though he wasn't sure if he liked the sound of that term." />
+    <s path="[OANC]/data/written_1/journal/slate/44/ArticleIP_3487.anc" start="6140" end="6145" sStart="null" offset="15" sid="r7.sight.n.0194" wn="7" wnkey="sight%1:23:00::" annotator="jeneale" text="And it's a far sight harder than artificial insemination." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/44/ArticleIP_3487.anc" start="11301" end="11308" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="comcgeetubb" text="&quot;We had a tradition along the Eastern Seaboard of horse &lt;b&gt;players&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/44/ArticleIP_3487.anc" start="3857" end="3860" sStart="null" offset="21" sid="r9.hit.v.0428" wn="2" wnkey="hit%2:35:01::" annotator="brubin" text="&quot;If she were to hit the stallion in the penis, we'd be out of business,&quot; Pons said." />
+    <s path="[OANC]/data/written_1/journal/slate/44/ArticleIP_3487.anc" start="8524" end="8528" sStart="null" offset="11" sid="r7.1.easy.j.0921" wn="1" wnkey="easy%3:00:01::" annotator="veweser" text="Nothing is easy." />
+  </sentences>
+</list>

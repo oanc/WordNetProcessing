@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/wsj_0161.anc" start="468" end="473" sStart="435" offset="33" sid="null" wn="2147483647" wnkey="null" annotator="sophiavv" text="In addition, Hadson said it will write off about $3.5 million in costs related to international exploration leases where exploration efforts have been unsuccessful." />
+    <s path="[MASC]/data/written/wsj_0161.anc" start="350" end="361" sStart="null" offset="183" sid="null" wn="" wnkey="null" annotator="ksuderman" text="The Oklahoma City energy and defense concern said it will record a $7.5 million reserve for its defense group, including a $4.7 million charge related to problems under a fixed-price development contract and $2.8 million in overhead costs that won't be reimbursed." />
+    <s path="[MASC]/data/written/wsj_0161.anc" start="350" end="361" sStart="null" offset="183" sid="null" wn="5" wnkey="development%1:04:02::" annotator="anfahmy" text="The Oklahoma City energy and defense concern said it will record a $7.5 million reserve for its defense group, including a $4.7 million charge related to problems under a fixed-price development contract and $2.8 million in overhead costs that won't be reimbursed." />
+  </sentences>
+</list>

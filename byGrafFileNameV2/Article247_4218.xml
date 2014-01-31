@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4218.anc" start="1842" end="1849" sStart="1741" offset="101" sid="r7.serve.v.0368" wn="9" wnkey="serve%2:42:00::" annotator="cgozo" text="The name Kaczynski is, of course, most closely associated with the Unabomber, Ted Kaczynski , who is serving a life term in federal prison." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/19/Article247_4218.anc" start="641" end="645" sStart="null" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" annotator="cgozo" text="" />
+    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4218.anc" start="464" end="472" sStart="null" offset="145" sid="r9.appear.v.0617" wn="3" wnkey="appear%2:30:01::" annotator="veweser" text="Masha Gessen is the chief correspondent for Itogi , the Russian affiliate of Newsweek . Her reports on the turmoil in post-Communist Russia have appeared in the New Republic , the Christian Science Monitor , the Moscow Times (the city's English language daily), and" />
+  </sentences>
+</list>

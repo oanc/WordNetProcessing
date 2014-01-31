@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_592.anc" start="3475" end="3480" sStart="3471" offset="4" sid="r9.paper.n.0863" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="The paper quotes the gloss provided by Manpower's chairman: &quot;There has never been a job market even close to this.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_592.anc" start="816" end="820" sStart="null" offset="74" sid="r9.late.j.0596" wn="1" wnkey="late%3:00:00::" annotator="brubin" text="The NYT lead reports that two prominent political prisoners were released late Monday night, one a labor leader jailed for inciting a riot, and the other a former legislator jailed for insulting Suharto." />
+  </sentences>
+</list>

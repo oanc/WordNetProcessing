@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3404.anc" start="1036" end="1042" sStart="1030" offset="6" sid="r8.state.n.0571" wn="1" wnkey="state%1:15:01::" annotator="brubin" text="Three states and the District of Columbia impose tougher penalties for crimes based on political affiliation." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3404.anc" start="1826" end="1836" sStart="null" offset="104" sid="r10.particular.j.0377" wn="2" wnkey="particular%5:00:02:specific:00" annotator="veweser" text="They argue that criminals should be punished for their crimes, not for their motives, and that making a particular belief--even a repugnant one--a factor in sentencing violates the First Amendment." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3404.anc" start="494" end="498" sStart="null" offset="7" sid="r9.kill.v.0453" wn="1" wnkey="kill%2:35:00::" annotator="veweser" text="If you kill your mother-in-law because you hate her, that is not a hate crime." />
+  </sentences>
+</list>

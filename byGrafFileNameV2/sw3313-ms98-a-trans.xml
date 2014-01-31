@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3313-ms98-a-trans.anc" start="2287" end="2293" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="as far as &lt;b&gt;people&lt;/b&gt; seeing something happen you know across the street or" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3313-ms98-a-trans.anc" start="2287" end="2293" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="as far as &lt;b&gt;people&lt;/b&gt; seeing something happen you know across the street or" />
+  </sentences>
+</list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3109-ms98-a-trans.anc" start="4583" end="4589" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="yeah it uh well no it's a it's got bucket seats in the front and you can fit you can fit five &lt;b&gt;people&lt;/b&gt; in it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3109-ms98-a-trans.anc" start="4583" end="4589" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="yeah it uh well no it's a it's got bucket seats in the front and you can fit you can fit five &lt;b&gt;people&lt;/b&gt; in it" />
+  </sentences>
+</list>

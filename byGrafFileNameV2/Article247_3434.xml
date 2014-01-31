@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/11/Article247_3434.anc" start="2292" end="2296" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="kaolla" text="But I'm behind in my &lt;b&gt;work&lt;/b&gt;." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/11/Article247_3434.anc" start="2292" end="2296" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="carichter" text="But I'm behind in my &lt;b&gt;work&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3434.anc" start="410" end="414" sStart="null" offset="0" sid="null" wn="5" wnkey="date%1:28:03::" annotator="cgozo" text="His birthday is next week (ironically, on the same &lt;b&gt;date&lt;/b&gt; as my mother, who passed away 16 years ago) and that's all he can talk about." />
+  </sentences>
+</list>

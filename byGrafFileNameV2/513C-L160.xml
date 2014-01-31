@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/513C-L160.anc" start="60" end="67" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="In &lt;b&gt;writing&lt;/b&gt; our invitations for this years century Club reception we noticed that you did not renew your membership for 1989." />
+    <s path="[OANC]/data/written_1/letters/icic/513C-L160.anc" start="831" end="834" sStart="null" offset="22" sid="r8.way.n.0499" wn="2" wnkey="way%1:04:01::" annotator="brubin" text="If there is any way I can be of assistance, just let me know." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L160.anc" start="977" end="981" sStart="null" offset="0" sid="null" wn="4" wnkey="time%1:28:06::" annotator="carichter" text="There's still &lt;b&gt;time&lt;/b&gt; to be listed in the ALUMNI BULLETIN and for us to send you an invitation to the Century Club reception on May 3rd." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L160.anc" start="871" end="875" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="elstickles" text="If there is any way I can be of assistance, just let me &lt;b&gt;know&lt;/b&gt;." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L160.anc" start="871" end="875" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" annotator="carichter" text="If there is any way I can be of assistance, just let me &lt;b&gt;know&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/letters/icic/513C-L160.anc" start="727" end="733" sStart="null" offset="18" sid="r10.help.v.0750" wn="6" wnkey="help%2:41:12::" annotator="anfahmy" text="Your contribution helped make it possible for us to provide our students a quality education." />
+  </sentences>
+</list>

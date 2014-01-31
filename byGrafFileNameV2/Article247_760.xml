@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_760.anc" start="698" end="703" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="Why cut &lt;b&gt;rates&lt;/b&gt;?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_760.anc" start="698" end="703" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="Why cut &lt;b&gt;rates&lt;/b&gt;?" />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3480.anc" start="1075" end="1079" sStart="1069" offset="6" sid="r11.true.j.0796" wn="1" wnkey="true%3:00:00::" annotator="vebatchelder" text="It is true though that the Internet is well-suited to these nefarious tasks with its ability to reach out to more easy marks." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3480.anc" start="4384" end="4391" sStart="null" offset="0" sid="null" wn="1" wnkey="justify%2:32:00::" annotator="veweser" text="I don't know if Amazon can ever make the kind of money that will &lt;b&gt;justify&lt;/b&gt; its lofty stock price, although it certainly seems adept at spending cash." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3480.anc" start="4384" end="4391" sStart="null" offset="0" sid="null" wn="1" wnkey="justify%2:32:00::" annotator="carichter" text="I don't know if Amazon can ever make the kind of money that will &lt;b&gt;justify&lt;/b&gt; its lofty stock price, although it certainly seems adept at spending cash." />
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3480.anc" start="1183" end="1187" sStart="null" offset="114" sid="r7.1.easy.j.0942" wn="6" wnkey="easy%5:00:00:impressionable:00" annotator="jeneale" text="It is true though that the Internet is well-suited to these nefarious tasks with its ability to reach out to more easy marks." />
+  </sentences>
+</list>

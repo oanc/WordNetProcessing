@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3290-ms98-a-trans.anc" start="2860" end="2864" sStart="2852" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="veweser" text="usually &lt;b&gt;warm&lt;/b&gt; i mean we've had a few cool days uh this month but not anything i'm sure compared to what you've had so far so i mean people are still wearing shorts and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3290-ms98-a-trans.anc" start="1895" end="1899" sStart="null" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="veweser" text="yeah yeah well i imagine that where you live uh you're in &lt;b&gt;warm&lt;/b&gt; clothing quite a bit of the year" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3290-ms98-a-trans.anc" start="2026" end="2030" sStart="null" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="cgozo" text="uh well not actually because we really only have maybe three four months of i'd say &lt;b&gt;warm&lt;/b&gt; weather" />
+  </sentences>
+</list>

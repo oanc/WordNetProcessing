@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/45/ArticleIP_3590.anc" start="2488" end="2493" sStart="-1" offset="0" sid="null" wn="5" wnkey="show%2:36:00::" annotator="elstickles" text="The photo on the cover of One Man's Garden &lt;b&gt;shows&lt;/b&gt; him in front of his green, murky pond." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/45/ArticleIP_3590.anc" start="2488" end="2493" sStart="null" offset="0" sid="null" wn="5" wnkey="show%2:36:00::" annotator="carichter" text="The photo on the cover of One Man's Garden &lt;b&gt;shows&lt;/b&gt; him in front of his green, murky pond." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3590.anc" start="5025" end="5033" sStart="null" offset="105" sid="r11.refer.v.0537" wn="7" wnkey="refer%2:32:04::" annotator="adelpriore" text="He reproached the much beloved garden at Dumbarton Oaks for its limited plant palate, especially what he referred to as the &quot;forsythia mess&quot;--a hillside covered in the yellow, early spring flowering shrub that others consider a bold sweep of color." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3590.anc" start="3457" end="3463" sStart="null" offset="91" sid="r8.live.v.0760" wn="2147483645" wnkey="null" annotator="cgozo" text="(He was never sure how someone who hated houseplants as much as he did could end up with a living room so full of plants each winter that it was impossible to walk or sit anywhere without being poked.)" />
+  </sentences>
+</list>

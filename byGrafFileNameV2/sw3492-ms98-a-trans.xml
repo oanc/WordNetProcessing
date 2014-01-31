@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3492-ms98-a-trans.anc" start="569" end="580" sStart="-1" offset="0" sid="null" wn="1" wnkey="transfer%2:41:00::" annotator="tofox" text="uh well no well my husband was &lt;b&gt;transferred&lt;/b&gt; down here" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3492-ms98-a-trans.anc" start="1518" end="1525" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="veweser" text="you know i think he uh he could should he could have taken more &lt;b&gt;chances&lt;/b&gt; this year" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3492-ms98-a-trans.anc" start="1518" end="1525" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="tofox" text="you know i think he uh he could should he could have taken more &lt;b&gt;chances&lt;/b&gt; this year" />
+  </sentences>
+</list>

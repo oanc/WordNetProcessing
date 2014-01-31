@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3783.anc" start="6771" end="6775" sStart="6620" offset="151" sid="r8.way.n.0253" wn="1" wnkey="way%1:07:01::" annotator="veweser" text=") Chatterbox would think that part of the burden of working at the Nixon Library is conceding that Richard Nixon, while no doubt misunderstood in many ways, was one wicked anti-Semite." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3783.anc" start="1908" end="1913" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="veweser" text="And they are &lt;b&gt;smart&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3783.anc" start="1908" end="1913" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="rstandig" text="And they are &lt;b&gt;smart&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3783.anc" start="1908" end="1913" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="jeneale" text="And they are &lt;b&gt;smart&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3783.anc" start="1908" end="1913" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="And they are &lt;b&gt;smart&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3783.anc" start="1908" end="1913" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="And they are &lt;b&gt;smart&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3783.anc" start="1908" end="1913" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="bpassonneau" text="And they are &lt;b&gt;smart&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3783.anc" start="1116" end="1121" sStart="null" offset="31" sid="r11.refer.v.0813" wn="4" wnkey="refer%2:38:00::" annotator="adelpriore" text="(The best Chatterbox can do is refer you to the quotations in the Post and Times stories, which were based on the reporters' own transcriptions.)" />
+  </sentences>
+</list>

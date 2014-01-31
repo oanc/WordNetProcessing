@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2666-ms98-a-trans.anc" start="402" end="411" sStart="-1" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="i'd noticed that in the in the TV Guide and i'd totally &lt;b&gt;forgotten&lt;/b&gt; all about that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2666-ms98-a-trans.anc" start="402" end="411" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="tofox" text="i'd noticed that in the in the TV Guide and i'd totally &lt;b&gt;forgotten&lt;/b&gt; all about that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2666-ms98-a-trans.anc" start="5032" end="5038" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="you know like Steve uh Steve Meister and and it's like wherever i go anymore i've uh i get got a &lt;b&gt;chance&lt;/b&gt; not only to to visit a few companies and all that around here and uh" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/26/sw2666-ms98-a-trans.anc" start="5032" end="5038" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="you know like Steve uh Steve Meister and and it's like wherever i go anymore i've uh i get got a &lt;b&gt;chance&lt;/b&gt; not only to to visit a few companies and all that around here and uh" />
+  </sentences>
+</list>

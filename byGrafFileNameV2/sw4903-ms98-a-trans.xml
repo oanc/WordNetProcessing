@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4903-ms98-a-trans.anc" start="2215" end="2220" sStart="-1" offset="0" sid="null" wn="7" wnkey="power%1:07:02::" annotator="carichter" text="Soviet Union i think that a lot happened with the dissolution of their of their military &lt;b&gt;power&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4903-ms98-a-trans.anc" start="3871" end="3876" sStart="null" offset="0" sid="null" wn="8" wnkey="image%1:07:01::" annotator="cgozo" text="probably or uh or uh &lt;b&gt;image&lt;/b&gt; there is pretty good most places as i understand it" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4903-ms98-a-trans.anc" start="3344" end="3350" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" annotator="veweser" text="um think if uh Yeltsin has a &lt;b&gt;chance&lt;/b&gt; and if they can follow his lead in the other republics or whatever they want to call themselves now" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4903-ms98-a-trans.anc" start="3344" end="3350" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="um think if uh Yeltsin has a &lt;b&gt;chance&lt;/b&gt; and if they can follow his lead in the other republics or whatever they want to call themselves now" />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_28573.anc" start="662" end="668" sStart="658" offset="4" sid="r7.serve.v.0424" wn="6" wnkey="serve_up%2:34:00::" annotator="cgozo" text="Who served up this baloney on Sunday, to inspire whom, to do what?" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_28573.anc" start="3472" end="3477" sStart="null" offset="62" sid="r9.paper.n.0684" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="The headlines must all come from a single edition of a single paper." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_28573.anc" start="187" end="194" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="cgozo" text="Fill in the blank on this tax tip from a Washington state IRS collection &lt;b&gt;officer&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_28573.anc" start="187" end="194" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="brubin" text="Fill in the blank on this tax tip from a Washington state IRS collection &lt;b&gt;officer&lt;/b&gt;." />
+  </sentences>
+</list>

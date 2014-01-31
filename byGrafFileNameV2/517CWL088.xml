@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/517CWL088.anc" start="75" end="82" sStart="-1" offset="0" sid="null" wn="3" wnkey="write%2:32:08::" annotator="tofox" text="Why am I &lt;b&gt;writing&lt;/b&gt; today to ask you to support Purdue University?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/517CWL088.anc" start="404" end="408" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="veweser" text="Purdue has been a &lt;b&gt;part&lt;/b&gt; of my life for as long as I can remember." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/517CWL088.anc" start="404" end="408" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="Purdue has been a &lt;b&gt;part&lt;/b&gt; of my life for as long as I can remember." />
+  </sentences>
+</list>

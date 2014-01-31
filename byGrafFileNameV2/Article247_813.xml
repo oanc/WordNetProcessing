@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_813.anc" start="2095" end="2106" sStart="2053" offset="42" sid="r11.recommend.v.0304" wn="1" wnkey="recommend%2:32:01::" annotator="vebatchelder" text="The papers report that Madeleine Albright recommended the Cuba ease-up to President Clinton yesterday and that he is expected to announce it today." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_813.anc" start="3238" end="3248" sStart="null" offset="78" sid="r10.particular.j.0836" wn="2" wnkey="particular%5:00:02:specific:00" annotator="brubin" text="None of the papers mention why baseball may be especially well suited to this particular irenic cause: Castro was once a very good pitcher, even drafted by the Washington Senators." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_813.anc" start="903" end="908" sStart="null" offset="10" sid="r10.board.n.0140" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="The state Board of Regents, of which Davis is a member, could take up the idea next month." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_813.anc" start="1755" end="1759" sStart="null" offset="80" sid="r11.able.j.0392" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="The main upshot of the Cuba moves, say the NYT and WP , is that Cubans would be able to receive more money from American friends and family members, there'd be more direct flights between the two countries, and direct mail service would be reestablished." />
+  </sentences>
+</list>

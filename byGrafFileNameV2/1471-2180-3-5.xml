@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2180-3-5.anc" start="38937" end="38941" sStart="38860" offset="77" sid="r7.1.use.v.0071" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="The Vybrant Apoptosis Assay Kit (Molecular Probes, Eugene, OG) was used to detect osteoblast apoptosis." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2180-3-5.anc" start="29161" end="29165" sStart="null" offset="48" sid="r7.1.use.v.0898" wn="1" wnkey="use%2:34:01::" annotator="jeneale" text="The highest concentration of antibodies used significantly reduced the level of caspase-8 activation in S. aureus -infected osteoblast cultures (p &lt; 0.05)." />
+  </sentences>
+</list>

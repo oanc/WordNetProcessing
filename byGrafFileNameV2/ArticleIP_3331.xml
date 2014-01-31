@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3331.anc" start="1491" end="1494" sStart="1386" offset="105" sid="r8.way.n.0552" wn="1" wnkey="way%1:07:01::" annotator="cgozo" text="Almost every city in America has a publication like this, a paper that is parochial in the best possible way." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3331.anc" start="5372" end="5378" sStart="null" offset="114" sid="r7.strike.v.0279" wn="21" wnkey="strike%2:31:00::" annotator="brubin" text="(Sidewalk, on the other hand, is engaged in a nasty legal battle with Ticketmaster, and probably won't be able to strike a similar deal.)" />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3331.anc" start="209" end="214" sStart="null" offset="134" sid="r9.paper.n.0262" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="Before I indentured myself to Microsoft and its stock options, I worked for a publication called the Washington City Paper . The City Paper is what journalists pretentiously call an &quot;alternative weekly&quot; and what everyone else calls a &quot;rag.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3331.anc" start="1007" end="1012" sStart="null" offset="126" sid="r8.1.great.j.0907" wn="1" wnkey="great%5:00:01:large:00" annotator="brubin" text="Like any decent local paper, it views the city as the place of man's highest achievement, of clashing ideas, power struggles, great ambitions." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3331.anc" start="3156" end="3160" sStart="null" offset="10" sid="r9.full.j.0380" wn="2" wnkey="full%5:00:01:whole:00" annotator="brubin" text="Pause for full disclosure." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3331.anc" start="335" end="339" sStart="null" offset="19" sid="r9.full.j.0156" wn="1" wnkey="full%3:00:00::" annotator="brubin" text="It's a free paper, full of listings and reviews, that can be picked up from bookstores and restaurants on Thursday evenings, and from gutters and trash piles on Friday morning." />
+  </sentences>
+</list>

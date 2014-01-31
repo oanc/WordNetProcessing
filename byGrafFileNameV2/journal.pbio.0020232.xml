@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020232.anc" start="11488" end="11495" sStart="11474" offset="14" sid="r8.suggest.v.0944" wn="3" wnkey="suggest%2:32:02::" annotator="cgozo" text="These results suggest that the combination of ectopic Msx1 expression and serum stimulation can induce differentiated muscle cells to dedifferentiate into proliferating multipotent progenitor cells." />
+    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020232.anc" start="4782" end="4788" sStart="null" offset="145" sid="r7.serve.v.0557" wn="3" wnkey="serve%2:42:01::" annotator="veweser" text="The political, ethical, and religious controversies surrounding the use of human embryonic stem cells for therapeutic purposes have only served to increase the public's awareness of the promising potential of regenerative medicine." />
+  </sentences>
+</list>

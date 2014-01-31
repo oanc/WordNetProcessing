@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/1/Article247_47.anc" start="1254" end="1260" sStart="1197" offset="57" sid="r7.strike.n.0027" wn="1" wnkey="strike%1:04:00::" annotator="veweser" text="The Aug. 24 page offers straight-ahead pieces on the UPS strike and on current understanding of the cosmos, but the datelines are East Hampton, N.Y., and Chilmark, Mass." />
+    <s path="[OANC]/data/written_1/journal/slate/1/Article247_47.anc" start="1254" end="1260" sStart="null" offset="57" sid="r7.strike.n.0027" wn="1" wnkey="strike%1:04:00::" annotator="jeneale" text="The Aug. 24 page offers straight-ahead pieces on the UPS strike and on current understanding of the cosmos, but the datelines are East Hampton, N.Y., and Chilmark, Mass." />
+    <s path="[OANC]/data/written_1/journal/slate/1/Article247_47.anc" start="1254" end="1260" sStart="null" offset="57" sid="r7.strike.n.0027" wn="1" wnkey="strike%1:04:00::" annotator="cgozo" text="The Aug. 24 page offers straight-ahead pieces on the UPS strike and on current understanding of the cosmos, but the datelines are East Hampton, N.Y., and Chilmark, Mass." />
+    <s path="[OANC]/data/written_1/journal/slate/1/Article247_47.anc" start="1254" end="1260" sStart="null" offset="57" sid="r7.strike.n.0027" wn="1" wnkey="strike%1:04:00::" annotator="brubin" text="The Aug. 24 page offers straight-ahead pieces on the UPS strike and on current understanding of the cosmos, but the datelines are East Hampton, N.Y., and Chilmark, Mass." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/1/Article247_47.anc" start="851" end="857" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="carichter" text="He also describes in detail his moments on the &lt;b&gt;island&lt;/b&gt;'s Milk Meadows golf course." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/1/Article247_47.anc" start="472" end="478" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="carichter" text="Baker goes on to complain about the &lt;b&gt;island&lt;/b&gt;'s new popularity and the ostentatious displays of wealth." />
+  </sentences>
+</list>

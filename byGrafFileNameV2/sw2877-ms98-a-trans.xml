@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2877-ms98-a-trans.anc" start="5799" end="5805" sStart="5748" offset="0" sid="null" wn="1" wnkey="window%1:06:00::" annotator="veweser" text="he's got a way to get in he's got free access of a &lt;b&gt;window&lt;/b&gt; we like to keep open" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2877-ms98-a-trans.anc" start="3246" end="3249" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" annotator="veweser" text="anyway i uh &lt;b&gt;met&lt;/b&gt; my son's uh college roommate is a vet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2877-ms98-a-trans.anc" start="3246" end="3249" sStart="null" offset="0" sid="null" wn="6 1" wnkey="null" annotator="veweser" text="anyway i uh &lt;b&gt;met&lt;/b&gt; my son's uh college roommate is a vet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2877-ms98-a-trans.anc" start="3246" end="3249" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" annotator="jeneale" text="anyway i uh &lt;b&gt;met&lt;/b&gt; my son's uh college roommate is a vet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2877-ms98-a-trans.anc" start="3246" end="3249" sStart="null" offset="0" sid="null" wn="6 1" wnkey="null" annotator="a4" text="anyway i uh &lt;b&gt;met&lt;/b&gt; my son's uh college roommate is a vet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2877-ms98-a-trans.anc" start="3246" end="3249" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" annotator="a3" text="anyway i uh &lt;b&gt;met&lt;/b&gt; my son's uh college roommate is a vet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2877-ms98-a-trans.anc" start="3246" end="3249" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" annotator="a2" text="anyway i uh &lt;b&gt;met&lt;/b&gt; my son's uh college roommate is a vet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2877-ms98-a-trans.anc" start="3246" end="3249" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" annotator="a1" text="anyway i uh &lt;b&gt;met&lt;/b&gt; my son's uh college roommate is a vet" />
+  </sentences>
+</list>

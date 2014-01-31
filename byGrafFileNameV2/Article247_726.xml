@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_726.anc" start="1943" end="1949" sStart="1806" offset="137" sid="r11.refer.v.0217" wn="1" wnkey="refer%2:32:01::" annotator="vebatchelder" text="But both the NYT and LAT report that later on Monday, other issues were actually discussed--the NYT doesn't say what though, and the LAT refers only vaguely to the topic of further redeployments of Israeli troops." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_726.anc" start="4179" end="4184" sStart="null" offset="4" sid="r9.paper.n.0682" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="The paper says the recent criticisms represent a &quot;downturn&quot; in Clinton's standing with the military." />
+  </sentences>
+</list>

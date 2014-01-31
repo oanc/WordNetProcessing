@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_639.anc" start="1935" end="1941" sStart="1863" offset="72" sid="r11.severe.j.0161" wn="1" wnkey="severe%5:00:00:intense:00" annotator="anfahmy" text="Many apartheid-era blacks claimed mixed ancestry in order to avoid more severe restrictions, often changing family names and falsifying birth records." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_639.anc" start="3347" end="3351" sStart="null" offset="40" sid="r10.high.j.0257" wn="2147483647" wnkey="null" annotator="veweser" text="Today's Papers wonders if an inner-city high school might prove a more effective model." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_639.anc" start="2250" end="2254" sStart="null" offset="43" sid="r10.high.j.0714" wn="2147483647" wnkey="null" annotator="anfahmy" text="The WP takes a look at exploited immigrant high tech workers on its front." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_639.anc" start="2146" end="2153" sStart="null" offset="132" sid="r10.help.v.0542" wn="1" wnkey="help%2:41:00::" annotator="anfahmy" text="Cynics cite the opportune timing of coloreds' rediscovered blackness now that the black-majority government has instituted policies helping those who faired worst under apartheid." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_639.anc" start="1721" end="1725" sStart="null" offset="97" sid="r7.1.easy.j.0514" wn="1" wnkey="easy%3:00:01::" annotator="jeneale" text="The NYT does not explain why millions of dollars were needed to track two men later described as easy to find." />
+  </sentences>
+</list>

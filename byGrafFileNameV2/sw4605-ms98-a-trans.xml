@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/46/sw4605-ms98-a-trans.anc" start="2350" end="2354" sStart="-1" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="veweser" text="uh we get counseling and uh i think &lt;b&gt;part&lt;/b&gt; of our pay is docked if we're first time offenders" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/46/sw4605-ms98-a-trans.anc" start="2350" end="2354" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="jeneale" text="uh we get counseling and uh i think &lt;b&gt;part&lt;/b&gt; of our pay is docked if we're first time offenders" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/46/sw4605-ms98-a-trans.anc" start="2350" end="2354" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="carichter" text="uh we get counseling and uh i think &lt;b&gt;part&lt;/b&gt; of our pay is docked if we're first time offenders" />
+  </sentences>
+</list>

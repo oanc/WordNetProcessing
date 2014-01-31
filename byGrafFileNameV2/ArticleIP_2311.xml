@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2311.anc" start="6887" end="6893" sStart="6832" offset="55" sid="r7.strike.v.0217" wn="2" wnkey="strike%2:37:00::" annotator="veweser" text="The fact that voters can and do reject incumbents will strike them as an epiphany." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2311.anc" start="4305" end="4310" sStart="null" offset="60" sid="r8.state.n.0086" wn="1" wnkey="state%1:15:01::" annotator="veweser" text="If Colorado's representatives were to heed term limits, the state's congressional delegation would be less powerful than the delegations from states that don't recognize term limits." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2311.anc" start="4305" end="4310" sStart="null" offset="60" sid="r8.state.n.0086" wn="1" wnkey="state%1:15:01::" annotator="jeneale" text="If Colorado's representatives were to heed term limits, the state's congressional delegation would be less powerful than the delegations from states that don't recognize term limits." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2311.anc" start="4305" end="4310" sStart="null" offset="60" sid="r8.state.n.0086" wn="3" wnkey="state%1:14:01::" annotator="cgozo" text="If Colorado's representatives were to heed term limits, the state's congressional delegation would be less powerful than the delegations from states that don't recognize term limits." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2311.anc" start="4305" end="4310" sStart="null" offset="60" sid="r8.state.n.0086" wn="1" wnkey="state%1:15:01::" annotator="brubin" text="If Colorado's representatives were to heed term limits, the state's congressional delegation would be less powerful than the delegations from states that don't recognize term limits." />
+    <s path="[OANC]/data/written_1/journal/slate/35/ArticleIP_2311.anc" start="1628" end="1634" sStart="null" offset="35" sid="r9.appear.v.0160" wn="1" wnkey="appear%2:39:00::" annotator="brubin" text="Several of those freshmen actually appear to take the idea that they made a promise seriously and have reaffirmed their intentions of stepping down." />
+  </sentences>
+</list>

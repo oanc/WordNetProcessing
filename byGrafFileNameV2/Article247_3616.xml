@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3616.anc" start="1414" end="1418" sStart="-1" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="My husband says that one of the side-effects of this lower crime &lt;b&gt;rate&lt;/b&gt; is that police are arresting fewer people because so many criminals are already locked up." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3616.anc" start="1414" end="1418" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="My husband says that one of the side-effects of this lower crime &lt;b&gt;rate&lt;/b&gt; is that police are arresting fewer people because so many criminals are already locked up." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3616.anc" start="894" end="899" sStart="null" offset="17" sid="r8.1.great.j.0692" wn="4" wnkey="great%5:00:00:good:01" annotator="cgozo" text="I think Rudy's a great mayor, by the way, and a city probably needs a Fascist to run it, etc." />
+  </sentences>
+</list>

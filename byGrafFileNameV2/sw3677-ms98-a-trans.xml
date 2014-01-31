@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3677-ms98-a-trans.anc" start="3275" end="3286" sStart="-1" offset="0" sid="null" wn="1" wnkey="transfer%2:41:00::" annotator="tofox" text="this one couple that we were &lt;b&gt;transferred&lt;/b&gt; with uh bought a gas stove" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3677-ms98-a-trans.anc" start="3116" end="3127" sStart="null" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" annotator="tofox" text="uh our headquarters was &lt;b&gt;transferred&lt;/b&gt; from South Carolina to Texas one time" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3677-ms98-a-trans.anc" start="2346" end="2351" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="veweser" text="when we got out of school my husband got recalled into the Air &lt;b&gt;Force&lt;/b&gt; when the Korean mess came up" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3677-ms98-a-trans.anc" start="2346" end="2351" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="when we got out of school my husband got recalled into the Air &lt;b&gt;Force&lt;/b&gt; when the Korean mess came up" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3677-ms98-a-trans.anc" start="1029" end="1036" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="jeneale" text="i'm i'm &lt;b&gt;curious&lt;/b&gt; about the things that you did that that seemed to work best for you that you'd pass on to somebody else" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3677-ms98-a-trans.anc" start="1029" end="1036" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="cgozo" text="i'm i'm &lt;b&gt;curious&lt;/b&gt; about the things that you did that that seemed to work best for you that you'd pass on to somebody else" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3677-ms98-a-trans.anc" start="1029" end="1036" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="brubin" text="i'm i'm &lt;b&gt;curious&lt;/b&gt; about the things that you did that that seemed to work best for you that you'd pass on to somebody else" />
+  </sentences>
+</list>

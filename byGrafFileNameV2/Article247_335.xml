@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/2/Article247_335.anc" start="3992" end="3997" sStart="-1" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="kaolla" text="One is that you're nearly four &lt;b&gt;times&lt;/b&gt; as likely to be miserable if you make less than $15,000 than you would be if you made more than $35,000." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/2/Article247_335.anc" start="3992" end="3997" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="One is that you're nearly four &lt;b&gt;times&lt;/b&gt; as likely to be miserable if you make less than $15,000 than you would be if you made more than $35,000." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/2/Article247_335.anc" start="3851" end="3855" sStart="null" offset="0" sid="null" wn="3" wnkey="show%2:32:00::" annotator="elstickles" text="While it's true that, overall, these data &lt;b&gt;show&lt;/b&gt; that money doesn't dramatically affect the distribution of happiness, let's examine some of the nuances." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/2/Article247_335.anc" start="3851" end="3855" sStart="null" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" annotator="carichter" text="While it's true that, overall, these data &lt;b&gt;show&lt;/b&gt; that money doesn't dramatically affect the distribution of happiness, let's examine some of the nuances." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/2/Article247_335.anc" start="4786" end="4792" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="Money may not buy happiness, but if you're already happy there's a decent &lt;b&gt;chance&lt;/b&gt; it will make you more happy!" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/2/Article247_335.anc" start="4786" end="4792" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="carichter" text="Money may not buy happiness, but if you're already happy there's a decent &lt;b&gt;chance&lt;/b&gt; it will make you more happy!" />
+  </sentences>
+</list>

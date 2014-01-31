@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_31240.anc" start="4679" end="4689" sStart="-1" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="veweser" text="Students at University of California, Irvine claim they are &lt;b&gt;succeeding&lt;/b&gt; in a supportive atmosphere." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_31240.anc" start="4679" end="4689" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="cgozo" text="Students at University of California, Irvine claim they are &lt;b&gt;succeeding&lt;/b&gt; in a supportive atmosphere." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_31240.anc" start="4679" end="4689" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="brubin" text="Students at University of California, Irvine claim they are &lt;b&gt;succeeding&lt;/b&gt; in a supportive atmosphere." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31240.anc" start="2131" end="2137" sStart="null" offset="77" sid="r8.family.n.0390" wn="2" wnkey="family%1:14:00::" annotator="jeneale" text="The cover story is an oral history of Stanley Kubrick told by film types and family members." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31240.anc" start="2563" end="2567" sStart="null" offset="18" sid="r7.1.easy.j.0828" wn="1" wnkey="easy%3:00:01::" annotator="cgozo" text="Motels are fairly easy to run and come with a house, and many were for sale at the time Indians began immigrating to the United States in large numbers." />
+  </sentences>
+</list>

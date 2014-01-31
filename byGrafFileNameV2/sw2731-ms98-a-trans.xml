@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2731-ms98-a-trans.anc" start="8480" end="8487" sStart="-1" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="and apparently no charges were filed against the owner of the gun who happened to be a police &lt;b&gt;officer&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2731-ms98-a-trans.anc" start="8480" end="8487" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="and apparently no charges were filed against the owner of the gun who happened to be a police &lt;b&gt;officer&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2731-ms98-a-trans.anc" start="10656" end="10662" sStart="null" offset="0" sid="null" wn="5" wnkey="military_force%1:14:00::" annotator="veweser" text="that that's for your your mercenary &lt;b&gt;forces&lt;/b&gt; that go across overseas and and attack other countries but at at home here" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2731-ms98-a-trans.anc" start="10656" end="10662" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="that that's for your your mercenary &lt;b&gt;forces&lt;/b&gt; that go across overseas and and attack other countries but at at home here" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2731-ms98-a-trans.anc" start="4102" end="4105" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="brubin" text="so uh it's going to be really tough to uh &lt;b&gt;add&lt;/b&gt; uh gun control type of laws to what we already have" />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/letters/icic/603CWL195.anc" start="1593" end="1598" sStart="1542" offset="51" sid="r7.serve.v.0442" wn="7 8" wnkey="null" annotator="jeneale" text="Your gift of $[ ] helped us fulfill our mission to serve the community." />
+    <s path="[OANC]/data/written_1/letters/icic/603CWL195.anc" start="1881" end="1887" sStart="null" offset="116" sid="r7.serve.v.0303" wn="8" wnkey="serve_well%2:42:00::" annotator="brubin" text="Through your generous support you verify the importance of the Indianapolis Civic Theatre to the community it serves." />
+    <s path="[OANC]/data/written_1/letters/icic/603CWL195.anc" start="35" end="39" sStart="null" offset="6" sid="r7.1.face.n.0964" wn="2147483645" wnkey="null" annotator="cgozo" text="Let's face it." />
+    <s path="[OANC]/data/written_1/letters/icic/603CWL195.anc" start="1474" end="1478" sStart="null" offset="12" sid="r11.able.j.0780" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="We are only able to provide these programs because of your support." />
+  </sentences>
+</list>

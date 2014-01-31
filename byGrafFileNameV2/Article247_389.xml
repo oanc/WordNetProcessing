@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_389.anc" start="546" end="552" sStart="489" offset="67" sid="r11.refer.v.0939" wn="1" wnkey="refer%2:32:01::" annotator="adelpriore" text="The Wall Street Journal front-page &quot;World Wide&quot; news box refers to an AP story about the head of the World Health Organization saying that cigarette makers now under increasing restrictions in the U.S. should not be allowed to expand into other countries." />
+    <s path="[OANC]/data/written_1/journal/slate/2/Article247_389.anc" start="2054" end="2058" sStart="null" offset="129" sid="r11.able.j.0627" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="It seems that the organizers of a Ponzi scheme based on jewelry sales were, through a third-party political donation to the DNC, able to wangle a photo op with President Clinton, and then used the resulting photo in their promotional literature to snare more investors." />
+  </sentences>
+</list>

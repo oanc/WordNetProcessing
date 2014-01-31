@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2202-3-5.anc" start="17380" end="17383" sStart="17362" offset="18" sid="r8.way.n.0094" wn="1" wnkey="way%1:07:01::" annotator="veweser" text="In this way, each point indicates the head of a vector that summarizes the phase for a particular specimen." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2202-3-5.anc" start="17380" end="17383" sStart="null" offset="18" sid="r8.way.n.0094" wn="1" wnkey="way%1:07:01::" annotator="jeneale" text="In this way, each point indicates the head of a vector that summarizes the phase for a particular specimen." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2202-3-5.anc" start="17380" end="17383" sStart="null" offset="18" sid="r8.way.n.0094" wn="1" wnkey="way%1:07:01::" annotator="cgozo" text="In this way, each point indicates the head of a vector that summarizes the phase for a particular specimen." />
+    <s path="[OANC]/data/written_2/technical/biomed/1471-2202-3-5.anc" start="17380" end="17383" sStart="null" offset="18" sid="r8.way.n.0094" wn="1" wnkey="way%1:07:01::" annotator="brubin" text="In this way, each point indicates the head of a vector that summarizes the phase for a particular specimen." />
+  </sentences>
+</list>

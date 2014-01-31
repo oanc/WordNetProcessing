@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3471.anc" start="2638" end="2643" sStart="2624" offset="14" sid="r9.sense.n.0103" wn="2" wnkey="sense%1:10:00::" annotator="cgozo" text="In a business sense, the deal may make all these CondŽ Nast magazines less beholden to any single advertiser, which in turn will allow the company to drive harder bargains." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3471.anc" start="1030" end="1037" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:05::" annotator="veweser" text="And as the example of the auto industry suggests, having two or three major &lt;b&gt;players&lt;/b&gt; in an industry is qualitatively different from having just one." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3471.anc" start="136" end="143" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:03::" annotator="comcgeetubb" text="Normally, when one of three big &lt;b&gt;players&lt;/b&gt; in an industry buys one of its two competitors, you hear rumblings about possible antitrust violations and the deleterious effects of lack of competition." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3471.anc" start="1030" end="1037" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:05::" annotator="carichter" text="And as the example of the auto industry suggests, having two or three major &lt;b&gt;players&lt;/b&gt; in an industry is qualitatively different from having just one." />
+  </sentences>
+</list>

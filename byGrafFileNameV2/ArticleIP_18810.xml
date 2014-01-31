@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/49/ArticleIP_18810.anc" start="6303" end="6307" sStart="-1" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" annotator="kaolla" text="Gone will be the need for expensive catalogs, transparencies FedExed around the world, and multiple packing, shipping, and insurance costs as the &lt;b&gt;work&lt;/b&gt; goes from gallery to auction house to purchaser." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/49/ArticleIP_18810.anc" start="6303" end="6307" sStart="null" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" annotator="carichter" text="Gone will be the need for expensive catalogs, transparencies FedExed around the world, and multiple packing, shipping, and insurance costs as the &lt;b&gt;work&lt;/b&gt; goes from gallery to auction house to purchaser." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_18810.anc" start="324" end="330" sStart="null" offset="0" sid="null" wn="1" wnkey="window%1:06:00::" annotator="cgozo" text="Out the &lt;b&gt;window&lt;/b&gt; went centuries of snobbery, mystique, and pretension." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18810.anc" start="7481" end="7485" sStart="null" offset="25" sid="r8.way.n.0169" wn="5" wnkey="way%1:04:00::" annotator="veweser" text="In the art business, old ways die hard." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/49/ArticleIP_18810.anc" start="5102" end="5106" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="carichter" text="ArtNet is the brainchild of Hans Neuendorf, a German dealer who started the first international art &lt;b&gt;fair&lt;/b&gt;, in Cologne in 1967--the first actual art market." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_18810.anc" start="1442" end="1447" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" annotator="brubin" text="If you want to buy a 19 inch &lt;b&gt;color&lt;/b&gt; television set, you start by checking the newspaper for advertised prices." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18810.anc" start="7528" end="7534" sStart="null" offset="32" sid="r8.ask.v.0289" wn="1" wnkey="ask%2:32:01::" annotator="veweser" text="I e-mailed all three galleries, asking them to explain the disparity in their prices." />
+    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18810.anc" start="7528" end="7534" sStart="null" offset="32" sid="r8.ask.v.0289" wn="" wnkey="null" annotator="ksuderman" text="I e-mailed all three galleries, asking them to explain the disparity in their prices." />
+  </sentences>
+</list>

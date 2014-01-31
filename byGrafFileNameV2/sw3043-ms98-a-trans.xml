@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3043-ms98-a-trans.anc" start="6854" end="6860" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="veweser" text="yeah on spring break i'd go with mother to the horse races and all my friends would go to Padre &lt;b&gt;Island&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3043-ms98-a-trans.anc" start="6854" end="6860" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="jeneale" text="yeah on spring break i'd go with mother to the horse races and all my friends would go to Padre &lt;b&gt;Island&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3043-ms98-a-trans.anc" start="6854" end="6860" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="carichter" text="yeah on spring break i'd go with mother to the horse races and all my friends would go to Padre &lt;b&gt;Island&lt;/b&gt;" />
+  </sentences>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Gen_Account_Office/og96020.anc" start="631" end="639" sStart="-1" offset="0" sid="null" wn="2" wnkey="entitle%2:32:00::" annotator="cgozo" text="Pursuant to section 801(a)(2)(A) of title 5, United States Code, this is our report on a major rule promulgated by the Department of Veterans Affairs (VA), &lt;b&gt;entitled&lt;/b&gt; &quot;Compensation for Disability Resulting from Hospitalization, Treatment, Examination, or Vocational Rehabilitation&quot; (RIN: 2900-AH44)." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Gen_Account_Office/og96020.anc" start="631" end="639" sStart="null" offset="0" sid="null" wn="2" wnkey="entitle%2:32:00::" annotator="brubin" text="Pursuant to section 801(a)(2)(A) of title 5, United States Code, this is our report on a major rule promulgated by the Department of Veterans Affairs (VA), &lt;b&gt;entitled&lt;/b&gt; &quot;Compensation for Disability Resulting from Hospitalization, Treatment, Examination, or Vocational Rehabilitation&quot; (RIN: 2900-AH44)." />
+    <s path="[OANC]/data/written_2/technical/government/Gen_Account_Office/og96020.anc" start="3367" end="3374" sStart="null" offset="21" sid="r11.benefit.n.0785" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="The estimated 5-year benefit cost is $1,656,100,000." />
+    <s path="[OANC]/data/written_2/technical/government/Gen_Account_Office/og96020.anc" start="3046" end="3053" sStart="null" offset="42" sid="r11.benefit.n.0329" wn="1" wnkey="benefit%1:21:00::" annotator="anfahmy" text="The estimated cost to the government (and benefit to veterans disabled as a result of VA hospitalization, medical or surgical treatment) is $166." />
+  </sentences>
+</list>

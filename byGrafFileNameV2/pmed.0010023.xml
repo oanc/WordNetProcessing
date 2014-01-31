@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0010023.anc" start="3172" end="3179" sStart="3160" offset="12" sid="r8.suggest.v.0827" wn="3" wnkey="suggest%2:32:02::" annotator="brubin" text="The authors suggest that these reactions could develop into symptomatic disease after some time delay, but there is no proof that the presence of oats-reactive T cells is an indicator of future symptoms or even of enhanced susceptibility to clinical oats intolerance." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0010023.anc" start="473" end="479" sStart="null" offset="43" sid="r11.severe.j.0635" wn="4" wnkey="severe%5:00:02:nonindulgent:00" annotator="anfahmy" text="This is good news for patients coping with severe restrictions on what they can and must not eat, but a study by Ludvig Sollid and colleagues in this issue of PLoS Medicine suggests that oats are not safe in all cases." />
+  </sentences>
+</list>

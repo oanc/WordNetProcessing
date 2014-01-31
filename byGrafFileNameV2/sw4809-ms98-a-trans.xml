@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4809-ms98-a-trans.anc" start="5187" end="5193" sStart="-1" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="veweser" text="also working uh in a large corporate setting and that has &lt;b&gt;become&lt;/b&gt; unsettled in the last" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/48/sw4809-ms98-a-trans.anc" start="5187" end="5193" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="tofox" text="also working uh in a large corporate setting and that has &lt;b&gt;become&lt;/b&gt; unsettled in the last" />
+  </sentences>
+</list>

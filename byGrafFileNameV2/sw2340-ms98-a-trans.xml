@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2340-ms98-a-trans.anc" start="12231" end="12238" sStart="-1" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="you know the best football &lt;b&gt;players&lt;/b&gt; and all the opera singers still have coaches and i don't know why you couldn't" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2340-ms98-a-trans.anc" start="12231" end="12238" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="carichter" text="you know the best football &lt;b&gt;players&lt;/b&gt; and all the opera singers still have coaches and i don't know why you couldn't" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2340-ms98-a-trans.anc" start="584" end="590" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="yeah well i haven't get a &lt;b&gt;chance&lt;/b&gt; i haven't got a &lt;b&gt;chance&lt;/b&gt; to look at them yet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2340-ms98-a-trans.anc" start="561" end="567" sStart="null" offset="0" sid="null" wn="2" wnkey="chance%1:19:00::" annotator="veweser" text="yeah well i haven't get a &lt;b&gt;chance&lt;/b&gt; i haven't got a &lt;b&gt;chance&lt;/b&gt; to look at them yet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2340-ms98-a-trans.anc" start="584" end="590" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="yeah well i haven't get a &lt;b&gt;chance&lt;/b&gt; i haven't got a &lt;b&gt;chance&lt;/b&gt; to look at them yet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2340-ms98-a-trans.anc" start="561" end="567" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="yeah well i haven't get a &lt;b&gt;chance&lt;/b&gt; i haven't got a &lt;b&gt;chance&lt;/b&gt; to look at them yet" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2340-ms98-a-trans.anc" start="11988" end="11994" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="carichter" text="you i think they do come &lt;b&gt;become&lt;/b&gt; less aware and" />
+  </sentences>
+</list>

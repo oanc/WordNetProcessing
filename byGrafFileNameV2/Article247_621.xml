@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_621.anc" start="2062" end="2068" sStart="1939" offset="138" sid="r9.kill.v.0104" wn="1" wnkey="kill%2:35:00::" annotator="brubin" text="The NYT says the informant testified that &quot;Markhasev had said he shot a black man,&quot; while the WP says the testimony was &quot;I killed a [racial epithet].&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_621.anc" start="1925" end="1931" sStart="null" offset="403" sid="r9.kill.v.0330" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="The story also has the most details from the trial evidence, such as running quotes from Markhasev's jailhouse letters to another inmate, in which he says that he went to kill a drug dealer who wasn't home and then came upon Ennis Cosby fixing a flat tire, and details about how the informant who turned Markhasev in to get a $100,000 National Enquirer reward testified that the defendant told him he'd killed Cosby." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_621.anc" start="1006" end="1010" sStart="null" offset="39" sid="r9.full.j.0437" wn="2" wnkey="full%5:00:01:whole:00" annotator="veweser" text="The Nigerian government has promised a full and prompt autopsy." />
+  </sentences>
+</list>

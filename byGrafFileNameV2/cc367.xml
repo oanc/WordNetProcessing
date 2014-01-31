@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/cc367.anc" start="2202" end="2209" sStart="2163" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text="Thesoftware program SPSS for &lt;b&gt;Windows&lt;/b&gt; (version 8.0; SPSS Incorporated, Chicago,Illinois, USA) was utilized for all statistical analyses." />
+    <s path="[OANC]/data/written_2/technical/biomed/cc367.anc" start="1801" end="1805" sStart="null" offset="78" sid="r7.1.use.v.0943" wn="1" wnkey="use%2:34:01::" annotator="brubin" text="Pearson's ? 2analysis orFisher's exact test, when appropriate, were used for univariatecomparisons for all categoric variables analyzed." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/cc367.anc" start="7199" end="7210" sStart="null" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" annotator="tofox" text="Tenpatients required readmission to the SCU after being &lt;b&gt;transferred&lt;/b&gt; to floor care(five because of upper gastrointestinal bleeding, five because of respiratoryfailures), four patients required a third SCU admission (all because ofrespiratory failures), and two patients requiring a fourth SCU admission (bothbecause of intra-abdominal abscesses/sepsis)." />
+    <s path="[OANC]/data/written_2/technical/biomed/cc367.anc" start="13282" end="13287" sStart="null" offset="15" sid="r9.paper.n.0963" wn="2" wnkey="paper%1:10:01::" annotator="cgozo" text="In the present paper, we have reviewed the Memorial Sloan-Kettering Cancer Center experience during the period of February 2, 1994 to December 28, 1995." />
+  </sentences>
+</list>

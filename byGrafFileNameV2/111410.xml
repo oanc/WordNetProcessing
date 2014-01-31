@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/111410.anc" start="928" end="935" sStart="918" offset="10" sid="r10.wait.v.0053" wn="3" wnkey="wait%2:31:00::" annotator="veweser" text="I will be waiting for your mail as soon as possible ." />
+    <s path="[MASC]/data/written/111410.anc" start="928" end="935" sStart="null" offset="10" sid="r10.wait.v.0053" wn="3" wnkey="wait%2:31:00::" annotator="cgozo" text="I will be waiting for your mail as soon as possible ." />
+    <s path="[MASC]/data/written/111410.anc" start="928" end="935" sStart="null" offset="10" sid="r10.wait.v.0053" wn="3" wnkey="wait%2:31:00::" annotator="brubin" text="I will be waiting for your mail as soon as possible ." />
+    <s path="[MASC]/data/written/111410.anc" start="928" end="935" sStart="null" offset="10" sid="r10.wait.v.0053" wn="3" wnkey="wait%2:31:00::" annotator="anfahmy" text="I will be waiting for your mail as soon as possible ." />
+    <s path="[MASC]/data/written/111410.anc" start="476" end="480" sStart="null" offset="3" sid="null" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="My name is Miss Priscilla." />
+    <s path="[MASC]/data/written/111410.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Date: Thu, 3 Feb 2011 03:55:24 -0800 (PST) From: priscilla william &lt;priscillawilliam28@att.net&gt; Reply-To: priscillawilliam26@yahoo.com Subject: Hello To: undisclosed recipients: ;" />
+    <s path="[MASC]/data/written/111410.anc" start="565" end="570" sStart="null" offset="15" sid="null" wn="1" wnkey="color%1:07:00::" annotator="vebatchelder" text="I believe that color , religion , language , age , country , tribe , distance etc has nothing to do with real friendship , i believe real friendship is all about love , care , trust etc for each other ." />
+  </sentences>
+</list>

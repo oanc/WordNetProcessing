@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3900.anc" start="395" end="401" sStart="382" offset="13" sid="r11.strong.j.0844" wn="1" wnkey="strong%3:00:00::" annotator="vebatchelder" text="The bill has strong support in the Senate, although the Post says a Democrat is threatening to filibuster." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3900.anc" start="2789" end="2796" sStart="null" offset="20" sid="r7.strike.n.0117" wn="2" wnkey="strike%1:04:02::" annotator="veweser" text="Retaliatory nuclear strikes are never justified, he argues, because they would kill millions of innocents." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3900.anc" start="2981" end="2988" sStart="null" offset="105" sid="r7.strike.n.0118" wn="2" wnkey="strike%1:04:02::" annotator="jeneale" text="Instead, the U.S. should use its pinpoint conventional missiles to make both pre-emptive and retaliatory strikes against nuclear terrorists and rogue states." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3900.anc" start="2848" end="2852" sStart="null" offset="79" sid="r9.kill.v.0764" wn="9" wnkey="kill%2:35:02::" annotator="brubin" text="Retaliatory nuclear strikes are never justified, he argues, because they would kill millions of innocents." />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3900.anc" start="4219" end="4223" sStart="null" offset="108" sid="r7.1.face.n.0338" wn="1" wnkey="face%1:08:00::" annotator="jeneale" text="Today's Papers has taken a liking to &quot;PHL Gem Dandy,&quot; the Chilean female with the cute inky-black face, described as &quot;suitable for use as a companion&quot; and &quot;very docile/willing.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3900.anc" start="1527" end="1534" sStart="null" offset="25" sid="r10.control.n.0252" wn="1" wnkey="control%1:07:00::" annotator="brubin" text="(Islamic Azerbaijan lost control of the mostly Christian territory of Nagorno-Karabakh to Armenia earlier this decade.)" />
+    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3900.anc" start="4315" end="4318" sStart="null" offset="16" sid="r8.ask.v.0684" wn="4" wnkey="ask%2:32:04::" annotator="cgozo" text="TP will have to ask his landlord before bidding, though." />
+  </sentences>
+</list>

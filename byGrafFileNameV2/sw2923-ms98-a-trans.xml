@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2923-ms98-a-trans.anc" start="1846" end="1854" sStart="-1" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="cgozo" text="and um i'm an aerobics freak so i just uh i love that type of music to do aerobics to and &lt;b&gt;exercise&lt;/b&gt; and that sort of thing" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2923-ms98-a-trans.anc" start="1846" end="1854" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="brubin" text="and um i'm an aerobics freak so i just uh i love that type of music to do aerobics to and &lt;b&gt;exercise&lt;/b&gt; and that sort of thing" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2923-ms98-a-trans.anc" start="1846" end="1854" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="bpassonneau" text="and um i'm an aerobics freak so i just uh i love that type of music to do aerobics to and &lt;b&gt;exercise&lt;/b&gt; and that sort of thing" />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21812.anc" start="3331" end="3338" sStart="3325" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="veweser" text="Purse &lt;b&gt;strings&lt;/b&gt; can be strangling, so make your own way and revel in the freedom." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21812.anc" start="3331" end="3338" sStart="null" offset="0" sid="null" wn="6" wnkey="string%1:06:01::" annotator="jeneale" text="Purse &lt;b&gt;strings&lt;/b&gt; can be strangling, so make your own way and revel in the freedom." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21812.anc" start="3331" end="3338" sStart="null" offset="0" sid="null" wn="6" wnkey="string%1:06:01::" annotator="cgozo" text="Purse &lt;b&gt;strings&lt;/b&gt; can be strangling, so make your own way and revel in the freedom." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_21812.anc" start="3331" end="3338" sStart="null" offset="0" sid="null" wn="6" wnkey="string%1:06:01::" annotator="brubin" text="Purse &lt;b&gt;strings&lt;/b&gt; can be strangling, so make your own way and revel in the freedom." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21812.anc" start="3193" end="3203" sStart="null" offset="7" sid="r11.recommend.v.0245" wn="1" wnkey="recommend%2:32:01::" annotator="anfahmy" text="Prudie recommends that you end the discussion about a parent-sponsored wedding and do something simple and meaningful ..." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21812.anc" start="5110" end="5114" sStart="null" offset="27" sid="r9.late.j.0540" wn="3" wnkey="late%5:00:00:past:00" annotator="brubin" text="It seems to me that, as of late, one can hide from fallout by stating, early on, &quot;I accept personal responsibility.&quot;" />
+  </sentences>
+</list>

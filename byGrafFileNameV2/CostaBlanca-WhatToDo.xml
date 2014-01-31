@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/CostaBlanca-WhatToDo.anc" start="1091" end="1094" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="Whether you have booked in advance or not, &lt;b&gt;try&lt;/b&gt; to arrive at the plaza de toros with an hour to spare, enough time to watch the crowd and feel the tension rising." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/CostaBlanca-WhatToDo.anc" start="1091" end="1094" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="carichter" text="Whether you have booked in advance or not, &lt;b&gt;try&lt;/b&gt; to arrive at the plaza de toros with an hour to spare, enough time to watch the crowd and feel the tension rising." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz2/CostaBlanca-WhatToDo.anc" start="292" end="296" sStart="null" offset="92" sid="r8.life.n.0244" wn="1" wnkey="life%1:26:01::" annotator="cgozo" text="However you may feel about this controversial sport, it remains very much a part of Spanish life," />
+  </sentences>
+</list>

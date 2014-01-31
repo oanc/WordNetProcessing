@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1671.anc" start="605" end="609" sStart="483" offset="122" sid="r11.true.j.0867" wn="4" wnkey="true%3:00:04::" annotator="adelpriore" text="Sam Donaldson weasels, saying that his prediction of a departing Clinton was contingent upon the allegations being proved true." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1671.anc" start="5944" end="5950" sStart="null" offset="101" sid="r8.ask.v.0225" wn="4" wnkey="ask%2:32:04::" annotator="veweser" text="Punditus Interruptus II, The Sequel: One moment McLaughlin Group &quot;host&quot; John McLaughlin is asking Pat Buchanan to &quot;stop baiting&quot; Eleanor Clift." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1671.anc" start="5944" end="5950" sStart="null" offset="101" sid="r8.ask.v.0225" wn="" wnkey="null" annotator="ksuderman" text="Punditus Interruptus II, The Sequel: One moment McLaughlin Group &quot;host&quot; John McLaughlin is asking Pat Buchanan to &quot;stop baiting&quot; Eleanor Clift." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1671.anc" start="5724" end="5727" sStart="null" offset="24" sid="r8.ask.v.0482" wn="4" wnkey="ask%2:32:04::" annotator="jeneale" text="Earlier, Novak actually ask ed Carlson if he could interrupt!" />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1671.anc" start="408" end="412" sStart="null" offset="73" sid="r8.ask.v.0474" wn="4" wnkey="ask%2:32:04::" annotator="jeneale" text="This Week With Sam and Cokie (ABC) co-host Cokie Roberts asks her colleagues what went wrong with their predictions from last week." />
+    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1671.anc" start="5611" end="5615" sStart="null" offset="5" sid="r8.ask.v.0426" wn="4" wnkey="ask%2:32:04::" annotator="jeneale" text="Hunt asks Novak sweetly at one point if Margaret Carlson can speak." />
+  </sentences>
+</list>

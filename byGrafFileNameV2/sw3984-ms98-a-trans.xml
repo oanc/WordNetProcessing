@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3984-ms98-a-trans.anc" start="96" end="100" sStart="83" offset="0" sid="null" wn="1" wnkey="meet%2:38:01::" annotator="brubin" text="it's nice to &lt;b&gt;meet&lt;/b&gt; you" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3984-ms98-a-trans.anc" start="5387" end="5390" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="brubin" text="do you like clothes for uh different seasons or do you like just to wear the basically the same type of thing and just &lt;b&gt;add&lt;/b&gt; or take away from it" />
+  </sentences>
+</list>

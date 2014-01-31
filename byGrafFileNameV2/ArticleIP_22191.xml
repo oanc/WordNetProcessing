@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="4073" end="4077" sStart="4037" offset="0" sid="null" wn="2" wnkey="poor%3:00:00::" annotator="veweser" text="I guess I am richer relative to the &lt;b&gt;poor&lt;/b&gt; fellow who wants to earn the cost of my apartment by writing essays for $1 a word." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="4073" end="4077" sStart="null" offset="0" sid="null" wn="1" wnkey="poor%5:00:00:unfortunate:00" annotator="jeneale" text="I guess I am richer relative to the &lt;b&gt;poor&lt;/b&gt; fellow who wants to earn the cost of my apartment by writing essays for $1 a word." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="4073" end="4077" sStart="null" offset="0" sid="null" wn="2" wnkey="poor%3:00:00::" annotator="cgozo" text="I guess I am richer relative to the &lt;b&gt;poor&lt;/b&gt; fellow who wants to earn the cost of my apartment by writing essays for $1 a word." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="4073" end="4077" sStart="null" offset="36" sid="r7.poor.j.0928" wn="2" wnkey="poor%3:00:00::" annotator="cgozo" text="I guess I am richer relative to the poor fellow who wants to earn the cost of my apartment by writing essays for $1 a word." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="4073" end="4077" sStart="null" offset="0" sid="null" wn="1" wnkey="poor%5:00:00:unfortunate:00" annotator="brubin" text="I guess I am richer relative to the &lt;b&gt;poor&lt;/b&gt; fellow who wants to earn the cost of my apartment by writing essays for $1 a word." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="746" end="750" sStart="null" offset="19" sid="r8.live.v.0629" wn="3" wnkey="live%2:42:04::" annotator="veweser" text="I do not, however, live on Product 19 alone." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="3233" end="3239" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="veweser" text="In those terms I have &lt;b&gt;become&lt;/b&gt; richer." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="3233" end="3239" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="jeneale" text="In those terms I have &lt;b&gt;become&lt;/b&gt; richer." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22191.anc" start="3233" end="3239" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="carichter" text="In those terms I have &lt;b&gt;become&lt;/b&gt; richer." />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3019-ms98-a-trans.anc" start="5238" end="5248" sStart="-1" offset="0" sid="null" wn="2" wnkey="suspicious%5:00:00:questionable:00" annotator="cgozo" text="my husband had an aunt who was addicted to the soaps and i want you to know that became the most &lt;b&gt;suspicious&lt;/b&gt; cantankerous contrary old woman that ever was i mean she" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3019-ms98-a-trans.anc" start="5238" end="5248" sStart="null" offset="0" sid="null" wn="1" wnkey="suspicious%5:00:00:distrustful:00" annotator="brubin" text="my husband had an aunt who was addicted to the soaps and i want you to know that became the most &lt;b&gt;suspicious&lt;/b&gt; cantankerous contrary old woman that ever was i mean she" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3019-ms98-a-trans.anc" start="6669" end="6678" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="comcgeetubb" text="i had &lt;b&gt;forgotten&lt;/b&gt; about that see it's just my husband and i and so i don't have that you know i uh that constant influence of the kids shows and all that but um i don't know" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3019-ms98-a-trans.anc" start="2604" end="2608" sStart="null" offset="0" sid="null" wn="4" wnkey="date%1:28:02::" annotator="cgozo" text="pretty hysterical so i i like to watch comedy i mean you know that's something but i'm not real up to &lt;b&gt;date&lt;/b&gt; on what's going on now i i guess i have my old favorites that i" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3019-ms98-a-trans.anc" start="5222" end="5228" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="carichter" text="my husband had an aunt who was addicted to the soaps and i want you to know that &lt;b&gt;became&lt;/b&gt; the most suspicious cantankerous contrary old woman that ever was i mean she" />
+  </sentences>
+</list>

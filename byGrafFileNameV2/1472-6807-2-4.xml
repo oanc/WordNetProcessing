@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1472-6807-2-4.anc" start="2893" end="2900" sStart="-1" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="cgozo" text="While the first two approaches provide reasonable results, they do not guarantee complete &lt;b&gt;success&lt;/b&gt; in terms of fold recognition even for the training set proteins." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1472-6807-2-4.anc" start="2893" end="2900" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="While the first two approaches provide reasonable results, they do not guarantee complete &lt;b&gt;success&lt;/b&gt; in terms of fold recognition even for the training set proteins." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6807-2-4.anc" start="956" end="962" sStart="null" offset="162" sid="r8.number.n.0211" wn="1" wnkey="number%1:07:00::" annotator="brubin" text="Here, we present one such simplified method to train a potential energy function using a small set of proteins which places a significant number of additional native conformations near its minima." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6807-2-4.anc" start="4416" end="4425" sStart="null" offset="141" sid="r8.1.different.j.0567" wn="1" wnkey="different%3:00:00::" annotator="brubin" text="While the lattice models have usually stayed with single point representation, the continuous state models have used different variations from a single point per residue to all-atom representation." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6807-2-4.anc" start="8504" end="8510" sStart="null" offset="74" sid="r8.ask.v.0581" wn="3" wnkey="ask%2:32:05::" annotator="veweser" text="In this work, we place a milder condition on the training by only asking that the native be near a local minimum." />
+    <s path="[OANC]/data/written_2/technical/biomed/1472-6807-2-4.anc" start="8504" end="8510" sStart="null" offset="74" sid="r8.ask.v.0581" wn="" wnkey="null" annotator="ksuderman" text="In this work, we place a milder condition on the training by only asking that the native be near a local minimum." />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2288.anc" start="2274" end="2277" sStart="2271" offset="3" sid="r8.way.n.0635" wn="2" wnkey="way%1:04:01::" annotator="brubin" text="No way, the lawyer said." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2288.anc" start="7754" end="7759" sStart="null" offset="10" sid="r7.sound.n.0249" wn="5" wnkey="sound%1:10:00::" annotator="veweser" text="Not a bad sound bite." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2288.anc" start="6194" end="6199" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="In fact, there are more innocent--and more plausible--explanations for the changes in audit &lt;b&gt;rates&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2288.anc" start="6194" end="6199" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="In fact, there are more innocent--and more plausible--explanations for the changes in audit &lt;b&gt;rates&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2288.anc" start="5369" end="5373" sStart="null" offset="113" sid="r7.poor.j.0337" wn="2147483645" wnkey="null" annotator="veweser" text="3 The IRS persecutes the poor: One of the disguised IRS agents said on 60 Minutes that the agency focuses on the poor and ignores wealthy people &quot;because those people can bring in an accountant or a tax attorney and fight this system.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2288.anc" start="5281" end="5285" sStart="null" offset="25" sid="r7.poor.j.0906" wn="2147483645" wnkey="null" annotator="jeneale" text="3 The IRS persecutes the poor: One of the disguised IRS agents said on 60 Minutes that the agency focuses on the poor and ignores wealthy people &quot;because those people can bring in an accountant or a tax attorney and fight this system.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2288.anc" start="5369" end="5373" sStart="null" offset="113" sid="r7.poor.j.0337" wn="2147483645" wnkey="null" annotator="jeneale" text="3 The IRS persecutes the poor: One of the disguised IRS agents said on 60 Minutes that the agency focuses on the poor and ignores wealthy people &quot;because those people can bring in an accountant or a tax attorney and fight this system.&quot;" />
+  </sentences>
+</list>

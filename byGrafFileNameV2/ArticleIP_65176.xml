@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_65176.anc" start="3097" end="3101" sStart="2961" offset="0" sid="null" wn="2" wnkey="warm%3:00:02::" annotator="cgozo" text="And if he sometimes wandered into whimsy--that alluring comic swamp--and even farther, into mawkish sentimentality with &quot;Happiness Is a &lt;b&gt;Warm&lt;/b&gt; Puppy,&quot; he more often executed that most difficult comic turn, being simultaneously funny and sweet." />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_65176.anc" start="1449" end="1453" sStart="null" offset="21" sid="r8.life.n.0759" wn="2" wnkey="life%1:09:00::" annotator="brubin" text="Snoopy muses on what life will be like without the boy with the crooked smile." />
+    <s path="[OANC]/data/written_1/journal/slate/54/ArticleIP_65176.anc" start="3589" end="3597" sStart="null" offset="18" sid="r9.appear.v.0974" wn="5" wnkey="appear%2:30:02::" annotator="anfahmy" text="The first Peanuts appeared Oct., 2, 1950." />
+  </sentences>
+</list>

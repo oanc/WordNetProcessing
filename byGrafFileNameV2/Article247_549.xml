@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/4/Article247_549.anc" start="1103" end="1107" sStart="-1" offset="0" sid="null" wn="1" wnkey="time%1:11:00::" annotator="elstickles" text="The paper points out that Clinton suggested yesterday that one obstacle to taking action at the &lt;b&gt;time&lt;/b&gt; was a lack of credible information about what was actually going on." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/4/Article247_549.anc" start="1103" end="1107" sStart="null" offset="0" sid="null" wn="1" wnkey="time%1:11:00::" annotator="carichter" text="The paper points out that Clinton suggested yesterday that one obstacle to taking action at the &lt;b&gt;time&lt;/b&gt; was a lack of credible information about what was actually going on." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_549.anc" start="2493" end="2502" sStart="null" offset="63" sid="r8.suggest.v.0645" wn="4" wnkey="suggest%2:32:01::" annotator="veweser" text="The LAT front carries a piece about a new category of criminal suggested by such cases--the &quot;fledgling psychopath.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_549.anc" start="938" end="947" sStart="null" offset="84" sid="r11.refer.v.0108" wn="1" wnkey="refer%2:32:01::" annotator="adelpriore" text="But, points out the Post , yesterday's statement was different--with it, Clinton is referring to an episode that occurred during his own administration." />
+    <s path="[OANC]/data/written_1/journal/slate/4/Article247_549.anc" start="1181" end="1186" sStart="null" offset="4" sid="r9.paper.n.0865" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The paper also notes that some human rights activists responded that there was ample reliable information, just not ample White House will." />
+  </sentences>
+</list>

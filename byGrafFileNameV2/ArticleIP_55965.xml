@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/53/ArticleIP_55965.anc" start="2170" end="2174" sStart="2123" offset="47" sid="r11.true.j.0485" wn="1" wnkey="true%3:00:00::" annotator="anfahmy" text="That explanation, however, turns out not to be true of many of Bradley's jocks." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/53/ArticleIP_55965.anc" start="1497" end="1502" sStart="null" offset="0" sid="null" wn="3" wnkey="quiet%5:00:00:unostentatious:00" annotator="rstandig" text="They applauded his &quot;honesty,&quot; &quot;integrity,&quot; &quot;respect,&quot; and &quot;&lt;b&gt;quiet&lt;/b&gt; strength.&quot;" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/53/ArticleIP_55965.anc" start="1497" end="1502" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="cgozo" text="They applauded his &quot;honesty,&quot; &quot;integrity,&quot; &quot;respect,&quot; and &quot;&lt;b&gt;quiet&lt;/b&gt; strength.&quot;" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/53/ArticleIP_55965.anc" start="1497" end="1502" sStart="null" offset="0" sid="null" wn="3" wnkey="quiet%5:00:00:unostentatious:00" annotator="brubin" text="They applauded his &quot;honesty,&quot; &quot;integrity,&quot; &quot;respect,&quot; and &quot;&lt;b&gt;quiet&lt;/b&gt; strength.&quot;" />
+  </sentences>
+</list>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/12/Article247_3578.anc" start="1772" end="1777" sStart="-1" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="Dollar Bill, Rhodes Scholar that he is, is &lt;b&gt;smart&lt;/b&gt; enough to know all this and is betting that there will be some daylight to the left of Gore." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/12/Article247_3578.anc" start="1772" end="1777" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="Dollar Bill, Rhodes Scholar that he is, is &lt;b&gt;smart&lt;/b&gt; enough to know all this and is betting that there will be some daylight to the left of Gore." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3578.anc" start="2624" end="2629" sStart="null" offset="2" sid="r11.refer.v.0428" wn="4" wnkey="refer%2:38:00::" annotator="anfahmy" text="I refer you to the Chicago Tribune columnist Clarence Page--just about the only prime-time journalist in the country to really jump on this, this ... linguistic hijacking." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/12/Article247_3578.anc" start="3251" end="3259" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="veweser" text="Hence, the New York City cops searching for gay police &lt;b&gt;officers&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/12/Article247_3578.anc" start="3251" end="3259" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="Hence, the New York City cops searching for gay police &lt;b&gt;officers&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/12/Article247_3578.anc" start="3251" end="3259" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="Hence, the New York City cops searching for gay police &lt;b&gt;officers&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3578.anc" start="3524" end="3529" sStart="null" offset="130" sid="r10.book.n.0335" wn="1 2" wnkey="null" annotator="cgozo" text="We as a people must be willing to ensure at the minimum that the kids have a qualified teacher at the front of the room, a set of books, and a safe school." />
+  </sentences>
+</list>

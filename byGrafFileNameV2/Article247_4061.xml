@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4061.anc" start="4320" end="4324" sStart="4241" offset="79" sid="r10.wait.v.0197" wn="2" wnkey="wait%2:42:01::" annotator="veweser" text="Ford has now reissued the Taurus with a higher butt, and Nissan probably can't wait to redo the sad-sack Altima." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/17/Article247_4061.anc" start="1688" end="1692" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" annotator="rstandig" text="The Detroit News recently reported that &quot;in the old days, product plans and designs would go from California to Japan and return watered down, Hirshberg &lt;b&gt;said&lt;/b&gt;.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4061.anc" start="1238" end="1242" sStart="null" offset="135" sid="r7.1.face.n.0725" wn="3" wnkey="face%1:07:00::" annotator="veweser" text="Since Hirshberg's shop produced many of those loser designs, it's odd that he even kept his job, much less wound up as Nissan's public face." />
+  </sentences>
+</list>

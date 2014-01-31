@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_855.anc" start="2556" end="2562" sStart="2513" offset="43" sid="r7.strike.v.0395" wn="10" wnkey="strike%2:35:03::" annotator="brubin" text="The Times story emphasizes that the speech struck a conciliatory and hopeful tone." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/7/Article247_855.anc" start="4890" end="4897" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:05::" annotator="veweser" text="At the close of yesterday's drama, Congressional &lt;b&gt;players&lt;/b&gt; were confronted with the bittersweet question of what they would do next." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/7/Article247_855.anc" start="4890" end="4897" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:03::" annotator="elstickles" text="At the close of yesterday's drama, Congressional &lt;b&gt;players&lt;/b&gt; were confronted with the bittersweet question of what they would do next." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/7/Article247_855.anc" start="4890" end="4897" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:03::" annotator="comcgeetubb" text="At the close of yesterday's drama, Congressional &lt;b&gt;players&lt;/b&gt; were confronted with the bittersweet question of what they would do next." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/7/Article247_855.anc" start="4890" end="4897" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:03::" annotator="carichter" text="At the close of yesterday's drama, Congressional &lt;b&gt;players&lt;/b&gt; were confronted with the bittersweet question of what they would do next." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/7/Article247_855.anc" start="4890" end="4897" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:05::" annotator="carichter" text="At the close of yesterday's drama, Congressional &lt;b&gt;players&lt;/b&gt; were confronted with the bittersweet question of what they would do next." />
+    <s path="[OANC]/data/written_1/journal/slate/7/Article247_855.anc" start="2607" end="2612" sStart="null" offset="11" sid="r9.paper.n.0601" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="Though the paper reported two days ago that Clinton had vowed to exact retribution from House prosecutors at the ballot box, it does not pause to compare and contrast." />
+  </sentences>
+</list>

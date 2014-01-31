@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_27915.anc" start="4262" end="4272" sStart="-1" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="veweser" text="2) Yeltsin was jealous because Primakov was &lt;b&gt;succeeding&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_27915.anc" start="4262" end="4272" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="cgozo" text="2) Yeltsin was jealous because Primakov was &lt;b&gt;succeeding&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_27915.anc" start="4872" end="4879" sStart="null" offset="0" sid="null" wn="2" wnkey="succeed%2:41:01::" annotator="cgozo" text="Deputy Secretary Lawrence Summers will &lt;b&gt;succeed&lt;/b&gt; him." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_27915.anc" start="4262" end="4272" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" annotator="brubin" text="2) Yeltsin was jealous because Primakov was &lt;b&gt;succeeding&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_27915.anc" start="4872" end="4879" sStart="null" offset="0" sid="null" wn="2" wnkey="succeed%2:41:01::" annotator="brubin" text="Deputy Secretary Lawrence Summers will &lt;b&gt;succeed&lt;/b&gt; him." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_27915.anc" start="5654" end="5661" sStart="null" offset="70" sid="r9.kill.v.0776" wn="9" wnkey="kill%2:35:02::" annotator="brubin" text="Richard Ashby, the pilot whose jet severed an Italian ski lift cable, killing 20 people, was sentenced to six months in military prison." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_27915.anc" start="1288" end="1295" sStart="null" offset="6" sid="r9.kill.v.0898" wn="2" wnkey="kill%2:41:01::" annotator="anfahmy" text="After killing a Democratic measure that would have required background checks on all customers at gun shows, they proposed a similar measure." />
+  </sentences>
+</list>

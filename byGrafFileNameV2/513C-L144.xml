@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L144.anc" start="784" end="788" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="kaolla" text="You now have the opportunity to help your school honor Dr. Phillips by contributing to an endowed professorship in his honor which will help assure continuation of his &lt;b&gt;work&lt;/b&gt;." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L144.anc" start="784" end="788" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="carichter" text="You now have the opportunity to help your school honor Dr. Phillips by contributing to an endowed professorship in his honor which will help assure continuation of his &lt;b&gt;work&lt;/b&gt;." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L144.anc" start="280" end="284" sStart="null" offset="0" sid="null" wn="2" wnkey="time%1:28:05::" annotator="kaolla" text="Perhaps you were one of the many students who were able to spend some &lt;b&gt;time&lt;/b&gt; on a research project with Dr. Phillips or one of the other members of the Department of Dental Materials." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/513C-L144.anc" start="280" end="284" sStart="null" offset="0" sid="null" wn="2" wnkey="time%1:28:05::" annotator="carichter" text="Perhaps you were one of the many students who were able to spend some &lt;b&gt;time&lt;/b&gt; on a research project with Dr. Phillips or one of the other members of the Department of Dental Materials." />
+    <s path="[OANC]/data/written_1/letters/icic/513C-L144.anc" start="1146" end="1150" sStart="null" offset="44" sid="r10.help.v.0940" wn="6" wnkey="help%2:41:12::" annotator="brubin" text="Your tax deductible contribution will help honor a man who devoted a lifetime of service to Indiana University and to dentistry." />
+    <s path="[OANC]/data/written_1/letters/icic/513C-L144.anc" start="261" end="265" sStart="null" offset="57" sid="r11.able.j.0614" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="Perhaps you were one of the many students who were able to spend some time on a research project with Dr. Phillips or one of the other members of the Department of Dental Materials." />
+  </sentences>
+</list>

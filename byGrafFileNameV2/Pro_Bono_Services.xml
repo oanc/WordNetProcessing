@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Pro_Bono_Services.anc" start="2818" end="2822" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="carichter" text="But the legal-aid groups don't &lt;b&gt;know&lt;/b&gt; how to spread the word about the positive benefits of their &lt;b&gt;work&lt;/b&gt;." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Pro_Bono_Services.anc" start="803" end="809" sStart="null" offset="36" sid="r11.strong.j.0401" wn="2" wnkey="strong%5:00:00:intense:00" annotator="anfahmy" text="Many legal-aid organizations have a strong mission but lack a long-term plan, said Pat Stankard, client services manager at Gardner, Carton &amp; Douglas and former treasurer of the LMA." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Pro_Bono_Services.anc" start="1661" end="1665" sStart="null" offset="0" sid="null" wn="2" wnkey="say%2:32:01::" annotator="rstandig" text="Although it's common for lawyers to offer pro bono services to clients in need, Stankard &lt;b&gt;said&lt;/b&gt;, legal marketing professionals historically haven't done so." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Pro_Bono_Services.anc" start="3787" end="3791" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" annotator="rstandig" text="In her experience, legal aid organizations are in need of long-term plans, guidance and structure, she &lt;b&gt;said&lt;/b&gt;." />
+    <s path="[OANC]/data/written_2/technical/government/Media/Pro_Bono_Services.anc" start="2800" end="2808" sStart="null" offset="78" sid="r11.benefit.n.0224" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="But the legal-aid groups don't know how to spread the word about the positive benefits of their work." />
+  </sentences>
+</list>

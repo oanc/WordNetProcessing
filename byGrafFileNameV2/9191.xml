@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/9191.anc" start="594" end="600" sStart="543" offset="51" sid="null" wn="1" wnkey="people%1:14:00::" annotator="sophiavv" text="I have worked in some capacity with each of these people and most I know quite well." />
+    <s path="[MASC]/data/written/9191.anc" start="61" end="65" sStart="null" offset="64" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Message-ID: &lt;19542708.1075852654573.JavaMail.evans@thyme&gt; Date: Wed, 20 Jun 2001 12:02:00 -0700 (PDT) From: kevinscott@onlinemailbox.net To: kean.steve@enron.com, jeff.skilling@enron.com Subject: Public Policy Contacts for California Mime-Version: 1.0 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit" />
+  </sentences>
+</list>

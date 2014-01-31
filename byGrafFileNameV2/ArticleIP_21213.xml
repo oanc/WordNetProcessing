@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21213.anc" start="3850" end="3853" sStart="3692" offset="158" sid="r8.way.n.0849" wn="1" wnkey="way%1:07:01::" annotator="veweser" text="In his State of the Union address, he announced that the Department of Justice would sue cigarette companies to recover Medicare costs of smokers, a backdoor way to have the courts increase federal tobacco revenues without going through Congress." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21213.anc" start="4666" end="4671" sStart="null" offset="118" sid="r9.sense.n.0704" wn="4" wnkey="sense%1:09:04::" annotator="brubin" text="The president and Congress can take credit for giving people &quot;rights,&quot; then leave the actual work of making sense of those rights to the courts." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21213.anc" start="4534" end="4538" sStart="null" offset="22" sid="r7.1.easy.j.0520" wn="1" wnkey="easy%3:00:01::" annotator="cgozo" text="Microgovernment makes easy populist politics." />
+  </sentences>
+</list>

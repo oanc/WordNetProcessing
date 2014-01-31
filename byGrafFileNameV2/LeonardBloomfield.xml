@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/masc/xces/LeonardBloomfield.anc" start="4660" end="4665" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="British-born explorers did not set out to &lt;b&gt;write&lt;/b&gt; Australian English, of course." />
+    <s path="file:/D:/Corpora/masc/xces/LeonardBloomfield.anc" start="1819" end="1824" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="I &lt;b&gt;tried&lt;/b&gt; another explorer, Ernest Giles." />
+    <s path="file:/D:/Corpora/masc/xces/LeonardBloomfield.anc" start="1819" end="1824" sStart="null" offset="0" sid="null" wn="2" wnkey="try_out%2:41:00::" annotator="tofox" text="I &lt;b&gt;tried&lt;/b&gt; another explorer, Ernest Giles." />
+    <s path="file:/D:/Corpora/masc/xces/LeonardBloomfield.anc" start="1462" end="1467" sStart="null" offset="0" sid="null" wn="1" wnkey="time%1:11:00::" annotator="kaolla" text="Taking quite at random a single page (page 7) in the journals of the Gregory brothers recording an early (1846) exploration of country east and north of Perth, I find the word water used fifteen &lt;b&gt;times&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/masc/xces/LeonardBloomfield.anc" start="1462" end="1467" sStart="null" offset="0" sid="null" wn="1" wnkey="time%1:11:00::" annotator="carichter" text="Taking quite at random a single page (page 7) in the journals of the Gregory brothers recording an early (1846) exploration of country east and north of Perth, I find the word water used fifteen &lt;b&gt;times&lt;/b&gt;." />
+  </sentences>
+</list>

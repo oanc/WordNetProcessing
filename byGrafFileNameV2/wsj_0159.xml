@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/wsj_0159.anc" start="435" end="443" sStart="416" offset="19" sid="null" wn="5" wnkey="launch%2:35:04::" annotator="anfahmy" text="DD Acquisition has launched a suit in a Delaware court seeking the withdrawal of Dunkin's poison pill rights and employee stock ownership plans, which it claims were put in place to deter bidders." />
+    <s path="[MASC]/data/written/wsj_0159.anc" start="293" end="299" sStart="null" offset="14" sid="null" wn="1" wnkey="common%3:00:02::" annotator="veweser" text="1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan." />
+    <s path="[MASC]/data/written/wsj_0159.anc" start="293" end="299" sStart="null" offset="14" sid="r10.common.j.0060" wn="2147483647" wnkey="null" annotator="veweser" text="1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan." />
+    <s path="[MASC]/data/written/wsj_0159.anc" start="293" end="299" sStart="null" offset="14" sid="null" wn="1" wnkey="common%3:00:02::" annotator="cgozo" text="1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan." />
+    <s path="[MASC]/data/written/wsj_0159.anc" start="293" end="299" sStart="null" offset="14" sid="r10.common.j.0060" wn="1" wnkey="common%3:00:02::" annotator="cgozo" text="1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan." />
+    <s path="[MASC]/data/written/wsj_0159.anc" start="293" end="299" sStart="null" offset="14" sid="null" wn="1" wnkey="common%3:00:02::" annotator="brubin" text="1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan." />
+    <s path="[MASC]/data/written/wsj_0159.anc" start="293" end="299" sStart="null" offset="14" sid="r10.common.j.0060" wn="2147483647" wnkey="null" annotator="brubin" text="1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan." />
+    <s path="[MASC]/data/written/wsj_0159.anc" start="293" end="299" sStart="null" offset="14" sid="null" wn="2" wnkey="common%3:00:01::" annotator="anfahmy" text="1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan." />
+    <s path="[MASC]/data/written/wsj_0159.anc" start="293" end="299" sStart="null" offset="14" sid="r10.common.j.0060" wn="1" wnkey="common%3:00:02::" annotator="anfahmy" text="1% of Dunkin' common shares, on a fully diluted basis, being tendered and on the withdrawal of the company's poison pill rights plan." />
+  </sentences>
+</list>

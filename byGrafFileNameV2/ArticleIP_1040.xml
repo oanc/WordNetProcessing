@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1040.anc" start="3442" end="3448" sStart="3333" offset="109" sid="r7.serve.v.0259" wn="11" wnkey="serve%2:35:00::" annotator="brubin" text="The government can also levy property held by third parties, such as wages or money deposited in a bank, and served 2.7 million notices of levy in 1995." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1040.anc" start="2554" end="2558" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="In fiscal year 1995, the IRS completed 1.9 million audits--an audit &lt;b&gt;rate&lt;/b&gt; of 1.67 percent." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1040.anc" start="2554" end="2558" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="In fiscal year 1995, the IRS completed 1.9 million audits--an audit &lt;b&gt;rate&lt;/b&gt; of 1.67 percent." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/22/ArticleIP_1040.anc" start="1060" end="1064" sStart="null" offset="0" sid="null" wn="2" wnkey="long%3:00:01::" annotator="rstandig" text="8 million) files the &lt;b&gt;long&lt;/b&gt; form." />
+  </sentences>
+</list>

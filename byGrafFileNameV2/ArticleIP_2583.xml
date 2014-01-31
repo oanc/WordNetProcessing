@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="4577" end="4582" sStart="4555" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="veweser" text="These sites betray no &lt;b&gt;trace&lt;/b&gt; of Heaven's Gate's weirdness." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="4577" end="4582" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="jeneale" text="These sites betray no &lt;b&gt;trace&lt;/b&gt; of Heaven's Gate's weirdness." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="4577" end="4582" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="cgozo" text="These sites betray no &lt;b&gt;trace&lt;/b&gt; of Heaven's Gate's weirdness." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="4577" end="4582" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text="These sites betray no &lt;b&gt;trace&lt;/b&gt; of Heaven's Gate's weirdness." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="4577" end="4582" sStart="null" offset="22" sid="r7.trace.v.0139" wn="2147483645" wnkey="null" annotator="brubin" text="These sites betray no trace of Heaven's Gate's weirdness." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="4548" end="4553" sStart="null" offset="0" sid="null" wn="13 2" wnkey="null" annotator="veweser" text="They did snooty culture--the San Diego Polo Club, a topiary company, and a firm that specializes in fancy British car &lt;b&gt;parts&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="4548" end="4553" sStart="null" offset="0" sid="null" wn="2" wnkey="part%1:06:00::" annotator="jeneale" text="They did snooty culture--the San Diego Polo Club, a topiary company, and a firm that specializes in fancy British car &lt;b&gt;parts&lt;/b&gt;." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="4548" end="4553" sStart="null" offset="0" sid="null" wn="13" wnkey="part%1:06:01::" annotator="carichter" text="They did snooty culture--the San Diego Polo Club, a topiary company, and a firm that specializes in fancy British car &lt;b&gt;parts&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2583.anc" start="3552" end="3556" sStart="null" offset="20" sid="r7.1.easy.j.0794" wn="1" wnkey="easy%3:00:01::" annotator="jeneale" text="In retrospect, it's easy to see something sinister in the Higher Source site." />
+  </sentences>
+</list>

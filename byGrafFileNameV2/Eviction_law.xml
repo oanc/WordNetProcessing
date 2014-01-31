@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/government/Media/Eviction_law.anc" start="1209" end="1215" sStart="1189" offset="25" sid="r7.strike.n.0523" wn="2" wnkey="strike%1:04:02::" annotator="brubin" text="&quot;It's basically one strike and you're out, and I think they went beyond what Congress intended,&quot; said Michael Chielens, executive director of Western Michigan Legal Services." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Eviction_law.anc" start="1933" end="1937" sStart="null" offset="0" sid="null" wn="10" wnkey="show%2:32:03::" annotator="carichter" text="Rucker was ordered out because her mentally disabled daughter was caught with cocaine three blocks from the apartment she shared with her mother and other family members, court records &lt;b&gt;show&lt;/b&gt;." />
+    <s path="file:/c:/OANC/data/written_2/technical/government/Media/Eviction_law.anc" start="3005" end="3009" sStart="null" offset="0" sid="null" wn="2" wnkey="say%2:32:01::" annotator="rstandig" text="Sanchez &lt;b&gt;said&lt;/b&gt; Grand Rapids doesn't have the large-scale drug problems larger cities do -- and he wants to keep it that way." />
+  </sentences>
+</list>

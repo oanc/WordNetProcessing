@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5970.anc" start="1279" end="1284" sStart="1275" offset="4" sid="r9.paper.n.0482" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="The paper said that many Chileans condemned the Spanish extradition request because it undermined Chile's national reconciliation efforts." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5970.anc" start="2440" end="2446" sStart="null" offset="141" sid="r8.live.v.0836" wn="2" wnkey="live%2:42:06::" annotator="cgozo" text="The liberal Guardian, while reconciled to the likelihood of the general's release, said that &quot;the best outcome of the past two weeks of living under arrest and uncertainty is that the general will have to ponder whether he will ever be able to travel abroad again.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_5970.anc" start="1593" end="1599" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="But Le Monde said that to do this was to &lt;b&gt;forget&lt;/b&gt; that Franco was already dead at the time and that the Spanish Civil War was already long over." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_5970.anc" start="1593" end="1599" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="But Le Monde said that to do this was to &lt;b&gt;forget&lt;/b&gt; that Franco was already dead at the time and that the Spanish Civil War was already long over." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_5970.anc" start="1593" end="1599" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="carichter" text="But Le Monde said that to do this was to &lt;b&gt;forget&lt;/b&gt; that Franco was already dead at the time and that the Spanish Civil War was already long over." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5970.anc" start="832" end="836" sStart="null" offset="66" sid="r11.able.j.0326" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="Under the court's ruling, both Hitler and Pol Pot would have been able to live in Britain with impunity, it said." />
+  </sentences>
+</list>

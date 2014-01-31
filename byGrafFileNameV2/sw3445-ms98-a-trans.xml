@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3445-ms98-a-trans.anc" start="3736" end="3740" sStart="3736" offset="0" sid="null" wn="2" wnkey="warm%3:00:02::" annotator="veweser" text="&lt;b&gt;warm&lt;/b&gt; movie it it really just turned out nicely so i would recommend that if you have a chance" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3445-ms98-a-trans.anc" start="3823" end="3829" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="warm movie it it really just turned out nicely so i would recommend that if you have a &lt;b&gt;chance&lt;/b&gt;" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3445-ms98-a-trans.anc" start="3823" end="3829" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="warm movie it it really just turned out nicely so i would recommend that if you have a &lt;b&gt;chance&lt;/b&gt;" />
+  </sentences>
+</list>

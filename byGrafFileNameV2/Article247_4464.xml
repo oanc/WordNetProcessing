@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4464.anc" start="1247" end="1251" sStart="1221" offset="26" sid="r7.poor.j.0524" wn="1" wnkey="poor%5:00:00:unfortunate:00" annotator="cgozo" text="Who can imagine what that poor guy is going through right now?" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4464.anc" start="1907" end="1914" sStart="null" offset="0" sid="null" wn="5" wnkey="player%1:18:05::" annotator="veweser" text="Apparently, he's a good guy, one of those &lt;b&gt;players&lt;/b&gt; who is great about charities and really into his community." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4464.anc" start="1907" end="1914" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="tofox" text="Apparently, he's a good guy, one of those &lt;b&gt;players&lt;/b&gt; who is great about charities and really into his community." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4464.anc" start="221" end="225" sStart="null" offset="53" sid="r9.late.j.0797" wn="1" wnkey="late%3:00:00::" annotator="veweser" text="A question: Were all girls growing up in the mid- to late '60s and early '70s swinging from trees Tarzan-style?" />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4464.anc" start="719" end="723" sStart="null" offset="7" sid="r9.late.j.0762" wn="1" wnkey="late%3:00:00::" annotator="anfahmy" text="It was late summer, and there still were many days and nights of sports remaining before school started again." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4464.anc" start="1379" end="1383" sStart="null" offset="95" sid="r9.hit.v.0193" wn="2" wnkey="hit%2:35:01::" annotator="veweser" text="He's a nine-time Pro Bowl linebacker with Kansas City, and while going to the airport, his car hits a patch of ice and he's not wearing his seat belt and he's thrown from the car and he's paralyzed from the waist down." />
+  </sentences>
+</list>

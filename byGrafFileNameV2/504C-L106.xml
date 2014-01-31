@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/letters/icic/504C-L106.anc" start="799" end="802" sStart="620" offset="179" sid="r8.way.n.0977" wn="2" wnkey="way%1:04:01::" annotator="veweser" text="Although we have not given the alumni and donors at large the opportunity to participate in the giving of awards for students, we would like to this year as a special way for you to respond to Herron's 90th anniversary." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/504C-L106.anc" start="99" end="103" sStart="null" offset="0" sid="null" wn="4" wnkey="time%1:28:06::" annotator="carichter" text="It's &lt;b&gt;time&lt;/b&gt; for the annual Awards Ceremony." />
+    <s path="[OANC]/data/written_1/letters/icic/504C-L106.anc" start="1087" end="1092" sStart="null" offset="81" sid="r9.paper.n.0368" wn="1" wnkey="paper%1:27:00::" annotator="brubin" text="Students appreciate gift certificates from art supply stores, lumberyards, paper firms, etc." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/504C-L106.anc" start="1577" end="1581" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="Their appreciation and enthusiasm for what they are doing will go a &lt;b&gt;long&lt;/b&gt; way to thank you for your encouragement and support." />
+  </sentences>
+</list>

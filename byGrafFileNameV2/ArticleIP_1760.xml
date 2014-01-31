@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1760.anc" start="3701" end="3707" sStart="3526" offset="185" sid="r7.strike.n.0206" wn="1" wnkey="strike%1:04:00::" annotator="jeneale" text="LibŽration praised the Ministry of Sport for having apparently decided &quot;to burst the boil&quot; of drug abuse, which has overshadowed the tour since 1966, when competitors went on strike rather than submit to drug tests." />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1760.anc" start="890" end="895" sStart="null" offset="108" sid="r7.sound.n.0207" wn="2147483644" wnkey="null" annotator="brubin" text="In an editorial, the paper said that &quot;[b]etween rampant organizational chaos, a stingy funeral budget, sound and fury from the Russian Orthodox Church and a growing list of prominent no-shows, this proposed 'act of national repentance and reconciliation' is shaping up as one lousy historical event.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1760.anc" start="567" end="573" sStart="null" offset="214" sid="r7.serve.v.0422" wn="3" wnkey="serve%2:42:01::" annotator="jeneale" text="As Russia prepared for Friday's controversial, low-key burial of Czar Nicholas II's remains in St. Petersburg, the English-language St. Petersburg Times reported that &quot;as in life, so in death, Nicholas II has served only to divide Russia.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1760.anc" start="1812" end="1815" sStart="null" offset="133" sid="r9.hit.v.0250" wn="4" wnkey="hit%2:38:00::" annotator="anfahmy" text="The paper rejected a government claim that the drought's cost to agriculture is around 2 billion rubles, saying that the drought has hit 35 regions and has caused a loss in the Volgograd region alone of around 1.2 billion rubles." />
+  </sentences>
+</list>

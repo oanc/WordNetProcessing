@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="5400" end="5406" sStart="5328" offset="72" sid="r7.strike.v.0155" wn="14" wnkey="strike%2:35:08::" annotator="brubin" text="Finally, the statute included the Communications Decency Act, which was struck down this week by the Supreme Court." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="5575" end="5580" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="Non-discount long-distance &lt;b&gt;rates&lt;/b&gt; rose even faster." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="5575" end="5580" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="Non-discount long-distance &lt;b&gt;rates&lt;/b&gt; rose even faster." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="1056" end="1060" sStart="null" offset="28" sid="r7.poor.j.0005" wn="4" wnkey="poor%3:00:02::" annotator="veweser" text="The early results have been poor to middling." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="1056" end="1060" sStart="null" offset="28" sid="r7.poor.j.0005" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="jeneale" text="The early results have been poor to middling." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="1056" end="1060" sStart="null" offset="28" sid="r7.poor.j.0005" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="cgozo" text="The early results have been poor to middling." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="1056" end="1060" sStart="null" offset="28" sid="r7.poor.j.0005" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="brubin" text="The early results have been poor to middling." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="6008" end="6012" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="rstandig" text="AT&amp;T--though it is gradually losing market share and lives in fear of Baby Bells entering the market--still dominates &lt;b&gt;long&lt;/b&gt; distance." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="6008" end="6012" sStart="null" offset="0" sid="null" wn="2" wnkey="long%3:00:01::" annotator="cgozo" text="AT&amp;T--though it is gradually losing market share and lives in fear of Baby Bells entering the market--still dominates &lt;b&gt;long&lt;/b&gt; distance." />
+    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1065.anc" start="3801" end="3805" sStart="null" offset="48" sid="r11.able.j.0300" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="Starting in April 1999, cable companies will be able to set their own rates, except on &quot;basic tier&quot; service (the no-frills menu of broadcast and public-access programming)." />
+  </sentences>
+</list>

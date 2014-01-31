@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/111428.anc" start="1623" end="1627" sStart="1490" offset="133" sid="null" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="Your Full Name: (2) Residential Address: (3) Phone, Fax and Cell Phone: (4) Profession, Age and Marital Status: (5) Company/Business Name: (6) Your Private Email address:" />
+    <s path="[MASC]/data/written/111428.anc" start="1500" end="1504" sStart="null" offset="10" sid="null" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="Your Full Name: (2) Residential Address: (3) Phone, Fax and Cell Phone: (4) Profession, Age and Marital Status: (5) Company/Business Name: (6) Your Private Email address:" />
+    <s path="[MASC]/data/written/111428.anc" start="798" end="802" sStart="null" offset="115" sid="null" wn="5" wnkey="name%1:04:00::" annotator="anfahmy" text="It will interest you to know that we have discovered an outstanding unpaid/unclaimed sum of money in favor of your name and a mandate has been given to this body, World Fund Discovery Management And Payment Bureau to ensure that this fund gets to you without any delay." />
+    <s path="[MASC]/data/written/111428.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Date: Fri, 21 Jan 2011 10:38:06 -0200 From: &quot;Dr.Peter McWealth&quot; &lt;petermcwealth110@yahoo.com.hk&gt; Reply-To: dr_mcwealth00@yahoo.co.jp To: undisclosed-recipients: ; Subject: FROM: DR. PETER McWEALTH!!!!" />
+  </sentences>
+</list>

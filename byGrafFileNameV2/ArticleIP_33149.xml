@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33149.anc" start="5440" end="5444" sStart="5414" offset="26" sid="r7.poor.j.0520" wn="2147483645" wnkey="null" annotator="cgozo" text="The fashion gaffes of the poor." />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33149.anc" start="2457" end="2461" sStart="null" offset="15" sid="r8.life.n.0158" wn="4" wnkey="life%1:26:00::" annotator="jeneale" text="Crawl for your life!" />
+    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_33149.anc" start="2386" end="2393" sStart="null" offset="109" sid="r10.control.n.0467" wn="5" wnkey="control%1:04:00::" annotator="cgozo" text="I'm no reproductive rights attorney, but if this isn't overtly promoting infanticide as a form of population control, it's coming awfully close." />
+  </sentences>
+</list>

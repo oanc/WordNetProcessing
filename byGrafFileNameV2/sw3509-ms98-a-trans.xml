@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3509-ms98-a-trans.anc" start="4409" end="4417" sStart="-1" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="tofox" text="i don't know if you've ever i i i'm sure you're &lt;b&gt;familiar&lt;/b&gt; with it but have you seen the movie" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3509-ms98-a-trans.anc" start="4988" end="4996" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="carichter" text="yeah i think that they're i think that capital punishment is is is um in tact in Utah also i'm not really &lt;b&gt;familiar&lt;/b&gt; with" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3509-ms98-a-trans.anc" start="1632" end="1638" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="always count on the fact you know or or there's a good &lt;b&gt;chance&lt;/b&gt; you're gonna get off and so" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3509-ms98-a-trans.anc" start="1632" end="1638" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="tofox" text="always count on the fact you know or or there's a good &lt;b&gt;chance&lt;/b&gt; you're gonna get off and so" />
+  </sentences>
+</list>

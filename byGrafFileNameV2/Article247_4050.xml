@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/17/Article247_4050.anc" start="1631" end="1635" sStart="-1" offset="0" sid="null" wn="4" wnkey="tell%2:32:02::" annotator="brubin" text="Chamber of Commerce, who apparently was once &lt;b&gt;told&lt;/b&gt; to give every reporter something unique." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4050.anc" start="1968" end="1974" sStart="null" offset="4" sid="r8.number.n.0480" wn="1" wnkey="number%1:07:00::" annotator="cgozo" text="The number of relevant workplace injuries mentioned (by the NYT ) in yesterday's coverage was 600,000, but today's USAT and Wall Street Journal (in an inside story) up the ante to 1.8 million." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4050.anc" start="4541" end="4550" sStart="null" offset="61" sid="r9.appear.v.0774" wn="3" wnkey="appear%2:30:01::" annotator="anfahmy" text="Turns out that there's a virtually identical 54-word passage appearing in both the NYT obit, running over the byline of Alessandra Stanley, and in the WP obit, credited to &quot;News Services.&quot;" />
+  </sentences>
+</list>

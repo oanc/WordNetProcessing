@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4102.anc" start="3312" end="3316" sStart="3239" offset="73" sid="r11.true.j.0736" wn="8" wnkey="true%5:00:00:real:02" annotator="vebatchelder" text="I know I sound like Nick Lemann, but it's about as accurate a measure of true intelligence as the SAT; idiots make the Ivy League, so why not the White House?" />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4102.anc" start="1242" end="1247" sStart="null" offset="80" sid="r9.sense.n.0373" wn="1" wnkey="sense%1:09:05::" annotator="veweser" text="When you read one of his columns these days, or at least when I do, you get the sense that it's more about him than it is about it or them; the phrase &quot;nattering nabob of solipsism&quot; suddenly springs to mind." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4102.anc" start="4129" end="4134" sStart="null" offset="52" sid="r9.paper.n.0903" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="Drudge teases each by saying they come from a &quot;paper,&quot; but when you click on the link, you learn they come from a supermarket tab Star and National Enquirer , respectively." />
+    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4102.anc" start="681" end="688" sStart="null" offset="29" sid="r8.number.n.0837" wn="3" wnkey="number%1:10:04::" annotator="veweser" text="Another one of his sommelier numbers, in which he removes a candidate's cork and sniffs it in full view of the electorate." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/18/Article247_4102.anc" start="3725" end="3729" sStart="null" offset="0" sid="null" wn="3" wnkey="know%2:31:02::" annotator="kaolla" text="But then we're getting dangerously close to the realm of the pop quiz, and we all &lt;b&gt;know&lt;/b&gt; where that got us last &lt;b&gt;time&lt;/b&gt;." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/18/Article247_4102.anc" start="3725" end="3729" sStart="null" offset="0" sid="null" wn="1" wnkey="know%2:31:01::" annotator="carichter" text="But then we're getting dangerously close to the realm of the pop quiz, and we all &lt;b&gt;know&lt;/b&gt; where that got us last &lt;b&gt;time&lt;/b&gt;." />
+  </sentences>
+</list>

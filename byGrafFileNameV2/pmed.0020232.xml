@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020232.anc" start="13690" end="13695" sStart="13587" offset="103" sid="r7.trace.v.0337" wn="1" wnkey="trace%2:31:00::" annotator="veweser" text="The complexity of bacterial population biology and genetics makes it practically impossible to trace bacteria (or resistance factors) from the farm to the hospital, or to directly attribute some fraction of new infections to agricultural antibiotic use." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020232.anc" start="5488" end="5493" sStart="null" offset="46" sid="r7.trace.v.0336" wn="1" wnkey="trace%2:31:00::" annotator="cgozo" text="Not only are such events difficult to trace, but their impact is impossible to measure, since there is no way to know what type of resistance would have appeared and with what temporal pattern, if transfers from animals had been prevented." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020232.anc" start="11287" end="11293" sStart="null" offset="95" sid="r11.severe.j.0663" wn="5" wnkey="severe%5:00:00:critical:03" annotator="adelpriore" text="VRE still emerged and spread through European hospitals, but the problem has been less severe than in the US [40]." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020232.anc" start="10911" end="10915" sStart="null" offset="7" sid="r9.late.j.0074" wn="1" wnkey="late%3:00:00::" annotator="veweser" text="In the late 1980s and early 1990s, vancomycin-resistant enterococci (VRE) emerged and spread through US health-care systems." />
+    <s path="[OANC]/data/written_2/technical/plos/pmed.0020232.anc" start="10911" end="10915" sStart="null" offset="7" sid="r9.late.j.0074" wn="1" wnkey="late%3:00:00::" annotator="cgozo" text="In the late 1980s and early 1990s, vancomycin-resistant enterococci (VRE) emerged and spread through US health-care systems." />
+  </sentences>
+</list>

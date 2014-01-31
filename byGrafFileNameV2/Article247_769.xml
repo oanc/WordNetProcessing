@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_769.anc" start="5167" end="5170" sStart="5127" offset="40" sid="r8.way.n.0448" wn="2" wnkey="way%1:04:01::" annotator="cgozo" text="None of this coverage mentions a simple way CBS could have been much more convincing on this point: donate all ad revenues produced by the show to charity." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_769.anc" start="1337" end="1343" sStart="null" offset="27" sid="r11.strong.j.0104" wn="1" wnkey="strong%3:00:00::" annotator="anfahmy" text="Some Republicans expressed strong emotion about Reno's decision." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_769.anc" start="734" end="739" sStart="null" offset="4" sid="r9.paper.n.0456" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="The paper also says that the idea of a resolution censuring Clinton is gaining congressional momentum." />
+    <s path="[OANC]/data/written_1/journal/slate/6/Article247_769.anc" start="3734" end="3737" sStart="null" offset="112" sid="r9.hit.v.0640" wn="5" wnkey="hit%2:35:05::" annotator="brubin" text="The Wall Street Journal &quot;Tax Report&quot; says more and more &quot;not-so-wealthy&quot; people are getting hit with the alternative minimum tax, which was designed to keep the wealthy from dodging federal tax entirely through the artful use of deductions, credits and the like." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_769.anc" start="873" end="881" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="carichter" text="If the Gore decision seems &lt;b&gt;familiar&lt;/b&gt;, that's because Reno made it once before, but then reopened the investigation based on new evidence of Gore's attendance at some meetings where ultimately illegal approaches to fund-raising may have been discussed." />
+  </sentences>
+</list>

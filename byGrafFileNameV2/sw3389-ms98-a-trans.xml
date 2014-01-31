@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3389-ms98-a-trans.anc" start="3558" end="3561" sStart="3531" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="tofox" text="they played Dallas uh they &lt;b&gt;won&lt;/b&gt; in overtime" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3389-ms98-a-trans.anc" start="3558" end="3561" sStart="null" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="comcgeetubb" text="they played Dallas uh they &lt;b&gt;won&lt;/b&gt; in overtime" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3389-ms98-a-trans.anc" start="3558" end="3561" sStart="null" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="cgozo" text="they played Dallas uh they &lt;b&gt;won&lt;/b&gt; in overtime" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3389-ms98-a-trans.anc" start="3558" end="3561" sStart="null" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="they played Dallas uh they &lt;b&gt;won&lt;/b&gt; in overtime" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3389-ms98-a-trans.anc" start="3558" end="3561" sStart="null" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="they played Dallas uh they &lt;b&gt;won&lt;/b&gt; in overtime" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3389-ms98-a-trans.anc" start="2554" end="2558" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="veweser" text="it's pretty much going between Washington they're undefeated and uh Buffalo New Orleans and Chicago because Chicago's only &lt;b&gt;lost&lt;/b&gt; twice and one of those was to Buffalo" />
+  </sentences>
+</list>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="792" end="798" sStart="760" offset="32" sid="r8.number.n.0069" wn="1" wnkey="number%1:07:00::" annotator="veweser" text="Big savior: the decrease in the number of boys aged 15 to 21." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="792" end="798" sStart="null" offset="32" sid="r8.number.n.0069" wn="1" wnkey="number%1:07:00::" annotator="jeneale" text="Big savior: the decrease in the number of boys aged 15 to 21." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="792" end="798" sStart="null" offset="32" sid="r8.number.n.0069" wn="1" wnkey="number%1:07:00::" annotator="cgozo" text="Big savior: the decrease in the number of boys aged 15 to 21." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="792" end="798" sStart="null" offset="32" sid="r8.number.n.0069" wn="1" wnkey="number%1:07:00::" annotator="brubin" text="Big savior: the decrease in the number of boys aged 15 to 21." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="3884" end="3890" sStart="null" offset="29" sid="r1.launch.v.0037" wn="5" wnkey="launch%2:35:04::" annotator="sophiavv" text="The Wine Market Council will launch a media campaign in February." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="3884" end="3890" sStart="null" offset="29" sid="r1.launch.v.0037" wn="5" wnkey="launch%2:35:04::" annotator="anfahmy" text="The Wine Market Council will launch a media campaign in February." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="3884" end="3890" sStart="null" offset="29" sid="r1.launch.v.0037" wn="5" wnkey="launch%2:35:04::" annotator="adelpriore" text="The Wine Market Council will launch a media campaign in February." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="4691" end="4695" sStart="null" offset="67" sid="r9.late.j.0613" wn="6" wnkey="late%3:00:02::" annotator="veweser" text="A story explains Japan's plummeting fertility rate: Women in their late 20s don't want to sacrifice their independence to marriage and motherhood." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/24/ArticleIP_1249.anc" start="2451" end="2457" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="veweser" text="New York's Metropolitan Museum of Art has been steadily &lt;b&gt;adding&lt;/b&gt; to its once meager collection, and photography has become &quot;the medium of the moment.&quot;" />
+  </sentences>
+</list>

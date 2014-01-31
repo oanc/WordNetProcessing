@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/letters/icic/301CUL074.anc" start="1040" end="1044" sStart="1026" offset="14" sid="r10.help.v.0640" wn="3" wnkey="help%2:42:00::" annotator="brubin" text="These credits help reduce an individual's or business' overall state tax liability." />
+    <s path="[OANC]/data/written_1/letters/icic/301CUL074.anc" start="359" end="363" sStart="null" offset="97" sid="r9.full.j.0103" wn="2" wnkey="full%5:00:01:whole:00" annotator="cgozo" text="What if your contribution to Keep Indianapolis Beautiful would only cost you 10-25% of its full value?" />
+    <s path="[OANC]/data/written_1/letters/icic/301CUL074.anc" start="97" end="101" sStart="null" offset="10" sid="r10.find.v.0977" wn="5" wnkey="find%2:31:10::" annotator="veweser" text="Would you find it rewarding to help fellow Indianapolis residents, who despite tremendous challenges, are striving to turn their neighborhoods around 180 degrees?" />
+    <s path="[OANC]/data/written_1/letters/icic/301CUL074.anc" start="789" end="793" sStart="null" offset="7" sid="r11.able.j.0374" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="We are able to offer these on a first come, first serve basis, until June 30, 1999." />
+  </sentences>
+</list>

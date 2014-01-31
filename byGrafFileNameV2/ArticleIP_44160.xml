@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_44160.anc" start="4540" end="4546" sStart="4486" offset="54" sid="r10.help.v.0429" wn="1" wnkey="help%2:41:00::" annotator="veweser" text="[I]t may be the very irrelevance of royalty which has helped protect us from excesses of patriotic fervor,&quot; he wrote--comparing Australians favorably with Americans, who &quot;have a cloying sentimentality about their history, their flag, their president and their system.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/52/ArticleIP_44160.anc" start="6593" end="6598" sStart="null" offset="0" sid="null" wn="3" wnkey="forcefulness%1:07:00::" annotator="carichter" text="&quot;All Blacks humbled by a French tour de &lt;b&gt;force&lt;/b&gt;&quot; said the Daily Telegraph , calling it &quot;the biggest upset in the history of the Rugby World Cup.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/52/ArticleIP_44160.anc" start="4942" end="4948" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="carichter" text="An opinion poll published Monday in the Guardian of London found, surprisingly, that a large proportion of Britons think Australia should ditch the monarchy: Forty percent said it should &lt;b&gt;become&lt;/b&gt; a republic and 34 percent that it should keep the queen as its head of state." />
+  </sentences>
+</list>

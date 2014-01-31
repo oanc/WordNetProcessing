@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/48/ArticleIP_5848.anc" start="5848" end="5854" sStart="-1" offset="0" sid="null" wn="6" wnkey="show%2:32:02::" annotator="elstickles" text="But still, I had many meetings with him, and he &lt;b&gt;showed&lt;/b&gt; no signs of distraction or impatience." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/48/ArticleIP_5848.anc" start="5848" end="5854" sStart="null" offset="0" sid="null" wn="6" wnkey="show%2:32:02::" annotator="carichter" text="But still, I had many meetings with him, and he &lt;b&gt;showed&lt;/b&gt; no signs of distraction or impatience." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5848.anc" start="2613" end="2618" sStart="null" offset="40" sid="r8.1.great.j.0652" wn="1" wnkey="great%5:00:01:large:00" annotator="cgozo" text="He had been a likable boy, but I put no great stock in his professionalism or objectivity." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5848.anc" start="5380" end="5387" sStart="null" offset="58" sid="r11.benefit.n.0857" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="After several uncomfortable weeks he decided, without the benefit of his economists, to impose the freeze anyway." />
+    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5848.anc" start="5298" end="5303" sStart="null" offset="25" sid="r8.ask.v.0560" wn="1" wnkey="ask%2:32:01::" annotator="cgozo" text="The president repeatedly asked us to reconsider." />
+  </sentences>
+</list>

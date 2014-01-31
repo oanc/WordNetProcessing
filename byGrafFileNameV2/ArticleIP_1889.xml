@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1889.anc" start="3672" end="3678" sStart="3606" offset="66" sid="r8.state.n.0637" wn="4" wnkey="state%1:14:00::" annotator="veweser" text="Last year, Canada ran a $21 billion trade surplus with the United States." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1889.anc" start="2675" end="2683" sStart="null" offset="122" sid="r11.benefit.n.0945" wn="1" wnkey="benefit%1:21:00::" annotator="adelpriore" text="Many workers injured by trade are likely to be employed by small, non-unionized companies and either unaware of the trade benefits, which unions actively peddle to their laid-off members, or in service jobs that are not covered." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1889.anc" start="1275" end="1283" sStart="null" offset="221" sid="r11.benefit.n.0489" wn="1" wnkey="benefit%1:21:00::" annotator="adelpriore" text="The law, for example, does not say that the closing of a brewery (or other plant) has to be directly attributable to NAFTA-induced trade in order for the displaced workers to be eligible for an extra year of unemployment benefits and other &quot;adjustment&quot; assistance." />
+    <s path="[OANC]/data/written_1/journal/slate/30/ArticleIP_1889.anc" start="6182" end="6186" sStart="null" offset="109" sid="r11.able.j.0754" wn="1" wnkey="able%3:00:00::" annotator="vebatchelder" text="But should that willingness ever falter, one thing is sure: No &quot;worker adjustment&quot; program will be able to measure the harm, much less assuage it." />
+  </sentences>
+</list>

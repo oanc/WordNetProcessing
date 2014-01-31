@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2532-ms98-a-trans.anc" start="1900" end="1907" sStart="-1" offset="0" sid="null" wn="1" wnkey="mature%2:30:00::" annotator="veweser" text="when you &lt;b&gt;matured&lt;/b&gt; i like some classical to and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2532-ms98-a-trans.anc" start="1900" end="1907" sStart="null" offset="0" sid="null" wn="5" wnkey="mature%2:30:01::" annotator="cgozo" text="when you &lt;b&gt;matured&lt;/b&gt; i like some classical to and" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2532-ms98-a-trans.anc" start="1900" end="1907" sStart="null" offset="0" sid="null" wn="1" wnkey="mature%2:30:00::" annotator="brubin" text="when you &lt;b&gt;matured&lt;/b&gt; i like some classical to and" />
+  </sentences>
+</list>

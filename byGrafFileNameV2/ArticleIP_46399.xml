@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_46399.anc" start="2741" end="2745" sStart="2717" offset="24" sid="r7.poor.j.0881" wn="4" wnkey="poor%3:00:02::" annotator="veweser" text="Personal shoppers are a poor substitute for the communal pleasure of hunting down the perfect sweater with pals." />
+    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_46399.anc" start="2741" end="2745" sStart="null" offset="24" sid="r7.poor.j.0881" wn="4" wnkey="poor%3:00:02::" annotator="jeneale" text="Personal shoppers are a poor substitute for the communal pleasure of hunting down the perfect sweater with pals." />
+    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_46399.anc" start="4533" end="4540" sStart="null" offset="0" sid="r9.kill.v.0585" wn="1" wnkey="kill%2:35:00::" annotator="veweser" text="" />
+  </sentences>
+</list>

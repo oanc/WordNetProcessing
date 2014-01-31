@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4083.anc" start="5164" end="5174" sStart="-1" offset="0" sid="null" wn="1" wnkey="suspicious%5:00:00:distrustful:00" annotator="cgozo" text="I'm &lt;b&gt;suspicious&lt;/b&gt; of giving too much credit to celebrities, but maybe Chris Rock is on to something." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4083.anc" start="5164" end="5174" sStart="null" offset="0" sid="null" wn="1" wnkey="suspicious%5:00:00:distrustful:00" annotator="brubin" text="I'm &lt;b&gt;suspicious&lt;/b&gt; of giving too much credit to celebrities, but maybe Chris Rock is on to something." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4083.anc" start="4287" end="4292" sStart="null" offset="43" sid="r9.sense.n.0997" wn="1" wnkey="sense%1:09:05::" annotator="veweser" text="At one point, West quotes Du Bois--with no sense of irony--to the effect that &quot;we must have honest men or we die." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4083.anc" start="4689" end="4694" sStart="null" offset="198" sid="r9.sense.n.0386" wn="1" wnkey="sense%1:09:05::" annotator="anfahmy" text="So-called public intellectuals like West, bell hooks, and, yes, Henry Louis Gates Jr. himself, seem to me both dishonest and selfish--they're in it for the money and the power as much as out of any sense of obligation or responsibility to the black community." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4083.anc" start="4661" end="4666" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="carichter" text="So-called public intellectuals like West, bell hooks, and, yes, Henry Louis Gates Jr. himself, seem to me both dishonest and selfish--they're in it for the money and the &lt;b&gt;power&lt;/b&gt; as much as out of any sense of obligation or responsibility to the black community." />
+  </sentences>
+</list>

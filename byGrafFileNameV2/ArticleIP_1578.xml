@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1578.anc" start="3869" end="3872" sStart="3856" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="veweser" text="Dole may not &lt;b&gt;win&lt;/b&gt;, but maybe now he won't be disgraced." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1578.anc" start="370" end="375" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="cgozo" text="The strategy is clear and politically &lt;b&gt;smart&lt;/b&gt;: &quot;Let Dole Be Reagan,&quot; complete with a partner who is the original supply-sider, co-author of Reagan's 1981 Kemp/Roth tax cut." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1578.anc" start="370" end="375" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="The strategy is clear and politically &lt;b&gt;smart&lt;/b&gt;: &quot;Let Dole Be Reagan,&quot; complete with a partner who is the original supply-sider, co-author of Reagan's 1981 Kemp/Roth tax cut." />
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1578.anc" start="3758" end="3763" sStart="null" offset="13" sid="r9.sense.n.0343" wn="1" wnkey="sense%1:09:05::" annotator="cgozo" text="He had a new sense of spirit, a Reagan/Kemp tax cut." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1578.anc" start="2130" end="2136" sStart="null" offset="0" sid="null" wn="3" wnkey="image%1:06:00::" annotator="brubin" text="The next scene has no distracting &lt;b&gt;images&lt;/b&gt;, just words, numbers, and this focus: a &quot;15 Percent Tax Cut for Every Taxpayer.&quot;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1578.anc" start="3817" end="3822" sStart="null" offset="0" sid="null" wn="2" wnkey="color%1:07:03::" annotator="brubin" text="He smiled, and his &lt;b&gt;color&lt;/b&gt; brightened to a paler Reaganism." />
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1578.anc" start="2222" end="2229" sStart="null" offset="4" sid="r11.absence.n.0480" wn="1" wnkey="absence%1:26:00::" annotator="adelpriore" text="The absence of any reinforcing visual actually makes the simple message all the more vivid." />
+  </sentences>
+</list>

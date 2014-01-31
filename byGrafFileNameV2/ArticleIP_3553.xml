@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3553.anc" start="5008" end="5013" sStart="4986" offset="22" sid="r9.level.n.0901" wn="1" wnkey="level%1:07:00::" annotator="veweser" text="I believe the current level of taxation is illegitimate because it is done without the consent of the governed." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3553.anc" start="5489" end="5494" sStart="null" offset="121" sid="r8.1.great.j.0388" wn="3" wnkey="great%5:00:01:extraordinary:00" annotator="cgozo" text="During the Vietnam War, some conscientious objectors believed they were acting for the good of the country and did so at great personal risk." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3553.anc" start="6160" end="6169" sStart="null" offset="105" sid="r11.function.n.0631" wn="2" wnkey="function%1:07:00::" annotator="vebatchelder" text="While no one really likes forking over taxes, that money pays for a multitude of government services and functions." />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3553.anc" start="1444" end="1448" sStart="null" offset="71" sid="r7.1.easy.j.0054" wn="2147483647" wnkey="null" annotator="veweser" text="(No need to go into the national scandal of schools going academically easy on their athletes and graduating dumb people.)" />
+    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3553.anc" start="3673" end="3679" sStart="null" offset="5" sid="r8.ask.v.0322" wn="4" wnkey="ask%2:32:04::" annotator="jeneale" text="I am asking you: Why is everything so hard now--more so than 25 years ago?" />
+  </sentences>
+</list>

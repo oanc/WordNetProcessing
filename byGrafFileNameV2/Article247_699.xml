@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_699.anc" start="2570" end="2573" sStart="2461" offset="109" sid="r8.way.n.0696" wn="2" wnkey="way%1:04:01::" annotator="cgozo" text="The Wall Street Journal reports that China has banned a kind of foreign joint venture that was the principal way such telecommunications firms as Sprint had begun gaining entry into Chinese markets." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_699.anc" start="3460" end="3463" sStart="null" offset="77" sid="r8.way.n.0584" wn="9" wnkey="way%1:07:02::" annotator="cgozo" text="Although the NYT 's off-lead reports that any U.S.-Iran thaw is still a long way off, LAT 's front, and inside stories at all the other papers, report that Iran's president Mohammed Khatemi told reporters yesterday that the fatwa issued against Salman Rushdie for blaspheming Islam was &quot;completely finished.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_699.anc" start="1865" end="1874" sStart="null" offset="15" sid="r11.refer.v.0732" wn="1" wnkey="refer%2:32:01::" annotator="adelpriore" text="The LAT notes, referring to the Starr office's response, that when this statement was paraphrased in the report the modifier &quot;explicitly&quot; was added." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_699.anc" start="949" end="961" sStart="null" offset="30" sid="r11.recommend.v.0242" wn="1" wnkey="recommend%2:32:01::" annotator="anfahmy" text="Hyde expects a committee vote recommending impeachment hearings to come in early October, with the hearings beginning after the November election." />
+    <s path="[OANC]/data/written_1/journal/slate/5/Article247_699.anc" start="3993" end="3998" sStart="null" offset="52" sid="r9.paper.n.0580" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="A number of elite schools in the New York area, the paper reports, have declared peanut-free cafeterias." />
+  </sentences>
+</list>

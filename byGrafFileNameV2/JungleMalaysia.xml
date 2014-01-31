@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/JungleMalaysia.anc" start="1691" end="1697" sStart="1672" offset="19" sid="r11.refer.v.0557" wn="6" wnkey="refer%2:32:00::" annotator="anfahmy" text="The botanical term refers to the two-winged fruit (similar to the ÒkeyÓ of the common sycamore) borne by a large number of the forestÕs tallest trees." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/JungleMalaysia.anc" start="980" end="984" sStart="null" offset="0" sid="null" wn="1" wnkey="land%1:21:01::" annotator="rstandig" text="The dense undergrowth of their aerial prop roots perform natural &lt;b&gt;land&lt;/b&gt; reclamation." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/JungleMalaysia.anc" start="980" end="984" sStart="null" offset="0" sid="null" wn="4" wnkey="land%1:17:00::" annotator="brubin" text="The dense undergrowth of their aerial prop roots perform natural &lt;b&gt;land&lt;/b&gt; reclamation." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/JungleMalaysia.anc" start="1574" end="1578" sStart="null" offset="0" sid="null" wn="4" wnkey="land%1:17:00::" annotator="brubin" text="Where swamp gives way to dry &lt;b&gt;land&lt;/b&gt;, you will see the fascinating, monstrous strangler-figs." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/JungleMalaysia.anc" start="4453" end="4458" sStart="null" offset="6" sid="r10.find.v.0852" wn="2" wnkey="find%2:39:02::" annotator="brubin" text="It is found only on the peninsula." />
+  </sentences>
+</list>

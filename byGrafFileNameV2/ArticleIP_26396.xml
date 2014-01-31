@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="1977" end="1981" sStart="-1" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" annotator="kaolla" text="Drawing heavily on works in the museum's permanent collection, some of which are rarely displayed, Anderson's first attempt at a blockbuster eschews political correctness, offers no historical revisionism, and even includes &lt;b&gt;work&lt;/b&gt; by Norman Rockwell without quotation marks." />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="1977" end="1981" sStart="null" offset="0" sid="null" wn="2" wnkey="work%1:06:00::" annotator="carichter" text="Drawing heavily on works in the museum's permanent collection, some of which are rarely displayed, Anderson's first attempt at a blockbuster eschews political correctness, offers no historical revisionism, and even includes &lt;b&gt;work&lt;/b&gt; by Norman Rockwell without quotation marks." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="486" end="490" sStart="null" offset="38" sid="null" wn="5 1" wnkey="null" annotator="veweser" text="One day it shouts obscenities in your face." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="486" end="490" sStart="null" offset="38" sid="null" wn="1" wnkey="human_face%1:08:01::" annotator="jeneale" text="One day it shouts obscenities in your face." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="486" end="490" sStart="null" offset="38" sid="null" wn="1" wnkey="human_face%1:08:01::" annotator="cgozo" text="One day it shouts obscenities in your face." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="486" end="490" sStart="null" offset="38" sid="null" wn="5" wnkey="face%1:18:00::" annotator="brubin" text="One day it shouts obscenities in your face." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="486" end="490" sStart="null" offset="38" sid="r7.1.face.n.0903" wn="5" wnkey="face%1:18:00::" annotator="brubin" text="One day it shouts obscenities in your face." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="5323" end="5327" sStart="null" offset="0" sid="null" wn="6" wnkey="date%1:28:05::" annotator="veweser" text="And the New York School of abstraction, which became predominant after the war, was near its apex, not its end, by the arbitrary cutoff &lt;b&gt;date&lt;/b&gt; of 1950." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26396.anc" start="7260" end="7267" sStart="null" offset="108" sid="r9.appear.v.0825" wn="5" wnkey="appear%2:30:02::" annotator="veweser" text="Walking through the galleries, you glimpse a series of moments when an art both new and distinctly American appears." />
+  </sentences>
+</list>

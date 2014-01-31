@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2798-ms98-a-trans.anc" start="10895" end="10901" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="and what it is is it's like a little coder box and you tell all the &lt;b&gt;people&lt;/b&gt; that you want to talk to like your family and your friends and stuff a three digit code" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2798-ms98-a-trans.anc" start="10895" end="10901" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="and what it is is it's like a little coder box and you tell all the &lt;b&gt;people&lt;/b&gt; that you want to talk to like your family and your friends and stuff a three digit code" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2798-ms98-a-trans.anc" start="3149" end="3154" sStart="null" offset="0" sid="null" wn="13" wnkey="part%1:06:01::" annotator="carichter" text="we have uh mini van and the door the sliding door on it has never worked right and we've had it back twice to have &lt;b&gt;parts&lt;/b&gt; replaced and stuff and they just can't" />
+  </sentences>
+</list>

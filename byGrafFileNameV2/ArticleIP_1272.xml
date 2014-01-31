@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1272.anc" start="5746" end="5753" sStart="5726" offset="20" sid="r7.strike.n.0174" wn="2147483645" wnkey="null" annotator="jeneale" text="Movie -- The Empire Strikes Back: Special Edition ;" />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1272.anc" start="1167" end="1172" sStart="null" offset="53" sid="r7.sight.n.0128" wn="1" wnkey="sight%1:09:01::" annotator="cgozo" text="The new screenplay also adds &quot;farcical plot and sight gags to provide hilarity&quot; to the story of the relationship between a commodity trader and the 13-year-old son he finds in the Amazon, according to the Los Angeles Times . Dissenters call the plot ridiculous and the gags tiresome." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1272.anc" start="3073" end="3076" sStart="null" offset="171" sid="r9.hit.v.0221" wn="2147483645" wnkey="null" annotator="veweser" text="New York recently featured this literary murder mystery as a case study in &quot;breakthrough&quot; marketing--its publisher, Viking, hoped to position it as a middlebrow hit, like Annie Proulx's The Shipping News . Reviewers aren't cooperating." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1272.anc" start="1846" end="1850" sStart="null" offset="105" sid="r10.find.v.0929" wn="10" wnkey="find%2:40:03::" annotator="veweser" text="&quot;She's a time-traveling Manhattan Yankee in Plautus's forum, using her distinctive street smarts to find her way, both as a character and as a performer&quot; (Ben Brantley, the New York Times ). Goldberg's self-mocking approach is said to redeem the production from an otherwise overwrought book." />
+    <s path="[OANC]/data/written_1/journal/slate/24/ArticleIP_1272.anc" start="5576" end="5581" sStart="null" offset="0" sid="r10.book.n.0645" wn="1" wnkey="book%1:10:00::" annotator="veweser" text="Books --First Novel Roundup;" />
+  </sentences>
+</list>

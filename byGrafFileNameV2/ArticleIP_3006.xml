@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3006.anc" start="1391" end="1396" sStart="1320" offset="71" sid="r7.sight.n.0164" wn="4" wnkey="sight%1:09:03::" annotator="cgozo" text="In 1975, this, and not a celebrity or a promotional motive anywhere in sight (do I need to point out that William Y is an invention of the author's?)" />
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3006.anc" start="6516" end="6526" sStart="null" offset="142" sid="r10.particular.j.0795" wn="2147483647" wnkey="null" annotator="cgozo" text="But maybe, just maybe, in some circuitous and stealthy way, Not-Knowing will play its part in revising that lapse, prompting young readers in particular to seek out the best work of an American original, part philosophe and part banana." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/41/ArticleIP_3006.anc" start="6460" end="6464" sStart="null" offset="0" sid="null" wn="6" wnkey="part%1:04:01::" annotator="carichter" text="But maybe, just maybe, in some circuitous and stealthy way, Not-Knowing will play its &lt;b&gt;part&lt;/b&gt; in revising that lapse, prompting young readers in particular to seek out the best work of an American original, &lt;b&gt;part&lt;/b&gt; philosophe and &lt;b&gt;part&lt;/b&gt; banana." />
+    <s path="[OANC]/data/written_1/journal/slate/41/ArticleIP_3006.anc" start="2109" end="2116" sStart="null" offset="182" sid="r11.absence.n.0410" wn="3" wnkey="absence%1:28:00::" annotator="anfahmy" text="Reading Barthelme may make you think of Surrealism, of Pop Art, of various species of what used to be called bricolage, but what came to my mind, revisiting his stories after a long absence, was the mile-a-minute channel-switching in the monologues of Robin Williams." />
+  </sentences>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4044.anc" start="2549" end="2553" sStart="2532" offset="17" sid="r11.true.j.0276" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="Can it really be true that fully half of these injuries are unpreventable?)" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4044.anc" start="2809" end="2813" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="The story makes the point that the falling crime &lt;b&gt;rate&lt;/b&gt; helps police fight crime: lighter caseloads mean more cops on the street." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4044.anc" start="2809" end="2813" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="The story makes the point that the falling crime &lt;b&gt;rate&lt;/b&gt; helps police fight crime: lighter caseloads mean more cops on the street." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4044.anc" start="1178" end="1183" sStart="null" offset="204" sid="r9.paper.n.0649" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text=". The polling's takeaway: Voters would prefer Democrats controlling Congress and a Republican in the White House (the survey's presidential tally is Bush over Gore 55 percent to 40 percent), a stance the paper summarizes as &quot;Times are good, so throw the bums out.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4044.anc" start="3121" end="3126" sStart="null" offset="4" sid="r9.paper.n.0226" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="The paper says that this sort of lawsuit could ultimately be more of a threat to the company than suits brought by competitors, potentially costing it millions, even billions." />
+    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4044.anc" start="4699" end="4705" sStart="null" offset="10" sid="r8.ask.v.0712" wn="7" wnkey="ask%2:32:09::" annotator="cgozo" text="5 million asking price.&quot;" />
+  </sentences>
+</list>

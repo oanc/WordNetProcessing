@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020023.anc" start="822" end="828" sStart="-1" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="veweser" text="What is more, every infected person has the &lt;b&gt;chance&lt;/b&gt; of infecting many others." />
+    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020023.anc" start="822" end="828" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="What is more, every infected person has the &lt;b&gt;chance&lt;/b&gt; of infecting many others." />
+  </sentences>
+</list>

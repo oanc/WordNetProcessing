@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3311.anc" start="905" end="914" sStart="816" offset="89" sid="r11.recommend.v.0102" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text="Secretary of Agriculture Dan Glickman, touring West Virginia and Maryland this week, may recommend declaring a state of emergency." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3311.anc" start="3040" end="3049" sStart="null" offset="47" sid="r1.influence.n.0041" wn="1" wnkey="influence%1:07:00::" annotator="sophiavv" text="The NYT reports that even at the height of its influence, the Christian Coalition kept thousands of dead persons, duplicate names, and wrong addresses on its lists of supporters." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3311.anc" start="3040" end="3049" sStart="null" offset="47" sid="r1.influence.n.0041" wn="4" wnkey="influence%1:19:00::" annotator="anfahmy" text="The NYT reports that even at the height of its influence, the Christian Coalition kept thousands of dead persons, duplicate names, and wrong addresses on its lists of supporters." />
+    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3311.anc" start="3040" end="3049" sStart="null" offset="47" sid="r1.influence.n.0041" wn="1" wnkey="influence%1:07:00::" annotator="adelpriore" text="The NYT reports that even at the height of its influence, the Christian Coalition kept thousands of dead persons, duplicate names, and wrong addresses on its lists of supporters." />
+    <s path="file:/C:/OANC/data/written_1/journal/slate/10/Article247_3311.anc" start="2746" end="2755" sStart="null" offset="0" sid="null" wn="1" wnkey="exercise%2:34:00::" annotator="cgozo" text="The FDA, citing a lack of information, &lt;b&gt;exercises&lt;/b&gt; little regulatory control on reprocessing, but a ban on third-party reprocessing is likely." />
+    <s path="file:/C:/OANC/data/written_1/journal/slate/10/Article247_3311.anc" start="2746" end="2755" sStart="null" offset="0" sid="null" wn="1" wnkey="exercise%2:34:00::" annotator="brubin" text="The FDA, citing a lack of information, &lt;b&gt;exercises&lt;/b&gt; little regulatory control on reprocessing, but a ban on third-party reprocessing is likely." />
+  </sentences>
+</list>

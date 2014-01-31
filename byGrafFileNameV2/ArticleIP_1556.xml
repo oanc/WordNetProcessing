@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1556.anc" start="683" end="689" sStart="640" offset="43" sid="r7.strike.n.0050" wn="1" wnkey="strike%1:04:00::" annotator="veweser" text="The Orangemen threatened to call a general strike, and authorities agreed to let them stage another march in Belfast next week." />
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1556.anc" start="683" end="689" sStart="null" offset="43" sid="r7.strike.n.0050" wn="1" wnkey="strike%1:04:00::" annotator="jeneale" text="The Orangemen threatened to call a general strike, and authorities agreed to let them stage another march in Belfast next week." />
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1556.anc" start="683" end="689" sStart="null" offset="43" sid="r7.strike.n.0050" wn="1" wnkey="strike%1:04:00::" annotator="cgozo" text="The Orangemen threatened to call a general strike, and authorities agreed to let them stage another march in Belfast next week." />
+    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1556.anc" start="683" end="689" sStart="null" offset="43" sid="r7.strike.n.0050" wn="1" wnkey="strike%1:04:00::" annotator="brubin" text="The Orangemen threatened to call a general strike, and authorities agreed to let them stage another march in Belfast next week." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1556.anc" start="5639" end="5642" sStart="null" offset="0" sid="null" wn="2" wnkey="meet%2:41:01::" annotator="veweser" text="Eventually the two leaders &lt;b&gt;met&lt;/b&gt; and agreed to keep their criticisms private." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1556.anc" start="3098" end="3103" sStart="null" offset="0" sid="null" wn="8" wnkey="image%1:07:01::" annotator="brubin" text="The anti-Starr spins: This confirms Starr's public &lt;b&gt;image&lt;/b&gt; as a reckless zealot and removes the leverage he had hoped to use to make Hubbell rat on Clinton." />
+  </sentences>
+</list>

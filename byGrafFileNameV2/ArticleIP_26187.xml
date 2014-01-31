@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_26187.anc" start="5952" end="5957" sStart="-1" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="A &quot;rancid little nothing of a movie&quot; (Stephen Holden, the New York &lt;b&gt;Times&lt;/b&gt; ) that's a grim, gross wannabe Farrelly brothers flick." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_26187.anc" start="2401" end="2405" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" annotator="veweser" text="The evidence is on the screen&quot; (the New York Times ). Joe Morgenstern writes, &quot;Lest I, too, go round in circles trying to convey the dense texture of this exquisite film, I'll simply say that [it] seizes your mind and stays in your heart&quot; (the Wall Street Journal ). The story follows two lovers who &lt;b&gt;meet&lt;/b&gt; at the age of 8 and cycle in and out of each other's lives through adulthood." />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26187.anc" start="7101" end="7105" sStart="null" offset="9" sid="r8.life.n.0515" wn="2147483645" wnkey="null" annotator="brubin" text="Movie -- Life ;" />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_26187.anc" start="8864" end="8869" sStart="null" offset="0" sid="null" wn="3" wnkey="date%1:14:00::" annotator="veweser" text="Movie -- 20 &lt;b&gt;Dates&lt;/b&gt; ;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26187.anc" start="5517" end="5528" sStart="null" offset="201" sid="r11.combination.n.0707" wn="1" wnkey="combination%1:14:00::" annotator="anfahmy" text="Sam Schulman complains in the Wall Street Journal that despite the excellent material, Eisler &quot;cannot capture&quot; the essence of Byron's power &quot;because her earnestness misses his seductive combination of modesty, irony, self-doubt and self-confidence.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26187.anc" start="8967" end="8971" sStart="null" offset="0" sid="r10.book.n.0377" wn="1" wnkey="book%1:10:00::" annotator="veweser" text="Book -- All Too Human: A Political Education , by George Stephanopoulos;" />
+    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26187.anc" start="5079" end="5083" sStart="null" offset="0" sid="r10.book.n.0743" wn="1" wnkey="book%1:10:00::" annotator="cgozo" text="Book" />
+  </sentences>
+</list>

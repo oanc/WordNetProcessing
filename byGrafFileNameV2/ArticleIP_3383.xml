@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3383.anc" start="1366" end="1373" sStart="1306" offset="60" sid="r10.wait.v.0451" wn="3" wnkey="wait%2:31:00::" annotator="cgozo" text="Because the barbarians are coming today and the emperor's waiting to receive their leader." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3383.anc" start="792" end="799" sStart="null" offset="12" sid="r10.wait.v.0450" wn="2" wnkey="wait%2:42:01::" annotator="anfahmy" text="What are we waiting for, assembled in the forum?" />
+  </sentences>
+</list>

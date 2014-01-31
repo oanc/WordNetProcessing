@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3224.anc" start="4147" end="4154" sStart="4136" offset="11" sid="r10.wait.v.0436" wn="3" wnkey="wait%2:31:00::" annotator="brubin" text="What we're waiting for is the trip to Vega, and indeed, this 10-minute sequence turns out to be pure joy." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3224.anc" start="1095" end="1101" sStart="null" offset="121" sid="r7.strike.v.0008" wn="17" wnkey="strike%2:38:08::" annotator="jeneale" text="In the goofy Back to the Future , he regressed Michael J. Fox to a 1950s high-school student and had him strike up an incestuous flirtation with his then teen-age mother." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3224.anc" start="1095" end="1101" sStart="null" offset="121" sid="r7.strike.v.0008" wn="2147483646" wnkey="null" annotator="cgozo" text="In the goofy Back to the Future , he regressed Michael J. Fox to a 1950s high-school student and had him strike up an incestuous flirtation with his then teen-age mother." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3224.anc" start="1095" end="1101" sStart="null" offset="121" sid="r7.strike.v.0008" wn="17" wnkey="strike%2:38:08::" annotator="brubin" text="In the goofy Back to the Future , he regressed Michael J. Fox to a 1950s high-school student and had him strike up an incestuous flirtation with his then teen-age mother." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3224.anc" start="479" end="483" sStart="null" offset="51" sid="r8.life.n.0090" wn="11" wnkey="life%1:19:00::" annotator="veweser" text="She's been searching for signs of extraterrestrial life ever since she was a little girl." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3224.anc" start="479" end="483" sStart="null" offset="51" sid="r8.life.n.0090" wn="10 11" wnkey="null" annotator="jeneale" text="She's been searching for signs of extraterrestrial life ever since she was a little girl." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3224.anc" start="479" end="483" sStart="null" offset="51" sid="r8.life.n.0090" wn="4" wnkey="life%1:26:00::" annotator="cgozo" text="She's been searching for signs of extraterrestrial life ever since she was a little girl." />
+    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3224.anc" start="479" end="483" sStart="null" offset="51" sid="r8.life.n.0090" wn="11" wnkey="life%1:19:00::" annotator="brubin" text="She's been searching for signs of extraterrestrial life ever since she was a little girl." />
+  </sentences>
+</list>

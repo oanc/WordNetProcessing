@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/WhereToMalaysia.anc" start="11381" end="11385" sStart="-1" offset="0" sid="null" wn="2" wnkey="time%1:28:05::" annotator="kaolla" text="It was here that members of the mock-Tudor Royal Selangor Club (1884), also designed by A. C. Norman, took &lt;b&gt;time&lt;/b&gt; off from the affairs of the Empire to play cricket." />
+    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/WhereToMalaysia.anc" start="11381" end="11385" sStart="null" offset="0" sid="null" wn="2" wnkey="time%1:28:05::" annotator="carichter" text="It was here that members of the mock-Tudor Royal Selangor Club (1884), also designed by A. C. Norman, took &lt;b&gt;time&lt;/b&gt; off from the affairs of the Empire to play cricket." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/WhereToMalaysia.anc" start="10565" end="10573" sStart="null" offset="63" sid="r7.strike.v.0500" wn="2147483645" wnkey="null" annotator="cgozo" text="Among the many impressive skyscrapers, one of the most striking is the 35-story Dayabumi Complex (1970), southeast of Dataran Merdeka." />
+    <s path="[OANC]/data/written_2/travel_guides/berlitz1/WhereToMalaysia.anc" start="11578" end="11583" sStart="null" offset="42" sid="r8.state.n.0776" wn="1" wnkey="state%1:15:01::" annotator="cgozo" text="The square now hosts National Day state parades." />
+  </sentences>
+</list>

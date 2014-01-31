@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/609CWL259.anc" start="494" end="498" sStart="381" offset="0" sid="null" wn="2" wnkey="warm%3:00:02::" annotator="cgozo" text="It is our distinct pleasure to bring to life tales to make you laugh, experience unfamiliar situations, or &lt;b&gt;warm&lt;/b&gt; your heart." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/609CWL259.anc" start="171" end="175" sStart="null" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="kaolla" text="This is a wonderful &lt;b&gt;time&lt;/b&gt; of year for storytelling." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/609CWL259.anc" start="171" end="175" sStart="null" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="carichter" text="This is a wonderful &lt;b&gt;time&lt;/b&gt; of year for storytelling." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/609CWL259.anc" start="333" end="340" sStart="null" offset="0" sid="null" wn="3" wnkey="tell%2:32:01::" annotator="cgozo" text="The IRT &lt;b&gt;knows&lt;/b&gt; something about &lt;b&gt;telling&lt;/b&gt; stories - we're in that business." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/609CWL259.anc" start="1920" end="1924" sStart="null" offset="0" sid="null" wn="3" wnkey="tell%2:32:01::" annotator="brubin" text="Your generosity will help the IRT continue to &lt;b&gt;tell&lt;/b&gt; the best stories in the finest manner possible." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/609CWL259.anc" start="1001" end="1005" sStart="null" offset="0" sid="null" wn="3" wnkey="tell%2:32:01::" annotator="brubin" text="To continue to &lt;b&gt;tell&lt;/b&gt; our stories, we ask for your help and support." />
+    <s path="[OANC]/data/written_1/letters/icic/609CWL259.anc" start="421" end="425" sStart="null" offset="40" sid="r8.life.n.0548" wn="9" wnkey="life%1:07:01::" annotator="cgozo" text="It is our distinct pleasure to bring to life tales to make you laugh, experience unfamiliar situations, or warm your heart." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/609CWL259.anc" start="311" end="316" sStart="null" offset="0" sid="null" wn="2" wnkey="know%2:31:03::" annotator="elstickles" text="The IRT &lt;b&gt;knows&lt;/b&gt; something about &lt;b&gt;telling&lt;/b&gt; stories - we're in that business." />
+    <s path="file:/c:/OANC/data/written_1/letters/icic/609CWL259.anc" start="311" end="316" sStart="null" offset="0" sid="null" wn="2" wnkey="know%2:31:03::" annotator="carichter" text="The IRT &lt;b&gt;knows&lt;/b&gt; something about &lt;b&gt;telling&lt;/b&gt; stories - we're in that business." />
+  </sentences>
+</list>

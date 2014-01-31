@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4492.anc" start="736" end="740" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="With interest &lt;b&gt;rate&lt;/b&gt; hikes a foregone conclusion, the Dow dropped 2.6% and the Nasdaq slid 3.77% on Friday." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4492.anc" start="736" end="740" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="With interest &lt;b&gt;rate&lt;/b&gt; hikes a foregone conclusion, the Dow dropped 2.6% and the Nasdaq slid 3.77% on Friday." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4492.anc" start="4462" end="4468" sStart="null" offset="44" sid="r9.kill.v.0865" wn="12" wnkey="kill%2:30:00::" annotator="veweser" text="According to today's Times, the program was killed yesterday after the story raised a fit of scorn." />
+    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4492.anc" start="4257" end="4261" sStart="null" offset="39" sid="r10.high.j.0496" wn="2147483647" wnkey="null" annotator="brubin" text="Any public assistance recipient with a high school equivalency degree, 'a caring and compassionate personality' and the 'ability to read, write, and speak English'&quot; could qualify, the story reported." />
+  </sentences>
+</list>

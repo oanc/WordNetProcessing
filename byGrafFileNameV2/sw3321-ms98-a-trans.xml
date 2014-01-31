@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3321-ms98-a-trans.anc" start="3355" end="3360" sStart="-1" offset="0" sid="null" wn="9" wnkey="power%1:19:01::" annotator="veweser" text="it's you look at the computer &lt;b&gt;power&lt;/b&gt; that the you know the personal computers put on our desk compare it you know with the you know i guess the the first computer i used with a a 7094 or something like that" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3321-ms98-a-trans.anc" start="3355" end="3360" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="tofox" text="it's you look at the computer &lt;b&gt;power&lt;/b&gt; that the you know the personal computers put on our desk compare it you know with the you know i guess the the first computer i used with a a 7094 or something like that" />
+  </sentences>
+</list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/c:/OANC/data/written_1/journal/slate/29/ArticleIP_1774.anc" start="1296" end="1300" sStart="-1" offset="0" sid="null" wn="6" wnkey="land%1:26:00::" annotator="rstandig" text="The &lt;b&gt;land&lt;/b&gt; of the free has upheld the finest democratic traditions.&quot;" />
+    <s path="file:/c:/OANC/data/written_1/journal/slate/29/ArticleIP_1774.anc" start="1296" end="1300" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="The &lt;b&gt;land&lt;/b&gt; of the free has upheld the finest democratic traditions.&quot;" />
+    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1774.anc" start="3460" end="3465" sStart="null" offset="60" sid="r8.ask.v.0306" wn="2" wnkey="ask%2:32:02::" annotator="jeneale" text="La Stampa of Turin ran a comment by Gabriele Romagnoli, who asked why nobody has asked Clinton the most important question: &quot;Mr." />
+  </sentences>
+</list>

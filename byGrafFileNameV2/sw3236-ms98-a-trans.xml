@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3236-ms98-a-trans.anc" start="4174" end="4182" sStart="-1" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="cgozo" text="well the boys think it's fun plus you get your &lt;b&gt;exercise&lt;/b&gt; and you you do get to stop once in a while when there is a can to rest so but" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3236-ms98-a-trans.anc" start="4174" end="4182" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="brubin" text="well the boys think it's fun plus you get your &lt;b&gt;exercise&lt;/b&gt; and you you do get to stop once in a while when there is a can to rest so but" />
+  </sentences>
+</list>

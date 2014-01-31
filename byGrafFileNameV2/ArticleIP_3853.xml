@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3853.anc" start="3177" end="3184" sStart="3174" offset="3" sid="r7.strike.v.0291" wn="2" wnkey="strike%2:37:00::" annotator="brubin" text="It strikes me as a modern-day perversion of ancient Chinese landscape paintings in which people are depicted as miniscule figures at the base of immense mountains and valleys." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3853.anc" start="2620" end="2624" sStart="null" offset="120" sid="r7.poor.j.0812" wn="2147483645" wnkey="null" annotator="cgozo" text="In California, cutting legal immigrants off federal aid simply dumps them onto local taxpayers, even though millions of poor continue to arrive." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3853.anc" start="3148" end="3154" sStart="null" offset="0" sid="null" wn="3" wnkey="image%1:06:00::" annotator="cgozo" text="I enjoyed &quot;Pop Technology,&quot; Louis Menand's take on the Star Wars legacy, particularly his observation that human beings have become dwarfed by computer-created &lt;b&gt;images&lt;/b&gt; on the big screen." />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3853.anc" start="3427" end="3431" sStart="null" offset="77" sid="r7.1.face.n.0955" wn="2147483646" wnkey="null" annotator="brubin" text="Will our generation one day be interpreted as similarly insignificant in the face of colossal technology?" />
+    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3853.anc" start="2241" end="2249" sStart="null" offset="64" sid="r11.benefit.n.0160" wn="1" wnkey="benefit%1:21:00::" annotator="vebatchelder" text="The cuts the governors complained about were the elimination of benefits to legal immigrants, who heretofore have been treated pretty much the same as citizens with regard to welfare benefits." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3853.anc" start="1193" end="1198" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="tofox" text="He also &lt;b&gt;added&lt;/b&gt; something this whole escapade has needed from the start--a little humor." />
+  </sentences>
+</list>

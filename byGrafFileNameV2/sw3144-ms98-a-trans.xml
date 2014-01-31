@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3144-ms98-a-trans.anc" start="2866" end="2872" sStart="-1" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="and i don't know who was here or whether Jay just called a friend and we didn't think we'd have much &lt;b&gt;chance&lt;/b&gt; of getting in but we thought we'd &lt;b&gt;try&lt;/b&gt; it you know free movie" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3144-ms98-a-trans.anc" start="2866" end="2872" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="tofox" text="and i don't know who was here or whether Jay just called a friend and we didn't think we'd have much &lt;b&gt;chance&lt;/b&gt; of getting in but we thought we'd &lt;b&gt;try&lt;/b&gt; it you know free movie" />
+  </sentences>
+</list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3643.anc" start="2508" end="2514" sStart="-1" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="carichter" text="American companies investing in Puerto Rico have long been exempted from income tax, making the &lt;b&gt;island&lt;/b&gt; a manufacturing and pharmaceutical center." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3643.anc" start="2328" end="2334" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="carichter" text="The &lt;b&gt;island&lt;/b&gt; still receives $10 billion in assistance (including entitlements) each year." />
+    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3643.anc" start="490" end="496" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="carichter" text="Congress governed the Caribbean &lt;b&gt;island&lt;/b&gt; directly as a territory until 1952, when it expanded Puerto Rican autonomy by making it a &quot;commonwealth,&quot; allowing it to adopt a constitution and create a locally elected government with statelike &lt;b&gt;powers&lt;/b&gt;." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3643.anc" start="2935" end="2943" sStart="null" offset="31" sid="r11.benefit.n.0316" wn="2" wnkey="benefit%1:07:00::" annotator="vebatchelder" text="Statehood advocates desire the benefits of constitutional citizenship, the federal safety net, and the economic stability that will likely follow." />
+    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3643.anc" start="3606" end="3614" sStart="null" offset="117" sid="r11.benefit.n.0270" wn="1" wnkey="benefit%1:21:00::" annotator="adelpriore" text="In 1995, the General Accounting Office estimated statehood would cost the U.S. Treasury another $3 billion in annual benefits." />
+  </sentences>
+</list>

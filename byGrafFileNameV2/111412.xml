@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="[MASC]/data/written/111412.anc" start="662" end="669" sStart="657" offset="5" sid="null" wn="3" wnkey="wait%2:31:00::" annotator="veweser" text="i am waiting to hear from you soon." />
+    <s path="[MASC]/data/written/111412.anc" start="662" end="669" sStart="null" offset="5" sid="null" wn="3" wnkey="wait%2:31:00::" annotator="cgozo" text="i am waiting to hear from you soon." />
+    <s path="[MASC]/data/written/111412.anc" start="662" end="669" sStart="null" offset="5" sid="null" wn="3" wnkey="wait%2:31:00::" annotator="brubin" text="i am waiting to hear from you soon." />
+    <s path="[MASC]/data/written/111412.anc" start="662" end="669" sStart="null" offset="5" sid="r10.wait.v.0104" wn="3" wnkey="wait%2:31:00::" annotator="brubin" text="i am waiting to hear from you soon." />
+    <s path="[MASC]/data/written/111412.anc" start="662" end="669" sStart="null" offset="5" sid="null" wn="3" wnkey="wait%2:31:00::" annotator="anfahmy" text="i am waiting to hear from you soon." />
+    <s path="[MASC]/data/written/111412.anc" start="246" end="250" sStart="null" offset="37" sid="null" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="i hope that all is well with you, My name is Miss Faith ,i know that you may be suprise how i get your email, i got your email today when i was browsing looking for honest partner,then i feel to drop this few line to you , and i will like you to contact me through my email so that we can know each other and exchange our pictures, and we maybecome partner." />
+    <s path="[MASC]/data/written/111412.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Date: Thu, 20 Jan 2011 15:14:44 -0800 (PST) From: Faith Aburey &lt;juliet0-1@att.net&gt; Reply-To: faith." />
+  </sentences>
+</list>

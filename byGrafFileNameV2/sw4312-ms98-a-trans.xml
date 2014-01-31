@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <sentences>
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4312-ms98-a-trans.anc" start="4089" end="4095" sStart="-1" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="veweser" text="and it it it just isn't &lt;b&gt;chance&lt;/b&gt; taking enough for me" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4312-ms98-a-trans.anc" start="4184" end="4191" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="veweser" text="uh i feel that uh that that music should take &lt;b&gt;chances&lt;/b&gt; in one way or another" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4312-ms98-a-trans.anc" start="4089" end="4095" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="tofox" text="and it it it just isn't &lt;b&gt;chance&lt;/b&gt; taking enough for me" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4312-ms98-a-trans.anc" start="4184" end="4191" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" annotator="tofox" text="uh i feel that uh that that music should take &lt;b&gt;chances&lt;/b&gt; in one way or another" />
+    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4312-ms98-a-trans.anc" start="901" end="909" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="carichter" text="oh lot of stuff that actually has uh ended up &lt;b&gt;becoming&lt;/b&gt; popular like uh Nirvana and uh" />
+  </sentences>
+</list>
