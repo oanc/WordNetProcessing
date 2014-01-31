@@ -30,8 +30,8 @@
 //             print "Name: ${name}";
 //             println "";
 
-             name = name.replaceAll(".xml", "-wn.xml");
-              name = name.replaceAll(".txt", "-wn.txt");
+             name = name.replaceAll(".xml", "-" + suffix + ".xml");
+             name = name.replaceAll(".txt", "-" + suffix + ".txt");
 
 //             print "newName is $newName";
 

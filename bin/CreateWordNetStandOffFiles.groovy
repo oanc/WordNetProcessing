@@ -58,121 +58,87 @@ class CreateWordNetStandOffFiles {
     Logger logger = LoggerFactory.getLogger(CreateWordNetStandOffFiles);
 
 
-
     void run()
     {
 
-
-        //find the local masc files using the Masc.rootString below, make a map of the full paths
+         //find the local masc files using the Masc.rootString below, make a map of the full paths
         def mascList = [:];
-        def mascDir = new File(Masc.rootString);
-        mascDir.eachFileRecurse(FileType.FILES)
-                {   file ->
-                     if(file.toString().contains(".hdr")  ||
-                         file.toString().contains(".anc"))
-                     {
-                         if(mascList.containsKey(file.name.toString()))
-                         {
-                             //do nothing
-                         }
-                         else
-                         {
-                             mascList[file.name.toString()] = file;
-                         }
-                     }
-
-                }
+        mascList = getLocalMascFilePaths(Masc.rootString);
 
         //now find all the Oanc Files  make a second map for that
-        def  OancList = [:]
-        def OancDir = new File(Oanc.rootString);
-        OancDir.eachFileRecurse(FileType.FILES)
-        {file ->
-            if(file.toString().contains(".hdr") ||
-              file.toString().contains(".anc"))
-            {
-                if(OancList.containsKey(file.name.toString()))
-                {
+        def  OancList = [:];
+        OancList =   getLocalMascFilePaths(Oanc.rootString);
 
-                }
-                else
-                {
-                    OancList[file.name.toString()] = file ;
-                }
-            }
+        println "Masc size on disk is ${mascList.size()} \nOanc size on disk is ${OancList.size()}";
 
-        }
-
-
-        logger.debug "Masc size on disk is ${mascList.size()} \nOanc size on disk is ${OancList.size()}";
-
-        //starting in root cycle through all files
-
-        root.eachFileMatch(~/.*\.xml/) {file->
+        //starting in root and cycle through all constructed files
+        root.eachFileMatch(~/.*\.xml/) {file->         //go go go
             logger.info( "Processing ${file.path}" );
+
+            def nodeRegionList = [];
+
+
 
             //SentenceList sentenceList = parser.parse(file.path) ;
 
             try{
 
-                def list = new XmlParser().parse(file);
-                def sentenceDescMap = [:];
 
-                list.sentences.s.each {s->
+                //get the file name from the path ( change the extenstion to .hdr for later )
+                String targetFileName = getFileNameFromPath (file.path.toString());
 
-                    SentenceDesc sen = new SentenceDesc();
+                //look for that in the masc map first
+                File targetFile = mascList[targetFileName];
 
-                    sen.path = "${s.'@path'}";
-                    sen.start = "${s.'@start'}";
-                    sen.end = "${s.'@end'}";
-                    sen.offset = "${s.'@offset'}";
-                    sen.sid = "${s.'@sid'}";
-                    sen.wn = "${s.'@win'}";
-                    sen.wnkey = "${s.'@wnkey'}";
-                    sen.text = "${s.'@text'}";
-
-                    println  "     ${sen.path} ${sen.start}   ${sen.end}    ${sen.wnkey}";
-
-                    //sentenceDescList.add(sen);
-
-                    //println "need to find ${sen.path} and ${sen.start}";
-                    def FilePathArray =  sen.path.toString().split(File.separator);
-                    String targetFileNameWithExtenstion = FilePathArray.last();
-                    File targetFile = null;
-
-                    def FileNameArray = targetFileNameWithExtenstion.tokenize('.');
-
-                    String targetFileName = FileNameArray[0] + ".hdr";
-
-
-                    //look in the masc map first
-                    targetFile = mascList[targetFileName];
-
-                    if(targetFile != null)
+                if(targetFile == null)     //if file not found in masc list
+                {
+                    //not in masc map, look in Oanc map next
+                    targetFile = OancList[targetFileName];
+                    if (targetFile != null)
                     {
-                        //move along nothing to see here
-                    }
-                    else
-                    {
-                        //not in masc map, look in Oanc map next
-                        targetFile = OancList[targetFileName];
-                        if (targetFile != null)
-                        {
-                            //not found in either map; so target File remains null
-                        }
-
+                        //not found in either map; so target File remains null
                     }
 
-                   // println "targetFile Name is ${targetFileName.toString()}";
+                }
 
-                    if(targetFile != null)
-                    {
+                // println "targetFile Name is ${targetFileName.toString()}";
 
-                        IGraph graphFromFile = getLocalGraph(targetFile) ;
+                if(targetFile != null)
+                {
+
+                    logger.info("Getting local graph ${targetFile}");
+                    IGraph graphFromFile = getLocalGraph(targetFile) ;
+
+                    //parse the transitional xml file
+                    def list = new XmlParser().parse(file);
+                    def sentenceDescMap = [:];
+
+                    //list, sentences, and s come from the xml file, they are not objects
+                    list.sentences.s.each {s->
+
+                        SentenceDesc sen = new SentenceDesc();
+
+                        sen.path = "${s.'@path'}";
+                        sen.start = "${s.'@start'}";
+                        sen.end = "${s.'@end'}";
+                        sen.offset = "${s.'@offset'}";
+                        sen.sid = "${s.'@sid'}";
+                        sen.wn = "${s.'@win'}";
+                        sen.wnkey = "${s.'@wnkey'}";
+                        sen.text = "${s.'@text'}";
+                        sen.annotator = "${s.'@annotator'}";
+                        //new files should have the annotator !!
+
+                        println  " ${sen.path}   ${sen.start}   ${sen.end}   ${sen.wnkey}   ${sen.annotator}";
+
+                        //sentenceDescList.add(sen);
+
                         def sentenceNumber = 1;
 
                         //lets go through all the regions in this local graf file, and find the region
                         //that matches the start and stop of the word that we are using now...
+
+
                         graphFromFile.regions().each{region->
 
                             sentenceNumber++;
@@ -181,42 +147,85 @@ class CreateWordNetStandOffFiles {
                             def sentenceStart = Integer.parseInt("${sen.start}");
                             def sentenceEnd = Integer.parseInt("${sen.end}");
 
-
-                            //if we find something...cool, now through into our map
+                            //if we find something...cool, now throw into our map
                             if ((regionStart == sentenceStart) &&
-                                (regionEnd   == sentenceEnd  ))
+                                    (regionEnd   == sentenceEnd  ))
                             {
 
-                                println ();
-                                println "found this region ${region.id} with anchors of ${region.anchors[0]} and ${region.anchors[1]} and the sentence states it starts at ${sen.start} and ends at ${sen.end}";
- //   loger not working ??      logger.info("found this region ${region.id} with anchors of ${region.anchors[0]} and ${region.anchors[1]} and the sentence states it starts at ${sen.start} and ends at ${sen.end}");
 
+                                region.nodes().each{ node ->
 
-                                 //here is where the magic happens
-                             //   sentenceDescMap[sen.sid] = sen    ;
+                                    // def id = node.getId();
+                                    // println "node id is ${node.getId()}";
 
- //                               region.nodes().each {node ->
-                                    //println "  ${node.getId()}";
+                                    if (node.getId().toString().contains("penn-"))
+                                    {
+                                        //println "penn node id is ${node.getId()}";
+                                        def senId = "s" + sentenceNumber.toString();
 
+                                        //now put the sentence Object thingy in the map with the useless key
+                                        sentenceDescMap[senId] = sen;
+                                        def pennNodeRegionPair = new nodeRegionPair(node,region,sen);
+                                        //   def pair = new nodeRegionPair();
+                                        //  pair.node = node;
+                                        //  pair.region = region;
+                                        nodeRegionList.add(pennNodeRegionPair);
 
- //                               }
-                                //make a useless key, well not completely useless, just to keep things unique
-                                def senId = "s" + sentenceNumber.toString();
-
-                                //now put the sentence Object thingy in the map with the useless key
-                                sentenceDescMap[senId] = sen;
-
-
-
-                                //println();
+                                    }
+                                    //make a useless key, well not completely useless, just to keep things unique
+                                }
                             }
                         }
-                    }
-                }   //end of this xml file's sentences
+
+
+                        //cant do this any more...need to cycle through get nodes that match the offsets somehow
+//                        graphFromFile.regions().each{region->
+//
+//                            sentenceNumber++;
+//                            def regionStart = Integer.parseInt("${region.anchors[0]}");
+//                            def regionEnd   = Integer.parseInt("${region.anchors[1]}");
+//                            def sentenceStart = Integer.parseInt("${sen.start}");
+//                            def sentenceEnd = Integer.parseInt("${sen.end}");
+//
+//
+//                            //if we find something...cool, now through into our map
+//                            if ((regionStart == sentenceStart) &&
+//                                (regionEnd   == sentenceEnd  ))
+//                            {
+//
+//                                println ();
+//                                println "found this region ${region.id} with anchors of ${region.anchors[0]} and ${region.anchors[1]} and the sentence states it starts at ${sen.start} and ends at ${sen.end}";
+// //   loger not working ??      logger.info("found this region ${region.id} with anchors of ${region.anchors[0]} and ${region.anchors[1]} and the sentence states it starts at ${sen.start} and ends at ${sen.end}");
+//
+//
+//                                 //here is where the magic happens
+//                             //   sentenceDescMap[sen.sid] = sen    ;
+//
+// //                               region.nodes().each {node ->
+//                                    //println "  ${node.getId()}";
+//
+//
+// //                               }
+//                                //make a useless key, well not completely useless, just to keep things unique
+//                                def senId = "s" + sentenceNumber.toString();
+//
+//                                //now put the sentence Object thingy in the map with the useless key
+//                                sentenceDescMap[senId] = sen;
+//
+//
+//
+//                                //println();
+//                            }
+//                        }
+                        //}
+                    }   //end of this xml file's sentences
+
+                }//end of this original graph file was found in masc or oanc locally
+                IGraph graph = createGraph(nodeRegionList);//,file.getName());
 
                 //ok we now have a filled map, send it off to make a graph
         //        println "sentenceDescMap size is ${sentenceDescMap.size()}";
-                IGraph graph = createGraph(sentenceDescMap);
+            //    IGraph graph = createGraph(sentenceDescMap);
                 //graph.setContent(compiledText);    //this step is needed ?
 
 
@@ -226,16 +235,10 @@ class CreateWordNetStandOffFiles {
 //                print "file is ${file.toString()}   ";
 //                print "file Name is ${file.getName()}   ";
 
-
-
-                File outFile = new File(outDir, file.getName());
+                String outFileName = file.getName().replaceAll('.xml', '-wn.xml');
+                File outFile = new File(outDir, outFileName);        //need to name things -wn.xml TODO
                 print "outFile is ${outFile.toString()}";
                 rendertheGraph(outFile,graph);
-
-
-
-
-
 
             }
             catch(SAXException e)
@@ -250,7 +253,63 @@ class CreateWordNetStandOffFiles {
         }    //end of this dir's files
     }
 
+    /**
+     * given Oanc or Masc root ( as a string ) return a map of the full paths of all the .hdr or .anc files
+     * @param rootString
+     * @return
+     */
+    Map getLocalMascFilePaths(String rootString)
+    {
+        //find the local masc files using the Masc.rootString below, make a map of the full paths
+        def mascList = [:];
+        def mascDir = new File(rootString);
+        mascDir.eachFileRecurse(FileType.FILES)
+                {   file ->
+                    if(file.toString().contains(".hdr")  ||
+                            file.toString().contains(".anc"))
+                    {
+                        if(mascList.containsKey(file.name.toString()))
+                        {
+                            //do nothing
+                        }
+                        else
+                        {
+                            mascList[file.name.toString()] = file;
+                        }
+                    }
 
+                }
+
+        return mascList;
+    }
+
+    /**
+     * given a path gets the file name replaces the extenstion with .hdr
+     * @param pathString
+     * @return
+     */
+    String getFileNameFromPath(String pathString)
+    {
+        def FilePathArray =  pathString.split(File.separator);
+        //what is the original masc file name ( without the path ) !?
+        String targetFileNameWithExtenstion = FilePathArray.last();
+        File targetFile = null;
+
+        def FileNameArray = targetFileNameWithExtenstion.tokenize('.');
+
+        //ok here is the original masc file name
+        String targetFileName = FileNameArray[0] + ".hdr";
+
+        return targetFileName;
+
+
+    }
+
+    /**
+     * renders the graph to the output file
+     * @param outputFile
+     * @param graph
+     */
     void rendertheGraph(File outputFile, IGraph graph)
     {
 
@@ -293,7 +352,8 @@ class CreateWordNetStandOffFiles {
 
           //  println "Trying to get graph from file ${localFile}";
 
-            try {
+            try
+            {
                 graphFromFile = grafLoader.load(localFile);
             }
 
@@ -306,6 +366,105 @@ class CreateWordNetStandOffFiles {
         }
         return graphFromFile ;
     }
+
+
+    IGraph createGraph(List noderegionList)//,String dependency)
+    {
+        IDGenerator id = new IDGenerator();
+        IGraph graph = Factory.newGraph();
+        graph.addAnnotationSpace(space);
+        IStandoffHeader header = graph.getHeader();
+        println "Creating graph";
+       // ArrayList headerFiles = new ArrayList();
+
+
+        noderegionList.each { pair ->
+
+           // println pair.getNode().getId().toString();
+           // println pair.getRegion().getId().toString();
+           // println pair.getSentenceDesc().text;
+
+            //make the words Node,
+            INode wordNode = Factory.newNode(id.generate('wn-n')) ;
+
+
+
+            // need to use id generator
+            IEdge edge = Factory.newEdge(id.generate('e'),wordNode,pair.getNode());
+            //println "New edge is ${edge.getId()} from the fromNode ${edge.getFrom().getId()} and to the toNode  ${edge.getTo().getId()}";
+
+            //add the edge to the graph, not the nodes..
+            graph.addEdge(edge);
+
+            //make the annotation to go with new wordNode
+            IAnnotation wordAnnotation = Factory.newAnnotation(id.generate('a'), "sense");
+            //make the annotation part of the annotation space for wordnet
+            wordAnnotation.setAnnotationSpace(space);
+
+            //now for the features
+            wordAnnotation.addFeature('sense-key',pair.getSentenceDesc().wnkey);
+            wordAnnotation.addFeature('annotator',pair.getSentenceDesc().annotator);
+            //wordAnnotation.addFeature('path',pair.getSentenceDesc().path);
+
+            String originalMascPath = pair.getSentenceDesc().path;
+            String dependency = getFileNameFromPath(originalMascPath);
+
+            //println "dependency is ${dependency}" ;
+
+            dependency = dependency.replaceAll(".anc","-hepple.xml");
+            dependency = dependency.replaceAll(".hdr","-penn.xml") ;
+
+           // println "dependency is now ${dependency}" ;
+
+            List<String> dependsOn = header.getDependsOn();
+
+            if(dependsOn.contains(dependency))
+            {
+
+            }
+            else
+            {
+                header.addDependency(dependency);
+            }
+
+          //  dependsOn.each{ depends->
+          //      println "already depends on ${depends}";
+         //   }
+
+
+
+
+
+             //connect annotation to the node
+             wordNode.addAnnotation(wordAnnotation);
+
+
+
+            //add the node to the graph
+            graph.addNode(wordNode);
+
+
+
+
+        }
+
+
+
+      //  logger.debug("Trying to add dependency file name ${dependency}");
+       // header.addDependency(dependency);
+
+
+        return graph
+
+
+    }
+
+
+
+
+
+
+
 
     IGraph createGraph(Map map)
     {
@@ -362,7 +521,9 @@ class CreateWordNetStandOffFiles {
             wordAnnotation.setAnnotationSpace(space);
 
             wordAnnotation.addFeature(id.generate('f'),senDescription.wnkey);
-         //   wordAnnotation.addFeature(id.generate('f'),senDescription.text);
+            wordAnnotation.addFeature(id.generate('f'),senDescription.annotator);
+
+            //need to create an edge to the token node
 
 
 
@@ -395,7 +556,6 @@ class CreateWordNetStandOffFiles {
         {
             usage() ;
             return;
-
         }
 
         def go = new CreateWordNetStandOffFiles();
@@ -446,6 +606,68 @@ class Oanc {
     static final File root = new File(rootString);
     static final File header = new File (root, 'resource-header.xml');
     static final File data = new File(root, 'data');
+
+
+}
+
+
+class nodeRegionPair implements Comparable{
+
+    INode node;
+    IRegion region;
+    SentenceDesc sent;
+
+    nodeRegionPair(INode nodeIn, IRegion regionIn, SentenceDesc sentIn){
+
+        node = nodeIn;
+        region = regionIn;
+        sent = sentIn;
+
+
+    }
+
+    public INode getNode()
+    {
+        return node;
+    }
+
+    public IRegion getRegion()
+    {
+        return region;
+    }
+
+    public SentenceDesc getSentenceDesc()
+    {
+        return sent;
+    }
+
+    //need to impliment a int compareTo(Object o)
+    //that compares the region start and stop
+    int compareTo(Object o)
+    {
+        int rsp =1 ;
+        if ((region.getStart() == (IRegion)o.getStart()) &&
+            (region.getEnd()   == (IRegion)o.getEnd())   )
+        {
+             rsp = 0;
+        }
+        else
+        {
+            if ((region.getStart() > (IRegion)o.getStart()) &&
+                (region.getEnd()   > (IRegion)o.getEnd())   )
+            {
+                rsp = 1;
+            }
+            else
+            {
+                rsp = -1;
+            }
+        }
+
+        return rsp;
+
+    }
+
 
 
 }

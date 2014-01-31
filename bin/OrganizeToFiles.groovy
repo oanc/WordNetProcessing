@@ -71,6 +71,11 @@ class OrganizeToFiles {
 
 
                 println "The current file is ${currentFile.toString()}"
+                def currentFileName = currentFile.getName().toString();
+
+                def values = currentFileName.split('_');
+                def annotatorFromFileName = values[0];
+                println "annotator is ${annotatorFromFileName}";
                 SentenceList slist = parser.parse(currentFile)
                 SenseKeyIndex keyIndex = slist.getSenseKeyMap()
 
@@ -99,7 +104,9 @@ class OrganizeToFiles {
                     desc.sid = sentence.sid.toString();
                     desc.wn = sentence.WNSense.toString();
                     desc.wnkey = keyIndex.get(sentence.WNSense).toString();
+                    desc.annotator = annotatorFromFileName;
                     desc.text = sentence.text.toString();
+
 
                     //add this single item to this list, there will be only this here...
                     sentenceDescList.add(desc);
@@ -129,7 +136,10 @@ class OrganizeToFiles {
                                 sen.sid = "${s.'@sid'}";
                                 sen.wn = "${s.'@wn'}";
                                 sen.wnkey = "${s.'@wnkey'}";
+                                sen.annotator = "${s.'@annotator'}";
                                 sen.text = "${s.'@text'}" ;
+
+
 
 
 //                                println "${i}"          ;
@@ -162,6 +172,8 @@ class OrganizeToFiles {
 
                     // println "outputFile new name will be ${outputFile.toString()}"
 
+                    //Now we write the xml file
+
                     PrintWriter writer = new PrintWriter(outputFile)  ;
                     def xml = new MarkupBuilder(writer)        ;
 
@@ -183,7 +195,8 @@ class OrganizeToFiles {
                                                 sid: "${sd.sid}",
                                                 wn: "${sd.wn}",
                                                 wnkey: "${sd.wnkey}",
-                                                text: "${sd.text}")
+                                                annotator: "${sd.annotator}",
+                                                text: "${sd.text}" )
                                        // println "j is ${j}";
                                       //  j++;
                                     }
