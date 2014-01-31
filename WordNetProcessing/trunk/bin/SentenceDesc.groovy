@@ -19,6 +19,7 @@ class SentenceDesc
    String wn;
    String wnkey;
    String text    ;
+    String annotator;
    //List<AssignedSense> senses = []
 
 }

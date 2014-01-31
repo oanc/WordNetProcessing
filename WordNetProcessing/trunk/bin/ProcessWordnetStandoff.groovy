@@ -294,6 +294,8 @@ class ProcessWordnetStandoff {
                                                 compiledText = compiledText + s.text + '\n'
 
                                                 sentenceInfo.path = s.path
+
+                                                sentenceInfo.annotator = annotator;
                                                 //store info in the bySentence Map using id as the key; now we wont enter this if statement again if
                                                 //find this sentence again in the is file  { id = path.sentencestart
                                                 bySentence[id] = sentenceInfo

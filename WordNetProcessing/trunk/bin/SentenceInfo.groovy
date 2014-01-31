@@ -7,5 +7,6 @@ class SentenceInfo
    int end
    int wordStart
    int wordEnd
+    String annotator
    List<AssignedSense> senses = []
 }
