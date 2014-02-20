@@ -71,9 +71,12 @@ class CreateWordNetStandOffFiles {
 
         println "Masc size on disk is ${mascList.size()} \nOanc size on disk is ${OancList.size()}";
 
+        File targetFile = null;
+
         //starting in root and cycle through all constructed files
         root.eachFileMatch(~/.*\.xml/) {file->         //go go go
-            logger.info( "Processing ${file.path}" );
+            logger.info( " now processing..   ${file.path}" );
+            logger.info (" ${file.path} exists ? ${file.exists()}");
 
             def nodeRegionList = [];
 
@@ -82,13 +85,11 @@ class CreateWordNetStandOffFiles {
             //SentenceList sentenceList = parser.parse(file.path) ;
 
             try{
-
-
                 //get the file name from the path ( change the extenstion to .hdr for later )
                 String targetFileName = getFileNameFromPath (file.path.toString());
 
                 //look for that in the masc map first
-                File targetFile = mascList[targetFileName];
+                targetFile = mascList[targetFileName];
 
                 if(targetFile == null)     //if file not found in masc list
                 {
@@ -152,8 +153,6 @@ class CreateWordNetStandOffFiles {
                             if ((regionStart == sentenceStart) &&
                                     (regionEnd   == sentenceEnd  ))
                             {
-
-
                                 region.nodes().each{ node ->
 
                                     // def id = node.getId();
@@ -185,64 +184,10 @@ class CreateWordNetStandOffFiles {
                             println "Exception on cycling through regions of graph ${sen.path}\n"
                             e.printStackTrace();
                         }
-
-
-                        //cant do this any more...need to cycle through get nodes that match the offsets somehow
-//                        graphFromFile.regions().each{region->
-//
-//                            sentenceNumber++;
-//                            def regionStart = Integer.parseInt("${region.anchors[0]}");
-//                            def regionEnd   = Integer.parseInt("${region.anchors[1]}");
-//                            def sentenceStart = Integer.parseInt("${sen.start}");
-//                            def sentenceEnd = Integer.parseInt("${sen.end}");
-//
-//
-//                            //if we find something...cool, now through into our map
-//                            if ((regionStart == sentenceStart) &&
-//                                (regionEnd   == sentenceEnd  ))
-//                            {
-//
-//                                println ();
-//                                println "found this region ${region.id} with anchors of ${region.anchors[0]} and ${region.anchors[1]} and the sentence states it starts at ${sen.start} and ends at ${sen.end}";
-// //   loger not working ??      logger.info("found this region ${region.id} with anchors of ${region.anchors[0]} and ${region.anchors[1]} and the sentence states it starts at ${sen.start} and ends at ${sen.end}");
-//
-//
-//                                 //here is where the magic happens
-//                             //   sentenceDescMap[sen.sid] = sen    ;
-//
-// //                               region.nodes().each {node ->
-//                                    //println "  ${node.getId()}";
-//
-//
-// //                               }
-//                                //make a useless key, well not completely useless, just to keep things unique
-//                                def senId = "s" + sentenceNumber.toString();
-//
-//                                //now put the sentence Object thingy in the map with the useless key
-//                                sentenceDescMap[senId] = sen;
-//
-//
-//
-//                                //println();
-//                            }
-//                        }
-                        //}
                     }   //end of this xml file's sentences
 
                 }//end of this original graph file was found in masc or oanc locally
                 IGraph graph = createGraph(nodeRegionList);//,file.getName());
-
-                //ok we now have a filled map, send it off to make a graph
-        //        println "sentenceDescMap size is ${sentenceDescMap.size()}";
-            //    IGraph graph = createGraph(sentenceDescMap);
-                //graph.setContent(compiledText);    //this step is needed ?
-
-
-                //ok...now to render the graph
-                //create an out File
-//                print "outDir is ${outDir.toString()}   ";
-//                print "file is ${file.toString()}   ";
-//                print "file Name is ${file.getName()}   ";
 
                 String outFileName = file.getName().replaceAll('.xml', '-wn.xml');
                 File outFile = new File(outDir, outFileName);        //need to name things -wn.xml TODO
@@ -257,7 +202,7 @@ class CreateWordNetStandOffFiles {
             }
             catch (FileNotFoundException e)
             {
-                println "FileNotFoundException for ${file}" ;
+                println ">>>>woops! during working with ${targetFile.name} got this FileNotFoundException message >>>  ${e.message}" ;
             }
         }    //end of this dir's files
     }
