@@ -9,8 +9,6 @@
 @GrabResolver(name = 'anc-releases', root = 'http://www.anc.org:8080/nexus/content/repositories/releases')
 
 
-import org.slf4j.LoggerFactory
-import groovy.xml.MarkupBuilder
 
 
 @Grab('ch.qos.logback:logback-classic:1.0.0')
@@ -58,7 +56,7 @@ class xmlReaderWriterExample {
 
     File inputDir;
     File outputDir;
-    Logger logger = LoggerFactory.getLogger(OrganizeToFiles);
+    Logger logger = LoggerFactory.getLogger(xmlReaderWriterExample);
     SentenceListParser parser = new SentenceListParser();  //need import
     SentenceListParser outputParser = new SentenceListParser();
 
@@ -104,7 +102,7 @@ class xmlReaderWriterExample {
 
         ArrayList<SentenceDesc> sentenceDescList = new ArrayList<SentenceDesc>();
 
-        for (int i = 1; i < 6; i++) {
+        for (int i = 1; i <= 5; i++) {
             SentenceDesc desc = new SentenceDesc();
             desc.path = "the_path${i}";
             desc.start = "the_start${i}";
@@ -210,3 +208,66 @@ class xmlReaderWriterExample {
 
     }
 }
+
+
+/*
+<?xml version="1.0" encoding="UTF-8"?>
+<everthing>
+  <sentences>
+    <s>
+      <path>the_path1</path>
+      <start>the_start1</start>
+      <end>the_end1</end>
+      <sStart>the_sStart1</sStart>
+      <offset>the_offset1</offset>
+      <sid>the_sid1</sid>
+      <wn>the_wnkey1</wn>
+      <wnkey>the_wn1</wnkey>
+      <text>the_text1</text>
+    </s>
+    <s>
+      <path>the_path2</path>
+      <start>the_start2</start>
+      <end>the_end2</end>
+      <sStart>the_sStart2</sStart>
+      <offset>the_offset2</offset>
+      <sid>the_sid2</sid>
+      <wn>the_wnkey2</wn>
+      <wnkey>the_wn2</wnkey>
+      <text>the_text2</text>
+    </s>
+    <s>
+      <path>the_path3</path>
+      <start>the_start3</start>
+      <end>the_end3</end>
+      <sStart>the_sStart3</sStart>
+      <offset>the_offset3</offset>
+      <sid>the_sid3</sid>
+      <wn>the_wnkey3</wn>
+      <wnkey>the_wn3</wnkey>
+      <text>the_text3</text>
+    </s>
+    <s>
+      <path>the_path4</path>
+      <start>the_start4</start>
+      <end>the_end4</end>
+      <sStart>the_sStart4</sStart>
+      <offset>the_offset4</offset>
+      <sid>the_sid4</sid>
+      <wn>the_wnkey4</wn>
+      <wnkey>the_wn4</wnkey>
+      <text>the_text4</text>
+    </s>
+    <s>
+      <path>the_path5</path>
+      <start>the_start5</start>
+      <end>the_end5</end>
+      <sStart>the_sStart5</sStart>
+      <offset>the_offset5</offset>
+      <sid>the_sid5</sid>
+      <wn>the_wnkey5</wn>
+      <wnkey>the_wn5</wnkey>
+      <text>the_text5</text>
+    </s>
+  </sentences>
+</everthing>*/
