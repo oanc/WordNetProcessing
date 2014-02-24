@@ -44,6 +44,7 @@ class adjustHeaders {
             if (mascList.containsKey(headerFileName))
             {
                 fullPath = mascList[headerFileName];
+                //println "fullpath of masc file is ${fullPath}";
                 outXML = addWNtoHeaderFile(fullPath,currentFile);
                 //println "found in the masc ... ${fullPath}";
             }
@@ -53,6 +54,7 @@ class adjustHeaders {
                 if ((oancList.containsKey(headerFileName)))
                 {
                     fullPath = oancList[headerFileName];
+                    //println "fullpath of masc file is ${fullPath}";
                     outXML = addWNtoHeaderFile(fullPath,currentFile);
                     //println "found in the oanc ...  ${fullPath}";
 
@@ -67,11 +69,23 @@ class adjustHeaders {
 
             if (outXML != "")
             {
-                File outFile = new File(outputDir, headerFileName);
+                //String outputDirString = outputDir.toString().replace('..','');
+                String finalOutputDir =  outputDir.toString() + fullPath;
+                File outFile = new File(finalOutputDir);//, headerFileName);
+                if (!(outFile.getParentFile()).exists())
+                {
+                    outFile.getParentFile().mkdirs();
+
+                }
+
+                //File outFile = new File(outputDir, headerFileName);
+                //println ("outFile is ${outFile.toString()}");
+
                 println "printing to ${outFile}";
                 try
                 {
                     outFile.write(outXML);
+                    currentFile.renameTo(new File(outFile.getParentFile(), currentFile.getName()));
                 }
                 catch (Exception e)
                 {
