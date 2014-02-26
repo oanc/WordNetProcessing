@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01689" date.created="2005-11-07" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>og98030</title>
+    </titleStmt>
+    <extent unit="word" count="911"/>
+    <sourceDesc>
+      <title/>
+      <author/>
+      <publisher>US Government</publisher>
+      <pubPlace>http://www.lsc.gov</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TC">
+      <domain>World Affairs</domain>
+      <subdomain>Government</subdomain>
+      <audience>adult</audience>
+    </textClass>
+    <primaryData loc="og98030.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="og98030-logical.xml" f.id="f.logical"/>
+      <annotation loc="og98030-s.xml" f.id="f.s"/>
+      <annotation loc="og98030-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="og98030-np.xml" f.id="f.np"/>
+      <annotation loc="og98030-vp.xml" f.id="f.vp"/>
+      <annotation loc="og98030-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

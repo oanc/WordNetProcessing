@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01720" date.created="2005-11-07" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>balance_scales_of_justice</title>
+    </titleStmt>
+    <extent unit="word" count="710"/>
+    <sourceDesc>
+      <title/>
+      <author/>
+      <publisher>US Government</publisher>
+      <pubPlace>http://www.lsc.gov</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TC">
+      <domain>World Affairs</domain>
+      <subdomain>Government</subdomain>
+      <audience>adult</audience>
+    </textClass>
+    <primaryData loc="balance_scales_of_justice.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="balance_scales_of_justice-logical.xml" f.id="f.logical"/>
+      <annotation loc="balance_scales_of_justice-s.xml" f.id="f.s"/>
+      <annotation loc="balance_scales_of_justice-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="balance_scales_of_justice-np.xml" f.id="f.np"/>
+      <annotation loc="balance_scales_of_justice-vp.xml" f.id="f.vp"/>
+      <annotation loc="balance_scales_of_justice-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

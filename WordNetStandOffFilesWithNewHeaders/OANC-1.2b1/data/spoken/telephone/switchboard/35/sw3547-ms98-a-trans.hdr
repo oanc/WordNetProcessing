@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01416" date.created="2005-03-29" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>sw3547-ms98-a-trans</title>
+    </titleStmt>
+    <extent unit="word" count="859"/>
+    <sourceDesc>
+      <title>Switchboard Corpus: GUN CONTROL</title>
+      <distributor type="org">Linguistic Data Consortium</distributor>
+      <pubPlace>USA</pubPlace>
+      <pubDate>1992</pubDate>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="SP TP">
+      <subject>GUN CONTROL</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <particDesc>
+      <person sex="M" age="1940" xml:id="spkr1436"/>
+      <person sex="F" age="1932" xml:id="spkr1163"/>
+    </particDesc>
+    <settingDesc>
+      <setting who="spkr1436 spkr1163">
+        <time>911214 1915</time>
+        <activity>DISCUSS GUN CONTROL. WHERE DO YOU AND THE OTHER CALLER STAND ON A SCALE FROM 1 TO 10, WITH 1 BEING A TOTAL BAN ON FIREARMS AND 10 BEING NO RESTRICTIONS ON ANY KIND OF WEAPON.</activity>
+      </setting>
+    </settingDesc>
+    <primaryData loc="sw3547-ms98-a-trans.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="sw3547-ms98-a-trans-logical.xml" f.id="f.logical"/>
+      <annotation loc="sw3547-ms98-a-trans-s.xml" f.id="f.s"/>
+      <annotation loc="sw3547-ms98-a-trans-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="sw3547-ms98-a-trans-vp.xml" f.id="f.vp"/>
+      <annotation loc="sw3547-ms98-a-trans-np.xml" f.id="f.np"/>
+      <annotation loc="sw3547-ms98-a-trans-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <changeDate>2005-03-29   </changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Updated to v1.0.4 with complete standoff markup</item>
+      <item>Added Hepple part of speech tags</item>
+      <item>Fixed sentence boundaries</item>
+      <item>Added noun and verb chunks</item>
+    </change>
+    <change>
+      <changeDate>2007-11-02</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Added validated sentence annotations</item>
+    </change>
+    <change>
+      <changeDate>2007-11-02</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Added validated sentence annotations</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

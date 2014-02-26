@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="OANC-53313" date.created="2005-03-26" creator="KBS">
+  <fileDesc>
+    <titleStmt>
+      <title>1471-230X-2-21</title>
+    </titleStmt>
+    <extent unit="word" count="2228"/>
+    <sourceDesc>
+      <title>The liver is a common non-exocrine target in primary Sj?gren's
+           syndrome: A retrospective review</title>
+      <author>Mariana Kaplan</author>
+      <author>Robert Ike</author>
+      <idno type="issn">1471-230X</idno>
+      <publisher>BMC Gastroenterology</publisher>
+      <eAddress type="url">http://www.biomedcentral.com/1471-230X/2/21</eAddress>
+      <pubDate>2002</pubDate>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TC">
+      <subject>BMC Gastroenterology</subject>
+      <domain>natural science</domain>
+      <subdomain>biology</subdomain>
+      <audience>adult</audience>
+    </textClass>
+    <primaryData loc="1471-230X-2-21.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="1471-230X-2-21-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="1471-230X-2-21-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="1471-230X-2-21-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="1471-230X-2-21-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="1471-230X-2-21-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="1471-230X-2-21-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="1471-230X-2-21-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="1471-230X-2-21-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

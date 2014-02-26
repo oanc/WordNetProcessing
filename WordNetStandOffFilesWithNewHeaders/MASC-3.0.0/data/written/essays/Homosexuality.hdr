@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0092" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>What causes Homosexuality in Males?</title>
+    </titleStmt>
+    <extent unit="words" count="2923"/>
+    <sourceDesc>
+      <title>Homosexuality</title>
+      <author sex="Female" age="15-24">Nikki Rosard</author>
+      <source type="Contributed">ANC contribution upload</source>
+      <pubDate value="2008"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR ES">
+      <domain>Social Science</domain>
+      <subdomain>Psychology</subdomain>
+    </textClass>
+    <primaryData loc="Homosexuality.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="Homosexuality-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="Homosexuality-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="Homosexuality-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="Homosexuality-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="Homosexuality-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="Homosexuality-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="Homosexuality-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="Homosexuality-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

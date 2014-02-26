@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01237" date.created="2005-9-5" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>Article247_4301</title>
+    </titleStmt>
+    <extent unit="word" count="462"/>
+    <sourceDesc>
+      <title>Cuomo Family Values</title>
+      <author>Mickey Kaus</author>
+      <publisher type="org">Microsoft Corporation</publisher>
+      <pubDate value="2000-01-04">1/4/2000 5:47:18 PM</pubDate>
+      <pubName>Slate Magazine</pubName>
+      <pubPlace>http://www.slate.com</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR JO">
+      <domain>Periodicals</domain>
+      <subdomain>Specialized Magazine</subdomain>
+      <subject>Media Coverage</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <primaryData loc="Article247_4301.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="Article247_4301-logical.xml" f.id="f.logical"/>
+      <annotation loc="Article247_4301-s.xml" f.id="f.s"/>
+      <annotation loc="Article247_4301-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="Article247_4301-np.xml" f.id="f.np"/>
+      <annotation loc="Article247_4301-vp.xml" f.id="f.vp"/>
+      <annotation loc="Article247_4301-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <changeDate>2004-11-10</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Converted to 2nd release standoff off</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

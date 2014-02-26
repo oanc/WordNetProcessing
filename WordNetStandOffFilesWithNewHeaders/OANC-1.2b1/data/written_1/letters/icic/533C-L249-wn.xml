@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="sense" occurs="5"/>
+        </labelsDecl>
+        <dependencies>
+            <dependsOn type="533C-L249-penn.xml"/>
+        </dependencies>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <node xml:id="wn-n0"/>
+    <a xml:id="a0" label="sense" ref="wn-n0" as="wn">
+        <fs>
+            <f name="sense-key" value="name%1:10:00::"/>
+            <f name="annotator" value="sophiavv"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n1"/>
+    <a xml:id="a1" label="sense" ref="wn-n1" as="wn">
+        <fs>
+            <f name="sense-key" value="name%1:10:00::"/>
+            <f name="annotator" value="anfahmy"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n2"/>
+    <a xml:id="a2" label="sense" ref="wn-n2" as="wn">
+        <fs>
+            <f name="sense-key" value="name%1:10:00::"/>
+            <f name="annotator" value="adelpriore"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n3"/>
+    <a xml:id="a3" label="sense" ref="wn-n3" as="wn">
+        <fs>
+            <f name="sense-key" value="help%2:42:00::"/>
+            <f name="annotator" value="veweser"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n4"/>
+    <a xml:id="a4" label="sense" ref="wn-n4" as="wn">
+        <fs>
+            <f name="sense-key" value="add%2:30:00::"/>
+            <f name="annotator" value="tofox"/>
+        </fs>
+    </a>
+    <edge xml:id="e3" from="wn-n3" to="penn-n338"/>
+    <edge xml:id="e4" from="wn-n4" to="penn-n319"/>
+    <edge xml:id="e1" from="wn-n1" to="penn-n4"/>
+    <edge xml:id="e2" from="wn-n2" to="penn-n4"/>
+    <edge xml:id="e0" from="wn-n0" to="penn-n4"/>
+</graph>

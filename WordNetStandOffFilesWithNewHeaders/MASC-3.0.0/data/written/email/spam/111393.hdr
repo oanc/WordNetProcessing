@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0138" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Spam email - 111393</title>
+    </titleStmt>
+    <extent unit="words" count="140"/>
+    <sourceDesc>
+      <title>111393</title>
+      <source type="Contributed">Nancy Ide</source>
+      <pubDate value="2010"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR EM">
+      <domain>Letters</domain>
+      <subdomain>Email</subdomain>
+    </textClass>
+    <primaryData loc="111393.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="111393-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="111393-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="111393-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="111393-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="111393-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="111393-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="111393-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="111393-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

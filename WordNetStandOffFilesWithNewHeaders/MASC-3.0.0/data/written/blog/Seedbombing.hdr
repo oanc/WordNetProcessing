@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0106" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>The Apocalyptic Housewife Goes Seedbombing</title>
+    </titleStmt>
+    <extent unit="words" count="1166"/>
+    <sourceDesc>
+      <title>Seedbombing</title>
+      <author>Jessica Reeder</author>
+      <source>http://uprooted.jessicareeder.com/2009/11/the-apocalyptic-housewife-goes-seedbombing/</source>
+      <pubDate value="November 25, 2009"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR BL">
+      <domain>Leisure</domain>
+    </textClass>
+    <primaryData loc="Seedbombing.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="Seedbombing-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="Seedbombing-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="Seedbombing-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="Seedbombing-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="Seedbombing-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="Seedbombing-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="Seedbombing-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="Seedbombing-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

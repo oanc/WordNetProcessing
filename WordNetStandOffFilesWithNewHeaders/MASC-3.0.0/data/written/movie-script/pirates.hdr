@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0084" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Pirates of the Caribbean</title>
+    </titleStmt>
+    <extent unit="words" count="16582"/>
+    <sourceDesc>
+      <title>pirates</title>
+      <source type="Web">http://www.lexwilliford.com/Workshops/Screenwriting/Scripts/Adobe%20Acrobat%20Scripts/Pirates_of_the_Caribbean.pdf</source>
+      <pubDate value="2003"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="SP MS">
+      <domain>Arts</domain>
+      <subdomain>Literary</subdomain>
+    </textClass>
+    <primaryData loc="pirates.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="pirates-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="pirates-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="pirates-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="pirates-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="pirates-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="pirates-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="pirates-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="pirates-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

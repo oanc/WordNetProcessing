@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01717" date.created="2005-11-07" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>Assuring_Underprivileged</title>
+    </titleStmt>
+    <extent unit="word" count="1832"/>
+    <sourceDesc>
+      <title/>
+      <author/>
+      <publisher>US Government</publisher>
+      <pubPlace>http://www.lsc.gov</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TC">
+      <domain>World Affairs</domain>
+      <subdomain>Government</subdomain>
+      <audience>adult</audience>
+    </textClass>
+    <primaryData loc="Assuring_Underprivileged.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="Assuring_Underprivileged-logical.xml" f.id="f.logical"/>
+      <annotation loc="Assuring_Underprivileged-s.xml" f.id="f.s"/>
+      <annotation loc="Assuring_Underprivileged-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="Assuring_Underprivileged-np.xml" f.id="f.np"/>
+      <annotation loc="Assuring_Underprivileged-vp.xml" f.id="f.vp"/>
+      <annotation loc="Assuring_Underprivileged-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

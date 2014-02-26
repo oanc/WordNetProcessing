@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0102" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>H.R. 5034: The Lies, The Facts, The Fictions</title>
+    </titleStmt>
+    <extent unit="words" count="2366"/>
+    <sourceDesc>
+      <title>Fermentation_HR5034</title>
+      <author>Tom Wark</author>
+      <source type="Web">http://fermentation.typepad.com/fermentation/2010/07/with-so-much-at-stake-for-americas-alcohol-wholesalers-and-their-protected-monopoly-status-that-props-up-unearned-profits-it.html</source>
+      <pubDate value="July 14, 2010"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR BL">
+      <domain>Leisure</domain>
+    </textClass>
+    <primaryData loc="Fermentation_HR5034.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="Fermentation_HR5034-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="Fermentation_HR5034-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="Fermentation_HR5034-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="Fermentation_HR5034-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="Fermentation_HR5034-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="Fermentation_HR5034-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="Fermentation_HR5034-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="Fermentation_HR5034-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

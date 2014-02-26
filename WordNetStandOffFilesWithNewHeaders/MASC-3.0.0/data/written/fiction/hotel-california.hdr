@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0096" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Hotel California</title>
+    </titleStmt>
+    <extent unit="words" count="5984"/>
+    <sourceDesc>
+      <title>hotel-california</title>
+      <author>anonymous</author>
+      <source type="Contributed">ANC contribution upload</source>
+      <pubDate value="2008"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR FC">
+      <domain>General Fiction</domain>
+    </textClass>
+    <primaryData loc="hotel-california.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="hotel-california-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="hotel-california-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="hotel-california-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="hotel-california-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="hotel-california-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="hotel-california-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="hotel-california-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="hotel-california-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

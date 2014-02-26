@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="sense" occurs="1"/>
+        </labelsDecl>
+        <dependencies>
+            <dependsOn type="sw2708-ms98-a-trans-penn.xml"/>
+        </dependencies>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <node xml:id="wn-n0"/>
+    <a xml:id="a0" label="sense" ref="wn-n0" as="wn">
+        <fs>
+            <f name="sense-key" value="part%1:24:00::"/>
+            <f name="annotator" value="carichter"/>
+        </fs>
+    </a>
+    <edge xml:id="e0" from="wn-n0" to="penn-n1537"/>
+</graph>

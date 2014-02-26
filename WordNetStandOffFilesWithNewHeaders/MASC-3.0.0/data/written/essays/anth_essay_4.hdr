@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC2-0048" date.created="2013-01-24">
+  <fileDesc>
+    <titleStmt>
+      <title>Indigenous Revitalization Movements of Latin America: The Rediscovery of Language and Identity</title>
+    </titleStmt>
+    <extent unit="words" count="3191"/>
+    <sourceDesc>
+      <title>anth_essay_4</title>
+      <author sex="Female" age="15-24">Elise M. Stickles</author>
+      <source type="Contributed">ANC contribution upload</source>
+      <pubDate value="2008"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR ES">
+      <domain>Social Science</domain>
+      <subdomain>Anthropology</subdomain>
+    </textClass>
+    <primaryData loc="anth_essay_4.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="anth_essay_4-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="anth_essay_4-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="anth_essay_4-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="anth_essay_4-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="anth_essay_4-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="anth_essay_4-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="anth_essay_4-seg.xml" f.id="f.seg">Base segmentation</annotation>
+      <annotation loc="anth_essay_4-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>
