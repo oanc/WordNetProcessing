@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0256" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Spam email - ucb51</title>
+    </titleStmt>
+    <extent unit="words" count="120"/>
+    <sourceDesc>
+      <title>ucb51</title>
+      <source type="Contributed">Nancy Ide</source>
+      <pubDate value="2011"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR EM">
+      <domain>Letters</domain>
+      <subdomain>Email</subdomain>
+    </textClass>
+    <primaryData loc="ucb51.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="ucb51-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="ucb51-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="ucb51-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="ucb51-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="ucb51-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="ucb51-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="ucb51-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="ucb51-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

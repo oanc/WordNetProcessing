@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="sense" occurs="5"/>
+        </labelsDecl>
+        <dependencies>
+            <dependsOn type="ArticleIP_21065-penn.xml"/>
+        </dependencies>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <node xml:id="wn-n0"/>
+    <a xml:id="a0" label="sense" ref="wn-n0" as="wn">
+        <fs>
+            <f name="sense-key" value="say%2:32:15::"/>
+            <f name="annotator" value="cgozo"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n1"/>
+    <a xml:id="a1" label="sense" ref="wn-n1" as="wn">
+        <fs>
+            <f name="sense-key" value="level%1:26:01::"/>
+            <f name="annotator" value="cgozo"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n2"/>
+    <a xml:id="a2" label="sense" ref="wn-n2" as="wn">
+        <fs>
+            <f name="sense-key" value="high%3:00:03::"/>
+            <f name="annotator" value="anfahmy"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n3"/>
+    <a xml:id="a3" label="sense" ref="wn-n3" as="wn">
+        <fs>
+            <f name="sense-key" value="book%1:10:00::"/>
+            <f name="annotator" value="cgozo"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n4"/>
+    <a xml:id="a4" label="sense" ref="wn-n4" as="wn">
+        <fs>
+            <f name="sense-key" value="book%1:10:00::"/>
+            <f name="annotator" value="brubin"/>
+        </fs>
+    </a>
+    <edge xml:id="e3" from="wn-n3" to="penn-n665"/>
+    <edge xml:id="e4" from="wn-n4" to="penn-n1085"/>
+    <edge xml:id="e1" from="wn-n1" to="penn-n680"/>
+    <edge xml:id="e2" from="wn-n2" to="penn-n306"/>
+    <edge xml:id="e0" from="wn-n0" to="penn-n445"/>
+</graph>

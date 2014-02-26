@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01395" date.created="2005-08-29" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>France</title>
+    </titleStmt>
+    <extent unit="word" count="1568"/>
+    <sourceDesc>
+      <title>France</title>
+      <publisher>Langenscheidt</publisher>
+      <pubPlace>USA</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TG">
+      <domain>Leisure</domain>
+      <subdomain>Travel</subdomain>
+      <subject>Introduction</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <primaryData loc="IntroFrance.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="IntroFrance-logical.xml" f.id="f.logical"/>
+      <annotation loc="IntroFrance-s.xml" f.id="f.s"/>
+      <annotation loc="IntroFrance-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="IntroFrance-vp.xml" f.id="f.vp"/>
+      <annotation loc="IntroFrance-np.xml" f.id="f.np"/>
+      <annotation loc="IntroFrance-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <changeDate>2005-08-29</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Updated to v1.0.4 with complete standoff markup</item>
+      <item>Added Brill part of speech tags</item>
+      <item>Fixed sentence boundaries</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

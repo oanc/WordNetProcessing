@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01810" date.created="2005-11-07" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>Philly_Lawyers</title>
+    </titleStmt>
+    <extent unit="word" count="688"/>
+    <sourceDesc>
+      <title/>
+      <author/>
+      <publisher>US Government</publisher>
+      <pubPlace>http://www.lsc.gov</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TC">
+      <domain>World Affairs</domain>
+      <subdomain>Government</subdomain>
+      <audience>adult</audience>
+    </textClass>
+    <primaryData loc="Philly_Lawyers.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="Philly_Lawyers-logical.xml" f.id="f.logical"/>
+      <annotation loc="Philly_Lawyers-s.xml" f.id="f.s"/>
+      <annotation loc="Philly_Lawyers-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="Philly_Lawyers-np.xml" f.id="f.np"/>
+      <annotation loc="Philly_Lawyers-vp.xml" f.id="f.vp"/>
+      <annotation loc="Philly_Lawyers-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

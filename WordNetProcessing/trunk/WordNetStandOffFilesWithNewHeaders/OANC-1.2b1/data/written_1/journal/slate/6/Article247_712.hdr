@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-04524" date.created="2005-9-5" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>Article247_712</title>
+    </titleStmt>
+    <extent unit="word" count="716"/>
+    <sourceDesc>
+      <title>Don't Fire Till You See the Whites of Their Izods</title>
+      <author>Scott Shuger</author>
+      <publisher type="org">Microsoft Corporation</publisher>
+      <pubDate value="1998-10-06">10/6/1998 4:18:00 AM</pubDate>
+      <pubName>Slate Magazine</pubName>
+      <pubPlace>http://www.slate.com</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR JO">
+      <domain>Periodicals</domain>
+      <subdomain>Specialized Magazine</subdomain>
+      <subject>Media Coverage</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <primaryData loc="Article247_712.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="Article247_712-logical.xml" f.id="f.logical"/>
+      <annotation loc="Article247_712-s.xml" f.id="f.s"/>
+      <annotation loc="Article247_712-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="Article247_712-np.xml" f.id="f.np"/>
+      <annotation loc="Article247_712-vp.xml" f.id="f.vp"/>
+      <annotation loc="Article247_712-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <changeDate>2004-11-10</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Converted to 2nd release standoff off</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

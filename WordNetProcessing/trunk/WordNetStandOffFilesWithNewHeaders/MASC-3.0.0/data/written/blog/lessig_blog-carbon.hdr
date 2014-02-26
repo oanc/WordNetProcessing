@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0115" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>United carbon offset disappointment</title>
+    </titleStmt>
+    <extent unit="words" count="1490"/>
+    <sourceDesc>
+      <title>lessig_blog-carbon</title>
+      <author>Lawrence Lessig</author>
+      <source type="Web">http://www.lessig.org/blog/2009/04/united_carbon_offset_disappoin.html</source>
+      <pubDate value="April 27, 2009"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR BL">
+      <domain>Leisure</domain>
+    </textClass>
+    <primaryData loc="lessig_blog-carbon.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="lessig_blog-carbon-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="lessig_blog-carbon-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="lessig_blog-carbon-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="lessig_blog-carbon-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="lessig_blog-carbon-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="lessig_blog-carbon-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="lessig_blog-carbon-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="lessig_blog-carbon-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

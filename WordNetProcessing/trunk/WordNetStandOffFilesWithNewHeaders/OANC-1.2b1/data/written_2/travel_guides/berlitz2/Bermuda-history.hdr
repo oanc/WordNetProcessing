@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01485" date.created="2005-08-29" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>Bermuda</title>
+    </titleStmt>
+    <extent unit="word" count="2417"/>
+    <sourceDesc>
+      <title>Bermuda</title>
+      <publisher>Langenscheidt</publisher>
+      <pubPlace>USA</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TG">
+      <domain>Leisure</domain>
+      <subdomain>Travel</subdomain>
+      <subject>Unknown</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <primaryData loc="Bermuda-history.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="Bermuda-history-logical.xml" f.id="f.logical"/>
+      <annotation loc="Bermuda-history-s.xml" f.id="f.s"/>
+      <annotation loc="Bermuda-history-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="Bermuda-history-vp.xml" f.id="f.vp"/>
+      <annotation loc="Bermuda-history-np.xml" f.id="f.np"/>
+      <annotation loc="Bermuda-history-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <changeDate>2005-05-02</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Updated to v1.0.4 with complete standoff markup</item>
+      <item>Added Hepple part of speech tags</item>
+      <item>Fixed sentence boundaries</item>
+    </change>
+    <change>
+      <changeDate>2007-11-02</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Added validated sentence annotations</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

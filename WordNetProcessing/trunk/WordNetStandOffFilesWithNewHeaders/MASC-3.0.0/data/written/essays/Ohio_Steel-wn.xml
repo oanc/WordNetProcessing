@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+</graph>

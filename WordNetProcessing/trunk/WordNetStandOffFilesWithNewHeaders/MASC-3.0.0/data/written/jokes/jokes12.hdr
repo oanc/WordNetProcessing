@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0266" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Jokes 12</title>
+    </titleStmt>
+    <extent unit="words" count="836"/>
+    <sourceDesc>
+      <title>jokes12</title>
+      <source type="Web">http://www.opotiki.com/downloads/jokes.htm</source>
+      <pubDate value="unknown"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR JK">
+      <domain>Humor</domain>
+    </textClass>
+    <primaryData loc="jokes12.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="jokes12-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="jokes12-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="jokes12-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="jokes12-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="jokes12-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="jokes12-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="jokes12-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="jokes12-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

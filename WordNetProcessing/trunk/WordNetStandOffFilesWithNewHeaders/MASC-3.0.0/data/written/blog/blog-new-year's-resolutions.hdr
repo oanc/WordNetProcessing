@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0112" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Self-Control, self-efficacy, and New Year?s resolutions</title>
+    </titleStmt>
+    <extent unit="words" count="981"/>
+    <sourceDesc>
+      <title>blog-new-year's-resolutions</title>
+      <author>Jacqueline Kory</author>
+      <source type="Web">http://agentplusenvironment.com/blog/2010/01/self-control-self-efficacy-and-new-years-resolutions/</source>
+      <pubDate value="January 1, 2010"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR BL">
+      <domain>Leisure</domain>
+    </textClass>
+    <primaryData loc="blog-new-year's-resolutions.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="blog-new-year's-resolutions-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="blog-new-year's-resolutions-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="blog-new-year's-resolutions-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="blog-new-year's-resolutions-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="blog-new-year's-resolutions-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="blog-new-year's-resolutions-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="blog-new-year's-resolutions-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="blog-new-year's-resolutions-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

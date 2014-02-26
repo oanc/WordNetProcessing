@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0089" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>The Lost World: Jurassic Park</title>
+    </titleStmt>
+    <extent unit="words" count="11658"/>
+    <sourceDesc>
+      <title>JurassicParkIV-Scene_5</title>
+      <author>David Koepp (based on a novel by Michael Crichton)</author>
+      <source type="Web">http://www.lexwilliford.com/Workshops/Screenwriting/Scripts/Adobe%20Acrobat%20Scripts/Jurassic%20Park.pdf</source>
+      <pubDate value="1993"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="SP MS">
+      <domain>Arts</domain>
+      <subdomain>Literary</subdomain>
+    </textClass>
+    <primaryData loc="JurassicParkIV-Scene_5.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="JurassicParkIV-Scene_5-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="JurassicParkIV-Scene_5-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="JurassicParkIV-Scene_5-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="JurassicParkIV-Scene_5-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="JurassicParkIV-Scene_5-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="JurassicParkIV-Scene_5-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="JurassicParkIV-Scene_5-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="JurassicParkIV-Scene_5-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>

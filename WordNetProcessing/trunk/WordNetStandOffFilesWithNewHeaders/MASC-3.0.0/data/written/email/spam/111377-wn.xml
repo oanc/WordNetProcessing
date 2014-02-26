@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="sense" occurs="3"/>
+        </labelsDecl>
+        <dependencies>
+            <dependsOn type="111377-penn.xml"/>
+        </dependencies>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <node xml:id="wn-n0"/>
+    <a xml:id="a0" label="sense" ref="wn-n0" as="wn">
+        <fs>
+            <f name="sense-key" value="use%2:34:01::"/>
+            <f name="annotator" value="anfahmy"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n1"/>
+    <a xml:id="a1" label="sense" ref="wn-n1" as="wn">
+        <fs>
+            <f name="sense-key" value="name%1:10:00::"/>
+            <f name="annotator" value="anfahmy"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n2"/>
+    <a xml:id="a2" label="sense" ref="wn-n2" as="wn">
+        <fs>
+            <f name="sense-key" value="date%1:28:00::"/>
+            <f name="annotator" value="vebatchelder"/>
+        </fs>
+    </a>
+    <edge xml:id="e1" from="wn-n1" to="penn-n157"/>
+    <edge xml:id="e2" from="wn-n2" to="penn-n0"/>
+    <edge xml:id="e0" from="wn-n0" to="penn-n150"/>
+</graph>

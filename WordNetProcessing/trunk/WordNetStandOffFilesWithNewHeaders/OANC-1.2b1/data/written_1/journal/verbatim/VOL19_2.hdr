@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-00018" date.created="2005-9-27" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>VOL19_2</title>
+    </titleStmt>
+    <extent unit="word" count="14225"/>
+    <sourceDesc>
+      <title>Verbatim: The Language Quarterly</title>
+      <publisher type="org">Verbatim</publisher>
+      <edition>Volume 19, Number 2</edition>
+      <pubDate value="2004-00-00">Spring, 2004</pubDate>
+      <pubPlace>http://verbatimmag.com/</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR JO">
+      <domain>Social Science</domain>
+      <subdomain>Linguistics</subdomain>
+      <subject>Language</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <primaryData loc="VOL19_2.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="VOL19_2-logical.xml" f.id="f.logical"/>
+      <annotation loc="VOL19_2-s.xml" f.id="f.s"/>
+      <annotation loc="VOL19_2-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="VOL19_2-np.xml" f.id="f.np"/>
+      <annotation loc="VOL19_2-vp.xml" f.id="f.vp"/>
+      <annotation loc="VOL19_2-wn.xml" f.id="f.wn"/>
+    </annotations>
+  </profileDesc>
+</documentHeader>
