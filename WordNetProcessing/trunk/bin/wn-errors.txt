@@ -1,0 +1,2 @@
+[Fatal Error] 1399.xml:4:266: Invalid byte 2 of 2-byte UTF-8 sequence.
+[Fatal Error] 1401.xml:4:169: Invalid byte 2 of 2-byte UTF-8 sequence.

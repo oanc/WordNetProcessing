@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration debug="false">
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<!--
+			encoders are assigned the type
+			ch.qos.logback.classic.encoder.PatternLayoutEncoder by default
+		-->
+		<encoder>
+			<pattern>%-5level [%logger] %msg%n</pattern>
+		</encoder>
+	</appender>
+	
+	<appender name="FILE" class="ch.qos.logback.core.FileAppender">
+		<encoder>
+			<pattern>%-5level [%logger] %msg%n</pattern>
+		</encoder>
+		<append>true</append>
+		<file>sense-tagging.log</file>
+	</appender>
+	
+<!--	<logger name="org.anc" level="error">
+	<logger name="org.anc" level="debug">  
+		<appender-ref ref="STDOUT"/>
+	</logger>
+	      -->
+	<logger name="ProcessSentences" level="debug">
+		<appender-ref ref="STDOUT"/>
+	</logger>
+	
+	
+	<logger name="CreateWordNetStandOffFiles" level="info">
+		<appender-ref ref="STDOUT"/>
+	</logger>
+	
+	<!--
+		<logger name="org.anc.masc.wordnet.ProcessSentences" level="info">
+		<appender-ref ref="STDOUT"/>
+		<appender-ref ref="FILE"/>
+	</logger>
+	
+	<logger name ="org.xces.graf" level="warn">
+		<appender-ref ref="STDOUT"/>
+	</logger>
+	-->
+       <root level="error">  
+		<!--       <root level="debug">  -->
+		<appender-ref ref="STDOUT" />
+	</root>
+</configuration>
