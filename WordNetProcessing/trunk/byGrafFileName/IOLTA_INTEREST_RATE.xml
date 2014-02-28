@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/government/Media/IOLTA_INTEREST_RATE.anc" start="6196" end="6200" sStart="6162" offset="34" sid="r10.wait.v.0875" wn="3" wnkey="wait%2:31:00::" text="The rest of their applicants must wait, or give up." />
-    <s path="[OANC]/data/written_2/technical/government/Media/IOLTA_INTEREST_RATE.anc" start="5893" end="5897" sStart="null" offset="58" sid="r7.poor.j.0804" wn="2147483645" wnkey="null" text="Legal Services which provides civil legal services to the poor, the disabled, and the most vulnerable citizens of the state, can only represent, at best, 25 percent of the people who are in need of assistance and who meet the requirements for representation." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Media/IOLTA_INTEREST_RATE.anc" start="6052" end="6056" sStart="null" offset="0" sid="null" wn="4" wnkey="meet%2:34:00::" text="Legal Services which provides civil legal services to the poor, the disabled, and the most vulnerable citizens of the state, can only represent, at best, 25 percent of the people who are in need of assistance and who &lt;b&gt;meet&lt;/b&gt; the requirements for representation." />
-    <s path="[OANC]/data/written_2/technical/government/Media/IOLTA_INTEREST_RATE.anc" start="6787" end="6791" sStart="null" offset="4" sid="r7.1.easy.j.0195" wn="1" wnkey="easy%3:00:01::" text="The easy answer is: &quot;Ask.&quot;" />
-  </sentences>
-</list>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1472-6831-3-1.anc" start="10298" end="10302" sStart="10233" offset="65" sid="r7.1.use.v.0768" wn="1" wnkey="use%2:34:01::" text="The surface roughness value for that distance was then used to determine the average value for all the dies." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1472-6831-3-1.anc" start="1982" end="1993" sStart="null" offset="0" sid="null" wn="2 7" wnkey="null" text="The x, y, z-coordinates of the dies were recorded at a dental laboratory by use of an electronic stylus [ 9 ] and &lt;b&gt;transferred&lt;/b&gt; electronically to the Procera laboratory where the Al 2 O 3 coping was made." />
-  </sentences>
-</list>

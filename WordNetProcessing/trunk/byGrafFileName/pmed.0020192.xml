@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020192.anc" start="38" end="45" sStart="-1" offset="0" sid="null" wn="3" wnkey="write%2:32:08::" text="I am &lt;b&gt;writing&lt;/b&gt; in response to an essay published in the most recent issue of PLoS Medicine by Deborah Hayden, entitled ÒAlas, Poor Yorick: Digging Up the Dead to Make Medical DiagnosesÓ [1]." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020192.anc" start="722" end="731" sStart="null" offset="130" sid="r11.recommend.v.0803" wn="1" wnkey="recommend%2:32:01::" text="In fact, we specifically highlight some of the ethical, legal, social, and scientific issues that such testing raises and recommend that guidelines be developed in order to monitor current research that is being undertaken in this area." />
-  </sentences>
-</list>

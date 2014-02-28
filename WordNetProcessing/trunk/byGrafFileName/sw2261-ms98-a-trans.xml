@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/22/sw2261-ms98-a-trans.anc" start="5090" end="5094" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="uh i heard uh someone uh supposedly an authority saying speaking on TV saying that the interest &lt;b&gt;rate&lt;/b&gt; as we have known it in the past will never be the" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/22/sw2261-ms98-a-trans.anc" start="5090" end="5094" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" text="uh i heard uh someone uh supposedly an authority saying speaking on TV saying that the interest &lt;b&gt;rate&lt;/b&gt; as we have known it in the past will never be the" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/22/sw2261-ms98-a-trans.anc" start="2077" end="2083" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" text="i think the &lt;b&gt;chance&lt;/b&gt; for misspending is greater" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/22/sw2261-ms98-a-trans.anc" start="2077" end="2083" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" text="i think the &lt;b&gt;chance&lt;/b&gt; for misspending is greater" />
-  </sentences>
-</list>

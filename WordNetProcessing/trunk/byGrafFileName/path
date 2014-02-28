@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="/no/path" start="0" end="0" sStart="-1" offset="0" sid="null" wn="2" wnkey="show%2:31:00::" text="You do not need to annotate the sentences in this file." />
-    <s path="/no/path" start="0" end="0" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="You do not need to annotate the sentences in this file." />
-  </sentences>
-</list>

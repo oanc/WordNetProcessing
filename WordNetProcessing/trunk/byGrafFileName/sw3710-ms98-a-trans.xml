@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3710-ms98-a-trans.anc" start="1614" end="1618" sStart="-1" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" text="you're getting &lt;b&gt;part&lt;/b&gt; of that uh uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3710-ms98-a-trans.anc" start="1614" end="1618" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="you're getting &lt;b&gt;part&lt;/b&gt; of that uh uh" />
-  </sentences>
-</list>

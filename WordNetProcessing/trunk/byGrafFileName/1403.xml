@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/1403.anc" start="21980" end="21987" sStart="21959" offset="21" sid="null" wn="2" wnkey="write%2:32:00::" text="What exactly was Tom writing about her?" />
-    <s path="[MASC]/data/written/1403.anc" start="7155" end="7162" sStart="null" offset="37" sid="null" wn="1" wnkey="write%2:36:00::" text="Reading a really good book, and then writing your own." />
-    <s path="[MASC]/data/written/1403.anc" start="3500" end="3505" sStart="null" offset="44" sid="null" wn="1" wnkey="write%2:36:00::" text="One girl will develop a workable thesis and write her way out of lost time..." />
-    <s path="[MASC]/data/written/1403.anc" start="27925" end="27931" sStart="null" offset="2" sid="null" wn="1" wnkey="wait%2:42:00::" text="I waited until Jueli came to leave." />
-  </sentences>
-</list>

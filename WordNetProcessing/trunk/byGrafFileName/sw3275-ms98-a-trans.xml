@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3275-ms98-a-trans.anc" start="1242" end="1247" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="stops all them interest &lt;b&gt;rates&lt;/b&gt; and interest &lt;b&gt;rates&lt;/b&gt; aren't" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3275-ms98-a-trans.anc" start="1223" end="1228" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="stops all them interest &lt;b&gt;rates&lt;/b&gt; and interest &lt;b&gt;rates&lt;/b&gt; aren't" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3275-ms98-a-trans.anc" start="1242" end="1247" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" text="stops all them interest &lt;b&gt;rates&lt;/b&gt; and interest &lt;b&gt;rates&lt;/b&gt; aren't" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3275-ms98-a-trans.anc" start="1223" end="1228" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" text="stops all them interest &lt;b&gt;rates&lt;/b&gt; and interest &lt;b&gt;rates&lt;/b&gt; aren't" />
-  </sentences>
-</list>

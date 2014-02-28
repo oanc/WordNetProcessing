@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010061.anc" start="1886" end="1894" sStart="1856" offset="30" sid="r8.suggest.v.0989" wn="3" wnkey="suggest%2:32:02::" text="Leptin's proinflammatory role suggests that it may link energy homeostasis to the immune system [4,5].Ghrelin is a peptide hormone that stimulates appetite, fat production, and body growthÑleading to increased food intake and body weight." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010061.anc" start="6791" end="6801" sStart="null" offset="94" sid="r10.particular.j.0421" wn="4" wnkey="particular%5:00:00:primary:00" text="The possible role of sleep restriction in autoimmune and inflammatory disorders is of particular interest in light of recent findings linking immune function with ghrelin and leptin." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010061.anc" start="6854" end="6862" sStart="null" offset="157" sid="r11.function.n.0098" wn="2" wnkey="function%1:07:00::" text="The possible role of sleep restriction in autoimmune and inflammatory disorders is of particular interest in light of recent findings linking immune function with ghrelin and leptin." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010061.anc" start="6854" end="6862" sStart="null" offset="157" sid="r11.function.n.0098" wn="2" wnkey="function%1:07:00::" text="The possible role of sleep restriction in autoimmune and inflammatory disorders is of particular interest in light of recent findings linking immune function with ghrelin and leptin." />
-  </sentences>
-</list>

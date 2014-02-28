@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/12030.anc" start="640" end="645" sStart="554" offset="86" sid="null" wn="9" wnkey="power%1:19:01::" text="I've been with Enron since '97 and I relocated up to Connecticut to work with the New Power Company when I thought that the Enron employees would stay Enron employees." />
-    <s path="[MASC]/data/written/12030.anc" start="498" end="504" sStart="null" offset="41" sid="null" wn="1" wnkey="people%1:14:00::" text="As my request has nothing to do with the people in this office or the group they are wonderful" />
-    <s path="[MASC]/data/written/12030.anc" start="1112" end="1116" sStart="null" offset="134" sid="r10.help.v.0213" wn="1" wnkey="help%2:41:00::" text="Since the bombing I feel very displaced and my husband and I would really like to come back to Houston and was wondering if you could help me." />
-    <s path="[MASC]/data/written/12030.anc" start="61" end="65" sStart="null" offset="64" sid="null" wn="1" wnkey="date%1:28:00::" text="Message-ID: &lt;12434767.1075852813161.JavaMail.evans@thyme&gt; Date: Tue, 25 Sep 2001 10:35:20 -0700 (PDT) From: theresa.connor-smith@enron.com To: kenneth.lay@enron.com Subject: Confidential Question Mime-Version: 1.0 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit" />
-  </sentences>
-</list>

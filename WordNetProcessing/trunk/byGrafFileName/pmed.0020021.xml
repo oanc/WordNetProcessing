@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020021.anc" start="734" end="740" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="So researchers have been &lt;b&gt;trying&lt;/b&gt; to find ways to predict who will benefit from therapy with these drugs and who won't." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020021.anc" start="734" end="740" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="So researchers have been &lt;b&gt;trying&lt;/b&gt; to find ways to predict who will benefit from therapy with these drugs and who won't." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020021.anc" start="659" end="665" sStart="null" offset="100" sid="r11.severe.j.0645" wn="5" wnkey="severe%5:00:00:critical:03" text="Unfortunately, gefitinib and erlotinib work only in a subset of patients, and they can have severe side effects, albeit infrequently." />
-  </sentences>
-</list>

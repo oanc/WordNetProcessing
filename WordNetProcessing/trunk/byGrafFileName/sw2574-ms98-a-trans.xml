@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2574-ms98-a-trans.anc" start="997" end="1007" sStart="-1" offset="0" sid="null" wn="1" wnkey="suspicious%5:00:00:distrustful:00" text="you know i'm very &lt;b&gt;suspicious&lt;/b&gt; of them" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2574-ms98-a-trans.anc" start="997" end="1007" sStart="null" offset="0" sid="null" wn="1" wnkey="suspicious%5:00:00:distrustful:00" text="you know i'm very &lt;b&gt;suspicious&lt;/b&gt; of them" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2574-ms98-a-trans.anc" start="2307" end="2311" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" text="he seems to have &lt;b&gt;lost&lt;/b&gt; his steam in in that direction and" />
-  </sentences>
-</list>

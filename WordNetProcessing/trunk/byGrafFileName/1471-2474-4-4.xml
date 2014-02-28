@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2474-4-4.anc" start="19478" end="19483" sStart="-1" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" text="CW and DB developed and implemented the process as well as &lt;b&gt;wrote&lt;/b&gt; the manuscript." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2474-4-4.anc" start="6269" end="6273" sStart="null" offset="132" sid="r11.true.j.0533" wn="5" wnkey="true%5:00:00:typical:00" text="A threshold value applied to the entire image can neglect needed information and may detect more noise than the true edges." />
-  </sentences>
-</list>

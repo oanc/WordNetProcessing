@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020276.anc" start="11801" end="11805" sStart="11725" offset="76" sid="r7.1.use.v.0687" wn="1" wnkey="use%2:34:01::" text="It is crucial that our evolving knowledge of Ògenomic recyclingÓ be used to enhance our understanding of the evolution of humans, not only in the context of Òdescendants of ancient apes,Ó but in the larger context of our fundamental unity and shared genetic history with all other species." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020276.anc" start="8251" end="8258" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" text="Given the evolutionary &lt;b&gt;success&lt;/b&gt; of insects, this combination of defense mechanisms has proven to be extremely effective, allowing insects to thrive in septic environments." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020276.anc" start="8251" end="8258" sStart="null" offset="0" sid="null" wn="3" wnkey="success%1:26:00::" text="Given the evolutionary &lt;b&gt;success&lt;/b&gt; of insects, this combination of defense mechanisms has proven to be extremely effective, allowing insects to thrive in septic environments." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3196-ms98-a-trans.anc" start="5121" end="5126" sStart="-1" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="so he said okay we'll keep it and then we weren't &lt;b&gt;smart&lt;/b&gt; enough to not use it so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3196-ms98-a-trans.anc" start="5121" end="5126" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="so he said okay we'll keep it and then we weren't &lt;b&gt;smart&lt;/b&gt; enough to not use it so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3196-ms98-a-trans.anc" start="5121" end="5126" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="so he said okay we'll keep it and then we weren't &lt;b&gt;smart&lt;/b&gt; enough to not use it so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/31/sw3196-ms98-a-trans.anc" start="3826" end="3832" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="yeah so then we were not only paying those bills regular like we were before but also &lt;b&gt;adding&lt;/b&gt; the lower payment problem so we were paying like twice" />
-  </sentences>
-</list>

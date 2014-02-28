@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3692.anc" start="1219" end="1227" sStart="-1" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" text="I know little about free-speech issues as they relate to art, however, although not a lawyer, I have become quite &lt;b&gt;familiar&lt;/b&gt; with the issues as they relate to certain aspects of disorderly behavior, especially panhandling in public spaces (begging)." />
-    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3692.anc" start="1219" end="1227" sStart="null" offset="114" sid="r7.familiar.j.0111" wn="3" wnkey="familiar%5:00:00:informed:00" text="I know little about free-speech issues as they relate to art, however, although not a lawyer, I have become quite familiar with the issues as they relate to certain aspects of disorderly behavior, especially panhandling in public spaces (begging)." />
-    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3692.anc" start="1011" end="1020" sStart="null" offset="51" sid="r8.1.different.j.0819" wn="1" wnkey="different%3:00:00::" text="Art criticism and order maintenance might be quite different issues on one level, but on another they are linked." />
-    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3692.anc" start="673" end="680" sStart="null" offset="270" sid="r10.control.n.0873" wn="2" wnkey="control%1:24:00::" text="While the mayor's position on the merits of certain art has been highly topical and controversial in New York City (and for those who read the New York Times in other areas of the country), in most of the sections of the country he is best known for his record on crime control." />
-  </sentences>
-</list>

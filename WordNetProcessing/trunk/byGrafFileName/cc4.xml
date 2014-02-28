@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/cc4.anc" start="31333" end="31337" sStart="31242" offset="91" sid="r11.true.j.0156" wn="5" wnkey="true%5:00:00:typical:00" text="If used, slow response chemiluminescence would have underestimated the true inspiratory NO concentration by averaging it together with the expiratory level, as probably occurred in two of our previous studies [ 4, 23]." />
-    <s path="[OANC]/data/written_2/technical/biomed/cc4.anc" start="43300" end="43310" sStart="null" offset="129" sid="r8.suggest.v.0745" wn="3" wnkey="suggest%2:32:02::" text="In many patients, the pulmonary vascular effect and effect on gas exchange, although linked, are dissociated suggesting that redistribution of pulmonary blood flow does not exclusively depend on the intensity of the pulmonary vasodilating effect." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/cc4.anc" start="16632" end="16636" sStart="null" offset="0" sid="null" wn="3" wnkey="rate%1:07:00::" text="When using an aspiration flow &lt;b&gt;rate&lt;/b&gt; of 150 ml/min, the response time - defined as the time necessary to reach 95% of a reference NO concentration - is around 30 s and only mean concentrations of NO can be accurately measured." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/cc4.anc" start="16632" end="16636" sStart="null" offset="0" sid="null" wn="1" wnkey="rate%1:28:00::" text="When using an aspiration flow &lt;b&gt;rate&lt;/b&gt; of 150 ml/min, the response time - defined as the time necessary to reach 95% of a reference NO concentration - is around 30 s and only mean concentrations of NO can be accurately measured." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_30471.anc" start="4336" end="4340" sStart="4328" offset="8" sid="r11.true.j.0270" wn="1" wnkey="true%3:00:00::" text="All are true." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_30471.anc" start="3085" end="3089" sStart="null" offset="32" sid="r9.late.j.0382" wn="1" wnkey="late%3:00:00::" text="The prevailing winds reverse in late spring, blowing the haze north over the land, where its particles combine with monsoon rains and fall to the earth, dissipating the cloud." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_30471.anc" start="3130" end="3134" sStart="null" offset="0" sid="null" wn="4" wnkey="land%1:17:00::" text="The prevailing winds reverse in late spring, blowing the haze north over the &lt;b&gt;land&lt;/b&gt;, where its particles combine with monsoon rains and fall to the earth, dissipating the cloud." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_30471.anc" start="2236" end="2241" sStart="null" offset="19" sid="r10.find.v.0782" wn="1" wnkey="find%2:40:02::" text="They're frequently found at Sea World, performing in shows whose dialogue will not be quoted later at dinner." />
-  </sentences>
-</list>

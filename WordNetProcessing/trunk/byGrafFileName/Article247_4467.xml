@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4467.anc" start="3153" end="3159" sStart="3134" offset="19" sid="r11.strong.j.0556" wn="1" wnkey="strong%3:00:00::" text="The company showed strong growth in its wireless business, which remains one of the hottest sectors around, and it issued a bullish forecast for the coming year." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4467.anc" start="4240" end="4245" sStart="null" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" text="And even in the months leading up to the Crash of 1929, or during the &lt;b&gt;rapid&lt;/b&gt; rise of the Nikkei in the 1980s, corporate performance seemed to matter less and less." />
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4467.anc" start="2046" end="2050" sStart="null" offset="208" sid="r8.live.v.0719" wn="2147483647" wnkey="null" text="But a more accurate way of looking at them is to see that investors are thinking hard about what news means for a company's future earning prospects and are not interested in rewarding companies that fail to live up to expectations." />
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4467.anc" start="2806" end="2812" sStart="null" offset="77" sid="r9.level.n.0256" wn="1" wnkey="level%1:07:00::" text="But what's interesting is that it isn't just stocks trading at stratospheric levels that are punished, nor is it just stocks that fall well short of expectations." />
-  </sentences>
-</list>

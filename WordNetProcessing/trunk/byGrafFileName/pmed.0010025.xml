@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010025.anc" start="733" end="739" sStart="573" offset="160" sid="r11.severe.j.0642" wn="5" wnkey="severe%5:00:00:critical:03" text="Farrah Kheradmand and colleagues took lung samples from 28 ex-smokers who had been admitted to hospital for lung resection: 18 patients had moderate to severe COPD as well as evidence of emphysema, and ten patients had none." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010025.anc" start="1105" end="1115" sStart="null" offset="140" sid="r10.particular.j.0818" wn="2" wnkey="particular%5:00:02:specific:00" text="They found that lymphocytes taken from patients with emphysema expressed more CCR5 and CXCR3 receptors, which are associated with a particular type of T cell called T helper 1 (Th1), than did those from control individuals." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010025.anc" start="1320" end="1327" sStart="null" offset="115" sid="r10.control.n.0678" wn="4" wnkey="control%1:09:02::" text="By contrast, expression of CCR4 receptors, which are found on T helper 2 (Th2) cells, was very low in both control and emphysema groups." />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0030056.anc" start="3070" end="3076" sStart="3013" offset="0" sid="null" wn="4" wnkey="window%1:17:00::" text="By contrast, aDNA can do just that, giving researchers a &lt;b&gt;window&lt;/b&gt; onto the population genetics of the past and revealing how evolution really played out." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030056.anc" start="4894" end="4899" sStart="null" offset="42" sid="r7.trace.v.0329" wn="1" wnkey="trace%2:31:00::" text="This allowed Cooper and his colleagues to trace the changes in the bison genetic diversity from 150,000 years ago to the present." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030056.anc" start="6427" end="6434" sStart="null" offset="11" sid="r8.suggest.v.0800" wn="3" wnkey="suggest%2:32:02::" text="These data suggest that genetically and geographically distinct groups of bear have replaced each other relatively often during the last 60,000 years." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2582-ms98-a-trans.anc" start="6201" end="6205" sStart="6150" offset="0" sid="null" wn="6" wnkey="lose%2:40:06::" text="you you buy a car uh and have it a week and you've &lt;b&gt;lost&lt;/b&gt; half of it already" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2582-ms98-a-trans.anc" start="7325" end="7331" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="oh about a you know five minute ride from Rhode &lt;b&gt;Island&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2582-ms98-a-trans.anc" start="3383" end="3388" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="when you rent the home do they uh &lt;b&gt;force&lt;/b&gt; you to lease and guarantee payment" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2582-ms98-a-trans.anc" start="3383" end="3388" sStart="null" offset="0" sid="null" wn="1" wnkey="force%1:07:01::" text="when you rent the home do they uh &lt;b&gt;force&lt;/b&gt; you to lease and guarantee payment" />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2091-4-5.anc" start="21026" end="21037" sStart="-1" offset="0" sid="null" wn="3" wnkey="transfer%2:38:05::" text="Fibrosarcoma PAI-1 and wtPAI-1 were &lt;b&gt;transferred&lt;/b&gt; onto nitrocellulose paper and the proteins were revealed with anti-human PAI-1 monoclonal antibodies, followed by horseradish peroxidase (HRP) conjugated rabbit anti-mouse antibody, and enhanced chemiluminescence (ECL)." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2091-4-5.anc" start="17945" end="17955" sStart="null" offset="106" sid="r8.suggest.v.0284" wn="3" wnkey="suggest%2:32:02::" text="Interestingly, the conversion of these mutants to latent forms was ~3-4 fold faster than wtPAI-1, suggesting that the Asp355-Pro357 segment is involved in maintaining the inhibitory conformation of PAI-1." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2091-4-5.anc" start="7405" end="7412" sStart="null" offset="14" sid="r8.suggest.v.0276" wn="3" wnkey="suggest%2:32:02::" text="These results suggest that a single site mutation at either one of the positions 355, 356 or 357 significantly inactivates PAI-1." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2091-4-5.anc" start="7838" end="7842" sStart="null" offset="0" sid="null" wn="3" wnkey="rate%1:07:00::" text="2B, the &lt;b&gt;rate&lt;/b&gt; of the spontaneous inactivation of the inhibitor was significantly increased upon mutation: the functional half life of the mutants Asp355Pro, Arg356Pro and Pro357Gly was 23." />
-  </sentences>
-</list>

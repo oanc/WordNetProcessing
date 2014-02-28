@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/ucb49.anc" start="480" end="485" sStart="406" offset="74" sid="null" wn="1" wnkey="use%2:34:01::" text="You will be able to update your transfer information quickly and easily using our secure server web form." />
-    <s path="[MASC]/data/written/ucb49.anc" start="871" end="875" sStart="null" offset="19" sid="null" wn="1" wnkey="easy%3:00:01::" text="BancorpSouth is so easy, no wonder it's number 1 !" />
-    <s path="[MASC]/data/written/ucb49.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" text="Dear Member: Thank you for choosing BancorpSouth Management." />
-  </sentences>
-</list>

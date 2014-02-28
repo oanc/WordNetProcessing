@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020182.anc" start="20619" end="20624" sStart="20497" offset="122" sid="r7.1.use.v.0613" wn="1" wnkey="use%2:34:01::" text="We next developed a custom algorithm for translating these digital images into accurate CD4 and CD8 T cell counts using pixel analysis with the aid of a commercial image processing package." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020182.anc" start="8752" end="8757" sStart="null" offset="21" sid="r7.1.use.v.0946" wn="1" wnkey="use%2:34:01::" text="Images were analyzed using a custom algorithm supported by Image-Pro Plus (Media Cybernetics, Silver Spring, Maryland, United States) processing software." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020182.anc" start="22901" end="22906" sStart="null" offset="82" sid="r7.1.use.v.0394" wn="1" wnkey="use%2:34:01::" text="The time from blood collection to complete analysis and results reporting using the chip-based assay was approximately 15 min per sample." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020182.anc" start="4259" end="4264" sStart="null" offset="0" sid="r7.1.use.v.0360" wn="1" wnkey="use%2:34:01::" text="Using the ETC system, complex immunological assays, such as the ones developed to quantify cardiac risk factors in serum, can be performed with small sample volumes, short analysis times, and markedly reduced reagent costs [22]." />
-  </sentences>
-</list>

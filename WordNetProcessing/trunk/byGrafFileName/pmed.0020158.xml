@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020158.anc" start="5452" end="5457" sStart="5277" offset="175" sid="r7.sound.n.0752" wn="2147483645" wnkey="null" text="As we roll out the new community journals, we are already planning the third phase of our life as a publisherÑthe creation of an online repository for all technically sound research reports in both biology and medicine, including clinical trial reports." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020158.anc" start="338" end="343" sStart="null" offset="82" sid="r7.serve.v.0090" wn="4" wnkey="serve%2:41:00::" text="So why did PLoS become a publisher, and what are we doing in this role to serve the world's varying biomedical researchers and clinicians?" />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020158.anc" start="338" end="343" sStart="null" offset="82" sid="r7.serve.v.0090" wn="10" wnkey="serve%2:41:01::" text="So why did PLoS become a publisher, and what are we doing in this role to serve the world's varying biomedical researchers and clinicians?" />
-  </sentences>
-</list>

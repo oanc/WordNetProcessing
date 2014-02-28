@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-26.anc" start="5419" end="5423" sStart="5327" offset="92" sid="r11.true.j.0764" wn="5" wnkey="true%5:00:00:typical:00" text="It is not firmly established if the reported 5' end nucleotide corresponds to the true 5' end of the mRNA." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-26.anc" start="2879" end="2885" sStart="null" offset="154" sid="r7.serve.v.0791" wn="1" wnkey="serve%2:42:03::" text="The siRNAs are incorporated into a macromolecular complex which carries out degradation of homologous RNA sequences [ 14 ] . Dicer action serves to inhibit viral infection and retroposon movement, and also plays a role in developmental pathways by cleaving precursors to small regulatory RNAs (reviewed in [ 14 15 ] ). The predicted sequence of the mouse Dicer polypeptide exhibits a single dsRBM and tandem catalytic domains." />
-  </sentences>
-</list>

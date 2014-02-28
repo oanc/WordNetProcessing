@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_457.anc" start="3016" end="3024" sStart="2976" offset="40" sid="r8.suggest.v.0101" wn="3" wnkey="suggest%2:32:02::" text="The WP reports that a small pilot study suggests that an experimental oral contraceptive for men might work." />
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_457.anc" start="1129" end="1135" sStart="null" offset="14" sid="r8.state.n.0448" wn="2147483645" wnkey="null" text="The USAT lead states that the judge in the CIA murders trial has ordered the jury sequestered while it completes the case's penalty phase." />
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_457.anc" start="341" end="345" sStart="null" offset="66" sid="r9.fold.v.0511" wn="2147483645" wnkey="null" text="(The Los Angeles Times puts the story on the front, but below the fold.)" />
-  </sentences>
-</list>

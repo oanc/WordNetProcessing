@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/non-fiction/OUP/Kauffman/ch4.anc" start="24501" end="24508" sStart="-1" offset="0" sid="null" wn="7" wnkey="write%2:36:03::" text="It has some program, typically &lt;b&gt;written&lt;/b&gt; as a sequence of binary numbers, and , and the program operates on the input data, also a string of binary symbols, and churns out an answer." />
-    <s path="file:/c:/OANC/data/written_2/non-fiction/OUP/Kauffman/ch4.anc" start="49753" end="49757" sStart="null" offset="0" sid="null" wn="5" wnkey="work%1:19:00::" text="It sometimes takes &lt;b&gt;work&lt;/b&gt; to construct constraints, and it takes constraints to get &lt;b&gt;work&lt;/b&gt;." />
-    <s path="file:/c:/OANC/data/written_2/non-fiction/OUP/Kauffman/ch4.anc" start="20684" end="20688" sStart="null" offset="0" sid="null" wn="5" wnkey="work%1:19:00::" text="It turns out that the &lt;b&gt;work&lt;/b&gt; that must be done, hence the energy utilized, equals the &lt;b&gt;work&lt;/b&gt; that can later be extracted from the system after the fast and slow particles are separated into the two boxes." />
-    <s path="file:/c:/OANC/data/written_2/non-fiction/OUP/Kauffman/ch4.anc" start="5337" end="5341" sStart="null" offset="0" sid="null" wn="5" wnkey="work%1:19:00::" text="&lt;b&gt;Work&lt;/b&gt; is more than force acting through distance; it is, in fact, the constrained release of energy, the release of energy into a small number of degrees of freedom." />
-  </sentences>
-</list>

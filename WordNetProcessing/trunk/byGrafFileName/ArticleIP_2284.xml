@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2284.anc" start="6159" end="6164" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="His 1993 economic program directly benefited the economy, bringing down interest &lt;b&gt;rates&lt;/b&gt; and boosting the stock market to record highs." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2284.anc" start="6159" end="6164" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" text="His 1993 economic program directly benefited the economy, bringing down interest &lt;b&gt;rates&lt;/b&gt; and boosting the stock market to record highs." />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2284.anc" start="7413" end="7419" sStart="null" offset="85" sid="r9.level.n.0303" wn="1" wnkey="level%1:07:00::" text="To increase wages significantly without inflation would require a return to pre-1973 levels of real growth, which hasn't happened." />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2284.anc" start="1791" end="1796" sStart="null" offset="106" sid="r10.board.n.0527" wn="1" wnkey="board%1:14:00::" text="The government's main economic lever, the money supply, is the province of the autonomous Federal Reserve Board." />
-  </sentences>
-</list>

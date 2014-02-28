@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020148.anc" start="7054" end="7057" sStart="7025" offset="29" sid="r7.1.use.v.0141" wn="1" wnkey="use%2:34:01::" text="Consortium members will also use Ôreverse geneticsÕ to investigate these pathways." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020148.anc" start="11573" end="11579" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="But Fish Aren't &lt;b&gt;People&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020148.anc" start="11573" end="11579" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" text="But Fish Aren't &lt;b&gt;People&lt;/b&gt;" />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020148.anc" start="13789" end="13799" sStart="null" offset="181" sid="r10.particular.j.0743" wn="2147483647" wnkey="null" text="Developmental geneticist Didier Stainier (University of California, San Francisco, California, United States) is also using zebrafish to study organ development, in particular, heart development." />
-  </sentences>
-</list>

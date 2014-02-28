@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3760-ms98-a-trans.anc" start="4009" end="4017" sStart="-1" offset="0" sid="null" wn="4" wnkey="transfer%2:38:00::" text="&lt;b&gt;transfer&lt;/b&gt; photos and um those are really neat so we learn different crafts like that um" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3760-ms98-a-trans.anc" start="143" end="147" sStart="null" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" text="i basically &lt;b&gt;read&lt;/b&gt; books" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3760-ms98-a-trans.anc" start="5445" end="5452" sStart="null" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" text="well you know one of the books that i did &lt;b&gt;read&lt;/b&gt; that i was &lt;b&gt;reading&lt;/b&gt; and i stopped because it's so" />
-  </sentences>
-</list>

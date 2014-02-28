@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4336.anc" start="247" end="252" sStart="78" offset="169" sid="r8.state.n.0772" wn="1" wnkey="state%1:15:01::" text="The Los Angeles Times leads with a local story: A study shows that California's high-tech boom is disproportionately benefiting the rich and, consequently, widening the state's income gap." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4336.anc" start="52" end="58" sStart="null" offset="14" sid="r8.family.n.0940" wn="1" wnkey="family%1:14:02::" text="The Future of Family Feuds" />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4336.anc" start="4680" end="4685" sStart="null" offset="49" sid="r10.board.n.0219" wn="1" wnkey="board%1:14:00::" text="Real estate agencies prepare dog biographies for board evaluation." />
-  </sentences>
-</list>

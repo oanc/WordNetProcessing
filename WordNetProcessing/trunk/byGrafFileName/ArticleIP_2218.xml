@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/34/ArticleIP_2218.anc" start="1153" end="1157" sStart="-1" offset="0" sid="null" wn="" wnkey="null" text="" />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/34/ArticleIP_2218.anc" start="1153" end="1157" sStart="null" offset="0" sid="null" wn="2" wnkey="know%2:31:03::" text="" />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2218.anc" start="331" end="337" sStart="null" offset="143" sid="r9.kill.v.0563" wn="1" wnkey="kill%2:35:00::" text="A few of these birds in Hong Kong may be responsible for a new strain of flu that could produce a global pandemic on the order of the one that killed millions in 1918." />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2218.anc" start="1143" end="1149" sStart="null" offset="0" sid="r9.appear.v.0198" wn="" wnkey="null" text="" />
-  </sentences>
-</list>

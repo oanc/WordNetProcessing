@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/4/Article247_572.anc" start="4145" end="4149" sStart="4145" offset="0" sid="r10.wait.v.0401" wn="2" wnkey="wait%2:42:01::" text="Wait till the postal workers union hears about this." />
-    <s path="[OANC]/data/written_1/journal/slate/4/Article247_572.anc" start="4533" end="4540" sStart="null" offset="53" sid="r8.suggest.v.0147" wn="1" wnkey="suggest%2:32:00::" text="Mr. President, may &quot;Today's Papers&quot; humbly suggest.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/4/Article247_572.anc" start="4418" end="4423" sStart="null" offset="207" sid="r9.paper.n.0504" wn="3" wnkey="paper%1:10:03::" text="That NYT piece that caught Bill Clinton speaking off the cuff about sanctions also includes his confession that late at night he often gets a call from Chelsea asking him about some item from the next day's paper that she's read on the Internet, but that he knows nothing about." />
-    <s path="[OANC]/data/written_1/journal/slate/4/Article247_572.anc" start="4371" end="4377" sStart="null" offset="160" sid="r8.ask.v.0178" wn="4" wnkey="ask%2:32:04::" text="That NYT piece that caught Bill Clinton speaking off the cuff about sanctions also includes his confession that late at night he often gets a call from Chelsea asking him about some item from the next day's paper that she's read on the Internet, but that he knows nothing about." />
-  </sentences>
-</list>
