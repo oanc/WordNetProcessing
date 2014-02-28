@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-4-22.anc" start="1550" end="1554" sStart="1457" offset="93" sid="r7.1.use.v.0189" wn="1" wnkey="use%2:34:01::" text="The hamster has not been used extensively in genomics research; however, it has been used extensively in various areas of investigation including circadian rhythm research [ 10 ] and also in investigations in a number of areas of research in reproductive biology." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-4-22.anc" start="34236" end="34241" sStart="null" offset="39" sid="r7.1.use.v.0558" wn="1" wnkey="use%2:34:01::" text="PCR reactions were performed using human testis Marathon RACE-Ready cDNA (Clontech, Palo Alto, CA) using conditions described previously [ 43 ] . PCR products were subcloned in to the pGEM-Teasy plasmid and sequenced." />
-  </sentences>
-</list>

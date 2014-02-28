@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2334-2-6.anc" start="3391" end="3396" sStart="3371" offset="20" sid="r7.1.use.v.0819" wn="1" wnkey="use%2:34:01::" text="HRP was quantitated using a kit from Kirkegaard &amp; Perry Laboratories, Inc., Gaithersburg, MD." />
-    <s path="file:/c:/OANC/data/written_2/technical/biomed/1471-2334-2-6.anc" start="20025" end="20030" sStart="null" offset="0" sid="null" wn="5" wnkey="show%2:36:00::" text="Treatment of neither recombinant gp160 or the gp41 C-peptide with CAP resulted in generation of epitopes recognized by mAb NC-1 (data not &lt;b&gt;shown&lt;/b&gt;)." />
-    <s path="file:/c:/OANC/data/written_2/technical/biomed/1471-2334-2-6.anc" start="20025" end="20030" sStart="null" offset="0" sid="null" wn="4" wnkey="show%2:39:00::" text="Treatment of neither recombinant gp160 or the gp41 C-peptide with CAP resulted in generation of epitopes recognized by mAb NC-1 (data not &lt;b&gt;shown&lt;/b&gt;)." />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/114428.anc" start="449" end="453" sStart="280" offset="169" sid="null" wn="2" wnkey="rate%1:21:00::" text="Discover what services are available to assist you - Get professional help to guide you through the process - Find out if you qualify to lock in a great rate" />
-    <s path="[MASC]/data/written/114428.anc" start="406" end="410" sStart="null" offset="126" sid="r10.find.v.0183" wn="9" wnkey="find%2:31:09::" text="Discover what services are available to assist you - Get professional help to guide you through the process - Find out if you qualify to lock in a great rate" />
-    <s path="[MASC]/data/written/114428.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" text="Date: Mon, 7 Mar 2011 09:34:08 -0500 From: &quot;loan_modifications&quot; &lt;modify@poloped.com&gt; Subject: Loan modification is better than a refi To: xxx@xxx.xxx" />
-  </sentences>
-</list>

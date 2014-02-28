@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1637.anc" start="2844" end="2848" sStart="2836" offset="8" sid="r7.poor.j.0772" wn="5" wnkey="poor%5:00:00:insufficient:00" text="in very poor conditions&quot; at her residence." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/28/ArticleIP_1637.anc" start="1057" end="1062" sStart="null" offset="0" sid="null" wn="3" wnkey="image%1:06:00::" text="He also says he asked Houghton Mifflin to alter the &lt;b&gt;image&lt;/b&gt; for the book's newly released paperback version, but the publisher told him it would be too difficult." />
-    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1637.anc" start="1277" end="1282" sStart="null" offset="40" sid="r10.book.n.0768" wn="1" wnkey="book%1:10:00::" text="A new publishing house called Encounter Books will begin issuing right-of-center books, filling the void left by the Free Press, reports the Chronicle of Higher Education . (The Free Press used to publish mainly conservative volumes such as Richard J. Herrnstein and Charles Murray's The Bell Curve and Dinesh D'Souza's Illiberal Education but has distanced itself from a solely right-wing orientation.)" />
-    <s path="[OANC]/data/written_1/journal/slate/28/ArticleIP_1637.anc" start="3347" end="3351" sStart="null" offset="170" sid="r10.book.n.0150" wn="1" wnkey="book%1:10:00::" text="In October, St. Martin's Press will publish an anthology of essays from the Times Higher Education Supplement titled Consuming Passions: Food in the Age of Anxiety . The book's co-editor Jennifer Wallace, a lecturer at Cambridge University, suggests that food is a source of reassurance in troubling times." />
-  </sentences>
-</list>

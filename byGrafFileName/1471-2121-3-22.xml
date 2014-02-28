@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2121-3-22.anc" start="16495" end="16499" sStart="16487" offset="8" sid="r7.1.use.v.0589" wn="1" wnkey="use%2:34:01::" text="We have used the cell line LNCaP as a model to examine the role of SKP2 in androgen control of p27 expression and cell cycle progression in human prostate cancer cells." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2121-3-22.anc" start="28554" end="28565" sStart="null" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" text="Proteins were &lt;b&gt;transferred&lt;/b&gt; onto Immobilon P membrane (Millipore), blocked in 5 % nonfat dry milk dissolved in tris-buffered saline / 0.1 % Tween and probed with the various antibodies." />
-  </sentences>
-</list>

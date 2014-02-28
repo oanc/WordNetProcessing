@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020113.anc" start="15032" end="15038" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="We do not know how environmental fluctuations like these will affect the natural production of young fish, says Kleiber, expressing the concern that without a better understanding of climate, fisheries scientists end up &lt;b&gt;trying&lt;/b&gt; to estimate moving targets." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020113.anc" start="15032" end="15038" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="We do not know how environmental fluctuations like these will affect the natural production of young fish, says Kleiber, expressing the concern that without a better understanding of climate, fisheries scientists end up &lt;b&gt;trying&lt;/b&gt; to estimate moving targets." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020113.anc" start="20949" end="20955" sStart="null" offset="135" sid="r7.strike.v.0478" wn="21" wnkey="strike%2:31:00::" text="As attitudes towards fisheries continue to change, increased understanding of the ecological underpinnings should help strike a more informed balance between fisheries' conservation and production." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020113.anc" start="8151" end="8157" sStart="null" offset="56" sid="r7.serve.v.0874" wn="8" wnkey="serve_well%2:42:00::" text="This approach, although now rife with problems, served the community and the politicians well during the decades of abundant resources." />
-  </sentences>
-</list>

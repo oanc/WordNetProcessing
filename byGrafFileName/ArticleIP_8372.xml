@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_8372.anc" start="3305" end="3310" sStart="-1" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" text="The coyote is &lt;b&gt;smart&lt;/b&gt;, elusive." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/48/ArticleIP_8372.anc" start="3305" end="3310" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" text="The coyote is &lt;b&gt;smart&lt;/b&gt;, elusive." />
-  </sentences>
-</list>

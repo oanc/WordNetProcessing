@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4163.anc" start="1098" end="1105" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" text="This is in spite of the fact that I taught courses on technology for more than 10 years before I retired and have even &lt;b&gt;written&lt;/b&gt; books on the new technology." />
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4163.anc" start="375" end="379" sStart="null" offset="4" sid="r7.1.use.v.0743" wn="6" wnkey="use%2:41:03::" text="(We used to say that when you were an undergraduate at Harvard, you were one of the few students who knew that one should not begin a sentence with &quot;Hopefully,&quot; and more, why one should not do so.)" />
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4163.anc" start="42" end="47" sStart="null" offset="4" sid="r9.paper.n.0928" wn="1" wnkey="paper%1:27:00::" text="The Paper Chase" />
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4163.anc" start="2457" end="2462" sStart="null" offset="138" sid="r9.paper.n.0534" wn="3" wnkey="paper%1:10:03::" text="But now the Times has a Boston edition, with the Boston weather and television schedule, and the &quot;Tab,&quot; a &quot;community&quot; paper with special town editions, such as Cambridge, tells me what is playing at the local movie houses." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/39/ArticleIP_2701.anc" start="1493" end="1496" sStart="1395" offset="0" sid="null" wn="2" wnkey="win%2:40:00::" text="The charitable explanation is that they're thinking short-term, hoping to energize their base and &lt;b&gt;win&lt;/b&gt; extra congressional seats in the November elections." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/39/ArticleIP_2701.anc" start="6725" end="6729" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" text="Instead, they keep playing until they've &lt;b&gt;lost&lt;/b&gt; everything." />
-    <s path="[OANC]/data/written_1/journal/slate/39/ArticleIP_2701.anc" start="403" end="407" sStart="null" offset="63" sid="r10.high.j.0846" wn="1" wnkey="high%3:00:02::" text="You know the old joke: &quot;Clinton's approval ratings are so high he's going to start dating again.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/39/ArticleIP_2701.anc" start="3339" end="3347" sStart="null" offset="55" sid="r10.control.n.0324" wn="2147483645" wnkey="null" text="And the party most likely to be blamed is the one that controls Congress." />
-  </sentences>
-</list>

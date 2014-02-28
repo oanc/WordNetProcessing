@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020169.anc" start="7203" end="7213" sStart="7005" offset="198" sid="r10.particular.j.0359" wn="1" wnkey="particular%5:00:00:specific:00" text="On the extracellular side, ground-breaking insights were provided when the crystal structure of the extracellular domain of integrin ? v ? 3 (the nomenclature identifies the particular ? and ? subunits) was determined (Xiong et al." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020169.anc" start="9201" end="9211" sStart="null" offset="17" sid="r10.particular.j.0336" wn="1" wnkey="particular%5:00:00:specific:00" text="1991), whereas a particular disease mutation may only impair the clasp and partially activate the receptor (Peyruchaud et al." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020169.anc" start="10045" end="10049" sStart="null" offset="0" sid="null" wn="1" wnkey="lose%2:40:02::" text="(2004) provide what is, to our knowledge, the first experimental evidence for the transmembrane domain separation, an event suggested by the model shown in Figure 1. By selectively altering the residues that can interact with one another, the authors defined a specific transmembrane domain interface in resting ? IIb ? 3 and showed that this interface is &lt;b&gt;lost&lt;/b&gt; upon activation of this integrin." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020169.anc" start="2620" end="2629" sStart="null" offset="255" sid="r11.function.n.0129" wn="2" wnkey="function%1:07:00::" text="In this manner, the exterior and interior of a cell are physically linked, which allows for bidirectional transmission of mechanical and biochemical signals across the plasma membrane, and leads to a cooperative regulation of cell functions, including adhesion, migration, growth, and differentiation." />
-  </sentences>
-</list>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020065.anc" start="1306" end="1313" sStart="1118" offset="188" sid="r10.control.n.0578" wn="4" wnkey="control%1:09:02::" text="All previously developed scan statistics require either (i) a uniform population at risk (with the same number of expected disease cases in every square kilometer), (ii) a control group (such as emergency visits not due to the disease of interest), or (iii) other data that provide information about the geographical and temporal distribution of the underlying population at risk, such as census numbers." />
-  </sentences>
-</list>

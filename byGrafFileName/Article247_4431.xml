@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4431.anc" start="715" end="718" sStart="708" offset="7" sid="r8.way.n.0288" wn="2147483647" wnkey="null" text="By the way, speaking of columnists, where has the New York Post 's Joey Adams &quot;Just for Laughs&quot; column gone?" />
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4431.anc" start="1436" end="1440" sStart="null" offset="39" sid="r9.full.j.0677" wn="1" wnkey="full%3:00:00::" text="I've never been handed a martini glass full of potatoes in my life." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4431.anc" start="162" end="166" sStart="null" offset="0" sid="null" wn="5" wnkey="date%1:28:03::" text="Perhaps USA Today could start a regular feature: &quot;On This Day in (fill in &lt;b&gt;date&lt;/b&gt;), Larry King Said ...&quot;" />
-  </sentences>
-</list>

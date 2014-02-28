@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2189.anc" start="1059" end="1070" sStart="984" offset="75" sid="r11.recommend.v.0161" wn="1" wnkey="recommend%2:32:01::" text="It is possible to search for words other than Bill Gates , but that is not recommended, and Slate cannot be held responsible for the result." />
-    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2189.anc" start="308" end="318" sStart="null" offset="77" sid="r10.particular.j.0307" wn="2" wnkey="particular%5:00:02:specific:00" text="Use this feature to find articles by a particular author or a reference to a particular subject." />
-  </sentences>
-</list>

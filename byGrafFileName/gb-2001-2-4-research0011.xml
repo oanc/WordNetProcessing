@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/gb-2001-2-4-research0011.anc" start="23615" end="23624" sStart="23480" offset="135" sid="r8.suggest.v.0533" wn="3" wnkey="suggest%2:32:02::" text="SLC4A9 may be a member of a class of genes characterized by highly variant and inefficient splicing, a class first suggested by a comparison of ESTs to genomic sequences [ 25]." />
-    <s path="[OANC]/data/written_2/technical/biomed/gb-2001-2-4-research0011.anc" start="32001" end="32009" sStart="null" offset="31" sid="r8.suggest.v.0109" wn="3" wnkey="suggest%2:32:02::" text="Their very existence suggests, however, that individually characterizing and understanding numerous unconventional genes will be a major challenge." />
-  </sentences>
-</list>

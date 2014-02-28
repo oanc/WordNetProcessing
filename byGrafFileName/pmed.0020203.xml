@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020203.anc" start="5155" end="5158" sStart="5147" offset="8" sid="r8.way.n.0263" wn="1" wnkey="way%1:07:01::" text="In this way, because all our journals are open access, the difference to the reader between a paper published in PLoS Medicine and any other PLoS journal, is just a rodent click." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020203.anc" start="3639" end="3649" sStart="null" offset="3" sid="r10.particular.j.0449" wn="2147483647" wnkey="null" text="In particular, animal studies often have inappropriate controls, are underpowered, involve researchers monitoring outcomes who are not blinded to treatment allocation, or lack proper statistical analysis." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020203.anc" start="2074" end="2079" sStart="null" offset="31" sid="r9.paper.n.1000" wn="5" wnkey="paper%1:10:02::" text="Nevertheless, we accepted this paper because we and our advisers felt that the research was at a stage where clinical questions, such as patient safety and design of early human trials, should inform any additional studies in animals." />
-  </sentences>
-</list>

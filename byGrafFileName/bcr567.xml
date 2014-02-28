@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/bcr567.anc" start="7254" end="7258" sStart="7027" offset="227" sid="r7.1.use.v.0678" wn="1" wnkey="use%2:34:01::" text="Purposeful stepwise multivariable logistic regression models were built to identify statistically significant variables at P = 0.05, and a 10% or greater change in the ?-coefficient was used to identify confounders." />
-    <s path="[OANC]/data/written_2/technical/biomed/bcr567.anc" start="1372" end="1382" sStart="null" offset="319" sid="r10.particular.j.0395" wn="2147483647" wnkey="null" text="These characteristics are somewhat similar to that of African-Americans but are in contrast with those of non-Hispanic Whites in the USA, thus heightening the interest in the role of genetic factors in the etiology of breast cancer in general, and in people of African origin in particular [ 3 5 ] ." />
-  </sentences>
-</list>

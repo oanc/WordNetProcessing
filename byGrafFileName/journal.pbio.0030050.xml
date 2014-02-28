@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030050.anc" start="741" end="748" sStart="667" offset="74" sid="r7.strike.n.0527" wn="2147483645" wnkey="null" text="When we compare our brain to those of other animals, the first thing that strikes us is its size." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0030050.anc" start="5339" end="5344" sStart="null" offset="0" sid="null" wn="3" wnkey="power%1:09:01::" text="A bigger, more complex brain may have advantages over a small brain in terms of computing &lt;b&gt;power&lt;/b&gt;, but brain expansion has costs." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030050.anc" start="11784" end="11794" sStart="null" offset="130" sid="r10.particular.j.0385" wn="4" wnkey="particular%5:00:00:primary:00" text="Geneticist Henrik Kaessmann (University of Lausanne, Switzerland) studies the origin of new genes in primates, in particular genes that arise when a DNA copy of an mRNA transcribed from an existing gene is integrated back into the genome." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0030050.anc" start="10894" end="10899" sStart="null" offset="26" sid="r9.paper.n.0526" wn="5" wnkey="paper%1:10:02::" text="In a recent Cell paper, Lahn and his colleagues identify several hundred genes that are involved in nervous system biology and show that, as a group, there are significantly higher rates of protein evolution in these genes in primates than in rodents." />
-  </sentences>
-</list>

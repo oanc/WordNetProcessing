@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020272.anc" start="991" end="994" sStart="939" offset="52" sid="r8.way.n.0357" wn="2147483647" wnkey="null" text="Indeed, there are already initiatives under way that seek to address them." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020272.anc" start="3431" end="3435" sStart="null" offset="49" sid="r10.wait.v.0897" wn="2" wnkey="wait%2:42:01::" text="The answer, therefore, cannot be that we wait until conclusions are proven beyond a doubt before we publish them." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020272.anc" start="3005" end="3009" sStart="null" offset="107" sid="r11.true.j.0974" wn="1" wnkey="true%3:00:00::" text="One way to do this is to delay publication until such a time when the chances that a conclusion is true are sufficiently high." />
-  </sentences>
-</list>

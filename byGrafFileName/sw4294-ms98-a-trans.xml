@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4294-ms98-a-trans.anc" start="5108" end="5114" sStart="-1" offset="0" sid="null" wn="" wnkey="null" text="but still i take my &lt;b&gt;chance&lt;/b&gt; with the odds of twelve" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4294-ms98-a-trans.anc" start="5108" end="5114" sStart="null" offset="0" sid="null" wn="3" wnkey="chance%1:04:00::" text="but still i take my &lt;b&gt;chance&lt;/b&gt; with the odds of twelve" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4294-ms98-a-trans.anc" start="5108" end="5114" sStart="null" offset="0" sid="null" wn="" wnkey="null" text="but still i take my &lt;b&gt;chance&lt;/b&gt; with the odds of twelve" />
-  </sentences>
-</list>

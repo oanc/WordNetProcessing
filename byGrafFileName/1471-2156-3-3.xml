@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2156-3-3.anc" start="7954" end="7960" sStart="7928" offset="26" sid="r8.number.n.0724" wn="1" wnkey="number%1:07:00::" text="Nevertheless, the minimum number of recombination events in this family occurs only if the affected son and daughter inherit different FEOM1 haplotypes from their affected mother, thus strongly suggesting that the disease gene in this family does not map to the chromosome 12 locus." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2156-3-3.anc" start="12593" end="12599" sStart="null" offset="35" sid="r8.family.n.0477" wn="3" wnkey="family%1:14:04::" text="The phenotype of a seventh family, E, is consistent with linkage to both FEOM1 and FEOM3 and will be screened for mutations at both these loci." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2156-3-3.anc" start="5879" end="5885" sStart="null" offset="45" sid="r8.family.n.0626" wn="3" wnkey="family%1:14:04::" text="Linkage to FEOM1 was ruled out in family BT (see Additional file 1)." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2156-3-3.anc" start="9586" end="9594" sStart="null" offset="8" sid="r8.family.n.0506" wn="3" wnkey="family%1:14:04::" text="The two families whose phenotype did not map to FEOM1 (K, BT) had haplotype and linkage data consistent with linkage to FEOM3 (Fig." />
-  </sentences>
-</list>

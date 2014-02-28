@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020430.anc" start="6159" end="6165" sStart="6122" offset="37" sid="r11.severe.j.0630" wn="2147483644" wnkey="null" text="In the movie, Octavius's crisis is a severe unbalance in favor of machine control." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020430.anc" start="1469" end="1473" sStart="null" offset="106" sid="r8.life.n.0990" wn="8" wnkey="life%1:18:00::" text="At the end of the movie, in a flicker of sanity and heroism, Octavius dramatically sacrifices his life as the only way to terminate the evil machine and save the world." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020430.anc" start="5960" end="5967" sStart="null" offset="152" sid="r10.control.n.0689" wn="1 9" wnkey="null" text="Such a module would get inputs from sensors embedded in the robot, and would produce a control signal that would fuse with the neuronal control signal to augment the final output command." />
-  </sentences>
-</list>

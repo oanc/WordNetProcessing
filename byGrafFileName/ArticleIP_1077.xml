@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1077.anc" start="3933" end="3940" sStart="3738" offset="195" sid="r10.wait.v.0255" wn="2" wnkey="wait%2:42:01::" text="Fearing that a second circuit breaker would close the market for the day and prevent them from executing their orders on advantageous terms, they sold their stocks as soon as possible instead of waiting to find the best price." />
-    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1077.anc" start="685" end="692" sStart="null" offset="138" sid="r8.suggest.v.0155" wn="1" wnkey="suggest%2:32:00::" text="Following the October 1987 Black Monday stock-market crash , a presidential task force was convened to investigate the crash's causes and suggest remedies that would prevent a repeat performance." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1077.anc" start="2680" end="2685" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" text="Bad weather, presidential assassinations, and &lt;b&gt;power&lt;/b&gt; outages all have resulted in the closing of the market." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1077.anc" start="2680" end="2685" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="Bad weather, presidential assassinations, and &lt;b&gt;power&lt;/b&gt; outages all have resulted in the closing of the market." />
-  </sentences>
-</list>

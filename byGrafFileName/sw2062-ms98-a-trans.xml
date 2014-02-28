@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/20/sw2062-ms98-a-trans.anc" start="10004" end="10008" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="but it should be a standard and and not left up to either the whim or the current overhead &lt;b&gt;rate&lt;/b&gt; that's uh that's running in each department" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/20/sw2062-ms98-a-trans.anc" start="10004" end="10008" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="but it should be a standard and and not left up to either the whim or the current overhead &lt;b&gt;rate&lt;/b&gt; that's uh that's running in each department" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/20/sw2062-ms98-a-trans.anc" start="168" end="176" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" text="well personally you know i think you know of course i'm sure we're &lt;b&gt;familiar&lt;/b&gt; with the exact same benefit package and i think that uh we've probably got one of the best around you know besides" />
-  </sentences>
-</list>

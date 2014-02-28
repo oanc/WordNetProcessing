@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3631-ms98-a-trans.anc" start="1813" end="1816" sStart="1774" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="uh ah one of the first problems was to &lt;b&gt;add&lt;/b&gt; three tenths" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3631-ms98-a-trans.anc" start="1708" end="1714" sStart="null" offset="0" sid="null" wn="4" wnkey="add_together%2:31:00::" text="so we started off with a ten key &lt;b&gt;adding&lt;/b&gt; machine" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3631-ms98-a-trans.anc" start="2207" end="2210" sStart="null" offset="0" sid="null" wn="4" wnkey="add_together%2:31:00::" text="was a number divided by a hundred and in order to &lt;b&gt;add&lt;/b&gt; three tenths to anything it had to be changed to thirty hundredths" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/36/sw3631-ms98-a-trans.anc" start="2093" end="2099" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="so i would have to launch into a discussion of common denominator and explain that every figure that was entered into that ten key &lt;b&gt;adding&lt;/b&gt; machine with two decimal places" />
-  </sentences>
-</list>

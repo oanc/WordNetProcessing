@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2202-3-8.anc" start="18066" end="18072" sStart="17909" offset="157" sid="r8.number.n.0547" wn="1" wnkey="number%1:07:00::" text="Unlike the distributions observed for bladder and external urethral sphincter [ 10 ] where there was considerable overlap as well as a large number of double-labeled neurons, the results for bladder and prostate in this work are quite different." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2202-3-8.anc" start="18176" end="18185" sStart="null" offset="267" sid="r8.1.different.j.0628" wn="4" wnkey="different%5:00:01:other:00" text="Unlike the distributions observed for bladder and external urethral sphincter [ 10 ] where there was considerable overlap as well as a large number of double-labeled neurons, the results for bladder and prostate in this work are quite different." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2202-3-8.anc" start="1273" end="1280" sStart="null" offset="42" sid="r10.control.n.0611" wn="2" wnkey="control%1:24:00::" text="Speculation suggests some form of control of the volume or composition of the secretion [ 3 ] . There is also evidence for the presence of periprostatic ganglia and capsular ganglia respectively outside and inside the prostatic capsule [ 4 ] but not much is known about their pharmacology or function." />
-  </sentences>
-</list>

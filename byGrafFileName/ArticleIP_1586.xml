@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1586.anc" start="2399" end="2406" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" text="The clip cleverly gives the impression that Morales is actually saying what's &lt;b&gt;written&lt;/b&gt; on screen and sourced to a local paper: that he opposes longer sentences as a deterrent against crime." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1586.anc" start="178" end="185" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" text="&lt;b&gt;Windows&lt;/b&gt; or Mac; download time, 19 minutes at 14." />
-    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1586.anc" start="248" end="253" sStart="null" offset="6" sid="r7.sound.n.0193" wn="3" wnkey="sound%1:19:00::" text="; for sound only" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1586.anc" start="2092" end="2097" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" text="Why &lt;b&gt;color&lt;/b&gt;?" />
-  </sentences>
-</list>

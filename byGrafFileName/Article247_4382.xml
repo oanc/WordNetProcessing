@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4382.anc" start="983" end="988" sStart="975" offset="8" sid="r10.wait.v.0238" wn="2" wnkey="wait%2:42:01::" text="The NYT waits until the beginning of its jump to reveal the reason Gore holds an advantage over Bradley among black voters: he's riding Clinton's coattails." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4382.anc" start="3948" end="3954" sStart="null" offset="110" sid="r9.kill.v.0818" wn="1" wnkey="kill%2:35:00::" text="The leader of Serbia's Tigers, a paramilitary group notorious for murdering and/or terrorizing non-Serbs, was killed in Belgrade." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4382.anc" start="1945" end="1952" sStart="null" offset="0" sid="null" wn="2" wnkey="chance%1:19:00::" text="Gore's and Bush's war chests seem to be giving them a boost in Iowa, and both candidates hope strong showings in the caucuses will boost their &lt;b&gt;chances&lt;/b&gt; in New Hampshire the following week, the Post reports." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/20/Article247_4382.anc" start="1945" end="1952" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" text="Gore's and Bush's war chests seem to be giving them a boost in Iowa, and both candidates hope strong showings in the caucuses will boost their &lt;b&gt;chances&lt;/b&gt; in New Hampshire the following week, the Post reports." />
-  </sentences>
-</list>

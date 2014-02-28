@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/travel_guides/berlitz1/HandRHongKong.anc" start="474" end="485" sStart="448" offset="26" sid="r11.recommend.v.0805" wn="2" wnkey="recommend%2:32:00::" text="Reservations are strongly recommended, particularly in summer and at Christmas." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/HandRHongKong.anc" start="838" end="843" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="As a basic guide, the symbols below have been used to indicate high-season &lt;b&gt;rates&lt;/b&gt; in Hong Kong dollars, based on double occupancy, with bath or shower." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/HandRHongKong.anc" start="838" end="843" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" text="As a basic guide, the symbols below have been used to indicate high-season &lt;b&gt;rates&lt;/b&gt; in Hong Kong dollars, based on double occupancy, with bath or shower." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/HandRHongKong.anc" start="1049" end="1054" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" text="A 10% service charge and 5% government tax will be &lt;b&gt;added&lt;/b&gt; to the bill." />
-  </sentences>
-</list>

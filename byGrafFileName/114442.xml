@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/114442.anc" start="1183" end="1187" sStart="1053" offset="130" sid="null" wn="2" wnkey="rate%1:21:00::" text="Compare these rates against your current provider and see what you could be saving, or at the very least verify that your current rate is competitive." />
-    <s path="[MASC]/data/written/114442.anc" start="1067" end="1072" sStart="null" offset="14" sid="null" wn="2" wnkey="rate%1:21:00::" text="Compare these rates against your current provider and see what you could be saving, or at the very least verify that your current rate is competitive." />
-    <s path="[MASC]/data/written/114442.anc" start="293" end="298" sStart="null" offset="113" sid="null" wn="2" wnkey="rate%1:21:00::" text="I'm not sure if you are aware of it or not, but many merchants are currently having their credit card processing rates increased significantly." />
-    <s path="[MASC]/data/written/114442.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" text="Date: Tue, 15 Feb 2011 03:34:08 -0500 From: &quot;Credit Card Processing&quot; &lt;info@blindbt.info&gt; Subject: Credit Card Processing Companies Compete for Your Business To: xxx@xxx.xxx" />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1054.anc" start="1286" end="1295" sStart="-1" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" text="It initially &lt;b&gt;succeeded&lt;/b&gt; only in Southern Italy and America." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/22/ArticleIP_1054.anc" start="1286" end="1295" sStart="null" offset="0" sid="null" wn="1" wnkey="succeed%2:41:00::" text="It initially &lt;b&gt;succeeded&lt;/b&gt; only in Southern Italy and America." />
-    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1054.anc" start="3936" end="3944" sStart="null" offset="36" sid="r8.family.n.0242" wn="4 7" wnkey="null" text="The New York Mafia consists of five families (Gambino, Genovese, Lucchese, Bonanno, and Colombo) that have sometimes cooperated, sometimes competed with one another." />
-  </sentences>
-</list>

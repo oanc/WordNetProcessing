@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_30463.anc" start="5876" end="5879" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" text="The New York Times says he won't &lt;b&gt;try&lt;/b&gt; to indict them but might publish a damning account of their behavior." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_30463.anc" start="3170" end="3176" sStart="null" offset="12" sid="r7.trace.v.0180" wn="3" wnkey="trace%2:38:01::" text="The company traced the problem to a preservative used on shipping pallets and a bad batch of carbon dioxide, neither of which presents a serious health threat." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_30463.anc" start="1025" end="1032" sStart="null" offset="60" sid="r9.kill.v.0347" wn="1" wnkey="kill%2:35:00::" text="Proponents offered the bill as a response to &quot;children killing children.&quot;" />
-  </sentences>
-</list>

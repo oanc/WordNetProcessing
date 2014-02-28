@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2463-ms98-a-trans.anc" start="6223" end="6229" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" text="oh and one of them is living in Rhode &lt;b&gt;Island&lt;/b&gt; now they're all in the northeast &lt;b&gt;part&lt;/b&gt; of the country my family's in Virginia and then we're living in Texas" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2463-ms98-a-trans.anc" start="6223" end="6229" sStart="null" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" text="oh and one of them is living in Rhode &lt;b&gt;Island&lt;/b&gt; now they're all in the northeast &lt;b&gt;part&lt;/b&gt; of the country my family's in Virginia and then we're living in Texas" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/24/sw2463-ms98-a-trans.anc" start="6223" end="6229" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" text="oh and one of them is living in Rhode &lt;b&gt;Island&lt;/b&gt; now they're all in the northeast &lt;b&gt;part&lt;/b&gt; of the country my family's in Virginia and then we're living in Texas" />
-  </sentences>
-</list>
