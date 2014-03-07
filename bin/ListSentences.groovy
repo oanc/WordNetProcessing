@@ -11,7 +11,8 @@ import org.anc.util.SimpleBuffer
 
 /*
  * Scans the Wordnet data directories and copies the XML files from all annotators
- * into a new directory. 
+ * into a new directory.
+ * >groovy ListSentences.groovy ../data ../words
  */
 class ListSentences
 {

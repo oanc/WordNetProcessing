@@ -36,6 +36,10 @@ import org.xces.graf.api.*
 
 import groovy.io.FileType
 
+
+/**
+ * dont forget to increase heap space on this one..export JAVA_OPTS="$JAVA_OPTS -Xmx1G"
+ */
 class ProcessSentences {
    IAnnotationSpace space = Factory.newAnnotationSpace("wn","http://wordnet.princeton.edu/");
    File root
@@ -581,7 +585,7 @@ class ProcessSentences {
    {
       println()
       println "USAGE"
-      println "    groovy ProcessSentences.groovy /path/to/data/"
+      println "    groovy ProcessSentences.original_groovy /path/to/data/"
       println ()
    }
 

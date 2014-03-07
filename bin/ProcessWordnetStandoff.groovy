@@ -36,7 +36,7 @@ import org.xces.graf.api.*
 
 import groovy.io.FileType
 
-class ProcessWordnetStandoff {
+class ProcessSentences {
     IAnnotationSpace space = Factory.newAnnotationSpace("wn","http://wordnet.princeton.edu/");
     File root
     File outDir;
@@ -238,8 +238,8 @@ class ProcessWordnetStandoff {
 
                                     //graph = grafParser.parse(targetFile)
                                     graphFromFile = grafLoader.load(targetFile);
-                                    println "graphFromFile is "
-                                    println graphFromFile.nodes().size();
+                                    println "graphFromFile size is ${graphFromFile.nodes().size()}"
+
 
                                     // renderGraf(graphFromFile, new File("/Users/frankcascio/anc/sense-tagging/bin/grafOut.out"))
 
@@ -342,7 +342,7 @@ class ProcessWordnetStandoff {
             IGraph graph = createGraph(bySentence)
             graph.setContent(compiledText);
 
-            String outFileName = subdir.name + ".xml"
+            String outFileName = subdir.name + "-wn.xml"
 
             //String suffix = fileCount + ".xml";
             //outFileName = outFileName.replaceAll(".xml", suffix)
@@ -583,7 +583,7 @@ class ProcessWordnetStandoff {
     {
         println()
         println "USAGE"
-        println "    groovy ProcessSentences.groovy /path/to/data/"
+        println "    groovy ProcessSentences.original_groovy /path/to/data/"
         println ()
     }
 
