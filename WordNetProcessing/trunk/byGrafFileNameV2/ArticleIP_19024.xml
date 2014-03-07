@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_19024.anc" start="2576" end="2581" sStart="2561" offset="15" sid="r8.live.v.0480" wn="1" wnkey="live%2:42:08::" annotator="cgozo" text="Although we've lived in a new apartment for over four months now, my parents-in-law have failed to visit, even for a quick look-see (despite a welcome mat that is always unfurled for them)." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_19024.anc" start="3686" end="3689" sStart="null" offset="53" sid="r8.ask.v.0333" wn="4" wnkey="ask%2:32:04::" annotator="veweser" text="You (or your spouse, their offspring) might flat out ask what is their aversion to being visitors." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_19024.anc" start="3686" end="3689" sStart="null" offset="53" sid="r8.ask.v.0333" wn="" wnkey="null" annotator="ksuderman" text="You (or your spouse, their offspring) might flat out ask what is their aversion to being visitors." />
-  </sentences>
-</list>

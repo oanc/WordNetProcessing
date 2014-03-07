@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/47/sw4799-ms98-a-trans.anc" start="969" end="975" sStart="-1" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="veweser" text="and he just kind of &lt;b&gt;became&lt;/b&gt; a vegetable and died" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/47/sw4799-ms98-a-trans.anc" start="969" end="975" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="tofox" text="and he just kind of &lt;b&gt;became&lt;/b&gt; a vegetable and died" />
-  </sentences>
-</list>

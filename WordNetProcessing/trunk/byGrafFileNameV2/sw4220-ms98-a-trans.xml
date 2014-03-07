@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4220-ms98-a-trans.anc" start="1008" end="1014" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="and uh that's one of the nice thing a about a company uh interaction with other &lt;b&gt;people&lt;/b&gt; access to internet uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4220-ms98-a-trans.anc" start="1008" end="1014" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="and uh that's one of the nice thing a about a company uh interaction with other &lt;b&gt;people&lt;/b&gt; access to internet uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4220-ms98-a-trans.anc" start="1008" end="1014" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="and uh that's one of the nice thing a about a company uh interaction with other &lt;b&gt;people&lt;/b&gt; access to internet uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4220-ms98-a-trans.anc" start="1008" end="1014" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="carichter" text="and uh that's one of the nice thing a about a company uh interaction with other &lt;b&gt;people&lt;/b&gt; access to internet uh" />
-  </sentences>
-</list>

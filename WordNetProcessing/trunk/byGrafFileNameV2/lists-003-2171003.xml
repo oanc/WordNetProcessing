@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/lists-003-2171003.anc" start="399" end="405" sStart="380" offset="19" sid="null" wn="2" wnkey="write%2:32:00::" annotator="sophiavv" text="Laurence Lundblade writes:" />
-    <s path="[MASC]/data/written/lists-003-2171003.anc" start="110" end="114" sStart="null" offset="137" sid="null" wn="1" wnkey="name%1:10:00::" annotator="anfahmy" text="docno=&quot;lists-003-2171003&quot; received=&quot;Thu May 20 12:57:41 1993 EST&quot; sent=&quot;Thu, 20 May 1993 21:56:14 +0200&quot; name=&quot;Keld J|rn Simonsen&quot; email=&quot;keld@dkuug.dk&quot; subject=&quot;Re: CHARSET considerations&quot; id=&quot;199305201956.AA28105@dkuug.dk&quot; inreplyto=&quot;lgl@nwnet.net&quot;" />
-    <s path="[MASC]/data/written/lists-003-2171003.anc" start="708" end="712" sStart="null" offset="15" sid="r11.able.j.0023" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="That should be able to cover most needs." />
-    <s path="[MASC]/data/written/lists-003-2171003.anc" start="708" end="712" sStart="null" offset="15" sid="r11.able.j.0023" wn="3" wnkey="able%5:00:00:capable:00" annotator="adelpriore" text="That should be able to cover most needs." />
-  </sentences>
-</list>

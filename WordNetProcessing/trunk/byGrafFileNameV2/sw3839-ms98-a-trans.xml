@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3839-ms98-a-trans.anc" start="3949" end="3955" sStart="-1" offset="0" sid="null" wn="2" wnkey="island%1:06:00::" annotator="veweser" text="i just thought of a project i did my wife wanted an &lt;b&gt;island&lt;/b&gt; in the kitchen" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3839-ms98-a-trans.anc" start="3949" end="3955" sStart="null" offset="0" sid="null" wn="2" wnkey="island%1:06:00::" annotator="jeneale" text="i just thought of a project i did my wife wanted an &lt;b&gt;island&lt;/b&gt; in the kitchen" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3839-ms98-a-trans.anc" start="3949" end="3955" sStart="null" offset="0" sid="null" wn="2" wnkey="island%1:06:00::" annotator="carichter" text="i just thought of a project i did my wife wanted an &lt;b&gt;island&lt;/b&gt; in the kitchen" />
-  </sentences>
-</list>

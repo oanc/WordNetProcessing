@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2474-3-23.anc" start="8430" end="8437" sStart="8274" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text="Because of the small number of specimens tested in each group, non-parametric methods were used for statistical analysis using SPSS for &lt;b&gt;Windows&lt;/b&gt; version 10." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2474-3-23.anc" start="22767" end="22771" sStart="null" offset="143" sid="r11.true.j.0304" wn="2" wnkey="true%5:00:00:accurate:00" annotator="vebatchelder" text="Therefore the axial rotation stability observed with the stand-alone cages after anterior insertion may not hold true for their posterior insertion." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2474-3-23.anc" start="1597" end="1608" sStart="null" offset="43" sid="r11.recommend.v.0476" wn="1" wnkey="recommend%2:32:01::" annotator="anfahmy" text="Rectangular cages are not normally recommended for laparascopic insertion." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-2474-3-23.anc" start="24547" end="24551" sStart="null" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" annotator="cgozo" text="All authors &lt;b&gt;read&lt;/b&gt; and approved the final manuscript." />
-  </sentences>
-</list>

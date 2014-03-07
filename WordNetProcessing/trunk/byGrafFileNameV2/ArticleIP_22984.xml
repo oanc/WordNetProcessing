@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22984.anc" start="1773" end="1777" sStart="1749" offset="24" sid="r10.wait.v.0551" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="I'd say more, but let's wait until he wraps up the nomination.&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_22984.anc" start="4696" end="4703" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="veweser" text="And yes, there is a transcript of the Anti-Defamation League hosted &quot;Second Centennial &lt;b&gt;Meeting&lt;/b&gt; of the Learned Elders of Zion.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_22984.anc" start="4586" end="4593" sStart="null" offset="59" sid="r10.control.n.0985" wn="1" wnkey="control%1:07:00::" annotator="veweser" text="Their take on U.S. politics: &quot;THE RACIST JEWISH MAFIA CONTROL AMERICA 100%!&quot;" />
-  </sentences>
-</list>

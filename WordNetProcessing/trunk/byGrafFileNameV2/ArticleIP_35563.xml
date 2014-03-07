@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_35563.anc" start="716" end="720" sStart="585" offset="141" sid="r7.poor.j.0407" wn="4" wnkey="poor%3:00:02::" annotator="brubin" text="Well-educated blacks are &quot;mercilessly head-hunted&quot; for high-paying jobs, while uneducated blacks suffer from high unemployment and poor public services." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_35563.anc" start="1712" end="1718" sStart="null" offset="93" sid="r9.kill.v.0871" wn="2" wnkey="kill%2:41:01::" annotator="cgozo" text="A similar program successfully improved teacher quality for 17 years, until President Reagan killed it in 1981." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_35563.anc" start="7607" end="7612" sStart="null" offset="0" sid="null" wn="6" wnkey="force%1:04:01::" annotator="carichter" text="Annan argues that any use of &lt;b&gt;force&lt;/b&gt; in international affairs is illegitimate unless authorized by the Security Council." />
-  </sentences>
-</list>

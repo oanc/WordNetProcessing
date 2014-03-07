@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0010066.anc" start="9275" end="9282" sStart="9136" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text=", custom-built software such as CMIR-Image, MGH, Boston, Massachusetts, United States; Syngo, Siemens Medical Systems; Advantage &lt;b&gt;Windows&lt;/b&gt;, General Electric Medical Systems)." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0010066.anc" start="12177" end="12184" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text="The evaluated lymph nodes characterized as benign or malignant (by T2*/variance analysis) were then superimposed on the volumetric 3D &lt;b&gt;images&lt;/b&gt;, using customized software (Advantage &lt;b&gt;Windows&lt;/b&gt;, General Electric Medical Systems)." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010066.anc" start="11561" end="11566" sStart="null" offset="133" sid="r7.1.use.v.0092" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="In the final set of semiautomated image analysis, 3D reconstructions were obtained for nodal mapping onto vascular anatomy using MIP projections." />
-  </sentences>
-</list>

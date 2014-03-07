@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3711.anc" start="124" end="130" sStart="120" offset="4" sid="r7.strike.v.0065" wn="10" wnkey="strike%2:35:03::" annotator="jeneale" text="You strike a balanced note at the end of your message that I think is absolutely appropriate." />
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3711.anc" start="124" end="130" sStart="null" offset="4" sid="r7.strike.v.0065" wn="10" wnkey="strike%2:35:03::" annotator="cgozo" text="You strike a balanced note at the end of your message that I think is absolutely appropriate." />
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3711.anc" start="124" end="130" sStart="null" offset="4" sid="r7.strike.v.0065" wn="21" wnkey="strike%2:31:00::" annotator="brubin" text="You strike a balanced note at the end of your message that I think is absolutely appropriate." />
-  </sentences>
-</list>

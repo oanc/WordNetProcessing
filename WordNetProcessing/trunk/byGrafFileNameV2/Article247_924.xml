@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/8/Article247_924.anc" start="2435" end="2442" sStart="2402" offset="38" sid="r9.kill.v.0161" wn="1" wnkey="kill%2:35:00::" annotator="veweser" text="Watching Ellen screech, &quot;They're killing us!&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/8/Article247_924.anc" start="3125" end="3128" sStart="null" offset="56" sid="r8.ask.v.0920" wn="4" wnkey="ask%2:32:04::" annotator="cgozo" text="Whatever they wind up doing, I'm adopting a &quot;don't ask/don't tell&quot; policy about it." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_924.anc" start="2813" end="2818" sStart="null" offset="0" sid="null" wn="2" wnkey="add%2:32:01::" annotator="veweser" text="He &lt;b&gt;added&lt;/b&gt; they should have been taken as &quot;wistful,&quot; rather than literal." />
-  </sentences>
-</list>

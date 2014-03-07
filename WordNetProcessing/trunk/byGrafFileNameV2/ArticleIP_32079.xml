@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_32079.anc" start="2924" end="2928" sStart="-1" offset="0" sid="null" wn="2" wnkey="fairish%5:00:00:moderate:00" annotator="elstickles" text="there is a crescent moon (or a set of cattle horns, symbolic of a self-deluding cow who thinks she could beat a bear in a &lt;b&gt;fair&lt;/b&gt; fight, but I don't like her chances)." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_32079.anc" start="2924" end="2928" sStart="null" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" annotator="carichter" text="there is a crescent moon (or a set of cattle horns, symbolic of a self-deluding cow who thinks she could beat a bear in a &lt;b&gt;fair&lt;/b&gt; fight, but I don't like her chances)." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_32079.anc" start="2957" end="2964" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" annotator="veweser" text="there is a crescent moon (or a set of cattle horns, symbolic of a self-deluding cow who thinks she could beat a bear in a fair fight, but I don't like her &lt;b&gt;chances&lt;/b&gt;)." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_32079.anc" start="2957" end="2964" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" annotator="tofox" text="there is a crescent moon (or a set of cattle horns, symbolic of a self-deluding cow who thinks she could beat a bear in a fair fight, but I don't like her &lt;b&gt;chances&lt;/b&gt;)." />
-  </sentences>
-</list>

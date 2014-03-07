@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3758-ms98-a-trans.anc" start="1835" end="1842" sStart="-1" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" annotator="veweser" text="jury jury trials are going to use whatever they can use to &lt;b&gt;try&lt;/b&gt; uh to improve their &lt;b&gt;chances&lt;/b&gt; and and you know it's get it's" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3758-ms98-a-trans.anc" start="359" end="365" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="what they consider scientific methods to choose the right jurors to get the right results you know for their &lt;b&gt;chance&lt;/b&gt; what do you think about that" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3758-ms98-a-trans.anc" start="1835" end="1842" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" annotator="tofox" text="jury jury trials are going to use whatever they can use to &lt;b&gt;try&lt;/b&gt; uh to improve their &lt;b&gt;chances&lt;/b&gt; and and you know it's get it's" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3758-ms98-a-trans.anc" start="359" end="365" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" annotator="tofox" text="what they consider scientific methods to choose the right jurors to get the right results you know for their &lt;b&gt;chance&lt;/b&gt; what do you think about that" />
-  </sentences>
-</list>

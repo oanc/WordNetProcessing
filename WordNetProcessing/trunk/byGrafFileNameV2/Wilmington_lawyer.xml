@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/government/Media/Wilmington_lawyer.anc" start="1889" end="1894" sStart="1792" offset="97" sid="r8.state.n.0859" wn="1" wnkey="state%1:15:01::" annotator="brubin" text="The American Inns of Court is a national legal association composed of more than 24,000 federal, state and local judges, lawyers, law professors and law students." />
-    <s path="[OANC]/data/written_2/technical/government/Media/Wilmington_lawyer.anc" start="1411" end="1415" sStart="null" offset="77" sid="r10.high.j.0906" wn="1" wnkey="high%3:00:02::" annotator="anfahmy" text="&quot;The award says a lot about the legal profession, that it places such a high honor on pro bono service,&quot; she said, adding that it also says a lot about the Delaware Bar, which nominated her." />
-    <s path="[OANC]/data/written_2/technical/government/Media/Wilmington_lawyer.anc" start="862" end="868" sStart="null" offset="43" sid="r10.help.v.0923" wn="1" wnkey="help%2:41:00::" annotator="cgozo" text="In 2001, Delaware Volunteer Legal Services helped more than 1,000 low-income defendants." />
-  </sentences>
-</list>

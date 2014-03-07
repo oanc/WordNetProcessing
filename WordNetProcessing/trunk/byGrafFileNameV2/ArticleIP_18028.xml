@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18028.anc" start="4620" end="4624" sStart="4576" offset="44" sid="r11.true.j.0902" wn="1" wnkey="true%3:00:00::" annotator="anfahmy" text="The part about the underwear probably isn't true, but how can we be sure?" />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18028.anc" start="3935" end="3944" sStart="null" offset="14" sid="r11.recommend.v.0237" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text="The hospitals recommend that the blood sample, dripped onto a special card, be stored by the parents in the above-mentioned places." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18028.anc" start="3852" end="3856" sStart="null" offset="73" sid="r10.help.v.0451" wn="1" wnkey="help%2:41:00::" annotator="cgozo" text="Nine Florida hospitals now offer to take blood samples from newborns, to help with prompt identification if the child is eventually murdered." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_18028.anc" start="4844" end="4848" sStart="null" offset="69" sid="r11.able.j.0156" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="And of course by &quot;merge&quot; I mean form a single organization able to more efficiently serve the needs of all its constituents.)" />
-  </sentences>
-</list>

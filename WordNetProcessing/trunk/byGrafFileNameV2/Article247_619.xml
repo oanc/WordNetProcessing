@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/5/Article247_619.anc" start="367" end="372" sStart="-1" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="USA Today and the Washington Post lead with the rejection of a proposed merger of the nation's two main teachers' unions by the membership of one of them, the National Education Association (and this is the off-lead at the New York &lt;b&gt;Times&lt;/b&gt; and is above the fold at the Los Angeles &lt;b&gt;Times&lt;/b&gt; ). The NYT leads with the retreat of the nation's biggest HMOs from managed care programs for the poor and the elderly." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_619.anc" start="2207" end="2211" sStart="null" offset="62" sid="r7.poor.j.0126" wn="2147483645" wnkey="null" annotator="jeneale" text="The retreat from Medicaid--government-subsidized care for the poor and disabled--is the more pronounced of the two." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_619.anc" start="2554" end="2558" sStart="null" offset="76" sid="r7.poor.j.0356" wn="2147483645" wnkey="null" annotator="cgozo" text="The HMO flight portends, says the Times , a return to skimping care for the poor and elderly." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_619.anc" start="2126" end="2135" sStart="null" offset="245" sid="r8.1.different.j.0940" wn="1" wnkey="different%3:00:00::" annotator="cgozo" text="According to the NYT , general operating losses and cuts in government payments have prompted the country's biggest HMOs--such names as Pacificare, Kaiser Permanente and Blue Cross and Blue Shield--to quit Medicare and Medicaid coverage in many different markets." />
-  </sentences>
-</list>

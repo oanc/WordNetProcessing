@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Athens-WhereToGo.anc" start="22284" end="22291" sStart="-1" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="veweser" text="Lord Byron stayed here in 1810 and is said to have &lt;b&gt;written&lt;/b&gt; some of his work while enjoying the seclusion." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Athens-WhereToGo.anc" start="22284" end="22291" sStart="null" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="jeneale" text="Lord Byron stayed here in 1810 and is said to have &lt;b&gt;written&lt;/b&gt; some of his work while enjoying the seclusion." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz2/Athens-WhereToGo.anc" start="22284" end="22291" sStart="null" offset="0" sid="null" wn="1" wnkey="write%2:36:00::" annotator="carichter" text="Lord Byron stayed here in 1810 and is said to have &lt;b&gt;written&lt;/b&gt; some of his work while enjoying the seclusion." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10795.anc" start="4195" end="4199" sStart="4140" offset="65" sid="r7.1.face.n.0347" wn="2147483646" wnkey="null" annotator="brubin" text="Commentators applauded his &quot;liberal conscience&quot; in the face of conservative public opinion." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_10795.anc" start="3772" end="3780" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="veweser" text="He had a heart attack while working out on his &lt;b&gt;exercise&lt;/b&gt; bike, just three weeks before he was to turn over his office to Gov.-elect Jeb Bush." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_10795.anc" start="3772" end="3780" sStart="null" offset="0" sid="null" wn="1" wnkey="physical_exercise%1:04:00::" annotator="cgozo" text="He had a heart attack while working out on his &lt;b&gt;exercise&lt;/b&gt; bike, just three weeks before he was to turn over his office to Gov.-elect Jeb Bush." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_10795.anc" start="3772" end="3780" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="He had a heart attack while working out on his &lt;b&gt;exercise&lt;/b&gt; bike, just three weeks before he was to turn over his office to Gov.-elect Jeb Bush." />
-  </sentences>
-</list>

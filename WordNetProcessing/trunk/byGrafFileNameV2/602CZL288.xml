@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/letters/icic/602CZL288.anc" start="504" end="508" sStart="-1" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="kaolla" text="Your support is a vote of confidence in the ongoing &lt;b&gt;work&lt;/b&gt; of the Indianapolis Museum of Art." />
-    <s path="file:/c:/OANC/data/written_1/letters/icic/602CZL288.anc" start="504" end="508" sStart="null" offset="0" sid="null" wn="1" wnkey="work%1:04:00::" annotator="carichter" text="Your support is a vote of confidence in the ongoing &lt;b&gt;work&lt;/b&gt; of the Indianapolis Museum of Art." />
-    <s path="[OANC]/data/written_1/letters/icic/602CZL288.anc" start="1314" end="1319" sStart="null" offset="13" sid="r10.help.v.0722" wn="6" wnkey="help%2:41:12::" annotator="anfahmy" text="Your support helps make everything you see and do at the IMA possible." />
-  </sentences>
-</list>

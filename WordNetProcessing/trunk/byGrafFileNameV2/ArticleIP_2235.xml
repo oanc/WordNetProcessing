@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2235.anc" start="4519" end="4523" sStart="4372" offset="147" sid="r8.way.n.0301" wn="1" wnkey="way%1:07:01::" annotator="veweser" text="The result, as the Justice Department would have predicted, is a robustly competitive magazine market in which Time and Newsweek actually, in some ways, surpass Slate . Circulation, revenue, ad pages, and profitability are a few of the dimensions in which, quite frankly, we are somewhat behind, although we lead in other important measures such as number of readers with Slate -logo umbrellas." />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2235.anc" start="3365" end="3369" sStart="null" offset="32" sid="r9.full.j.0120" wn="1" wnkey="full%3:00:00::" annotator="brubin" text="Salon , for example, is already full of baloney." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2235.anc" start="727" end="735" sStart="null" offset="0" sid="null" wn="1" wnkey="entitle%2:41:00::" annotator="cgozo" text="Like a regular  Slate  subscription, a one-year gift subscription also &lt;b&gt;entitles&lt;/b&gt; the subscriber to an attractive  Slate -logo umbrella." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/34/ArticleIP_2235.anc" start="727" end="735" sStart="null" offset="0" sid="null" wn="1" wnkey="entitle%2:41:00::" annotator="brubin" text="Like a regular  Slate  subscription, a one-year gift subscription also &lt;b&gt;entitles&lt;/b&gt; the subscriber to an attractive  Slate -logo umbrella." />
-  </sentences>
-</list>

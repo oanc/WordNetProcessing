@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020115.anc" start="501" end="505" sStart="357" offset="144" sid="r10.wait.v.0894" wn="3" wnkey="wait%2:31:00::" annotator="anfahmy" text="Although this preparation was far from perfect, as Frederick Banting said in his Nobel lecture of 1925 (Nobel laureates did not have to wait so long as they do now for recognition), ÒThere was a marked reduction in blood sugar and the urine was rendered sugar free.Ó" />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020115.anc" start="728" end="735" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="cgozo" text="But insulin's very &lt;b&gt;success&lt;/b&gt; brought trouble, as demand far exceeded the supply." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020115.anc" start="728" end="735" sStart="null" offset="0" sid="null" wn="1" wnkey="success%1:11:00::" annotator="brubin" text="But insulin's very &lt;b&gt;success&lt;/b&gt; brought trouble, as demand far exceeded the supply." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020115.anc" start="2577" end="2581" sStart="null" offset="18" sid="r11.able.j.0926" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="They were able to produce clusters of insulin-producing cells that were responsive to glucose in vitro." />
-  </sentences>
-</list>

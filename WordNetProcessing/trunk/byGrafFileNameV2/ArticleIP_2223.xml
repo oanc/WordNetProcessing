@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2223.anc" start="3076" end="3086" sStart="3002" offset="74" sid="r10.particular.j.0572" wn="2147483645" wnkey="null" annotator="brubin" text="And if there's anything we at Slate in particular can ever do ..." />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2223.anc" start="3778" end="3783" sStart="null" offset="22" sid="r8.life.n.0598" wn="8" wnkey="life%1:18:00::" annotator="jeneale" text="Moral: Oral sex saves lives!" />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2223.anc" start="2191" end="2195" sStart="null" offset="20" sid="r10.help.v.0866" wn="4" wnkey="help%2:42:08::" annotator="anfahmy" text="That said, we can't help acknowledging that whether or not Monica Lewinsky serviced the president, she certainly has serviced us." />
-  </sentences>
-</list>

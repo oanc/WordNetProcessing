@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/6/Article247_707.anc" start="3827" end="3832" sStart="3722" offset="115" sid="r9.paper.n.0694" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="A front-page LAT story reports that Hillary Clinton told &quot;associates&quot; (one of whom was, according to the paper, almost surely Sidney Blumenthal) that her husband assured her last January that he was not having an affair with Monica Lewinsky, but was merely &quot;ministering to a troubled young person.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/6/Article247_707.anc" start="2632" end="2636" sStart="null" offset="118" sid="r9.full.j.0526" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="The USAT lead puts the dubiousness of one-day economic analysis and the folly of giving much newspaper space to it on full display." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_707.anc" start="268" end="274" sStart="null" offset="0" sid="null" wn="5" wnkey="military_force%1:14:00::" annotator="carichter" text="The first federal budget surplus in twenty-nine years leads at the New York Times and Los Angeles Times . The Washington Post goes with NATO preparations for airstrikes against Slobodan Milosevic's &lt;b&gt;forces&lt;/b&gt; in Yugoslavia." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_707.anc" start="2472" end="2477" sStart="null" offset="0" sid="null" wn="1" wnkey="coloring%1:07:00::" annotator="veweser" text="Nobody has pictures in the paper today to match the one of a massacre victim that ran (in &lt;b&gt;color&lt;/b&gt;) in the NYT yesterday." />
-  </sentences>
-</list>

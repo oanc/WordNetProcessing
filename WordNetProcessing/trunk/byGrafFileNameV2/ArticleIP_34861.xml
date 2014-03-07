@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34861.anc" start="527" end="532" sStart="406" offset="121" sid="r7.sound.n.0435" wn="2147483645" wnkey="null" annotator="brubin" text="Not only does Congresswoman Prudie have a nice ring, but your constituents/readers would definitely benefit from all the sound advice you could impart to all those bozos such as Tom DeLay currently taking up space in D.C." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34861.anc" start="1863" end="1873" sStart="null" offset="53" sid="r11.recommend.v.0282" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text="(My therapist is not against medication, and in fact recommends it for some patients.)" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34861.anc" start="3347" end="3353" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="Why would &lt;b&gt;people&lt;/b&gt; feel the need to point out a pregnant woman's size?" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34861.anc" start="3347" end="3353" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="Why would &lt;b&gt;people&lt;/b&gt; feel the need to point out a pregnant woman's size?" />
-  </sentences>
-</list>

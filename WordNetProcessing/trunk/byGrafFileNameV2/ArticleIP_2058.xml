@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2058.anc" start="1558" end="1561" sStart="1550" offset="8" sid="r9.hit.v.0287" wn="9" wnkey="hit%2:39:00::" annotator="cgozo" text="Then it hit me." />
-    <s path="[OANC]/data/written_1/journal/slate/32/ArticleIP_2058.anc" start="6669" end="6674" sStart="null" offset="9" sid="r8.1.great.j.0552" wn="4" wnkey="great%5:00:00:good:01" annotator="cgozo" text="We had a great day." />
-  </sentences>
-</list>

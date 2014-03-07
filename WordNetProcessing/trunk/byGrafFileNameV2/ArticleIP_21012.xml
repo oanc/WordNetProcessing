@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21012.anc" start="495" end="501" sStart="387" offset="108" sid="r7.trace.v.0173" wn="1" wnkey="trace%2:31:00::" annotator="veweser" text="While sports analysts compared his greatness on the field to that of Babe Ruth and Lou Gehrig, commentators traced his celebrity to his courteous, humble, all-American, son-of-immigrants personality." />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21012.anc" start="4484" end="4490" sStart="null" offset="21" sid="r7.serve.v.0699" wn="7" wnkey="serve%2:41:02::" annotator="brubin" text="The liberal spin: He served justice by evolving from a law-and-order moderate into a flaming liberal." />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_21012.anc" start="3697" end="3701" sStart="null" offset="125" sid="r7.poor.j.0278" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="jeneale" text="Evidence in the first trial indicated that the plane was flying too fast and too low but that incomplete U.S. military maps, poor training, inadequate communications, and a possibly faulty altimeter may also have contributed to the accident." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020103.anc" start="23586" end="23591" sStart="23532" offset="54" sid="r7.1.use.v.0377" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="We were unable to detect expression of Pdx1 and FoxA3 using immunohistochemical methods in stage 4 IPCs, (data not shown)." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020103.anc" start="6189" end="6194" sStart="null" offset="43" sid="r7.1.use.v.0333" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="A total of 35 cycles of PCR were performed using Platinum Taq High Fidelity DNA Polymerase (Invitrogen)." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020103.anc" start="6017" end="6021" sStart="null" offset="49" sid="r7.1.use.v.0290" wn="1" wnkey="use%2:34:01::" annotator="jeneale" text="For cDNA synthesis, random sequence primers were used to prime reverse transcription reactions and synthesis was carried out by Thermoscript RT (Invitrogen)." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020103.anc" start="26932" end="26936" sStart="null" offset="43" sid="r7.1.use.v.0451" wn="1" wnkey="use%2:34:01::" annotator="brubin" text="To quantify insulin expression in IPCs, we used a human insulin C-peptide-specific ELISA (see Figure 4P)." />
-  </sentences>
-</list>

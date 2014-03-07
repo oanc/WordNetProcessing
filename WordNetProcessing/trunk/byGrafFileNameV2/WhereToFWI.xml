@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/WhereToFWI.anc" start="5949" end="5956" sStart="5877" offset="0" sid="null" wn="6" wnkey="windowpane%1:06:00::" annotator="cgozo" text="Its simple beauty is enhanced by locally designed stained-glass &lt;b&gt;windows&lt;/b&gt; in red, blue, orange, and yellow." />
-    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/WhereToFWI.anc" start="4325" end="4329" sStart="null" offset="0" sid="null" wn="2" wnkey="time%1:28:05::" annotator="kaolla" text="Half a day should allow the tourist ample &lt;b&gt;time&lt;/b&gt; for city sightseeing and shopping." />
-    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/WhereToFWI.anc" start="4325" end="4329" sStart="null" offset="0" sid="null" wn="2" wnkey="time%1:28:05::" annotator="carichter" text="Half a day should allow the tourist ample &lt;b&gt;time&lt;/b&gt; for city sightseeing and shopping." />
-    <s path="file:/c:/OANC/data/written_2/travel_guides/berlitz1/WhereToFWI.anc" start="5811" end="5815" sStart="null" offset="0" sid="null" wn="2" wnkey="say%2:32:01::" annotator="brubin" text="Destroyed by three hurricanes in this century and rebuilt each &lt;b&gt;time&lt;/b&gt;, the church is now &lt;b&gt;said&lt;/b&gt; to be almost entirely constructed of pieces of iron." />
-  </sentences>
-</list>

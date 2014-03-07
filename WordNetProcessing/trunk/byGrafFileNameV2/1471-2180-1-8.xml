@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2180-1-8.anc" start="3917" end="3922" sStart="3765" offset="152" sid="r7.serve.v.0836" wn="1" wnkey="serve%2:42:03::" annotator="cgozo" text="A separate set of HEL cell cultures was inoculated with lung homogenate of dexamethasone-immunosuppressed, non-infected rats to serve as non-infected (mock-infected) control." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2180-1-8.anc" start="7316" end="7322" sStart="null" offset="50" sid="r7.serve.v.0583" wn="1" wnkey="serve%2:42:03::" annotator="brubin" text="The sections reacted with the sense probe served as a control for non-specific background signal." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2180-1-8.anc" start="9650" end="9655" sStart="null" offset="78" sid="null" wn="3" wnkey="sense%1:09:02::" annotator="veweser" text="3(SPB probe, S), tissue sections (NRL or PcIRL) reacted with the SP-B sense probe showed no hybridization signal." />
-  </sentences>
-</list>

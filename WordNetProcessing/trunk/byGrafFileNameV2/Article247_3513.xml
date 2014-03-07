@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3513.anc" start="1122" end="1126" sStart="843" offset="289" sid="r7.poor.j.1000" wn="5" wnkey="poor%5:00:00:insufficient:00" annotator="cgozo" text="But the paper squanders a bit of this edge when it writes that the situation in East Timor &quot;has for two decades remained a largely invisible problem closed off to journalists, and the scene of some of the world's worst reported human rights abuses,&quot; thus falsely suggesting that poor coverage of the topic was somehow mostly caused by something other than press inattention." />
-    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3513.anc" start="5074" end="5079" sStart="null" offset="28" sid="r9.paper.n.0998" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="But in a separate story the paper also notes that a recent study shows that surviving a plane crash can profoundly improve one's mental health." />
-    <s path="[OANC]/data/written_1/journal/slate/12/Article247_3513.anc" start="383" end="390" sStart="null" offset="37" sid="r9.hit.v.0126" wn="4" wnkey="hit%2:38:00::" annotator="anfahmy" text="USA Today goes with Hurricane Dennis hitting the Carolinas and Florida." />
-  </sentences>
-</list>

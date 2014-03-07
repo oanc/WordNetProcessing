@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3793.anc" start="3509" end="3515" sStart="3505" offset="4" sid="r11.refer.v.0267" wn="7" wnkey="refer%2:32:04::" annotator="adelpriore" text="She refers to herself as a &quot;diva.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3793.anc" start="4087" end="4091" sStart="null" offset="61" sid="r9.kill.v.0474" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="All lives ought to be considered equal under the law; if you kill someone because they're gay, it shouldn't be worse than killing someone because they like the Mets." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3793.anc" start="3012" end="3018" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="There's a &lt;b&gt;chance&lt;/b&gt; Americans will be sending troops out to Central Asia in coming years to defend American oil interests, so we should all be reading up on this stuff." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/14/Article247_3793.anc" start="3012" end="3018" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="There's a &lt;b&gt;chance&lt;/b&gt; Americans will be sending troops out to Central Asia in coming years to defend American oil interests, so we should all be reading up on this stuff." />
-  </sentences>
-</list>

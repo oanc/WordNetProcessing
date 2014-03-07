@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36455.anc" start="5354" end="5358" sStart="5270" offset="89" sid="r7.poor.j.0915" wn="2" wnkey="poor%3:00:00::" annotator="brubin" text="First he said House Republicans shouldn't &quot;balance their budget on the backs of the poor.&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_36455.anc" start="1722" end="1728" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="&quot;Wilt the Stilt,&quot; widely considered the best &lt;b&gt;player&lt;/b&gt; of all time, is the only one ever to score 100 points in a game." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_36455.anc" start="1722" end="1728" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="tofox" text="&quot;Wilt the Stilt,&quot; widely considered the best &lt;b&gt;player&lt;/b&gt; of all time, is the only one ever to score 100 points in a game." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36455.anc" start="5012" end="5019" sStart="null" offset="33" sid="r9.hit.v.0588" wn="16" wnkey="hit%2:32:12::" annotator="brubin" text="Some observers objected to a man hitting a woman." />
-  </sentences>
-</list>

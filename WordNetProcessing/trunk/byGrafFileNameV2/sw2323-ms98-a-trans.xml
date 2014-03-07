@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2323-ms98-a-trans.anc" start="6133" end="6139" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="yeah i mean i mean Saddam Hussein lost so much money during the war that it was ridiculous and he all he was &lt;b&gt;trying&lt;/b&gt; to do was make money at the beginning so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2323-ms98-a-trans.anc" start="6133" end="6139" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="tofox" text="yeah i mean i mean Saddam Hussein lost so much money during the war that it was ridiculous and he all he was &lt;b&gt;trying&lt;/b&gt; to do was make money at the beginning so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2323-ms98-a-trans.anc" start="6226" end="6231" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="veweser" text="and keep his &lt;b&gt;power&lt;/b&gt; but well" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2323-ms98-a-trans.anc" start="6226" end="6231" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="tofox" text="and keep his &lt;b&gt;power&lt;/b&gt; but well" />
-  </sentences>
-</list>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/39/ArticleIP_2756.anc" start="1586" end="1593" sStart="1468" offset="127" sid="r10.wait.v.0388" wn="1" wnkey="wait%2:42:00::" annotator="brubin" text="&quot;Barnes &amp; Noble continues to provide money to fund 1 st -trimester abortions for women accidentally impregnated while waiting in a really long line to pay for their books.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/39/ArticleIP_2756.anc" start="3053" end="3058" sStart="null" offset="26" sid="r10.book.n.0826" wn="1" wnkey="book%1:10:00::" annotator="anfahmy" text="Since then, sales of both books have increased." />
-  </sentences>
-</list>

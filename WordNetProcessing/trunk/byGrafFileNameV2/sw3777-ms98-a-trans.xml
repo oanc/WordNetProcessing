@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3777-ms98-a-trans.anc" start="1142" end="1149" sStart="-1" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="i liked him because even though he's a law enforcement &lt;b&gt;officer&lt;/b&gt; you know sometimes the laws are kind of ridiculous and you need to sometimes break them to get your point across and for a good reason" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/37/sw3777-ms98-a-trans.anc" start="1142" end="1149" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="i liked him because even though he's a law enforcement &lt;b&gt;officer&lt;/b&gt; you know sometimes the laws are kind of ridiculous and you need to sometimes break them to get your point across and for a good reason" />
-  </sentences>
-</list>

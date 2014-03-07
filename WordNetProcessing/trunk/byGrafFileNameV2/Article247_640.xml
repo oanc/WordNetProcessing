@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_640.anc" start="3387" end="3396" sStart="3357" offset="30" sid="r11.recommend.v.0239" wn="3" wnkey="recommend%2:30:00::" annotator="anfahmy" text="The experience held little to recommend it." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_640.anc" start="76" end="85" sStart="null" offset="0" sid="r8.1.different.j.0477" wn="1" wnkey="different%3:00:00::" annotator="veweser" text="Different leads all around." />
-  </sentences>
-</list>

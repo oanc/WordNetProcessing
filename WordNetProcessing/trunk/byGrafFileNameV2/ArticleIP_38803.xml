@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_38803.anc" start="4398" end="4404" sStart="4319" offset="79" sid="r8.state.n.0577" wn="4" wnkey="state%1:14:00::" annotator="veweser" text="Le Monde separately reported that, according to European officials, the United States is expected to lift its ban on imports of French Roquefort cheese, p‰tŽ de foie gras, and mustards at the World Trade Organization conference in Seattle at the end of next month." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_38803.anc" start="3312" end="3317" sStart="null" offset="4" sid="r9.paper.n.0705" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The paper wished the French team &quot;all the best&quot; in its semifinal on Sunday." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_38803.anc" start="1364" end="1369" sStart="null" offset="64" sid="r9.paper.n.0838" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="&quot;England expects every shopper to do their duty,&quot; the paper proclaimed Wednesday on its front page--evoking Adm." />
-  </sentences>
-</list>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36671.anc" start="4691" end="4698" sStart="4671" offset="20" sid="r10.wait.v.0651" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="Gallup, for one, is waiting until Net use becomes more widespread before embracing online polling." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_36671.anc" start="720" end="726" sStart="null" offset="76" sid="r8.number.n.0201" wn="4" wnkey="number%1:10:03::" annotator="veweser" text="While this unscientific survey is the Web's version of the just-for-fun 900-number telephone polls, there's concern among researchers that the public has trouble distinguishing one poll from another on the Web." />
-  </sentences>
-</list>

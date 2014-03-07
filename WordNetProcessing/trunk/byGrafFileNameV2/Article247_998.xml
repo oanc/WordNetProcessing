@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/8/Article247_998.anc" start="141" end="149" sStart="123" offset="18" sid="r11.refer.v.0350" wn="1" wnkey="refer%2:32:01::" annotator="anfahmy" text="The other day you referred to affirmative action as &quot;reverse racial discrimination,&quot; which in my view characterizes it most inaccurately." />
-    <s path="[OANC]/data/written_1/journal/slate/8/Article247_998.anc" start="1326" end="1330" sStart="null" offset="173" sid="r7.poor.j.0221" wn="2" wnkey="poor%3:00:00::" annotator="veweser" text="Because a student can get a higher grade point average if he or she is fortunate enough to go to a high school that offers a full range of advanced placement courses, which poor urban school districts are less likely to do." />
-    <s path="[OANC]/data/written_1/journal/slate/8/Article247_998.anc" start="1326" end="1330" sStart="null" offset="173" sid="r7.poor.j.0221" wn="3" wnkey="poor%3:00:03::" annotator="jeneale" text="Because a student can get a higher grade point average if he or she is fortunate enough to go to a high school that offers a full range of advanced placement courses, which poor urban school districts are less likely to do." />
-    <s path="[OANC]/data/written_1/journal/slate/8/Article247_998.anc" start="660" end="670" sStart="null" offset="3" sid="r10.particular.j.0360" wn="2147483645" wnkey="null" annotator="brubin" text="In particular, I'm thinking of the story out at Berkeley, where affirmative action has been banned, and where only around 191 blacks, out of 8000-plus admittees, have been offered a place in next year's class, a huge drop (the Hispanic number was also small)." />
-  </sentences>
-</list>

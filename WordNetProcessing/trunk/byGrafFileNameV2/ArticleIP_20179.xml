@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20179.anc" start="2331" end="2334" sStart="2179" offset="152" sid="r7.1.use.v.0536" wn="1" wnkey="use%2:34:01::" annotator="cgozo" text="We must only hope that our Pakistani friend does not get to sound too much like the aforementioned Mr. Russert--or any of the other Sabbath gasbags, to use the phrase that the wonderful Frank Rich has popularized." />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_20179.anc" start="5009" end="5012" sStart="null" offset="33" sid="r9.hit.v.0513" wn="2" wnkey="hit%2:35:01::" annotator="veweser" text="The message was one line, and it hit me in the solar plexus: &quot;Just wanted to say I love you.&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_20179.anc" start="743" end="750" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="For one thing, recognize that he came to the United States past puberty--when a young man's voice changes, so do his &lt;b&gt;chances&lt;/b&gt; for assuming a &quot;native&quot; accent." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_20179.anc" start="743" end="750" sStart="null" offset="0" sid="null" wn="5" wnkey="chance%1:26:01::" annotator="carichter" text="For one thing, recognize that he came to the United States past puberty--when a young man's voice changes, so do his &lt;b&gt;chances&lt;/b&gt; for assuming a &quot;native&quot; accent." />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_46585.anc" start="1369" end="1374" sStart="1269" offset="100" sid="r7.serve.v.0425" wn="1" wnkey="serve%2:42:03::" annotator="veweser" text="On the off chance that your letter is on the level, it could be that the purpose of your life is to serve as a warning to others." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/52/ArticleIP_46585.anc" start="1280" end="1286" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="On the off &lt;b&gt;chance&lt;/b&gt; that your letter is on the level, it could be that the purpose of your life is to serve as a warning to others." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/52/ArticleIP_46585.anc" start="1280" end="1286" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="tofox" text="On the off &lt;b&gt;chance&lt;/b&gt; that your letter is on the level, it could be that the purpose of your life is to serve as a warning to others." />
-  </sentences>
-</list>

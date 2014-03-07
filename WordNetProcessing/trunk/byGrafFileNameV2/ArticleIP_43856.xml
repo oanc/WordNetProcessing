@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_43856.anc" start="2609" end="2615" sStart="2551" offset="58" sid="r7.strike.v.0378" wn="3" wnkey="strike%2:35:01::" annotator="jeneale" text="On Halloween, kids are four times as likely to be fatally struck by a car." />
-    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_43856.anc" start="2407" end="2412" sStart="null" offset="309" sid="r7.sound.n.0448" wn="1" wnkey="sound%1:07:00::" annotator="cgozo" text="Atlanta's sprawl keeps people sitting in their cars for hours, encouraging them to eat fatty fast food and run down kids who, bloated and logy from their indoor lifestyle, bike-less and slow, staggering along on foot, slowed by 35-pound backpacks, make easy targets and a sickening sort of &quot;squish&quot; sound." />
-    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_43856.anc" start="2361" end="2365" sStart="null" offset="253" sid="r7.1.easy.j.0457" wn="6" wnkey="easy%5:00:00:impressionable:00" annotator="veweser" text="Atlanta's sprawl keeps people sitting in their cars for hours, encouraging them to eat fatty fast food and run down kids who, bloated and logy from their indoor lifestyle, bike-less and slow, staggering along on foot, slowed by 35-pound backpacks, make easy targets and a sickening sort of &quot;squish&quot; sound." />
-    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_43856.anc" start="1387" end="1391" sStart="null" offset="53" sid="r11.able.j.0519" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="Many responses remark on our sedentary youth, barely able to leave the couch, let alone the house, sedated by the television, the Nintendo, the ennui, the Quaaludes." />
-  </sentences>
-</list>

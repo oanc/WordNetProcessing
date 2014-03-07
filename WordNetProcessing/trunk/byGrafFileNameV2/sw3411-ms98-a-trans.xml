@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3411-ms98-a-trans.anc" start="2174" end="2178" sStart="-1" offset="0" sid="null" wn="3" wnkey="rate%1:07:00::" annotator="cgozo" text="at such a &lt;b&gt;rate&lt;/b&gt; of speed the engine the engine will actually drop" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3411-ms98-a-trans.anc" start="2174" end="2178" sStart="null" offset="0" sid="null" wn="1" wnkey="rate%1:28:00::" annotator="brubin" text="at such a &lt;b&gt;rate&lt;/b&gt; of speed the engine the engine will actually drop" />
-  </sentences>
-</list>

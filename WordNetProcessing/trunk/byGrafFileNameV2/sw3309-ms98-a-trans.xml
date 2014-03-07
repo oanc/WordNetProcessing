@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3309-ms98-a-trans.anc" start="4086" end="4093" sStart="-1" offset="0" sid="null" wn="1" wnkey="justify%2:32:00::" annotator="veweser" text="how can you how can you &lt;b&gt;justify&lt;/b&gt; raising anybody's salary if you you know if you have to lay people off" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3309-ms98-a-trans.anc" start="4086" end="4093" sStart="null" offset="0" sid="null" wn="1" wnkey="justify%2:32:00::" annotator="carichter" text="how can you how can you &lt;b&gt;justify&lt;/b&gt; raising anybody's salary if you you know if you have to lay people off" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3309-ms98-a-trans.anc" start="559" end="564" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="veweser" text="things that are not used and i don't know i was i was in the Air &lt;b&gt;Force&lt;/b&gt; and out of it there were there was equipment at every base i was ever on that was just going to waste it was just sitting and rusting and" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3309-ms98-a-trans.anc" start="559" end="564" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="things that are not used and i don't know i was i was in the Air &lt;b&gt;Force&lt;/b&gt; and out of it there were there was equipment at every base i was ever on that was just going to waste it was just sitting and rusting and" />
-  </sentences>
-</list>

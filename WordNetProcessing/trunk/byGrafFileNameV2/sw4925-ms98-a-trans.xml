@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4925-ms98-a-trans.anc" start="2993" end="2997" sStart="-1" offset="0" sid="null" wn="3" wnkey="rate%1:07:00::" annotator="cgozo" text="well i you know my thought is if your mind goes at the same &lt;b&gt;rate&lt;/b&gt; your body goes then nobody cares right you know it's like animals when they're stupid what the hell do they know i think if one goes before the other is when you run into trouble" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4925-ms98-a-trans.anc" start="2993" end="2997" sStart="null" offset="0" sid="null" wn="3" wnkey="rate%1:07:00::" annotator="brubin" text="well i you know my thought is if your mind goes at the same &lt;b&gt;rate&lt;/b&gt; your body goes then nobody cares right you know it's like animals when they're stupid what the hell do they know i think if one goes before the other is when you run into trouble" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/49/sw4925-ms98-a-trans.anc" start="2828" end="2832" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="of course she was in a home when she &lt;b&gt;lost&lt;/b&gt; you know her" />
-  </sentences>
-</list>

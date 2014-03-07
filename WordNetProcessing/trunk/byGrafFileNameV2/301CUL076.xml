@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/letters/icic/301CUL076.anc" start="1068" end="1071" sStart="-1" offset="0" sid="null" wn="2" wnkey="say%2:32:01::" annotator="cgozo" text="(Dennis O'Connor, The Kroger Company) We are proud to &lt;b&gt;say&lt;/b&gt; that we have a &lt;b&gt;long&lt;/b&gt; list of donors, many of whom have been long-time supporters! &quot;" />
-    <s path="file:/c:/OANC/data/written_1/letters/icic/301CUL076.anc" start="1087" end="1091" sStart="null" offset="0" sid="null" wn="2" wnkey="long%3:00:01::" annotator="cgozo" text="(Dennis O'Connor, The Kroger Company) We are proud to &lt;b&gt;say&lt;/b&gt; that we have a &lt;b&gt;long&lt;/b&gt; list of donors, many of whom have been long-time supporters! &quot;" />
-    <s path="[OANC]/data/written_1/letters/icic/301CUL076.anc" start="751" end="756" sStart="null" offset="58" sid="r10.help.v.0688" wn="1" wnkey="help%2:41:00::" annotator="brubin" text="Keep Indianapolis Beautiful is an organization that helps us do that.&quot;" />
-  </sentences>
-</list>

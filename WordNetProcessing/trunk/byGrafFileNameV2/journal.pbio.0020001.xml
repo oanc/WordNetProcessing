@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/journal.pbio.0020001.anc" start="10190" end="10197" sStart="10080" offset="110" sid="null" wn="1" wnkey="write%2:36:00::" annotator="sophiavv" text="Thus, more than one region would receive credit for a single publication if that publication had been written by multiple authors from institutions of different regions." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020001.anc" start="4394" end="4399" sStart="null" offset="55" sid="r7.1.use.v.0759" wn="1" wnkey="use%2:34:01::" annotator="brubin" text="The proportional change in the number of publications, using 1990 as a comparison, revealed that scientific publishing in Latin America increased the most rapidly in the Americas, far outpacing the United States and Canada (Figure 1)." />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29534.anc" start="3625" end="3629" sStart="3480" offset="155" sid="r9.full.j.0912" wn="2" wnkey="full%5:00:01:whole:00" annotator="brubin" text="In Paris, Le Monde , welcoming the indictment as an important new step &quot;in the fight against impunity and barbarism,&quot; said Arbour had acted with full independence and freedom, but this view was questioned south of the Alps." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29534.anc" start="1231" end="1237" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="The Times said the West &quot;has to thank the brave Canadian judge&quot; for ending any &lt;b&gt;chance&lt;/b&gt; that NATO would grant Milosevic immunity from arrest and prosecution--one of his principal peace conditions." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29534.anc" start="1231" end="1237" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="The Times said the West &quot;has to thank the brave Canadian judge&quot; for ending any &lt;b&gt;chance&lt;/b&gt; that NATO would grant Milosevic immunity from arrest and prosecution--one of his principal peace conditions." />
-  </sentences>
-</list>

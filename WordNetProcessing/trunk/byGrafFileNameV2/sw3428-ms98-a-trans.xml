@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3428-ms98-a-trans.anc" start="3489" end="3495" sStart="-1" offset="0" sid="null" wn="5" wnkey="military_force%1:14:00::" annotator="veweser" text="because even if you said okay you know armed &lt;b&gt;forces&lt;/b&gt; could have them" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3428-ms98-a-trans.anc" start="3489" end="3495" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="because even if you said okay you know armed &lt;b&gt;forces&lt;/b&gt; could have them" />
-  </sentences>
-</list>

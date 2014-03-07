@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10137.anc" start="1262" end="1265" sStart="993" offset="269" sid="r8.way.n.0999" wn="1" wnkey="way%1:07:01::" annotator="brubin" text="Meanwhile, the CEO of another company, Advanced Cell Technology, testified that by putting the nucleus of an adult human cell into a cow's gutted egg cell, his researchers had converted it into an embryonic human cell, which presumably could be manipulated in the same way." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10137.anc" start="2919" end="2926" sStart="null" offset="175" sid="r9.kill.v.0562" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="Since federal law restricts research on fetal tissue and human embryos, the debate over stem cells has focused on whether they are embryos and, if not, whether scientists are killing embryos to get them." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_10137.anc" start="7505" end="7513" sStart="null" offset="8" sid="r11.benefit.n.0493" wn="2" wnkey="benefit%1:07:00::" annotator="vebatchelder" text="But the benefits of the new technologies--ultimately, immortality and the rewriting of the recipe for human beings--are precisely what philosophers ought to ponder." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-4-4.anc" start="49440" end="49444" sStart="49334" offset="106" sid="r8.way.n.0167" wn="1" wnkey="way%1:07:01::" annotator="brubin" text="Data from each RNA sample size group were exported and each probe set analyzed in the following ways:" />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-4-4.anc" start="42841" end="42846" sStart="null" offset="19" sid="r7.1.use.v.0150" wn="5" wnkey="use%2:41:04::" annotator="jeneale" text="[ 10 ] , using only a single round of amplification." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-4-4.anc" start="38463" end="38467" sStart="null" offset="405" sid="r11.true.j.0836" wn="5" wnkey="true%5:00:00:typical:00" annotator="anfahmy" text="Restricting probe sets to those minimally present (our &quot;detection filter&quot;) dramatically decreases the number of false positives, from an average of 56 down to 14, restricting analysis to genes called present in a higher fraction of the arrays from one of the comparison groups could further reduce false positives, but at the cost of missing some true positives." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-4-4.anc" start="34869" end="34878" sStart="null" offset="14" sid="r11.recommend.v.0403" wn="1" wnkey="recommend%2:32:01::" annotator="vebatchelder" text="Therefore, we recommend using the standard protocol instead of using the amplification strategy for samples down to 1 ?g of total RNA, and our simplified amplification protocol for smaller samples, at least down to 0.1 ?g." />
-  </sentences>
-</list>

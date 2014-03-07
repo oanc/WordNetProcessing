@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32147.anc" start="2365" end="2370" sStart="2320" offset="45" sid="r8.ask.v.0358" wn="4" wnkey="ask%2:32:04::" annotator="jeneale" text="Last month on Crossfire , co-host Bill Press asked Forbes about &quot;abortion.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32147.anc" start="3182" end="3188" sStart="null" offset="37" sid="r9.appear.v.0541" wn="3" wnkey="appear%2:30:01::" annotator="veweser" text="The word &quot;abortion&quot; didn't appear until the end of the release." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32147.anc" start="278" end="282" sStart="null" offset="23" sid="r11.able.j.0507" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="American women must be able to make that decision for themselves." />
-  </sentences>
-</list>

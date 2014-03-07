@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3983.anc" start="1481" end="1486" sStart="1444" offset="37" sid="r10.board.n.0420" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="The acquirer promises to replace the board of directors that rejected the merger with one that would approve it." />
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3983.anc" start="586" end="592" sStart="null" offset="212" sid="r10.board.n.0244" wn="1" wnkey="board%1:14:00::" annotator="brubin" text="In a friendly takeover, the management teams of the acquiring and target companies negotiate the terms of the deal--covering issues such as how shares in the new company will be divided--and then both companies' boards of directors and shareholders approve it." />
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3983.anc" start="1338" end="1342" sStart="null" offset="41" sid="r8.ask.v.0361" wn="1" wnkey="ask%2:32:01::" annotator="veweser" text="In a proxy fight , the acquiring company asks shareholders for their &quot;proxies&quot;--that is, the right to vote in their stead in management elections." />
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3983.anc" start="1338" end="1342" sStart="null" offset="41" sid="r8.ask.v.0361" wn="" wnkey="null" annotator="ksuderman" text="In a proxy fight , the acquiring company asks shareholders for their &quot;proxies&quot;--that is, the right to vote in their stead in management elections." />
-  </sentences>
-</list>

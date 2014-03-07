@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2839-ms98-a-trans.anc" start="8790" end="8796" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="we need to try to get &lt;b&gt;people&lt;/b&gt; to two terms so they" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2839-ms98-a-trans.anc" start="8790" end="8796" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="we need to try to get &lt;b&gt;people&lt;/b&gt; to two terms so they" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2839-ms98-a-trans.anc" start="4484" end="4488" sStart="null" offset="0" sid="null" wn="5" wnkey="lose%2:39:00::" annotator="veweser" text="until we can't we've just &lt;b&gt;lost&lt;/b&gt; control of of any kind of perspective about what is acceptable and what is not acceptable you know" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2839-ms98-a-trans.anc" start="4640" end="4643" sStart="null" offset="0" sid="null" wn="5" wnkey="add_up%2:32:00::" annotator="brubin" text="well it's so much money and you can't even &lt;b&gt;add&lt;/b&gt; it up you know that's why they think it's" />
-  </sentences>
-</list>

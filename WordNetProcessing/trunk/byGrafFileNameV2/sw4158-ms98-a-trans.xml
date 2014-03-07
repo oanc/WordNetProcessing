@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/41/sw4158-ms98-a-trans.anc" start="2972" end="2977" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="uh &lt;b&gt;rates&lt;/b&gt; are are going up pretty quickly" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/41/sw4158-ms98-a-trans.anc" start="2972" end="2977" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="uh &lt;b&gt;rates&lt;/b&gt; are are going up pretty quickly" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/41/sw4158-ms98-a-trans.anc" start="735" end="741" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="comcgeetubb" text="i don't know they just kind of &lt;b&gt;forget&lt;/b&gt; us on that end we don't really have any vacation or" />
-  </sentences>
-</list>

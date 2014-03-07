@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_357.anc" start="1215" end="1220" sStart="1105" offset="110" sid="r9.paper.n.0605" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The LAT attributes the view to Rep James Sensenbrenner, chairman of the House Science Committee, that, in the paper's paraphrase, &quot;NASA is now putting Foale's life at risk.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_357.anc" start="191" end="195" sStart="null" offset="55" sid="r9.fold.v.0579" wn="2147483645" wnkey="null" annotator="cgozo" text="The Washington Post has Mir on the front but below the fold, while making its top national story the sudden departure of Rep." />
-  </sentences>
-</list>

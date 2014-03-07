@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/47/sw4787-ms98-a-trans.anc" start="3934" end="3942" sStart="-1" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="cgozo" text="and well they elect &lt;b&gt;officers&lt;/b&gt; every year" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/47/sw4787-ms98-a-trans.anc" start="3934" end="3942" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="brubin" text="and well they elect &lt;b&gt;officers&lt;/b&gt; every year" />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2268.anc" start="6244" end="6249" sStart="6061" offset="183" sid="r7.sound.n.0245" wn="2147483646" wnkey="null" annotator="veweser" text="A pamphlet called How to Raise Drug-Free Kids (produced by the partnership, Reader's Digest , the Department of Education, and ABC for the project) makes the project of child-rearing sound like growing seedless watermelons." />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2268.anc" start="2262" end="2267" sStart="null" offset="77" sid="r9.sense.n.0381" wn="4" wnkey="sense%1:09:04::" annotator="veweser" text="The first question Westin should have asked himself is whether it ever makes sense for a news organization like ABC to climb into bed with an advocacy organization like the partnership." />
-    <s path="[OANC]/data/written_1/journal/slate/34/ArticleIP_2268.anc" start="4139" end="4144" sStart="null" offset="72" sid="r9.kill.v.0607" wn="4" wnkey="kill%2:42:00::" annotator="cgozo" text="America about kids sniffing toxic household chemicals, which it claimed kills 1,000 kids a year--a statistic that drug experts say has no basis." />
-  </sentences>
-</list>

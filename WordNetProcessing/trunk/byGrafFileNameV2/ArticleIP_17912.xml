@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17912.anc" start="639" end="643" sStart="463" offset="176" sid="r9.full.j.0462" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="They began to argue that the Senate should call witnesses and complete the trial not necessarily because Clinton deserved to be removed but because the Senate owed the House a full hearing." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_17912.anc" start="1409" end="1415" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="On This Week , conservative pundit Bill Kristol protested that by &quot;saying that this trial should be dismissed or saying that the House managers don't get a &lt;b&gt;chance&lt;/b&gt; to present their case&quot; through witnesses, Senate Republicans would &quot;discredit&quot; the House's impeachment vote and make it appear &quot;illegitimate.&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_17912.anc" start="1409" end="1415" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="On This Week , conservative pundit Bill Kristol protested that by &quot;saying that this trial should be dismissed or saying that the House managers don't get a &lt;b&gt;chance&lt;/b&gt; to present their case&quot; through witnesses, Senate Republicans would &quot;discredit&quot; the House's impeachment vote and make it appear &quot;illegitimate.&quot;" />
-  </sentences>
-</list>

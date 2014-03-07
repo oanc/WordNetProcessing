@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_29625.anc" start="1163" end="1168" sStart="1156" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="veweser" text="Names, &lt;b&gt;dates&lt;/b&gt;, and facts abound, but Asch remains elusive.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29625.anc" start="268" end="272" sStart="null" offset="2" sid="r10.book.n.0305" wn="1" wnkey="book%1:10:00::" annotator="veweser" text="A book about the extraordinary, if messy, career of the founder of Folkways Records wins polite reviews, but it's no masterpiece of biography." />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_29625.anc" start="1966" end="1970" sStart="null" offset="60" sid="r10.book.n.0266" wn="1" wnkey="book%1:10:00::" annotator="anfahmy" text="But in this compelling, disturbing, entertaining, necessary book, he raises questions that cannot be ignored.&quot;" />
-  </sentences>
-</list>

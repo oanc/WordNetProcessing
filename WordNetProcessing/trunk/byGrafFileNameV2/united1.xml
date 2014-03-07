@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/united1.anc" start="1395" end="1399" sStart="1334" offset="61" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="sophiavv" text="Offer is first-come, first-served and at this incredibly low rate, cabins are sure to sell out quickly, so call 1-800-822-2841 today!" />
-    <s path="[MASC]/data/written/united1.anc" start="1006" end="1011" sStart="null" offset="7" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="sophiavv" text="Cruise rates start as low as $599 for an outside cabin on select sail dates, and all offer the option of your 3rdr and 4th passengers cruising free!" />
-    <s path="[MASC]/data/written/united1.anc" start="352" end="357" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="sophiavv" text="" />
-  </sentences>
-</list>

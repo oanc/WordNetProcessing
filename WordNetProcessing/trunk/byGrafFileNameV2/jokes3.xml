@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/jokes3.anc" start="7559" end="7566" sStart="7514" offset="45" sid="null" wn="1" wnkey="write%2:36:00::" annotator="sophiavv" text="One book was the Bible; the other was a book written by Darwin." />
-    <s path="[MASC]/data/written/jokes3.anc" start="5792" end="5799" sStart="null" offset="4" sid="null" wn="2" wnkey="write%2:32:00::" annotator="sophiavv" text="And written underneath was, &quot;The last few are pretty risky, too...." />
-    <s path="[MASC]/data/written/jokes3.anc" start="13111" end="13116" sStart="null" offset="11" sid="null" wn="1" wnkey="try%2:41:00::" annotator="vebatchelder" text="The turtle tried again and again while a couple of birds sitting on a branch watched his sad efforts." />
-    <s path="[MASC]/data/written/jokes3.anc" start="12033" end="12038" sStart="null" offset="3" sid="null" wn="1" wnkey="try%2:41:00::" annotator="vebatchelder" text="He tried to kill a vampire by driving a pork chop through its heart because steaks were too expensive." />
-  </sentences>
-</list>

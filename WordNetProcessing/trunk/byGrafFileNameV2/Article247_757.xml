@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/6/Article247_757.anc" start="187" end="193" sStart="132" offset="55" sid="r7.strike.n.0377" wn="2" wnkey="strike%1:04:02::" annotator="veweser" text="Just hours before the U.S. was to launch a massive air strike campaign (at 9 a.m." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_757.anc" start="3042" end="3050" sStart="null" offset="0" sid="null" wn="2" wnkey="entitle%2:32:00::" annotator="cgozo" text="In an inside article charmingly &lt;b&gt;entitled&lt;/b&gt; &quot;Paris Finally Gets the Poop,&quot; the WP reports that Paris is becoming a sanctuary of &quot;dog toilet enclosures&quot;--and dogs are actually using them." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_757.anc" start="3042" end="3050" sStart="null" offset="0" sid="null" wn="2" wnkey="entitle%2:32:00::" annotator="brubin" text="In an inside article charmingly &lt;b&gt;entitled&lt;/b&gt; &quot;Paris Finally Gets the Poop,&quot; the WP reports that Paris is becoming a sanctuary of &quot;dog toilet enclosures&quot;--and dogs are actually using them." />
-  </sentences>
-</list>

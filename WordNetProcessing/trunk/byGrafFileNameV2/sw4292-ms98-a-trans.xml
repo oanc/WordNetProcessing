@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4292-ms98-a-trans.anc" start="3865" end="3871" sStart="-1" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="veweser" text="it's a true story of a uh couple in Colorado in the late eighteen hundreds who &lt;b&gt;became&lt;/b&gt; fabulously wealthy from uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4292-ms98-a-trans.anc" start="3865" end="3871" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="tofox" text="it's a true story of a uh couple in Colorado in the late eighteen hundreds who &lt;b&gt;became&lt;/b&gt; fabulously wealthy from uh" />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2195-ms98-a-trans.anc" start="3262" end="3267" sStart="-1" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="veweser" text="you know i i don't know i guess if if we had more &lt;b&gt;power&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2195-ms98-a-trans.anc" start="3262" end="3267" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="tofox" text="you know i i don't know i guess if if we had more &lt;b&gt;power&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2195-ms98-a-trans.anc" start="3737" end="3742" sStart="null" offset="0" sid="null" wn="1" wnkey="powerfulness%1:07:00::" annotator="carichter" text="they're subject to corruption just like any other human being and they do have a lot of &lt;b&gt;power&lt;/b&gt;" />
-  </sentences>
-</list>

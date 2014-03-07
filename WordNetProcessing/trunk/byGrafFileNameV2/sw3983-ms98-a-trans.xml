@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3983-ms98-a-trans.anc" start="3818" end="3824" sStart="-1" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="uh because oh Scientific American comes to our house too i &lt;b&gt;forgot&lt;/b&gt; that's mostly my son's but he but i do read it too and so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3983-ms98-a-trans.anc" start="3818" end="3824" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="uh because oh Scientific American comes to our house too i &lt;b&gt;forgot&lt;/b&gt; that's mostly my son's but he but i do read it too and so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3983-ms98-a-trans.anc" start="3818" end="3824" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="carichter" text="uh because oh Scientific American comes to our house too i &lt;b&gt;forgot&lt;/b&gt; that's mostly my son's but he but i do read it too and so" />
-  </sentences>
-</list>

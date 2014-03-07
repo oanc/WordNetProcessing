@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/11/Article247_3402.anc" start="2457" end="2461" sStart="-1" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" annotator="brubin" text="So CEOs are now going to &lt;b&gt;tell&lt;/b&gt; us when they're erectilely dysfunctional?" />
-    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3402.anc" start="787" end="792" sStart="null" offset="201" sid="r9.sense.n.0654" wn="2" wnkey="sense%1:10:00::" annotator="anfahmy" text="This week, things brightened slightly, for no obvious reason aside from excellent earnings from bellwethers Cisco (a holding of mine) and Wal-Mart (which I don't own but probably should) and a general sense that the market was &quot;oversold.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3402.anc" start="2903" end="2908" sStart="null" offset="7" sid="r8.1.great.j.0867" wn="4" wnkey="great%5:00:00:good:01" annotator="brubin" text="It's a great business when you can borrow money with no intention of paying it back.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3402.anc" start="185" end="192" sStart="null" offset="96" sid="r11.absence.n.0700" wn="3" wnkey="absence%1:28:00::" annotator="vebatchelder" text="To the chagrin of many and the joy of at least a few, Cocktail Chatter returns after a two-week absence, which God knows I hope made your hearts grow fonder." />
-  </sentences>
-</list>

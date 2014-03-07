@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_68614.anc" start="4592" end="4600" sStart="-1" offset="0" sid="null" wn="1" wnkey="officer%1:18:03::" annotator="cgozo" text="Military &lt;b&gt;officers&lt;/b&gt; and the Republican candidates blasted Bradley and Gore for crossing &quot;a boundary between social politics and military policy.&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_68614.anc" start="4592" end="4600" sStart="null" offset="0" sid="null" wn="1" wnkey="officer%1:18:03::" annotator="brubin" text="Military &lt;b&gt;officers&lt;/b&gt; and the Republican candidates blasted Bradley and Gore for crossing &quot;a boundary between social politics and military policy.&quot;" />
-  </sentences>
-</list>

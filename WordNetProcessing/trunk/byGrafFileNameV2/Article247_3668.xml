@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3668.anc" start="1471" end="1477" sStart="-1" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="Is there any &lt;b&gt;chance&lt;/b&gt; at all that Russian tycoons are not figuring out how to take advantage of this?&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3668.anc" start="1071" end="1077" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="Unfortunately, the new company will be called Earthlink , robbing us of the &lt;b&gt;chance&lt;/b&gt; to have a firm called Mindearthspringlink, which would have been cool.&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3668.anc" start="1471" end="1477" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="Is there any &lt;b&gt;chance&lt;/b&gt; at all that Russian tycoons are not figuring out how to take advantage of this?&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3668.anc" start="1071" end="1077" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="Unfortunately, the new company will be called Earthlink , robbing us of the &lt;b&gt;chance&lt;/b&gt; to have a firm called Mindearthspringlink, which would have been cool.&quot;" />
-  </sentences>
-</list>

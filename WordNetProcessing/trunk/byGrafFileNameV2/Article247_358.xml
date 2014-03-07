@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_358.anc" start="3082" end="3089" sStart="2875" offset="207" sid="r7.trace.v.0114" wn="1" wnkey="trace%2:31:00::" annotator="jeneale" text="The LAT reports on its front page that President Clinton announced yesterday that Los Angeles will be added to a computerized law enforcement tracking system that helps cops catch illegal gun traffickers by tracing guns sold to juveniles." />
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_358.anc" start="3190" end="3196" sStart="null" offset="81" sid="r8.number.n.0295" wn="1" wnkey="number%1:07:00::" annotator="brubin" text="In making the announcement, Clinton stated that &quot;over the past decades, the number of gun murders by juveniles has skyrocketed 300 percent.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_358.anc" start="1686" end="1692" sStart="null" offset="178" sid="r9.kill.v.0819" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="Which is why it's surprising that the LAT commits the unclarity of saying that the earlier cease-fire &quot;ended without warning in February, 1996 with a London truck bomb that killed two people,&quot; without mentioning that the explosion was attributed to the IRA." />
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_358.anc" start="3038" end="3043" sStart="null" offset="163" sid="r10.help.v.0847" wn="1" wnkey="help%2:41:00::" annotator="cgozo" text="The LAT reports on its front page that President Clinton announced yesterday that Los Angeles will be added to a computerized law enforcement tracking system that helps cops catch illegal gun traffickers by tracing guns sold to juveniles." />
-  </sentences>
-</list>

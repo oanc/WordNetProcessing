@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2459.anc" start="6181" end="6190" sStart="6075" offset="106" sid="r8.1.different.j.0601" wn="1" wnkey="different%3:00:00::" annotator="veweser" text="It allows separate settings for separate users, important for families with older children or children of different ages." />
-    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2459.anc" start="1005" end="1017" sStart="null" offset="112" sid="r11.combination.n.0719" wn="1" wnkey="combination%1:14:00::" annotator="anfahmy" text="In essence, all filter programs work like search engines in reverse, keeping out anything with certain words or combinations of letters." />
-    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2459.anc" start="6754" end="6759" sStart="null" offset="70" sid="r10.board.n.0455" wn="2147483646" wnkey="null" annotator="cgozo" text="The cover story in the last issue of the business magazine Across the Board identifies nonbusiness-related use of the Web as a serious problem at the office." />
-    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2459.anc" start="3493" end="3497" sStart="null" offset="37" sid="r11.able.j.0407" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="In testing each of the filters I was able to pull up X-rated material without much effort." />
-  </sentences>
-</list>

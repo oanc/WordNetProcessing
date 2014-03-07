@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1756.anc" start="1496" end="1502" sStart="1421" offset="75" sid="r7.strike.n.0205" wn="3" wnkey="strike%1:11:00::" annotator="veweser" text="The Guardian interviews coach Glenn Hoddle, who says Beckham's retaliatory strike &quot;wasn't violent conduct." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/29/ArticleIP_1756.anc" start="2918" end="2922" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" annotator="rstandig" text="But it's a game,&quot; &lt;b&gt;says&lt;/b&gt; one English fan." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/29/ArticleIP_1756.anc" start="1133" end="1139" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="comcgeetubb" text="General conclusions: 1) Star &lt;b&gt;player&lt;/b&gt; David Beckham was an idiot to have committed the foul that got him kicked out of the game (&quot;an astonishing display of petulance,&quot; says the Mirror ); 2) Beckham's infraction was harmless and did not warrant an ejection; and 3) 18-year-old phenom Michael Owen is a brilliant talent." />
-    <s path="[OANC]/data/written_1/journal/slate/29/ArticleIP_1756.anc" start="2082" end="2087" sStart="null" offset="51" sid="r9.paper.n.0136" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="Dismissing the possibility of inferior talent, the paper decides it has something to do with the national character: &quot;Is there some cancerous part of the English psyche which produces serial chokers." />
-  </sentences>
-</list>

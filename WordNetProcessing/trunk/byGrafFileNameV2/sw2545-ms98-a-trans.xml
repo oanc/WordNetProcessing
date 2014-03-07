@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2545-ms98-a-trans.anc" start="2230" end="2235" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="uh you know because students really do seem to be freer when they &lt;b&gt;write&lt;/b&gt; on the computer as you probably found out yourself" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2545-ms98-a-trans.anc" start="6082" end="6087" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="veweser" text="if if you want to go into one that's really useful you're going to have to go over a thousand dollars and even for a personal computer it's probably &lt;b&gt;smart&lt;/b&gt; to spend that much" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2545-ms98-a-trans.anc" start="6082" end="6087" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="cgozo" text="if if you want to go into one that's really useful you're going to have to go over a thousand dollars and even for a personal computer it's probably &lt;b&gt;smart&lt;/b&gt; to spend that much" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2545-ms98-a-trans.anc" start="6082" end="6087" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="if if you want to go into one that's really useful you're going to have to go over a thousand dollars and even for a personal computer it's probably &lt;b&gt;smart&lt;/b&gt; to spend that much" />
-  </sentences>
-</list>

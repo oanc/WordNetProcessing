@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/55/ArticleIP_73671.anc" start="612" end="616" sStart="567" offset="50" sid="r11.true.j.0332" wn="8" wnkey="true%5:00:00:real:02" annotator="anfahmy" text="It was there, he says, that he met his &quot;only true hero&quot; and began a lifelong love affair with copy editing." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/55/ArticleIP_73671.anc" start="457" end="462" sStart="null" offset="0" sid="null" wn="1" wnkey="quiet%3:00:02::" annotator="brubin" text="Though the two never met, Treadwell would often pass the &lt;b&gt;long&lt;/b&gt;, &lt;b&gt;quiet&lt;/b&gt; hours in the great editor's office, poring over Mr. Shawn's marked-up manuscripts of New Yorker pieces." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/55/ArticleIP_73671.anc" start="451" end="455" sStart="null" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" annotator="cgozo" text="Though the two never met, Treadwell would often pass the &lt;b&gt;long&lt;/b&gt;, &lt;b&gt;quiet&lt;/b&gt; hours in the great editor's office, poring over Mr. Shawn's marked-up manuscripts of New Yorker pieces." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/55/ArticleIP_73671.anc" start="1254" end="1262" sStart="null" offset="0" sid="null" wn="2" wnkey="familiar%3:00:02::" annotator="tofox" text="In letter after letter Mr. Shawn gracefully responds to Farber's lengthy missives of life, love, and loss with reassuring replies, always beginning with the &lt;b&gt;familiar&lt;/b&gt; greeting, &quot;We regret that we are unable to use the enclosed material.&quot;" />
-  </sentences>
-</list>

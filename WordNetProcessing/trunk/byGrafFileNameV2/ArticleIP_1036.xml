@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1036.anc" start="6282" end="6287" sStart="6220" offset="62" sid="r7.sound.n.0166" wn="5" wnkey="sound%1:10:00::" annotator="jeneale" text="But because the Net gets clogged and packets are waylaid, the sound quality is low and interruptions are common." />
-    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1036.anc" start="981" end="985" sStart="null" offset="51" sid="r9.late.j.0949" wn="1" wnkey="late%3:00:00::" annotator="veweser" text="The Defense Department created the Internet in the late '60s, and the government supported the Internet heavily from the '70s till the early '90s." />
-    <s path="[OANC]/data/written_1/journal/slate/22/ArticleIP_1036.anc" start="4990" end="4994" sStart="null" offset="68" sid="r9.full.j.0514" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="Many Internet users can share a line that would need to be occupied full time by a telephone call." />
-  </sentences>
-</list>

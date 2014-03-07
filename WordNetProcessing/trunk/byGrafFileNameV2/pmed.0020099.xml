@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020099.anc" start="3857" end="3860" sStart="3666" offset="191" sid="r8.way.n.0447" wn="1" wnkey="way%1:07:01::" annotator="brubin" text="Bringing the entire world of learners into a global conversation should be accompanied by a shift in editorial priorities to ensure that medical journals inform practice in a way that offers the greatest benefits to those suffering the greatest burdens." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020099.anc" start="5169" end="5176" sStart="null" offset="76" sid="r7.serve.v.0753" wn="3" wnkey="serve%2:42:01::" annotator="veweser" text="Surely it is time that journals examine the content of their pages and stop serving as vehicles through which physician practice is influenced by industry." />
-  </sentences>
-</list>

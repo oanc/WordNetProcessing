@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3951.anc" start="1757" end="1762" sStart="1623" offset="134" sid="r8.1.great.j.0177" wn="4" wnkey="great%5:00:00:good:01" annotator="veweser" text="I haven't heard that he's not running, so I suppose I have to assume he isn't not running, which would be a shame since he was such a great non-candidate ..." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3951.anc" start="2196" end="2205" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="He said all he's doing, in fact, is reminding people of bedrock liberal positions that seem to have been &lt;b&gt;forgotten&lt;/b&gt; along the way." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3951.anc" start="2196" end="2205" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="He said all he's doing, in fact, is reminding people of bedrock liberal positions that seem to have been &lt;b&gt;forgotten&lt;/b&gt; along the way." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/16/Article247_3951.anc" start="2196" end="2205" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="He said all he's doing, in fact, is reminding people of bedrock liberal positions that seem to have been &lt;b&gt;forgotten&lt;/b&gt; along the way." />
-  </sentences>
-</list>

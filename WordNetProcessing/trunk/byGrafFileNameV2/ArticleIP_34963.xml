@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34963.anc" start="4984" end="4988" sStart="4974" offset="10" sid="r10.wait.v.0631" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="And let's wait until most Gen Yers are capable of rational thought." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34963.anc" start="7181" end="7187" sStart="null" offset="75" sid="r8.number.n.0883" wn="1" wnkey="number%1:07:00::" annotator="brubin" text="If you consume teen culture at all, you have surely noticed the remarkable number of sympathetic parents around." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34963.anc" start="6280" end="6286" sStart="null" offset="55" sid="r8.family.n.0331" wn="1" wnkey="family%1:14:02::" annotator="brubin" text="Stories about Gen Y tend to shortchange kids' views on family, school, and politics, and dwell instead on their favorite clothing stores." />
-  </sentences>
-</list>

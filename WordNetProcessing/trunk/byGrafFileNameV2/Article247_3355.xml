@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3355.anc" start="359" end="366" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="veweser" text="The German government believes it has obtained the &lt;b&gt;written&lt;/b&gt; blueprint for the campaign." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3355.anc" start="359" end="366" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="jeneale" text="The German government believes it has obtained the &lt;b&gt;written&lt;/b&gt; blueprint for the campaign." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3355.anc" start="359" end="366" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="carichter" text="The German government believes it has obtained the &lt;b&gt;written&lt;/b&gt; blueprint for the campaign." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3355.anc" start="2434" end="2439" sStart="null" offset="4" sid="r9.paper.n.0180" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="The paper hints that Bin Laden's arrest might have prevented the bombings, but the deal dissolved after the attacks and U.S. retaliation." />
-  </sentences>
-</list>

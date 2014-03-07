@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4245-ms98-a-trans.anc" start="229" end="234" sStart="-1" offset="0" sid="null" wn="13" wnkey="part%1:06:01::" annotator="veweser" text="&lt;b&gt;parts&lt;/b&gt; of you know repair &lt;b&gt;parts&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4245-ms98-a-trans.anc" start="229" end="234" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="&lt;b&gt;parts&lt;/b&gt; of you know repair &lt;b&gt;parts&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4245-ms98-a-trans.anc" start="251" end="256" sStart="null" offset="0" sid="null" wn="13" wnkey="part%1:06:01::" annotator="carichter" text="repair &lt;b&gt;parts&lt;/b&gt; for cars or something" />
-  </sentences>
-</list>

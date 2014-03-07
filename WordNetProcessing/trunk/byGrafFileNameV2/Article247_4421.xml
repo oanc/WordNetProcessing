@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4421.anc" start="3877" end="3883" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="(Apparently the publishers are &lt;b&gt;trying&lt;/b&gt; to pass this book off to some buyers as neutral social history.)" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/21/Article247_4421.anc" start="3877" end="3883" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="tofox" text="(Apparently the publishers are &lt;b&gt;trying&lt;/b&gt; to pass this book off to some buyers as neutral social history.)" />
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4421.anc" start="3368" end="3375" sStart="null" offset="101" sid="r7.strike.n.0151" wn="2147483645" wnkey="null" annotator="brubin" text="In part, this may be because Frum is a bit of a snob; practically the only argument in the book that strikes Chatterbox as truly passionate is Frum's withering denunciation of the old-line northern Protestant sects for failing, in trying to make Christianity more &quot;relevant,&quot; to attract new members." />
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4421.anc" start="436" end="441" sStart="null" offset="59" sid="r8.live.v.0769" wn="6" wnkey="live%2:31:00::" annotator="veweser" text="As Frum points out in his book, almost nobody who actually lived through the 1970s (as opposed to today's teen-agers, who re-experience it as camp) have much regard for it:" />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/5/Article247_683.anc" start="4625" end="4632" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="The results of a USAT study of taxi safety are &lt;b&gt;written&lt;/b&gt; up on the front of the paper's &quot;Money&quot; section." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_683.anc" start="1492" end="1498" sStart="null" offset="24" sid="r11.strong.j.0984" wn="6" wnkey="strong%5:00:00:sound:01" annotator="adelpriore" text="The NYT is particularly strong on capturing the heat of the political debate, noting (along with the LAT ) that Chernomyrdin warned the parliament that &quot;Indonesia reached the point where the country went up in flames." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_683.anc" start="5023" end="5029" sStart="null" offset="211" sid="r8.number.n.0360" wn="4 8" wnkey="null" annotator="cgozo" text="The story is accompanied by a box of tips, including: always buckle up (hitting that partition with your head is a leading cause of passenger injuries) and always request a receipt (most receipts give the cab's number)." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_683.anc" start="4884" end="4891" sStart="null" offset="72" sid="r9.hit.v.0507" wn="12" wnkey="hit%2:38:02::" annotator="cgozo" text="The story is accompanied by a box of tips, including: always buckle up (hitting that partition with your head is a leading cause of passenger injuries) and always request a receipt (most receipts give the cab's number)." />
-  </sentences>
-</list>

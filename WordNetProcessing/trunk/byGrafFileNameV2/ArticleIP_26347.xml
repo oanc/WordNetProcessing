@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26347.anc" start="2879" end="2882" sStart="2839" offset="40" sid="r8.way.n.0327" wn="1" wnkey="way%1:07:01::" annotator="brubin" text="Don't pretend not to understand me, the way those robots do when they follow me around." />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26347.anc" start="5464" end="5471" sStart="null" offset="48" sid="r10.wait.v.0566" wn="2" wnkey="wait%2:42:01::" annotator="anfahmy" text="&quot;I want to make a plea to everybody who is waiting for the next deer season in my home state,&quot; said President Clinton, just before telling newly mobilized Air National Guardsmen that bombing Serbs would be a lot like shooting ruminants, only safer." />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_26347.anc" start="4054" end="4058" sStart="null" offset="84" sid="r9.late.j.0838" wn="4" wnkey="late%5:00:00:dead:01" annotator="anfahmy" text="Q: Does Betty Loren-Maltese think her law should apply to convicted felons like her late husband and to those in organized crime?" />
-  </sentences>
-</list>

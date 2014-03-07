@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3034-ms98-a-trans.anc" start="1730" end="1737" sStart="-1" offset="0" sid="null" wn="1" wnkey="officer%1:18:03::" annotator="cgozo" text="i work at laboratory from uh i'm an &lt;b&gt;officer&lt;/b&gt; in the Air Force and uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3034-ms98-a-trans.anc" start="1730" end="1737" sStart="null" offset="0" sid="null" wn="1" wnkey="officer%1:18:03::" annotator="brubin" text="i work at laboratory from uh i'm an &lt;b&gt;officer&lt;/b&gt; in the Air Force and uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3034-ms98-a-trans.anc" start="1749" end="1754" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="veweser" text="i work at laboratory from uh i'm an officer in the Air &lt;b&gt;Force&lt;/b&gt; and uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3034-ms98-a-trans.anc" start="1749" end="1754" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="i work at laboratory from uh i'm an officer in the Air &lt;b&gt;Force&lt;/b&gt; and uh" />
-  </sentences>
-</list>

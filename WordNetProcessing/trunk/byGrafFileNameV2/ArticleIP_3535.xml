@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/45/ArticleIP_3535.anc" start="878" end="883" sStart="-1" offset="0" sid="null" wn="9" wnkey="power%1:19:01::" annotator="carichter" text="On modern cars with &lt;b&gt;power&lt;/b&gt; locks, however, unlocking the driver's-side door automatically unlocks all other doors." />
-    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3535.anc" start="2038" end="2043" sStart="null" offset="99" sid="r9.level.n.0398" wn="7" wnkey="level%1:09:00::" annotator="anfahmy" text="Chivalrous gestures, even though not utilitarian at one level, have a utilitarian logic at another level." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/45/ArticleIP_3535.anc" start="4805" end="4809" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="Christmas was 25 days away when a &lt;b&gt;fair&lt;/b&gt; number of my neighbors had already placed lights around their homes and fully decorated their trees." />
-    <s path="[OANC]/data/written_1/journal/slate/45/ArticleIP_3535.anc" start="2968" end="2972" sStart="null" offset="88" sid="r11.dark.j.0256" wn="4" wnkey="dark%5:00:00:evil:00" annotator="vebatchelder" text="Ever since Seymour Hersh's book came out detailing the raw side of Jack Kennedy and the dark side of Camelot, I've been wondering what JFK did in today's context that warrants an eternal flame at Arlington National Cemetery." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_645.anc" start="1274" end="1281" sStart="1174" offset="110" sid="r10.wait.v.0530" wn="2" wnkey="wait%2:42:01::" annotator="anfahmy" text="The WP reports the President &quot;maintained a casual, unaffected appearance&quot; before reporters, despite waiting for the FBI's report on the existence of &quot;DNA material&quot; in Ms." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_645.anc" start="379" end="385" sStart="null" offset="60" sid="r7.strike.n.0317" wn="1" wnkey="strike%1:04:00::" annotator="veweser" text="Asia's financial woes and the effects of the General Motors strike kept growth of the nation's gross domestic product at a modest 1.4%, down from last quarter's scalding 5.5%." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_645.anc" start="832" end="836" sStart="null" offset="73" sid="r9.full.j.0418" wn="2" wnkey="full%5:00:01:whole:00" annotator="anfahmy" text="On the awesome impact of the GM shutdown, the LAT notes that it shaved a full percentage point from second quarter growth." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_645.anc" start="1464" end="1471" sStart="null" offset="101" sid="r11.absence.n.0279" wn="3" wnkey="absence%1:28:00::" annotator="adelpriore" text="Amid criticism from Clinton supporters, Ken Starr has announced that he will take an unpaid leave of absence from his nearly $1 million per year post at a Chicago law firm where he defended clients such as GM and Meineke Discount Muffler." />
-  </sentences>
-</list>

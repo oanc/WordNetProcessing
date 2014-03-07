@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/government/Media/Lawyer_Web_Survey.anc" start="191" end="195" sStart="156" offset="40" sid="r7.poor.j.0102" wn="1" wnkey="poor%5:00:00:unfortunate:00" annotator="jeneale" text="22 (AScribe Newswire) -- Pity the &quot;poor&quot; lawyer." />
-    <s path="[OANC]/data/written_2/technical/government/Media/Lawyer_Web_Survey.anc" start="240" end="244" sStart="null" offset="35" sid="r7.poor.j.0148" wn="2147483645" wnkey="null" annotator="cgozo" text="That is, the lawyer who serves the poor and disenfranchised." />
-  </sentences>
-</list>

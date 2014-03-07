@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2937-ms98-a-trans.anc" start="9985" end="9990" sStart="-1" offset="0" sid="null" wn="5" wnkey="write%2:36:01::" annotator="tofox" text="if they have a return envelope with it i &lt;b&gt;write&lt;/b&gt; across the face of it no thank you your rates are too high and i mail it back to them" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2937-ms98-a-trans.anc" start="10031" end="10036" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="if they have a return envelope with it i write across the face of it no thank you your &lt;b&gt;rates&lt;/b&gt; are too high and i mail it back to them" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/29/sw2937-ms98-a-trans.anc" start="10031" end="10036" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="if they have a return envelope with it i write across the face of it no thank you your &lt;b&gt;rates&lt;/b&gt; are too high and i mail it back to them" />
-  </sentences>
-</list>

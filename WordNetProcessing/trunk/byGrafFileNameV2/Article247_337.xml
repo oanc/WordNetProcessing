@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_337.anc" start="2246" end="2249" sStart="2210" offset="41" sid="r8.way.n.0115" wn="1" wnkey="way%1:07:01::" annotator="brubin" text="&quot;I don't ever want you to feel that way" />
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_337.anc" start="3340" end="3344" sStart="null" offset="6" sid="r10.wait.v.0225" wn="" wnkey="null" annotator="veweser" text="&quot;Wait, just wait." />
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_337.anc" start="3351" end="3355" sStart="null" offset="17" sid="r10.wait.v.0226" wn="2" wnkey="wait%2:42:01::" annotator="anfahmy" text="&quot;Wait, just wait." />
-  </sentences>
-</list>

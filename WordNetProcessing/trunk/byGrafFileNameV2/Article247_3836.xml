@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/15/Article247_3836.anc" start="757" end="764" sStart="657" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="veweser" text="The next batter then lined a single up the middle, scoring McCormick with what should have been the &lt;b&gt;winning&lt;/b&gt; run and putting New York into first." />
-    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3836.anc" start="4149" end="4154" sStart="null" offset="100" sid="r9.sense.n.0728" wn="2" wnkey="sense%1:10:00::" annotator="brubin" text="But by doing so without notice, they're catching people breaking rules that the community had, in a sense, decided didn't need to be enforced." />
-    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3836.anc" start="102" end="106" sStart="null" offset="3" sid="r9.late.j.0834" wn="1" wnkey="late%3:00:00::" annotator="anfahmy" text="In late September of 1908, the New York Giants and the Chicago Cubs were tied for first place in the National League pennant race with about a week to go in the season." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/15/Article247_3836.anc" start="4826" end="4830" sStart="null" offset="0" sid="null" wn="6" wnkey="date%1:28:05::" annotator="veweser" text="Most of his previous Jesuitical initiatives--against jaywalking, speeding, gridlock, and the failure to wear seatbelts, among others--have been announced well in advance, so that notice was served that as of a certain &lt;b&gt;date&lt;/b&gt;, things were going to be different." />
-  </sentences>
-</list>

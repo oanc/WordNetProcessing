@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32715.anc" start="1960" end="1965" sStart="1924" offset="36" sid="r9.paper.n.0306" wn="1" wnkey="paper%1:27:00::" annotator="anfahmy" text="Brown said Talk was printed on thin paper to have &quot;a roll-it-up-and-put-it-in-your-pocket, European feeling.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_32715.anc" start="3847" end="3853" sStart="null" offset="76" sid="r8.number.n.0251" wn="1" wnkey="number%1:07:00::" annotator="brubin" text="The paper said that, according to Gates Sr., the foundation will announce a number of new funding programs during the next three months that will go a long way toward its ultimate aim of becoming the largest private charity on Earth." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/51/ArticleIP_32715.anc" start="2284" end="2288" sStart="null" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" annotator="cgozo" text="It &lt;b&gt;said&lt;/b&gt;, &quot;Brown wants to give Talk the feel of the best 1950s magazines, such as McCalls and Look , as well as Paris Match . Those magazines have all been widely admired, but it is a &lt;b&gt;long&lt;/b&gt; &lt;b&gt;time&lt;/b&gt; since they were considered at the forefront of the market.&quot;" />
-  </sentences>
-</list>
