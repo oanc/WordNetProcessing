@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17914.anc" start="1106" end="1110" sStart="1105" offset="6" sid="r9.kill.v.0475" wn="1" wnkey="kill%2:35:00::" annotator="cgozo" text="&quot;Kill chickens." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/49/ArticleIP_17914.anc" start="2041" end="2049" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="tofox" text=") That toothy, ruthless carnivore shows up in this &lt;b&gt;familiar&lt;/b&gt; exchange:" />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_17914.anc" start="3598" end="3602" sStart="null" offset="35" sid="r7.1.face.n.0722" wn="2" wnkey="face%1:07:03::" annotator="jeneale" text="Uncanny ability to keep a straight face while saying &quot;Mr." />
-  </sentences>
-</list>

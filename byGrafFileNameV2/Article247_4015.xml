@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4015.anc" start="2394" end="2399" sStart="2298" offset="96" sid="r7.sound.n.0143" wn="3" wnkey="sound%1:19:00::" annotator="brubin" text="( USAT says that the plane was weightless for 20 seconds and reached 94 percent of the speed of sound.)" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4015.anc" start="4086" end="4091" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="brubin" text="The Post --which runs its story inside--notes that Trimble could &lt;b&gt;lose&lt;/b&gt; his leadership of the Ulster Unionist Party if he &lt;b&gt;loses&lt;/b&gt; a vote at a Nov. 27 meeting." />
-    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4015.anc" start="4266" end="4273" sStart="null" offset="132" sid="r9.kill.v.0597" wn="1" wnkey="kill%2:35:00::" annotator="veweser" text="The NYT fronts, and the Post reefers, the second-degree murder conviction of a Michigan boy who was 11 years old at the time of the killing." />
-    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4015.anc" start="815" end="820" sStart="null" offset="62" sid="r10.board.n.0847" wn="1" wnkey="board%1:14:00::" annotator="cgozo" text="All the papers report that the National Transportation Safety Board will not cede authority of the investigation to the FBI until it consults further with Egyptian officials, who think the investigation is culturally biased." />
-  </sentences>
-</list>

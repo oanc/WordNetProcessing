@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/111424.anc" start="405" end="408" sStart="357" offset="48" sid="null" wn="1" wnkey="use%2:34:01::" annotator="anfahmy" text="Increase your email quota limit and continue to use your webmail account." />
-    <s path="[MASC]/data/written/111424.anc" start="3" end="7" sStart="null" offset="0" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Date: Mon, 24 Jan 2011 10:31:58 +0700 (WIT) Subject: Increase your email quota From: &quot;Webmaster Administrator&quot; &lt;no-reply@webmaster.com&gt; To: undisclosed-recipients: ;" />
-  </sentences>
-</list>

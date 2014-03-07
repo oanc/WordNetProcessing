@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_656.anc" start="1113" end="1119" sStart="1067" offset="46" sid="r11.refer.v.0390" wn="1" wnkey="refer%2:32:01::" annotator="adelpriore" text="The Times also names Uganda and Malaysia, but refers only to a several-hours evacuation at the Swaziland embassy in response to a bomb threat." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_656.anc" start="3901" end="3906" sStart="null" offset="4" sid="r9.paper.n.0452" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="The paper says such a development points the way to a multitiered medical system where the quality of medical care might depend even more than it does today on a patient's wealth." />
-  </sentences>
-</list>

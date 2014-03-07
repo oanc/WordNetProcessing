@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2301-ms98-a-trans.anc" start="2915" end="2923" sStart="-1" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="veweser" text="no i i understand it's &lt;b&gt;becoming&lt;/b&gt; you know the popular thing to do we're not participating in that particular program at the moment and i don't really perceive doing it unless we absolutely have to" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2301-ms98-a-trans.anc" start="2915" end="2923" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="tofox" text="no i i understand it's &lt;b&gt;becoming&lt;/b&gt; you know the popular thing to do we're not participating in that particular program at the moment and i don't really perceive doing it unless we absolutely have to" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2301-ms98-a-trans.anc" start="1256" end="1259" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="brubin" text="but we're trying our best not to not to &lt;b&gt;add&lt;/b&gt; any you know credit card debt to our structure here" />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/government/Gen_Account_Office/og98029.anc" start="530" end="536" sStart="478" offset="52" sid="r8.state.n.0136" wn="2147483647" wnkey="null" annotator="cgozo" text="Pursuant to section 801(a)(2)(A) of title 5, United States Code, this is our report on a major rule promulgated by the Federal Communications Commission (FCC), entitled &quot;Service and Auction Rules for the 38." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Gen_Account_Office/og98029.anc" start="638" end="646" sStart="null" offset="0" sid="null" wn="2" wnkey="entitle%2:32:00::" annotator="cgozo" text="Pursuant to section 801(a)(2)(A) of title 5, United States Code, this is our report on a major rule promulgated by the Federal Communications Commission (FCC), &lt;b&gt;entitled&lt;/b&gt; &quot;Service and Auction Rules for the 38." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/government/Gen_Account_Office/og98029.anc" start="638" end="646" sStart="null" offset="0" sid="null" wn="2" wnkey="entitle%2:32:00::" annotator="brubin" text="Pursuant to section 801(a)(2)(A) of title 5, United States Code, this is our report on a major rule promulgated by the Federal Communications Commission (FCC), &lt;b&gt;entitled&lt;/b&gt; &quot;Service and Auction Rules for the 38." />
-    <s path="[OANC]/data/written_2/technical/government/Gen_Account_Office/og98029.anc" start="2979" end="2986" sStart="null" offset="52" sid="r9.appear.v.0536" wn="3" wnkey="appear%2:30:01::" annotator="brubin" text="In the Final Regulatory Flexibility Analysis, which appears in the preamble to the final rule, the FCC describes the reason for the rule and the legal basis for it." />
-  </sentences>
-</list>

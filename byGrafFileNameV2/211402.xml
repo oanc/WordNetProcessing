@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/211402.anc" start="414" end="420" sStart="409" offset="5" sid="null" wn="1" wnkey="try%2:41:00::" annotator="vebatchelder" text="I am trying to get this sogned today, so I can head down to Florida to meet up with Don and company." />
-    <s path="[MASC]/data/written/211402.anc" start="61" end="65" sStart="null" offset="64" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Message-ID: &lt;29555721.1075857154511.JavaMail.evans@thyme&gt; Date: Wed, 14 Jun 2000 06:28:00 -0700 (PDT) From: benjamin.rogers@enron.com To: stuart.zisman@enron.com Subject: Confidential Agreement Mime-Version: 1.0 Content-Type: text/plain; charset=us-ascii Content-Transfer-Encoding: 7bit" />
-  </sentences>
-</list>

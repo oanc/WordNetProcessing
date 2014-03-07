@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/50/ArticleIP_26056.anc" start="4195" end="4199" sStart="-1" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" annotator="cgozo" text="If by &quot;&lt;b&gt;said&lt;/b&gt;&quot; you exclude the final sentence." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_26056.anc" start="1623" end="1630" sStart="null" offset="0" sid="null" wn="1" wnkey="player%1:18:01::" annotator="veweser" text="To our youngest &lt;b&gt;players&lt;/b&gt;, the title of Thursday's question may be as ancient and obscure as Edgar Bergen's wacky catch phrase: &quot;I'm a ventriloquist on the radio, suckers!&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/50/ArticleIP_26056.anc" start="1623" end="1630" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="tofox" text="To our youngest &lt;b&gt;players&lt;/b&gt;, the title of Thursday's question may be as ancient and obscure as Edgar Bergen's wacky catch phrase: &quot;I'm a ventriloquist on the radio, suckers!&quot;" />
-  </sentences>
-</list>

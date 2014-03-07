@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/37/ArticleIP_2582.anc" start="5463" end="5468" sStart="-1" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="elstickles" text="The forgery story spread from the &lt;b&gt;Times&lt;/b&gt; , Tribune-Review , and Telegraph to the rest of the Whitewater Web." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/37/ArticleIP_2582.anc" start="5463" end="5468" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="carichter" text="The forgery story spread from the &lt;b&gt;Times&lt;/b&gt; , Tribune-Review , and Telegraph to the rest of the Whitewater Web." />
-    <s path="[OANC]/data/written_1/journal/slate/37/ArticleIP_2582.anc" start="8514" end="8518" sStart="null" offset="245" sid="r10.find.v.0723" wn="15" wnkey="find%2:38:10::" annotator="cgozo" text="In the case of the forged-note story, the allegation originated with Scaife's Tribune-Review and the Telegraph . From there, it progressed to the conservative Washington Times and the editorial page of the Wall Street Journal . Only then did it find a home on the Internet, where it festers to this day." />
-  </sentences>
-</list>

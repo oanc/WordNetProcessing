@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3273.anc" start="4077" end="4081" sStart="4083" offset="0" sid="r11.true.j.0790" wn="2147483644" wnkey="null" annotator="vebatchelder" text="" />
-    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3273.anc" start="1498" end="1502" sStart="null" offset="40" sid="r8.live.v.0697" wn="2147483645" wnkey="null" annotator="veweser" text="The two-hour Saturday morning show airs live, usually from a 175-seat classroom at the University of Wisconsin (in Madison, where Feldman attended college and now lives with his wife and two young daughters)." />
-    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3273.anc" start="1621" end="1626" sStart="null" offset="163" sid="r8.live.v.0540" wn="1" wnkey="live%2:42:08::" annotator="cgozo" text="The two-hour Saturday morning show airs live, usually from a 175-seat classroom at the University of Wisconsin (in Madison, where Feldman attended college and now lives with his wife and two young daughters)." />
-    <s path="[OANC]/data/written_1/journal/slate/43/ArticleIP_3273.anc" start="6173" end="6177" sStart="null" offset="69" sid="r10.help.v.0677" wn="1" wnkey="help%2:41:00::" annotator="veweser" text="But the Madison Martian will gladly play the butt of a joke if it'll help him figure out the locals." />
-  </sentences>
-</list>

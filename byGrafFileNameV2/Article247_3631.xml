@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3631.anc" start="4178" end="4182" sStart="4154" offset="0" sid="null" wn="2" wnkey="win%2:40:00::" annotator="veweser" text="I have a rule about who &lt;b&gt;wins&lt;/b&gt; the presidency, too." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/13/Article247_3631.anc" start="3636" end="3640" sStart="null" offset="0" sid="null" wn="2" wnkey="tell%2:32:00::" annotator="cgozo" text="My ghastliest show-business moments were spent with Dustin Hoffman, but bad as they were, there were nowhere near as bad as being &lt;b&gt;told&lt;/b&gt; you've flunked an exam you haven't flunked and being forced to go to summer school (and, as the &lt;b&gt;Times&lt;/b&gt; notes today, being punished by your parents for flunking &lt;b&gt;said&lt;/b&gt; exam)." />
-    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3631.anc" start="4353" end="4360" sStart="null" offset="42" sid="r7.strike.v.0120" wn="2" wnkey="strike%2:37:00::" annotator="cgozo" text="And your remark about Jesse Ventura truly strikes fear into my heart." />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3042-ms98-a-trans.anc" start="638" end="644" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="weather &lt;b&gt;people&lt;/b&gt; down here really confused" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3042-ms98-a-trans.anc" start="638" end="644" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="weather &lt;b&gt;people&lt;/b&gt; down here really confused" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/30/sw3042-ms98-a-trans.anc" start="7022" end="7028" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="comcgeetubb" text="but no it's interesting when it gets really cold here and people &lt;b&gt;forget&lt;/b&gt; that they're live in Texas and they don't know how to drive in snow and you know but uh" />
-  </sentences>
-</list>

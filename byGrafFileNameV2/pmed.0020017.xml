@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020017.anc" start="11282" end="11289" sStart="11262" offset="20" sid="r8.suggest.v.0388" wn="3" wnkey="suggest%2:32:02::" annotator="cgozo" text="Data presented here suggest that clinical decisions regarding the use of these agents in patients with lung adenocarcinomas might be improved in the future by pre-treatment mutational profiling of both EGFR and KRAS . These findings warrant validation in large prospective trials using standardized mutation detection techniques." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020017.anc" start="1004" end="1014" sStart="null" offset="94" sid="r8.suggest.v.0192" wn="3" wnkey="suggest%2:32:02::" annotator="cgozo" text="Interestingly, EGFR and KRAS mutations are rarely found in the same tumors, suggesting that they have functionally equivalent roles in lung tumorigenesis ([8]; M. Meyerson, personal communication)." />
-  </sentences>
-</list>

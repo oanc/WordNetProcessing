@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3868.anc" start="11792" end="11796" sStart="11792" offset="0" sid="r11.true.j.0903" wn="1" wnkey="true%3:00:00::" annotator="adelpriore" text="True, and utterly meaningless." />
-    <s path="[OANC]/data/written_1/journal/slate/46/ArticleIP_3868.anc" start="992" end="997" sStart="null" offset="179" sid="r7.sound.n.0354" wn="2147483645" wnkey="null" annotator="jeneale" text="In addition to giving us lifesaving medicines and better products, science and technology are improving our ability to live in an economically robust nation using environmentally sound business practices." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3868.anc" start="8693" end="8700" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="cgozo" text="As a security &lt;b&gt;officer&lt;/b&gt; at Microsoft, I would like to respond to Charles Simonyi's &quot;I Fit the Profile.&quot;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/46/ArticleIP_3868.anc" start="8693" end="8700" sStart="null" offset="0" sid="null" wn="2" wnkey="officer%1:18:02::" annotator="brubin" text="As a security &lt;b&gt;officer&lt;/b&gt; at Microsoft, I would like to respond to Charles Simonyi's &quot;I Fit the Profile.&quot;" />
-  </sentences>
-</list>

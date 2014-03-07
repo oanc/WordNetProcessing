@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4265-ms98-a-trans.anc" start="234" end="239" sStart="-1" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="cgozo" text="well as a person living in one of the areas that's got both the uh one of the most restrictive set of laws and one of the uh highest murder &lt;b&gt;rates&lt;/b&gt; in the uh country" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4265-ms98-a-trans.anc" start="234" end="239" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="well as a person living in one of the areas that's got both the uh one of the most restrictive set of laws and one of the uh highest murder &lt;b&gt;rates&lt;/b&gt; in the uh country" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4265-ms98-a-trans.anc" start="1969" end="1975" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="but uh yeah i may get a &lt;b&gt;chance&lt;/b&gt; to &lt;b&gt;try&lt;/b&gt; out some things i've never &lt;b&gt;tried&lt;/b&gt; out before" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4265-ms98-a-trans.anc" start="1969" end="1975" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="but uh yeah i may get a &lt;b&gt;chance&lt;/b&gt; to &lt;b&gt;try&lt;/b&gt; out some things i've never &lt;b&gt;tried&lt;/b&gt; out before" />
-  </sentences>
-</list>

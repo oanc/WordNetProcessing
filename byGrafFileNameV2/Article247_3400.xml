@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3400.anc" start="2729" end="2736" sStart="-1" offset="0" sid="null" wn="2" wnkey="succeed%2:41:01::" annotator="cgozo" text="But whoever would &lt;b&gt;succeed&lt;/b&gt; Greenspan would be nothing of the sort." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/11/Article247_3400.anc" start="2729" end="2736" sStart="null" offset="0" sid="null" wn="2" wnkey="succeed%2:41:01::" annotator="brubin" text="But whoever would &lt;b&gt;succeed&lt;/b&gt; Greenspan would be nothing of the sort." />
-    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3400.anc" start="1122" end="1126" sStart="null" offset="119" sid="r9.late.j.0634" wn="1" wnkey="late%3:00:00::" annotator="anfahmy" text="It fits our ideas of the 1920s, when the market was incredibly manipulable, or even of the 1980s more than it does the late 1990s." />
-    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3400.anc" start="251" end="254" sStart="null" offset="151" sid="r9.hit.v.0116" wn="4" wnkey="hit%2:38:00::" annotator="brubin" text="If you blinked you missed it, but for a short while yesterday morning the stock and bond markets dived after a rumor that Alan Greenspan was resigning hit the Street." />
-  </sentences>
-</list>

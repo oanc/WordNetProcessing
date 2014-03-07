@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1593.anc" start="2525" end="2530" sStart="2425" offset="100" sid="r9.sense.n.0865" wn="1" wnkey="sense%1:09:05::" annotator="veweser" text="Cow recruits the next generation of Nike wearers by building a bridge between young people's innate sense of play and the next stage--competition." />
-    <s path="[OANC]/data/written_1/journal/slate/27/ArticleIP_1593.anc" start="2261" end="2269" sStart="null" offset="50" sid="r7.familiar.j.0081" wn="" wnkey="null" annotator="ksuderman" text="The spot ends with the Nike slogan that is now as familiar as the swoosh." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/27/ArticleIP_1593.anc" start="2261" end="2269" sStart="null" offset="0" sid="null" wn="1" wnkey="familiar%3:00:00::" annotator="comcgeetubb" text="The spot ends with the Nike slogan that is now as &lt;b&gt;familiar&lt;/b&gt; as the swoosh." />
-  </sentences>
-</list>

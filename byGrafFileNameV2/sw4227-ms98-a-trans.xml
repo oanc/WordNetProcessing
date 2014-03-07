@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4227-ms98-a-trans.anc" start="3425" end="3431" sStart="3337" offset="0" sid="null" wn="1" wnkey="window%1:06:00::" annotator="cgozo" text="trying there's something i was going to tell you and i forgot just totally went out the &lt;b&gt;window&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4227-ms98-a-trans.anc" start="3392" end="3398" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="veweser" text="&lt;b&gt;trying&lt;/b&gt; there's something i was going to tell you and i &lt;b&gt;forgot&lt;/b&gt; just totally went out the window" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4227-ms98-a-trans.anc" start="3392" end="3398" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="tofox" text="&lt;b&gt;trying&lt;/b&gt; there's something i was going to tell you and i &lt;b&gt;forgot&lt;/b&gt; just totally went out the window" />
-  </sentences>
-</list>

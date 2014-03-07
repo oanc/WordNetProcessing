@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4209-ms98-a-trans.anc" start="1322" end="1326" sStart="1309" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="it certainly &lt;b&gt;adds&lt;/b&gt; up quickly yes" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/42/sw4209-ms98-a-trans.anc" start="1089" end="1093" sStart="null" offset="0" sid="null" wn="5" wnkey="add_up%2:32:00::" annotator="brubin" text="yeah that that &lt;b&gt;adds&lt;/b&gt; up" />
-  </sentences>
-</list>

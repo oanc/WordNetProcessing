@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/wsj_0127.anc" start="222" end="227" sStart="210" offset="12" sid="r9.paper.n.0069" wn="3" wnkey="paper%1:10:03::" annotator="veweser" text="The British paper, packaging and publishing concern, said profit from continuing lines fell 10% to #118 million from #130.6 million." />
-    <s path="[MASC]/data/written/wsj_0127.anc" start="222" end="227" sStart="null" offset="12" sid="r9.paper.n.0069" wn="3" wnkey="paper%1:10:03::" annotator="cgozo" text="The British paper, packaging and publishing concern, said profit from continuing lines fell 10% to #118 million from #130.6 million." />
-    <s path="[MASC]/data/written/wsj_0127.anc" start="222" end="227" sStart="null" offset="12" sid="r9.paper.n.0069" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="The British paper, packaging and publishing concern, said profit from continuing lines fell 10% to #118 million from #130.6 million." />
-    <s path="[MASC]/data/written/wsj_0127.anc" start="222" end="227" sStart="null" offset="12" sid="r9.paper.n.0069" wn="3" wnkey="paper%1:10:03::" annotator="anfahmy" text="The British paper, packaging and publishing concern, said profit from continuing lines fell 10% to #118 million from #130.6 million." />
-  </sentences>
-</list>

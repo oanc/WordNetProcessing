@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4056-ms98-a-trans.anc" start="2293" end="2298" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="and uh the &lt;b&gt;rates&lt;/b&gt; that we keep paying seem to keep increasing uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4056-ms98-a-trans.anc" start="2293" end="2298" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="and uh the &lt;b&gt;rates&lt;/b&gt; that we keep paying seem to keep increasing uh" />
-  </sentences>
-</list>

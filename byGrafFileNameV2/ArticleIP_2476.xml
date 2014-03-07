@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/36/ArticleIP_2476.anc" start="2542" end="2549" sStart="2416" offset="0" sid="null" wn="8" wnkey="window%1:06:03::" annotator="veweser" text="This will permit Microsoft to exercise the same type of proprietary control over MS Java applications that it does over other &lt;b&gt;Windows&lt;/b&gt; applications." />
-    <s path="file:/C:/OANC/data/written_1/journal/slate/36/ArticleIP_2476.anc" start="2446" end="2454" sStart="null" offset="0" sid="null" wn="2" wnkey="exercise%2:41:00::" annotator="cgozo" text="This will permit Microsoft to &lt;b&gt;exercise&lt;/b&gt; the same type of proprietary control over MS Java applications that it does over other Windows applications." />
-    <s path="file:/C:/OANC/data/written_1/journal/slate/36/ArticleIP_2476.anc" start="2446" end="2454" sStart="null" offset="0" sid="null" wn="1" wnkey="exercise%2:34:00::" annotator="brubin" text="This will permit Microsoft to &lt;b&gt;exercise&lt;/b&gt; the same type of proprietary control over MS Java applications that it does over other Windows applications." />
-  </sentences>
-</list>

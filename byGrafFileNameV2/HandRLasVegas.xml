@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/travel_guides/berlitz1/HandRLasVegas.anc" start="480" end="491" sStart="461" offset="19" sid="r11.recommend.v.0806" wn="2147483645" wnkey="null" annotator="anfahmy" text="The following is a recommended selection of Las VegasÕs best hotels in four price categories." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/HandRLasVegas.anc" start="1155" end="1160" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="Expect holiday and weekend &lt;b&gt;rates&lt;/b&gt; to be significantly higher, and be sure to ask for specific quotes for your intended stay." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/travel_guides/berlitz1/HandRLasVegas.anc" start="1155" end="1160" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="Expect holiday and weekend &lt;b&gt;rates&lt;/b&gt; to be significantly higher, and be sure to ask for specific quotes for your intended stay." />
-    <s path="[OANC]/data/written_2/travel_guides/berlitz1/HandRLasVegas.anc" start="1212" end="1215" sStart="null" offset="84" sid="r8.ask.v.0283" wn="1" wnkey="ask%2:32:01::" annotator="brubin" text="Expect holiday and weekend rates to be significantly higher, and be sure to ask for specific quotes for your intended stay." />
-  </sentences>
-</list>

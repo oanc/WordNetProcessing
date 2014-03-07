@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2834-ms98-a-trans.anc" start="4722" end="4728" sStart="-1" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="well i think now when both are working they have a more &lt;b&gt;chance&lt;/b&gt; more of a &lt;b&gt;chance&lt;/b&gt; of working together because they're starting out that way" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2834-ms98-a-trans.anc" start="4705" end="4711" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="well i think now when both are working they have a more &lt;b&gt;chance&lt;/b&gt; more of a &lt;b&gt;chance&lt;/b&gt; of working together because they're starting out that way" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2834-ms98-a-trans.anc" start="4722" end="4728" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="tofox" text="well i think now when both are working they have a more &lt;b&gt;chance&lt;/b&gt; more of a &lt;b&gt;chance&lt;/b&gt; of working together because they're starting out that way" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/28/sw2834-ms98-a-trans.anc" start="4705" end="4711" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="well i think now when both are working they have a more &lt;b&gt;chance&lt;/b&gt; more of a &lt;b&gt;chance&lt;/b&gt; of working together because they're starting out that way" />
-  </sentences>
-</list>

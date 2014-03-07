@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/36/ArticleIP_2461.anc" start="4173" end="4178" sStart="-1" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="But by giving absolutely no ground, she gained no sympathy: Everyone thought she was &lt;b&gt;smart&lt;/b&gt;, but no one was reminded she was human." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/36/ArticleIP_2461.anc" start="4173" end="4178" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="But by giving absolutely no ground, she gained no sympathy: Everyone thought she was &lt;b&gt;smart&lt;/b&gt;, but no one was reminded she was human." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/36/ArticleIP_2461.anc" start="4652" end="4656" sStart="null" offset="0" sid="null" wn="4" wnkey="land%1:17:00::" annotator="cgozo" text="&lt;b&gt;Land&lt;/b&gt; mines made it onto the world's agenda because Diana put them there, using only the cameras and good will at her disposal." />
-    <s path="[OANC]/data/written_1/journal/slate/36/ArticleIP_2461.anc" start="1528" end="1531" sStart="null" offset="168" sid="r9.hit.v.0326" wn="4" wnkey="hit%2:38:00::" annotator="anfahmy" text="Even the nontabloid London Sunday Times had the headline &quot;Diana on the Couch&quot;--above a story questioning the princess's mental stability--in the edition that hit British doorsteps (too late to stop) a few hours after her death." />
-  </sentences>
-</list>

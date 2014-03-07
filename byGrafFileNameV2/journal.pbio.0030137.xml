@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0030137.anc" start="2729" end="2735" sStart="2614" offset="0" sid="null" wn="4" wnkey="window%1:17:00::" annotator="veweser" text="The result is that, when the frequency of sound is high, it will produce a peak of vibration near the oval &lt;b&gt;window&lt;/b&gt; (Figure 1A); if the frequency is low, the peak of vibration will be nearer the far (apical) end of the cochlea [10]." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0030137.anc" start="2568" end="2574" sStart="null" offset="0" sid="null" wn="4" wnkey="window%1:17:00::" annotator="brubin" text="The width and flexibility of this membrane increases with distance from the oval &lt;b&gt;window&lt;/b&gt; (the point of entry of sound)." />
-  </sentences>
-</list>

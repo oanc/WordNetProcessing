@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-19.anc" start="10716" end="10719" sStart="10695" offset="21" sid="r7.1.use.v.0773" wn="1" wnkey="use%2:34:01::" annotator="veweser" text="For this purpose, we use T M as the threshold." />
-    <s path="[OANC]/data/written_2/technical/biomed/1471-2164-3-19.anc" start="18816" end="18820" sStart="null" offset="236" sid="r7.1.use.v.0872" wn="1" wnkey="use%2:34:01::" annotator="cgozo" text="The median or mean of a negative control group is regarded an adequate measure for non-specific hybridization [ 13 ] , however, due to low specificity (~50%) we conclude that neither thresholds should be used if maximum specificity is required." />
-  </sentences>
-</list>

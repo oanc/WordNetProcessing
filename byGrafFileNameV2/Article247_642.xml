@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_642.anc" start="2555" end="2561" sStart="2462" offset="93" sid="r7.strike.n.0316" wn="1" wnkey="strike%1:04:00::" annotator="cgozo" text="Astonishing statistic from the WP : GM is so enormous that production losses from the 54-day strike will reduce the United States's 1998 GDP by 0.5%." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_642.anc" start="1695" end="1699" sStart="null" offset="105" sid="r8.ask.v.0189" wn="1" wnkey="ask%2:32:01::" annotator="veweser" text="The corresponding WP editorial applauds the fact that the nation will hear what Lewinsky has to say, and asks the White House to refrain from savaging her." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_642.anc" start="1695" end="1699" sStart="null" offset="105" sid="r8.ask.v.0189" wn="" wnkey="null" annotator="ksuderman" text="The corresponding WP editorial applauds the fact that the nation will hear what Lewinsky has to say, and asks the White House to refrain from savaging her." />
-  </sentences>
-</list>

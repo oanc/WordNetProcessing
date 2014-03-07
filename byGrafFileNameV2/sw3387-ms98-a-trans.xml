@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3387-ms98-a-trans.anc" start="3253" end="3257" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="uh i i i forget the figures on the interest &lt;b&gt;rate&lt;/b&gt; but it's something like uh hundreds of thousands of dollars a second" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3387-ms98-a-trans.anc" start="3253" end="3257" sStart="null" offset="0" sid="null" wn="4" wnkey="rate%1:24:00::" annotator="brubin" text="uh i i i forget the figures on the interest &lt;b&gt;rate&lt;/b&gt; but it's something like uh hundreds of thousands of dollars a second" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3387-ms98-a-trans.anc" start="3218" end="3224" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="comcgeetubb" text="uh i i i &lt;b&gt;forget&lt;/b&gt; the figures on the interest rate but it's something like uh hundreds of thousands of dollars a second" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/33/sw3387-ms98-a-trans.anc" start="3998" end="4001" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="cgozo" text="and then &lt;b&gt;add&lt;/b&gt; on to it" />
-  </sentences>
-</list>

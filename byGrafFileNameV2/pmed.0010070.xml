@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010070.anc" start="3982" end="3986" sStart="3878" offset="104" sid="r10.help.v.0493" wn="1" wnkey="help%2:41:00::" annotator="veweser" text="At least a dozen additional trials that examine STIs are currently recruiting patients and will help answer these questions." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010070.anc" start="2859" end="2867" sStart="null" offset="99" sid="r11.function.n.0566" wn="2" wnkey="function%1:07:00::" annotator="anfahmy" text="However, because they do not see increased therapy failure and find preservation of immune function in the STI group, the authors conclude that, in light of the possibility of reducing costs and drug-related toxicity, additional trials of STIs are warranted." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010070.anc" start="2715" end="2723" sStart="null" offset="147" sid="r11.benefit.n.0920" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="Possible risks and benefits of STIs remain controversial, but data from this and other published trials do not support short-term clinical benefits of treatment interruptions." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0010070.anc" start="2587" end="2595" sStart="null" offset="19" sid="r11.benefit.n.0122" wn="2" wnkey="benefit%1:07:00::" annotator="anfahmy" text="Possible risks and benefits of STIs remain controversial, but data from this and other published trials do not support short-term clinical benefits of treatment interruptions." />
-  </sentences>
-</list>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/ucb50.anc" start="198" end="204" sStart="181" offset="17" sid="null" wn="1" wnkey="try%2:41:00::" annotator="vebatchelder" text="Currently we are trying to upgrade our on-line security measures." />
-    <s path="[MASC]/data/written/ucb50.anc" start="110" end="114" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="vebatchelder" text="You have 1 new message alert" />
-  </sentences>
-</list>

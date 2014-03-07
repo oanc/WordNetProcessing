@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_25713.anc" start="2426" end="2429" sStart="2268" offset="158" sid="r8.way.n.0295" wn="2" wnkey="way%1:04:01::" annotator="brubin" text="Inflation, by definition, occurs when the government increases the money supply faster than the real growth of the economy, because this increase is the only way more money can become available to chase the same number of goods." />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_25713.anc" start="1666" end="1675" sStart="null" offset="6" sid="r11.refer.v.0391" wn="1" wnkey="refer%2:32:01::" annotator="vebatchelder" text="After referring to the USA Today report that economists don't expect rising gasoline prices to trigger inflation, &quot;&quot; concludes with the rhetorical flourish, &quot;Huh--isn't inflation primarily measured as a rate of increase in cost?&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/50/ArticleIP_25713.anc" start="3386" end="3393" sStart="null" offset="46" sid="r11.absence.n.0694" wn="3" wnkey="absence%1:28:00::" annotator="vebatchelder" text="In his &quot;&quot; lamenting Matt Groening's absence from the Comic Journal 's Top 100 list, A.O." />
-  </sentences>
-</list>

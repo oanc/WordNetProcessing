@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3286-ms98-a-trans.anc" start="1905" end="1911" sStart="-1" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="veweser" text="and have &lt;b&gt;become&lt;/b&gt; citizens now" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3286-ms98-a-trans.anc" start="1905" end="1911" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="tofox" text="and have &lt;b&gt;become&lt;/b&gt; citizens now" />
-  </sentences>
-</list>

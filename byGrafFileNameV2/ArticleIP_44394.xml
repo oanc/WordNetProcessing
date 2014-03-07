@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_44394.anc" start="2148" end="2151" sStart="2119" offset="29" sid="r7.1.use.v.0694" wn="1" wnkey="use%2:34:01::" annotator="jeneale" text="While online elections would use fancier technology, they're based on the same premise--that you can send polling authorities a document that will serve as your proxy." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/52/ArticleIP_44394.anc" start="3308" end="3316" sStart="null" offset="0" sid="null" wn="2" wnkey="transfer%2:40:01::" annotator="tofox" text="Banks and insurance companies already use digital signatures to &lt;b&gt;transfer&lt;/b&gt; large sums of money online." />
-    <s path="[OANC]/data/written_1/journal/slate/52/ArticleIP_44394.anc" start="714" end="720" sStart="null" offset="32" sid="r10.board.n.0154" wn="1" wnkey="board%1:14:00::" annotator="anfahmy" text="Buoyed by these hopes, election boards across the country have begun to take tentative steps toward wired elections (many private organizations--most notably universities and unions--already conduct internal elections online)." />
-  </sentences>
-</list>

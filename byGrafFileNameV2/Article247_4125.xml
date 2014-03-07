@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4125.anc" start="5392" end="5395" sStart="5239" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="veweser" text="&quot;Reliable Source&quot; quotes Vernon Jordan's Gridiron Club gala comment about Hillary Clinton's Senate prospects: &quot;I'm praying, of course, that Hillary will &lt;b&gt;win&lt;/b&gt;." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/18/Article247_4125.anc" start="3412" end="3416" sStart="null" offset="0" sid="null" wn="7" wnkey="time%1:28:03::" annotator="carichter" text="The LAT uses its later close &lt;b&gt;time&lt;/b&gt; to file a front-pager on the Republican candidates' debate last night in Arizona." />
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4125.anc" start="1552" end="1559" sStart="null" offset="195" sid="r10.control.n.0624" wn="1" wnkey="control%1:07:00::" annotator="brubin" text="While the story cites maintenance and labor strife as contributing causes, it quotes one airline spokesman as saying that 90 percent of cancellations can be blamed on bad weather and air traffic control problems." />
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4125.anc" start="3114" end="3119" sStart="null" offset="257" sid="r10.board.n.0831" wn="2147483645" wnkey="null" annotator="cgozo" text="The WP and USAT both off-lead the guilty verdict returned yesterday by a federal jury in Miami, against SabreTech Inc. for mishandling hazardous materials linked to the 1996 crash of a ValuJet plane into the Florida Everglades that killed all 110 people on board." />
-  </sentences>
-</list>

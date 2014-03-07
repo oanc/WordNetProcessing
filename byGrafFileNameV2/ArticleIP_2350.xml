@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/35/ArticleIP_2350.anc" start="1764" end="1769" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="For example, the &quot;flat tax&quot; that some people propose involves both a reduction of &lt;b&gt;rates&lt;/b&gt; and an increase in the income subject to tax because of the elimination of various deductions." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/35/ArticleIP_2350.anc" start="1764" end="1769" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="For example, the &quot;flat tax&quot; that some people propose involves both a reduction of &lt;b&gt;rates&lt;/b&gt; and an increase in the income subject to tax because of the elimination of various deductions." />
-  </sentences>
-</list>

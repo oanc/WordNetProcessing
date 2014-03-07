@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3322.anc" start="2663" end="2669" sStart="2627" offset="36" sid="r11.severe.j.0040" wn="2" wnkey="severe%5:00:00:strong:00" annotator="anfahmy" text="A centerpiece of both tax cuts is a severe trimming of the capital-gains tax, which seems like a very odd decision at a time when short-term investing is on the rise and companies are having absolutely no trouble raising capital." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3322.anc" start="2663" end="2669" sStart="null" offset="36" sid="r11.severe.j.0040" wn="6" wnkey="severe%5:00:01:bad:00" annotator="adelpriore" text="A centerpiece of both tax cuts is a severe trimming of the capital-gains tax, which seems like a very odd decision at a time when short-term investing is on the rise and companies are having absolutely no trouble raising capital." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3322.anc" start="1607" end="1615" sStart="null" offset="201" sid="r11.benefit.n.0865" wn="2" wnkey="benefit%1:07:00::" annotator="vebatchelder" text="It's hard to imagine that a cut in today's hardly confiscatory tax rates would do the same, especially when the major beneficiaries of both bills would be the wealthy, who have already reaped enormous benefits from the boom." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3322.anc" start="2873" end="2881" sStart="null" offset="16" sid="r11.benefit.n.0540" wn="2" wnkey="benefit%1:07:00::" annotator="adelpriore" text="Here again, the benefits of this cut will flow almost entirely to the wealthiest, and will solve a problem that currently does not exist (that is, capital scarcity)." />
-  </sentences>
-</list>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/letters/icic/610CVL121.anc" start="59" end="63" sStart="18" offset="41" sid="r9.full.j.0832" wn="2" wnkey="full%5:00:01:whole:00" annotator="brubin" text="The Clinton Birthplace Foundation offers full membership privileges to those who pay only $10." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/letters/icic/610CVL121.anc" start="151" end="157" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="carichter" text="This enables you to &lt;b&gt;become&lt;/b&gt; a member of the foundation." />
-  </sentences>
-</list>

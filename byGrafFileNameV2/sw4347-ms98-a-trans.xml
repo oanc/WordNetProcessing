@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4347-ms98-a-trans.anc" start="4162" end="4169" sStart="4069" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="veweser" text="right they're kind of the leaders right now you know i used to see all those commercials for &lt;b&gt;Windows&lt;/b&gt; you know and you're like oh gee they're reselling a Macintosh under a different name" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4347-ms98-a-trans.anc" start="4530" end="4537" sStart="null" offset="0" sid="null" wn="2147483646" wnkey="null" annotator="veweser" text="exactly almost is the key word there too you know because i i really i've used both and i really don't see an advantage of &lt;b&gt;Windows&lt;/b&gt; at all uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4347-ms98-a-trans.anc" start="6178" end="6182" sStart="null" offset="0" sid="null" wn="3" wnkey="rate%1:07:00::" annotator="cgozo" text="okay what what what baud &lt;b&gt;rate&lt;/b&gt; do you get well you know it used to be that you get a twelve hundred baud" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/43/sw4347-ms98-a-trans.anc" start="6178" end="6182" sStart="null" offset="0" sid="null" wn="1" wnkey="rate%1:28:00::" annotator="brubin" text="okay what what what baud &lt;b&gt;rate&lt;/b&gt; do you get well you know it used to be that you get a twelve hundred baud" />
-  </sentences>
-</list>

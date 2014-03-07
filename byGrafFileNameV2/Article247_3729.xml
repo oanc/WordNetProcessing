@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3729.anc" start="1329" end="1339" sStart="1240" offset="89" sid="r8.suggest.v.0556" wn="1" wnkey="suggest%2:32:00::" annotator="cgozo" text="Amazon has so far used that information in limited ways--occasionally I'll get an e-mail suggesting I might want to buy a new CD that's like other CDs I've bought in the past--but the more products it sells, the more information it will collect and the more the information that will become relevant." />
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3729.anc" start="3422" end="3431" sStart="null" offset="21" sid="r8.1.different.j.0763" wn="1" wnkey="different%3:00:00::" annotator="brubin" text="zShops is a slightly different model, because Amazon will make more on each good, but they'll sell less quickly." />
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3729.anc" start="3332" end="3336" sStart="null" offset="29" sid="r11.able.j.0782" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="This is what Amazon has been able to do in books and what it wants to do in its other businesses." />
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3729.anc" start="1223" end="1227" sStart="null" offset="235" sid="r11.able.j.0116" wn="1" wnkey="able%3:00:00::" annotator="anfahmy" text="What Amazon has recognized from the beginning is that its most valuable asset was not its warehouses or even its Web site but rather the &quot;stickiness&quot; of its customers and the information about their buying habits that it was able to collect." />
-  </sentences>
-</list>

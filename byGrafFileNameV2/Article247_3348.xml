@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3348.anc" start="128" end="132" sStart="89" offset="39" sid="r10.wait.v.0147" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="For the really bad news, we'll have to wait until Friday morning, when the July jobs report is released." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3348.anc" start="3927" end="3931" sStart="null" offset="16" sid="r7.1.easy.j.0807" wn="12" wnkey="easy%5:00:00:abundant:00" annotator="brubin" text="A boom built on easy money is not." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3348.anc" start="2057" end="2063" sStart="null" offset="0" sid="null" wn="2" wnkey="become%2:42:01::" annotator="veweser" text="The only way an economy can &lt;b&gt;become&lt;/b&gt; something more than a bunch of &lt;b&gt;people&lt;/b&gt; taking in each other's washing, that is, the only way an economy can actually improve living standards and increase the collective wealth, is when one of two things happens: Either &lt;b&gt;people&lt;/b&gt; work more hours, changing empty time into a product or service, or &lt;b&gt;people&lt;/b&gt; create more value with those same hours." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3348.anc" start="2057" end="2063" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="tofox" text="The only way an economy can &lt;b&gt;become&lt;/b&gt; something more than a bunch of &lt;b&gt;people&lt;/b&gt; taking in each other's washing, that is, the only way an economy can actually improve living standards and increase the collective wealth, is when one of two things happens: Either &lt;b&gt;people&lt;/b&gt; work more hours, changing empty time into a product or service, or &lt;b&gt;people&lt;/b&gt; create more value with those same hours." />
-  </sentences>
-</list>

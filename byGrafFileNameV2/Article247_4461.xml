@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/21/Article247_4461.anc" start="2472" end="2476" sStart="-1" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" annotator="brubin" text="In a statement released this morning, the candidate &lt;b&gt;said&lt;/b&gt;, &quot;I &lt;b&gt;told&lt;/b&gt; Larry King that I never got the munchies." />
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4461.anc" start="1099" end="1103" sStart="null" offset="140" sid="r10.high.j.0788" wn="7" wnkey="high%5:00:00:intoxicated:00" annotator="brubin" text="But Chatterbox has learned from another source that Gore may not have been truthful when he made the separate claim that he &quot;never got high enough to get the munchies,&quot; as he told CNN's Larry King in 1996." />
-    <s path="[OANC]/data/written_1/journal/slate/21/Article247_4461.anc" start="2880" end="2884" sStart="null" offset="178" sid="r11.dark.j.0148" wn="1" wnkey="dark%3:00:01::" annotator="vebatchelder" text="A few hours later, the Gore campaign headquarters in Nashville, Tenn., made available for inspection by reporters a battered paperback copy of Thomas Kuhn's landmark book with a dark stain in the margin beside the underlined sentence, &quot;One final example of scientific discovery, that of the Leyden jar, belongs to a class that may be described as theory-induced.&quot;" />
-  </sentences>
-</list>

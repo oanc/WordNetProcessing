@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2145-ms98-a-trans.anc" start="6717" end="6721" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="i mean that is you know just a a &lt;b&gt;rate&lt;/b&gt; that you have to pay" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2145-ms98-a-trans.anc" start="6717" end="6721" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="i mean that is you know just a a &lt;b&gt;rate&lt;/b&gt; that you have to pay" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2145-ms98-a-trans.anc" start="2399" end="2404" sStart="null" offset="0" sid="null" wn="4" wnkey="force%1:14:00::" annotator="veweser" text="uh let's see i guess basically starting junior high and the younger was in fifth grade when my wife reentered the work &lt;b&gt;force&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2145-ms98-a-trans.anc" start="2399" end="2404" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="uh let's see i guess basically starting junior high and the younger was in fifth grade when my wife reentered the work &lt;b&gt;force&lt;/b&gt;" />
-  </sentences>
-</list>

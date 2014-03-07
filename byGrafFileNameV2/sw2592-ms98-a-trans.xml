@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2592-ms98-a-trans.anc" start="2282" end="2288" sStart="-1" offset="0" sid="null" wn="" wnkey="null" annotator="tofox" text="i guess when she went uh was in the first grade brought home a note saying uh we're getting up a soccer team and we're getting a &lt;b&gt;chance&lt;/b&gt; to play soccer" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2592-ms98-a-trans.anc" start="2282" end="2288" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="comcgeetubb" text="i guess when she went uh was in the first grade brought home a note saying uh we're getting up a soccer team and we're getting a &lt;b&gt;chance&lt;/b&gt; to play soccer" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2592-ms98-a-trans.anc" start="2282" end="2288" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="i guess when she went uh was in the first grade brought home a note saying uh we're getting up a soccer team and we're getting a &lt;b&gt;chance&lt;/b&gt; to play soccer" />
-  </sentences>
-</list>

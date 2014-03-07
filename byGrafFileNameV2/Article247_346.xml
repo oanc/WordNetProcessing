@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/2/Article247_346.anc" start="2615" end="2620" sStart="-1" offset="0" sid="null" wn="1" wnkey="tell%2:32:04::" annotator="cgozo" text="He &lt;b&gt;tells&lt;/b&gt; the Post he's on the case &quot;because the United States has big interests out there.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_346.anc" start="1209" end="1218" sStart="null" offset="9" sid="r8.suggest.v.0792" wn="3" wnkey="suggest%2:32:02::" annotator="cgozo" text="'Someone suggested that was a homeless person out there,' the scientist joked.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_346.anc" start="1161" end="1165" sStart="null" offset="220" sid="r11.dark.j.0144" wn="2" wnkey="dark%3:00:02::" annotator="adelpriore" text="The paper mentions a mysterious object in the landing area that scientists are anxious to investigate with the rover, and quotes mission team member Dr. Peter Smith as saying that it &quot;appeared to be something long, dark and shaped a little like a couch." />
-  </sentences>
-</list>

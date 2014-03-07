@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2180.anc" start="1870" end="1879" sStart="1861" offset="9" sid="r11.recommend.v.0160" wn="1" wnkey="recommend%2:32:01::" annotator="vebatchelder" text="Would he recommend hoping for the best?" />
-    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2180.anc" start="1287" end="1298" sStart="null" offset="105" sid="r11.recommend.v.0159" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text=") Have we missed some other juncture, in the course of human events, at which the Journal would not have recommended that we all hope for the best?" />
-    <s path="[OANC]/data/written_1/journal/slate/33/ArticleIP_2180.anc" start="1909" end="1919" sStart="null" offset="8" sid="r10.particular.j.0139" wn="2" wnkey="particular%5:00:02:specific:00" annotator="cgozo" text="At this particular juncture?" />
-  </sentences>
-</list>

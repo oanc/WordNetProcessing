@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5428.anc" start="5329" end="5336" sStart="5325" offset="4" sid="r10.wait.v.0493" wn="1" wnkey="wait%2:42:00::" annotator="veweser" text="(No waiting around for stale, shopworn news and reviews to be delivered once a week and days late by certain newsmagazines we don't care to mention.)" />
-    <s path="[OANC]/data/written_1/journal/slate/48/ArticleIP_5428.anc" start="4309" end="4318" sStart="null" offset="97" sid="r9.appear.v.0187" wn="2" wnkey="appear%2:30:00::" annotator="cgozo" text="In fact, no one can recall ever exchanging a word with Mr. Lewis before his absurd reports began appearing on our site." />
-  </sentences>
-</list>

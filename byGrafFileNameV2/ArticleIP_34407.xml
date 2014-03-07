@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34407.anc" start="1181" end="1185" sStart="1152" offset="0" sid="null" wn="1" wnkey="read%2:31:00::" annotator="cgozo" text="&quot;Most people--even those who &lt;b&gt;read&lt;/b&gt; editorial and op-ed pages--do not want to encounter opposing views,&quot; he mourned in What I Think . &quot;They want to be massaged not informed.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34407.anc" start="1701" end="1706" sStart="null" offset="37" sid="r8.1.great.j.0668" wn="2" wnkey="great%5:00:01:important:00" annotator="cgozo" text="Unfortunately one of Herb's all-time great pieces of parody, written for the Wall Street Journal , on whose Board of Contributors he sat for more than two decades, is not available on the Web." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_34407.anc" start="1772" end="1777" sStart="null" offset="108" sid="r10.board.n.0630" wn="1" wnkey="board%1:14:00::" annotator="anfahmy" text="Unfortunately one of Herb's all-time great pieces of parody, written for the Wall Street Journal , on whose Board of Contributors he sat for more than two decades, is not available on the Web." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/51/ArticleIP_34407.anc" start="220" end="225" sStart="null" offset="0" sid="null" wn="2" wnkey="add%2:32:01::" annotator="veweser" text="&quot;A reviewer once said that I was the master of the 'Don't Know' school of economics,&quot; wrote Herbert Stein in his last book, What I Think . And then he &lt;b&gt;added&lt;/b&gt;, &quot;I don't know that I am the master of it, but I surely avow membership in it more openly than most other economists do.&quot;" />
-  </sentences>
-</list>

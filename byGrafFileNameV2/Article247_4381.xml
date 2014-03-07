@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4381.anc" start="3833" end="3837" sStart="3822" offset="11" sid="r11.true.j.0940" wn="1" wnkey="true%3:00:00::" annotator="vebatchelder" text="Bush : Not true." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4381.anc" start="8241" end="8245" sStart="null" offset="40" sid="r9.kill.v.0258" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="Bush : Seems like to me `Thou Shalt Not Kill' is pretty universal." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4381.anc" start="7009" end="7013" sStart="null" offset="24" sid="r10.help.v.0496" wn="1" wnkey="help%2:41:00::" annotator="brubin" text="Forbes : Flat tax would help stay-at-home moms." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4381.anc" start="5014" end="5021" sStart="null" offset="21" sid="r10.control.n.0997" wn="2" wnkey="control%1:24:00::" annotator="veweser" text="Keyes : Consolidated control of the banking system at the federal level." />
-  </sentences>
-</list>

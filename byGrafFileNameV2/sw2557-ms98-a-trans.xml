@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2557-ms98-a-trans.anc" start="5536" end="5540" sStart="-1" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="cgozo" text="like where i live at any &lt;b&gt;rate&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2557-ms98-a-trans.anc" start="5536" end="5540" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="like where i live at any &lt;b&gt;rate&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2557-ms98-a-trans.anc" start="3177" end="3184" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="cgozo" text="well i i was just &lt;b&gt;curious&lt;/b&gt; as how you got hooked up with this this speech type of thing if" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2557-ms98-a-trans.anc" start="3177" end="3184" sStart="null" offset="0" sid="null" wn="2" wnkey="curious%3:00:00::" annotator="brubin" text="well i i was just &lt;b&gt;curious&lt;/b&gt; as how you got hooked up with this this speech type of thing if" />
-  </sentences>
-</list>

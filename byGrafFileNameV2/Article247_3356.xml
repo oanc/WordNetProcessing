@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3356.anc" start="3652" end="3658" sStart="3491" offset="171" sid="r11.strong.j.0482" wn="1" wnkey="strong%3:00:00::" annotator="anfahmy" text="Among the dissenters: Novak thinks cocaine use is &quot;an irrelevant question in politics,&quot; and O'Beirne and Williams say it won't matter because Bush's lead is too strong." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3356.anc" start="1623" end="1631" sStart="null" offset="0" sid="null" wn="4" wnkey="exercise%1:04:01::" annotator="veweser" text="Some say her probable New York senate campaign is a public &lt;b&gt;exercise&lt;/b&gt; of marital therapy ( Capitol Gang's Kate O'Beirne and McLaughlin's Tony Blankley)." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3356.anc" start="1623" end="1631" sStart="null" offset="0" sid="null" wn="3" wnkey="exercise%1:04:02::" annotator="cgozo" text="Some say her probable New York senate campaign is a public &lt;b&gt;exercise&lt;/b&gt; of marital therapy ( Capitol Gang's Kate O'Beirne and McLaughlin's Tony Blankley)." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/10/Article247_3356.anc" start="1623" end="1631" sStart="null" offset="0" sid="null" wn="2" wnkey="exercise%1:04:03::" annotator="brubin" text="Some say her probable New York senate campaign is a public &lt;b&gt;exercise&lt;/b&gt; of marital therapy ( Capitol Gang's Kate O'Beirne and McLaughlin's Tony Blankley)." />
-  </sentences>
-</list>

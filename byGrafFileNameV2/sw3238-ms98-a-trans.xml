@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3238-ms98-a-trans.anc" start="2601" end="2606" sStart="-1" offset="0" sid="null" wn="4" wnkey="force%1:14:00::" annotator="veweser" text="you know there's more women more and more women going into the work &lt;b&gt;force&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/32/sw3238-ms98-a-trans.anc" start="2601" end="2606" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="you know there's more women more and more women going into the work &lt;b&gt;force&lt;/b&gt;" />
-  </sentences>
-</list>

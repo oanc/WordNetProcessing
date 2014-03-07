@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/2/Article247_388.anc" start="2691" end="2697" sStart="2615" offset="76" sid="r8.number.n.0977" wn="1" wnkey="number%1:07:00::" annotator="veweser" text="This is in effect, an example of stealth heath care reform, as reducing the number of specialists was one of the Clinton health plan goals." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/2/Article247_388.anc" start="342" end="349" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="veweser" text="This choice by the LAT is &lt;b&gt;curious&lt;/b&gt;." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/2/Article247_388.anc" start="342" end="349" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="cgozo" text="This choice by the LAT is &lt;b&gt;curious&lt;/b&gt;." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/2/Article247_388.anc" start="342" end="349" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="brubin" text="This choice by the LAT is &lt;b&gt;curious&lt;/b&gt;." />
-  </sentences>
-</list>

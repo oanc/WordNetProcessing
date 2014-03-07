@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_648.anc" start="3189" end="3199" sStart="3044" offset="145" sid="r11.recommend.v.0240" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text="Benford's Law shows that in any given number, the first digit is most likely to be 1. (For the reasoning behind this astonishing fact, TP highly recommends reading the article in full.)" />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_648.anc" start="3223" end="3227" sStart="null" offset="179" sid="r9.full.j.0188" wn="3" wnkey="full%5:00:00:complete:00" annotator="brubin" text="Benford's Law shows that in any given number, the first digit is most likely to be 1. (For the reasoning behind this astonishing fact, TP highly recommends reading the article in full.)" />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_648.anc" start="45" end="51" sStart="null" offset="7" sid="r8.family.n.0798" wn="2" wnkey="family%1:14:00::" annotator="jeneale" text="We Are Family" />
-  </sentences>
-</list>

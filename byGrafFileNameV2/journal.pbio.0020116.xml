@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/journal.pbio.0020116.anc" start="11193" end="11200" sStart="-1" offset="0" sid="null" wn="2" wnkey="write%2:32:00::" annotator="tofox" text="Indeed, already, sadly as a result of the way the sections on aging research in the report were &lt;b&gt;written&lt;/b&gt;, the myth that longevity has an inevitable tradeoff of diminished fertility is now gaining a further foothold: witness the January 26, 2004, issue of the The New Republic . In it, an article about this report of the Council falls right into the trap: it states, ÒBut changes come with longer life." />
-    <s path="[OANC]/data/written_2/technical/plos/journal.pbio.0020116.anc" start="1636" end="1642" sStart="null" offset="63" sid="r11.strong.j.0761" wn="2" wnkey="strong%5:00:00:intense:00" annotator="anfahmy" text="We were also aware that some others on the Council had strong opposing views." />
-  </sentences>
-</list>

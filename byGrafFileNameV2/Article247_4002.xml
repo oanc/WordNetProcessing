@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4002.anc" start="2738" end="2743" sStart="-1" offset="0" sid="null" wn="1" wnkey="rapid%5:00:00:fast:01" annotator="veweser" text="The viral spread of information on the Internet, the incredibly &lt;b&gt;rapid&lt;/b&gt; and inexpensive growth of user communities and businesses, the facilitation of global market relationships: These are the hallmarks of the Net--not merely in the minds of the digerati but also in the minds of investors." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/17/Article247_4002.anc" start="2738" end="2743" sStart="null" offset="0" sid="null" wn="2" wnkey="rapid%5:00:02:fast:01" annotator="carichter" text="The viral spread of information on the Internet, the incredibly &lt;b&gt;rapid&lt;/b&gt; and inexpensive growth of user communities and businesses, the facilitation of global market relationships: These are the hallmarks of the Net--not merely in the minds of the digerati but also in the minds of investors." />
-    <s path="[OANC]/data/written_1/journal/slate/17/Article247_4002.anc" start="3801" end="3810" sStart="null" offset="271" sid="r11.function.n.0667" wn="3" wnkey="function%1:04:00::" annotator="vebatchelder" text="But the truth, banal as it may seem, is that we still don't really know very much about how the potentially democratizing Internet really functions in a thoroughly undemocratic society, just as we don't really know very much about how the market-revolutionizing Internet functions in a non-capitalist economy." />
-  </sentences>
-</list>

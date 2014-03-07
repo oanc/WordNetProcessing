@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/13/Article247_3623.anc" start="3031" end="3035" sStart="-1" offset="0" sid="null" wn="" wnkey="null" annotator="rstandig" text="But in the &lt;b&gt;long&lt;/b&gt; run, what has worked best is what the company could not at all provide, except inadvertently: conflict and difficulty." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/13/Article247_3623.anc" start="3031" end="3035" sStart="null" offset="0" sid="null" wn="1" wnkey="long%3:00:02::" annotator="cgozo" text="But in the &lt;b&gt;long&lt;/b&gt; run, what has worked best is what the company could not at all provide, except inadvertently: conflict and difficulty." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3623.anc" start="2444" end="2451" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="cgozo" text="And in a &lt;b&gt;curious&lt;/b&gt; way, it has turned out to be just that." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/13/Article247_3623.anc" start="2444" end="2451" sStart="null" offset="0" sid="null" wn="1" wnkey="curious%5:00:00:strange:00" annotator="brubin" text="And in a &lt;b&gt;curious&lt;/b&gt; way, it has turned out to be just that." />
-  </sentences>
-</list>

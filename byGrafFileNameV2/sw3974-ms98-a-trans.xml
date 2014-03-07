@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3974-ms98-a-trans.anc" start="137" end="141" sStart="125" offset="0" sid="null" wn="1" wnkey="meet%2:38:01::" annotator="brubin" text="and nice to &lt;b&gt;meet&lt;/b&gt; you are you um" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/39/sw3974-ms98-a-trans.anc" start="326" end="334" sStart="null" offset="0" sid="null" wn="3" wnkey="familiar%5:00:00:informed:00" annotator="tofox" text="oh i'm from Wisconsin Kenosha yeah i'm not very &lt;b&gt;familiar&lt;/b&gt; with Texas" />
-  </sentences>
-</list>

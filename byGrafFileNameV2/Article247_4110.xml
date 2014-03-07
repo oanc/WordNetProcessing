@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4110.anc" start="3484" end="3489" sStart="3461" offset="23" sid="r9.sense.n.0912" wn="1" wnkey="sense%1:09:05::" annotator="brubin" text="With Bush one gets the sense that a lot of politics is personal." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4110.anc" start="870" end="874" sStart="null" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="carichter" text="&lt;b&gt;Part&lt;/b&gt; of it is context." />
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4110.anc" start="1681" end="1684" sStart="null" offset="39" sid="r9.hit.v.0167" wn="10" wnkey="hit%2:33:00::" annotator="cgozo" text="Hume's a pretty nice guy, so he didn't hit Bush with the obvious and tempting follow-up questions: A book about Dean Acheson, huh?" />
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4110.anc" start="328" end="332" sStart="null" offset="227" sid="r7.1.easy.j.0045" wn="12" wnkey="easy%5:00:00:abundant:00" annotator="veweser" text="I was happy to see you refer to a restaurant where &quot;people smoke freely at their tables&quot; as &quot;unsullied,&quot; just as I was discouraged but not surprised to learn that cowboys in Marfa, Texas, are dreaming about easy IPO riches." />
-  </sentences>
-</list>

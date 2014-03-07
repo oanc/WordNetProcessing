@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/20/Article247_4353.anc" start="3543" end="3547" sStart="-1" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" annotator="carichter" text="He's quoted in two different WP front-pagers and by the LAT . Although to be &lt;b&gt;fair&lt;/b&gt;, if he weren't quoted there would hardly be any doubts raised in the dailies at all about the wonderful wonderfullitude of it all." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4353.anc" start="3440" end="3444" sStart="null" offset="113" sid="r10.book.n.0752" wn="1" wnkey="book%1:10:00::" annotator="brubin" text="Today's expert on a stick is one Robert McChesney, a professor at the University of Illinois and the author of a book about media mergers." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4353.anc" start="1913" end="1917" sStart="null" offset="76" sid="r11.able.j.0787" wn="1" wnkey="able%3:00:00::" annotator="vebatchelder" text="The WP points out that AOL has only one-fifth the revenue of TW, but it was able to handle the deal because it has four times as much profit and a much higher stock value." />
-  </sentences>
-</list>

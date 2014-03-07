@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2328-ms98-a-trans.anc" start="6492" end="6496" sStart="6407" offset="0" sid="null" wn="1" wnkey="warm%3:00:01::" annotator="veweser" text="and he ate dinner and his work was outside and in the winter time by the time he was &lt;b&gt;warm&lt;/b&gt; he was asleep so it wasn't that he was" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2328-ms98-a-trans.anc" start="2307" end="2314" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="veweser" text="but if he &lt;b&gt;forgets&lt;/b&gt; i &lt;b&gt;try&lt;/b&gt; to to help him remember" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2328-ms98-a-trans.anc" start="2307" end="2314" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="but if he &lt;b&gt;forgets&lt;/b&gt; i &lt;b&gt;try&lt;/b&gt; to to help him remember" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2328-ms98-a-trans.anc" start="2307" end="2314" sStart="null" offset="0" sid="null" wn="3" wnkey="forget%2:31:03::" annotator="carichter" text="but if he &lt;b&gt;forgets&lt;/b&gt; i &lt;b&gt;try&lt;/b&gt; to to help him remember" />
-  </sentences>
-</list>

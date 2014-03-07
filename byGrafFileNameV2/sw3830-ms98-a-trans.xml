@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3830-ms98-a-trans.anc" start="2828" end="2832" sStart="-1" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="cgozo" text="even at a group &lt;b&gt;rate&lt;/b&gt; i couldn't believe how much is our" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3830-ms98-a-trans.anc" start="2828" end="2832" sStart="null" offset="0" sid="null" wn="2" wnkey="rate%1:21:00::" annotator="brubin" text="even at a group &lt;b&gt;rate&lt;/b&gt; i couldn't believe how much is our" />
-  </sentences>
-</list>

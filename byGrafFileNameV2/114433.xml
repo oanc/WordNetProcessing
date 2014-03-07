@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/114433.anc" start="1010" end="1021" sStart="972" offset="38" sid="null" wn="" wnkey="null" annotator="ksuderman" text="Best Regards, Bob Stone Product Development Floor Shield USA 26 Railroad Ave #190 Babylon, NY 11702 This email was sent to xxx@xxx.xxx." />
-    <s path="[MASC]/data/written/114433.anc" start="1010" end="1021" sStart="null" offset="38" sid="null" wn="1" wnkey="development%1:04:01::" annotator="anfahmy" text="Best Regards, Bob Stone Product Development Floor Shield USA 26 Railroad Ave #190 Babylon, NY 11702 This email was sent to xxx@xxx.xxx." />
-    <s path="[MASC]/data/written/114433.anc" start="48" end="52" sStart="null" offset="65" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="To: &quot;xxx&quot; From: &quot;&quot; Reply-To: Subject: Date: Sun, 27 Feb 2011 02:58:05 -0600" />
-  </sentences>
-</list>

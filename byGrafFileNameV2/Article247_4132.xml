@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/18/Article247_4132.anc" start="1720" end="1725" sStart="1530" offset="190" sid="r8.state.n.0940" wn="1" wnkey="state%1:15:01::" annotator="cgozo" text="It's totally unfair that Internet businesses can sell their wares without making customers pay state sales taxes, given that bricks-and-mortar stores are obliged to make their customers pay state sales taxes." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/18/Article247_4132.anc" start="1871" end="1875" sStart="null" offset="0" sid="null" wn="6" wnkey="lose%2:40:06::" annotator="veweser" text="A reasonable alternative to taxing Internet commerce would be for all 50 states to eliminate sales taxes altogether and make up the &lt;b&gt;lost&lt;/b&gt; revenue with increased or new state income taxes." />
-  </sentences>
-</list>

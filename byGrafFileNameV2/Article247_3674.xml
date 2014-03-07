@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3674.anc" start="2092" end="2100" sStart="2062" offset="40" sid="r8.suggest.v.0959" wn="2" wnkey="suggest%2:32:04::" annotator="brubin" text="What &quot;Bush understands,&quot; Will suggests, is that &quot;the wise leader should strive to have intellectuals on tap and not be one himself.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3674.anc" start="248" end="258" sStart="null" offset="3" sid="r10.particular.j.0790" wn="3" wnkey="particular%5:00:00:uncommon:00" annotator="anfahmy" text="In particular, Will asked Jackson, &quot;As president, would you support measures such as the G-7 measures in the Louvre accords?&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/13/Article247_3674.anc" start="117" end="125" sStart="null" offset="36" sid="r9.appear.v.0872" wn="6" wnkey="appear%2:36:00::" annotator="brubin" text="In January 1988, when Jesse Jackson appeared on ABC's This Week , George Will asked him a series of questions designed to expose Jackson's deception and ignorance." />
-  </sentences>
-</list>

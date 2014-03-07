@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3402-ms98-a-trans.anc" start="3242" end="3245" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="but i i think people &lt;b&gt;try&lt;/b&gt; to on the on TV i think they &lt;b&gt;try&lt;/b&gt; to throw in good stuff but it doesn't uh it doesn't sway the vote" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3402-ms98-a-trans.anc" start="3242" end="3245" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="carichter" text="but i i think people &lt;b&gt;try&lt;/b&gt; to on the on TV i think they &lt;b&gt;try&lt;/b&gt; to throw in good stuff but it doesn't uh it doesn't sway the vote" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3402-ms98-a-trans.anc" start="3873" end="3880" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="cgozo" text="what they call ambulance chasing and go after it you know it's quite easy to go after and follow a fire department or a police &lt;b&gt;officer&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3402-ms98-a-trans.anc" start="3873" end="3880" sStart="null" offset="0" sid="null" wn="3" wnkey="police_officer%1:18:00::" annotator="brubin" text="what they call ambulance chasing and go after it you know it's quite easy to go after and follow a fire department or a police &lt;b&gt;officer&lt;/b&gt;" />
-  </sentences>
-</list>

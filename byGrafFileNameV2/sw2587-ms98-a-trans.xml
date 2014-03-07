@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2587-ms98-a-trans.anc" start="5788" end="5795" sStart="-1" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="oh well we we've just got slight &lt;b&gt;chances&lt;/b&gt; of rain but uh we had the we had the hard thunderstorms the other morning course while everybody was getting ready to go to work" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2587-ms98-a-trans.anc" start="5726" end="5733" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="veweser" text="oh well we we've just got slight &lt;b&gt;chances&lt;/b&gt; of rain" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2587-ms98-a-trans.anc" start="5788" end="5795" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="tofox" text="oh well we we've just got slight &lt;b&gt;chances&lt;/b&gt; of rain but uh we had the we had the hard thunderstorms the other morning course while everybody was getting ready to go to work" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2587-ms98-a-trans.anc" start="5726" end="5733" sStart="null" offset="0" sid="null" wn="4" wnkey="chance%1:07:00::" annotator="tofox" text="oh well we we've just got slight &lt;b&gt;chances&lt;/b&gt; of rain" />
-  </sentences>
-</list>

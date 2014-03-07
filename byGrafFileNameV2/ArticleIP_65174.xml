@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_65174.anc" start="145" end="148" sStart="85" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="veweser" text="It's too early to know whether Bill Bradley or Al Gore will &lt;b&gt;win&lt;/b&gt; the Arizona Democratic Party primary on March 11, 2000." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/54/ArticleIP_65174.anc" start="3287" end="3291" sStart="null" offset="0" sid="null" wn="6" wnkey="date%1:28:05::" annotator="brubin" text="According to the company, voters will be able to verify their identity using their &lt;b&gt;date&lt;/b&gt; of birth and a digital signature." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4305.anc" start="1014" end="1018" sStart="867" offset="147" sid="r11.true.j.0755" wn="2147483646" wnkey="null" annotator="anfahmy" text="It didn't serve him so well this week, when his dire warnings that Y2K computer glitches would create a massive worldwide recession failed to come true." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4305.anc" start="1276" end="1282" sStart="null" offset="59" sid="r7.strike.n.0146" wn="2147483645" wnkey="null" annotator="jeneale" text="In other words, fully 27 percent of the films Yardeni sees strike him as being either great or terrible." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4305.anc" start="877" end="882" sStart="null" offset="10" sid="r7.serve.v.0548" wn="8" wnkey="serve_well%2:42:00::" annotator="cgozo" text="It didn't serve him so well this week, when his dire warnings that Y2K computer glitches would create a massive worldwide recession failed to come true." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4305.anc" start="1938" end="1945" sStart="null" offset="126" sid="r9.appear.v.0963" wn="4" wnkey="appear%2:39:01::" annotator="cgozo" text="All but one of Yardeni's &quot;great or terrible&quot; ratings fall in the &quot;great&quot; category; the only movie Yardeni appears to have outright hated in recent years was Boogie Nights ,* a film that Chatterbox would assign at least one plus sign." />
-  </sentences>
-</list>

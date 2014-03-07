@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_2/technical/plos/pmed.0020055.anc" start="5931" end="5935" sStart="-1" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="elstickles" text="But although the &lt;b&gt;time&lt;/b&gt; might have gone when the two-dimensional journal article could suffice for complex papers, clinicians should nonetheless apply the same critical assessment that they would for any other clinical tool." />
-    <s path="file:/c:/OANC/data/written_2/technical/plos/pmed.0020055.anc" start="5931" end="5935" sStart="null" offset="0" sid="null" wn="3" wnkey="time%1:28:00::" annotator="carichter" text="But although the &lt;b&gt;time&lt;/b&gt; might have gone when the two-dimensional journal article could suffice for complex papers, clinicians should nonetheless apply the same critical assessment that they would for any other clinical tool." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020055.anc" start="2667" end="2678" sStart="null" offset="5" sid="r11.recommend.v.0787" wn="1" wnkey="recommend%2:32:01::" annotator="vebatchelder" text="They recommended that molecular prognostic studies be classified as phase 1 (early exploratory probing associations), phase 2 (exploratory with extensive analyses), or phase 3 (large confirmatory studies with pre-stated hypotheses and precise quantification of the magnitude of the effect), and that only studies that had undergone phase 3 testing should be considered robust enough for use in clinical practice." />
-  </sentences>
-</list>

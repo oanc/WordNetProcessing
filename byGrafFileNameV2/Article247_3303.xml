@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3303.anc" start="3541" end="3547" sStart="3315" offset="226" sid="r7.strike.n.0102" wn="2" wnkey="strike%1:04:02::" annotator="jeneale" text="The NYT reports that immediately after last summer's terrorist bombing of two American embassies in Africa, the government of Sudan detained two suspects, only to angrily release them after the U.S. conducted a cruise missile strike against an alleged chemical weapons facility in Sudan." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3303.anc" start="3613" end="3618" sStart="null" offset="10" sid="r9.paper.n.0784" wn="3" wnkey="paper%1:10:03::" annotator="brubin" text="Also, the paper says, Sudanese officials claim that the U.S. ignored their message that they had suspects in the case in custody." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3303.anc" start="200" end="206" sStart="null" offset="113" sid="r9.kill.v.0233" wn="1" wnkey="kill%2:35:00::" annotator="veweser" text="USA Today , the Washington Post and the New York Times lead with the shooting rampage in Atlanta, in which a man killed nine people in two office buildings and then shot himself in the head as police closed in." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3303.anc" start="2716" end="2720" sStart="null" offset="40" sid="r9.fold.v.0147" wn="2147483645" wnkey="null" annotator="cgozo" text="The WP and LAT play the story below the fold, the NYT reefers it, and USAT runs it on Page 5." />
-  </sentences>
-</list>

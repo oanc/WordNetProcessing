@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/22/sw2291-ms98-a-trans.anc" start="525" end="531" sStart="-1" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="veweser" text="it's very difficult and i've after almost two years i've &lt;b&gt;become&lt;/b&gt; a little bit disillusioned and i'm not real sure that" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/22/sw2291-ms98-a-trans.anc" start="525" end="531" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="tofox" text="it's very difficult and i've after almost two years i've &lt;b&gt;become&lt;/b&gt; a little bit disillusioned and i'm not real sure that" />
-  </sentences>
-</list>

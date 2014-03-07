@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_11109.anc" start="1322" end="1327" sStart="1284" offset="38" sid="r7.serve.v.0258" wn="1" wnkey="serve%2:42:03::" annotator="jeneale" text="It's the only item that couldn't also serve as the title of a late-night, soft-core movie on Cinemax." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_11109.anc" start="2617" end="2626" sStart="null" offset="36" sid="r11.recommend.v.0231" wn="1" wnkey="recommend%2:32:01::" annotator="adelpriore" text="Or to put it another way, voting to recommend impeachment in our advanced democracy was that noted historian and constitutional scholar Mary Bono." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_11109.anc" start="2738" end="2742" sStart="null" offset="10" sid="r7.1.easy.j.0955" wn="2147483647" wnkey="null" annotator="brubin" text="So I'd go easy on the swaggering if I were me." />
-    <s path="[OANC]/data/written_1/journal/slate/49/ArticleIP_11109.anc" start="328" end="334" sStart="null" offset="127" sid="r9.appear.v.0435" wn="3" wnkey="appear%2:30:01::" annotator="cgozo" text="That's the caption to a grim front-page photo in today's New York Times . Participants are invited to submit a caption sure to appear on the front of any paper the day after the House votes on impeachment." />
-  </sentences>
-</list>

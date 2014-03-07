@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3991.anc" start="5705" end="5710" sStart="5566" offset="139" sid="r8.state.n.0688" wn="1" wnkey="state%1:15:01::" annotator="cgozo" text="Jim Hodges asked the NAACP to drop the boycott on the condition that he push for a bill designating Martin Luther King Jr.'s birthday as a state holiday." />
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3991.anc" start="711" end="717" sStart="null" offset="34" sid="r9.kill.v.0589" wn="1" wnkey="kill%2:35:00::" annotator="veweser" text="The WP says that dozens have been killed and hundreds injured; the LAT goes with 120 dead and 500 injured." />
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3991.anc" start="624" end="627" sStart="null" offset="228" sid="r9.hit.v.0158" wn="4" wnkey="hit%2:38:00::" annotator="anfahmy" text="All three papers report that the Turkish quake registered a 7.2 on the standard measuring scale (the August 17 one was a 7.4) and was closely centered in the Bolu province, halfway between Istanbul and Ankara (the August 17 one hit Bolu, but its impact spanned a much wider area)." />
-    <s path="[OANC]/data/written_1/journal/slate/16/Article247_3991.anc" start="4481" end="4487" sStart="null" offset="19" sid="r10.common.j.0726" wn="2" wnkey="common%3:00:01::" annotator="anfahmy" text="Trans fatty acids, common in margarines and baked goods, are unanimously thought by nutritionists to contribute to heart disease." />
-  </sentences>
-</list>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2773-ms98-a-trans.anc" start="9633" end="9639" sStart="-1" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="he was checking to see if i was going to stay in because i've been so busy with this presidential search i haven't had a &lt;b&gt;chance&lt;/b&gt; to really do any calling myself" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2773-ms98-a-trans.anc" start="9633" end="9639" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="he was checking to see if i was going to stay in because i've been so busy with this presidential search i haven't had a &lt;b&gt;chance&lt;/b&gt; to really do any calling myself" />
-  </sentences>
-</list>

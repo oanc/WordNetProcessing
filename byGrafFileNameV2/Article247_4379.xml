@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4379.anc" start="626" end="631" sStart="583" offset="43" sid="r11.refer.v.0333" wn="6" wnkey="refer%2:32:00::" annotator="adelpriore" text="(In informal conversation, lama is used to refer to any Tibetan Buddhist monk.)" />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4379.anc" start="570" end="581" sStart="null" offset="177" sid="r1.development.n.0079" wn="" wnkey="null" annotator="sophiavv" text="Lama, which translates as &quot;superior one,&quot; is a title officially extended only to the few dozen Tibetan Buddhist monks who have achieved the highest level of spiritual development." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4379.anc" start="570" end="581" sStart="null" offset="177" sid="r1.development.n.0079" wn="2" wnkey="development%1:22:02::" annotator="anfahmy" text="Lama, which translates as &quot;superior one,&quot; is a title officially extended only to the few dozen Tibetan Buddhist monks who have achieved the highest level of spiritual development." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4379.anc" start="570" end="581" sStart="null" offset="177" sid="r1.development.n.0079" wn="2" wnkey="development%1:22:02::" annotator="adelpriore" text="Lama, which translates as &quot;superior one,&quot; is a title officially extended only to the few dozen Tibetan Buddhist monks who have achieved the highest level of spiritual development." />
-  </sentences>
-</list>

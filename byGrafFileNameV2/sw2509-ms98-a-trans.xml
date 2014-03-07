@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2509-ms98-a-trans.anc" start="6960" end="6963" sStart="6906" offset="0" sid="null" wn="" wnkey="null" annotator="brubin" text="i haven't seen that and i and i you know it of course &lt;b&gt;won&lt;/b&gt; a lot of Academy Awards" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2509-ms98-a-trans.anc" start="689" end="694" sStart="null" offset="0" sid="null" wn="3" wnkey="smart%5:00:00:intelligent:00" annotator="cgozo" text="and i guess i'm just not &lt;b&gt;smart&lt;/b&gt; enough to figure that movie out that was just uh uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2509-ms98-a-trans.anc" start="689" end="694" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="and i guess i'm just not &lt;b&gt;smart&lt;/b&gt; enough to figure that movie out that was just uh uh" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/25/sw2509-ms98-a-trans.anc" start="7312" end="7319" sStart="null" offset="0" sid="null" wn="1" wnkey="become%2:30:00::" annotator="carichter" text="really i've heard a lot of good things about it but i've also heard that it can it &lt;b&gt;becomes&lt;/b&gt; slow" />
-  </sentences>
-</list>

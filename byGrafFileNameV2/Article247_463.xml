@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_463.anc" start="626" end="630" sStart="513" offset="118" sid="r10.wait.v.0291" wn="2" wnkey="wait%2:42:01::" annotator="cgozo" text="Concerning Saddam Hussein, President Clinton is quoted in all the dailies as saying, &quot;In the coming days we will wait and see whether he does, in fact, comply with the will of the international community.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_463.anc" start="3047" end="3051" sStart="null" offset="48" sid="r9.late.j.0190" wn="7" wnkey="late%5:00:02:past:00" annotator="anfahmy" text="The story has to do with M. Larry Lawrence, the late owner of San Diego's Hotel Del Coronado and a major donor to President Clinton, and now a subject of a House panel's investigation into whether the Clinton administration rewarded campaign contributors with burial plots in Arlington National Cemetery." />
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_463.anc" start="1877" end="1884" sStart="null" offset="223" sid="r9.kill.v.0368" wn="9" wnkey="kill%2:35:02::" annotator="brubin" text="The piece, based on scores of interviews of UN and US officials, details how UN inspectors have spent the post-Desert Storm years looking for twenty-five missile warheads filled with the world's deadliest germs, capable of killing up to a million people." />
-  </sentences>
-</list>

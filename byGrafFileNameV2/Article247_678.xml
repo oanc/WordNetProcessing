@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_678.anc" start="1669" end="1678" sStart="1609" offset="60" sid="r11.refer.v.0412" wn="1" wnkey="refer%2:32:01::" annotator="vebatchelder" text="The LAT front-pager on the meeting is somewhat less upbeat, referring to its &quot;futility&quot; and describing President Clinton as &quot;conspicuously subdued and visibly unhappy.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_678.anc" start="252" end="257" sStart="null" offset="188" sid="r9.paper.n.0861" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The New York Times leads with President Clinton's statement yesterday at the Moscow summit that he would support further U.S. aid if Russia presses on with economic reforms, a message the paper says he also made in private talks with Boris Yeltsin and prominent communist politicians." />
-    <s path="[OANC]/data/written_1/journal/slate/5/Article247_678.anc" start="2606" end="2612" sStart="null" offset="147" sid="r9.appear.v.0633" wn="1" wnkey="appear%2:39:00::" annotator="veweser" text="The Post adds that the White House figured being grilled about Monica at the summit might be politically useful, in that this could make reporters appear unpatriotic." />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2189-ms98-a-trans.anc" start="4368" end="4373" sStart="-1" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="cgozo" text="but that seemed like it was actually uh you know if there's a good way to get around a rule that sounded like it was a pretty &lt;b&gt;smart&lt;/b&gt; way" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2189-ms98-a-trans.anc" start="4368" end="4373" sStart="null" offset="0" sid="null" wn="1" wnkey="smart%3:00:00::" annotator="brubin" text="but that seemed like it was actually uh you know if there's a good way to get around a rule that sounded like it was a pretty &lt;b&gt;smart&lt;/b&gt; way" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2189-ms98-a-trans.anc" start="3655" end="3659" sStart="null" offset="0" sid="null" wn="4" wnkey="meet%2:34:00::" annotator="cgozo" text="students who don't &lt;b&gt;meet&lt;/b&gt; the minimum academic requirements to get into the college and and then qualify for a student athlete position" />
-  </sentences>
-</list>

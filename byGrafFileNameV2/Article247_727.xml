@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/6/Article247_727.anc" start="2418" end="2421" sStart="2402" offset="0" sid="null" wn="5" wnkey="win%2:40:06::" annotator="cgozo" text="Alfonse D'Amato &lt;b&gt;won&lt;/b&gt; approval of a provision requiring health insurance companies to cover post-mastectomy reconstructive surgery, and explains it this way: D'Amato was trying to undercut his election opponent's strong support among women voters." />
-    <s path="[OANC]/data/written_1/journal/slate/6/Article247_727.anc" start="2613" end="2619" sStart="null" offset="211" sid="r11.strong.j.0868" wn="1" wnkey="strong%3:00:00::" annotator="vebatchelder" text="Alfonse D'Amato won approval of a provision requiring health insurance companies to cover post-mastectomy reconstructive surgery, and explains it this way: D'Amato was trying to undercut his election opponent's strong support among women voters." />
-    <s path="[OANC]/data/written_1/journal/slate/6/Article247_727.anc" start="2262" end="2268" sStart="null" offset="67" sid="r11.severe.j.0191" wn="1" wnkey="severe%5:00:00:intense:00" annotator="anfahmy" text="The NYT even goes out of its piece saying that the vote revealed a severe split in the Republican Party that may be hard to patch up." />
-    <s path="[OANC]/data/written_1/journal/slate/6/Article247_727.anc" start="3703" end="3708" sStart="null" offset="145" sid="r9.paper.n.0873" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The piece reports that in Texas, a committee of lawyers is trying to ban self-help legal software via a statute barring anyone--or anything, the paper wryly notes--from practicing law without a license." />
-  </sentences>
-</list>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/221197.anc" start="61" end="65" sStart="3" offset="64" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="Message-ID: &lt;16267978.1075861634185.JavaMail.evans@thyme&gt; Date: Thu, 15 Nov 2001 13:46:02 -0800 (PST) From: jacton@crai.com To: d.." />
-    <s path="[MASC]/data/written/221197.anc" start="301" end="305" sStart="null" offset="11" sid="r11.able.j.0102" wn="1" wnkey="able%3:00:00::" annotator="adelpriore" text="If you are able to provide this to Dan for the meeting I would appreciate it." />
-  </sentences>
-</list>

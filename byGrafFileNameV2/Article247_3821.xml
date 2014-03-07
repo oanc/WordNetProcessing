@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3821.anc" start="4109" end="4113" sStart="4100" offset="9" sid="r10.wait.v.0182" wn="2" wnkey="wait%2:42:01::" annotator="anfahmy" text="So let's wait a little while before deciding that Intel is really on the road to destruction." />
-    <s path="[OANC]/data/written_1/journal/slate/15/Article247_3821.anc" start="1967" end="1970" sStart="null" offset="135" sid="r9.hit.v.0146" wn="13" wnkey="hit%2:38:07::" annotator="anfahmy" text="Intel delayed the release of its highest-powered Pentium processor, Coppermine, and a new chipset for memory chips because it couldn't hit the production schedules its customers needed." />
-  </sentences>
-</list>

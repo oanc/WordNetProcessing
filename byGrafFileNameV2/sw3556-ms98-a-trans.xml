@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3556-ms98-a-trans.anc" start="4276" end="4282" sStart="-1" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="because he has to like himself before he can like other &lt;b&gt;people&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3556-ms98-a-trans.anc" start="4276" end="4282" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="because he has to like himself before he can like other &lt;b&gt;people&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3556-ms98-a-trans.anc" start="4736" end="4742" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="right well nobody's gonna &lt;b&gt;forget&lt;/b&gt; Tom Landry shoot come now i mean i'm not a" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/35/sw3556-ms98-a-trans.anc" start="4736" end="4742" sStart="null" offset="0" sid="null" wn="2" wnkey="forget%2:31:00::" annotator="tofox" text="right well nobody's gonna &lt;b&gt;forget&lt;/b&gt; Tom Landry shoot come now i mean i'm not a" />
-  </sentences>
-</list>

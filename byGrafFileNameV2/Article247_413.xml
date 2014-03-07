@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_413.anc" start="3598" end="3603" sStart="3362" offset="236" sid="r8.state.n.0873" wn="1" wnkey="state%1:15:01::" annotator="veweser" text="In an NYT op-ed, Erika Niedowski, a reporter for the inside-the-Beltway newsletter the Hill , points out that several lawmakers who sit on the Thompson fund-raising investigating committee have themselves paid stiff fines for violating state and federal election laws." />
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_413.anc" start="1419" end="1424" sStart="null" offset="4" sid="r9.paper.n.0253" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="The paper points out that Clinton is trying to address the former problem by ensuring that a $4." />
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_413.anc" start="1858" end="1862" sStart="null" offset="16" sid="r8.live.v.0963" wn="1" wnkey="live%2:42:08::" annotator="brubin" text="It's amazing to live in a world where that number doesn't make the front page." />
-    <s path="[OANC]/data/written_1/journal/slate/3/Article247_413.anc" start="2259" end="2265" sStart="null" offset="83" sid="r9.appear.v.0575" wn="1" wnkey="appear%2:39:00::" annotator="cgozo" text="One main reason for the softening, says the paper, is that Clinton doesn't want to appear to be pressuring Reno." />
-  </sentences>
-</list>

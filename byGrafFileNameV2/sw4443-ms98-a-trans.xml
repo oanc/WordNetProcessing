@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/44/sw4443-ms98-a-trans.anc" start="4268" end="4274" sStart="-1" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="but uh that's that's wild though i'll have to see if i can't get a a &lt;b&gt;chance&lt;/b&gt; to go" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/44/sw4443-ms98-a-trans.anc" start="3622" end="3628" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="uh-huh what i really uh i uh had a &lt;b&gt;chance&lt;/b&gt; they had the PGA tournament up in Indianapolis last year i was able to go and see one of the rounds of that and that was really fun" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/44/sw4443-ms98-a-trans.anc" start="4268" end="4274" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="but uh that's that's wild though i'll have to see if i can't get a a &lt;b&gt;chance&lt;/b&gt; to go" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/44/sw4443-ms98-a-trans.anc" start="3622" end="3628" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="tofox" text="uh-huh what i really uh i uh had a &lt;b&gt;chance&lt;/b&gt; they had the PGA tournament up in Indianapolis last year i was able to go and see one of the rounds of that and that was really fun" />
-  </sentences>
-</list>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4324.anc" start="3837" end="3841" sStart="3837" offset="0" sid="r10.wait.v.0232" wn="2147483647" wnkey="null" annotator="brubin" text="Wait a minute." />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4324.anc" start="354" end="358" sStart="null" offset="53" sid="r11.true.j.0869" wn="8" wnkey="true%5:00:00:real:02" annotator="anfahmy" text="It's like that great comic Baudelaire said about the true ironist: You have to be &quot;a disinterested spectator of yourself,&quot; especially when your self is watching its nest egg quickly dwindle to &quot;what the hell, blow it all in one big bash!&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/20/Article247_4324.anc" start="316" end="321" sStart="null" offset="15" sid="r8.1.great.j.0235" wn="2" wnkey="great%5:00:01:important:00" annotator="brubin" text="It's like that great comic Baudelaire said about the true ironist: You have to be &quot;a disinterested spectator of yourself,&quot; especially when your self is watching its nest egg quickly dwindle to &quot;what the hell, blow it all in one big bash!&quot;" />
-  </sentences>
-</list>

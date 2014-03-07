@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/11/Article247_3462.anc" start="2123" end="2127" sStart="-1" offset="0" sid="null" wn="1" wnkey="time%1:11:00::" annotator="carichter" text="The New York &lt;b&gt;Times&lt;/b&gt; reports that divers searching the Sea of Marmara Saturday, for the first &lt;b&gt;time&lt;/b&gt; since the disaster, found more than 150 bodies, apparently those of Turks who lived in houses facing the water." />
-    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3462.anc" start="4593" end="4602" sStart="null" offset="160" sid="r11.recommend.v.0106" wn="1" wnkey="recommend%2:32:01::" annotator="vebatchelder" text="A USAT &quot;Cover Story&quot; gets the dirt on Jerry Baker, a self-styled &quot;master gardener&quot; whose folksy radio shows, how-to books, and PBS specials recommend dousing plants with mixtures that include chewing tobacco, mouthwash, and bourbon." />
-    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3462.anc" start="4061" end="4066" sStart="null" offset="152" sid="r9.paper.n.0301" wn="6" wnkey="paper%1:14:00::" annotator="veweser" text="A NYT front-pager suggests that a byproduct of aggressive policing in New York City under Mayor Rudy Giuliani has been a rise in the number of what the paper calls &quot;flawed arrests.&quot;" />
-    <s path="[OANC]/data/written_1/journal/slate/11/Article247_3462.anc" start="4042" end="4048" sStart="null" offset="133" sid="r8.number.n.0928" wn="1" wnkey="number%1:07:00::" annotator="cgozo" text="A NYT front-pager suggests that a byproduct of aggressive policing in New York City under Mayor Rudy Giuliani has been a rise in the number of what the paper calls &quot;flawed arrests.&quot;" />
-  </sentences>
-</list>

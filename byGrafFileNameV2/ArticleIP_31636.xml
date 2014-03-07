@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31636.anc" start="5243" end="5249" sStart="5218" offset="25" sid="r11.strong.j.0708" wn="3 6" wnkey="null" annotator="adelpriore" text="Klehr and Haynes wrote a strong letter in support of Brent's &quot;editorial leadership&quot; and of Brent himself." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31636.anc" start="2329" end="2334" sStart="null" offset="85" sid="r9.level.n.0339" wn="1" wnkey="level%1:07:00::" annotator="cgozo" text="The hospitals that we go to and our doctors practice in essentially all receive some level of governmental funding." />
-    <s path="[OANC]/data/written_1/journal/slate/51/ArticleIP_31636.anc" start="3242" end="3249" sStart="null" offset="66" sid="r10.control.n.0463" wn="2" wnkey="control%1:24:00::" annotator="cgozo" text="Our current dilemma has come about because we tried to shift cost control away from the service providers." />
-  </sentences>
-</list>

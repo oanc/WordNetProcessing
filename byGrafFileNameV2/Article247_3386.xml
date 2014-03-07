@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/c:/OANC/data/written_1/journal/slate/10/Article247_3386.anc" start="2192" end="2196" sStart="-1" offset="0" sid="null" wn="1" wnkey="land%1:21:01::" annotator="brubin" text="Double federal support for research at &lt;b&gt;land&lt;/b&gt; grant universities." />
-    <s path="[OANC]/data/written_1/journal/slate/10/Article247_3386.anc" start="2281" end="2289" sStart="null" offset="48" sid="r8.family.n.0803" wn="1" wnkey="family%1:14:02::" annotator="brubin" text="Repeal the inheritance tax for the sake of farm families." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/10/Article247_3386.anc" start="3405" end="3409" sStart="null" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" annotator="kaolla" text="Comment : The part about no inheritance taxes for farmers sounds especially &lt;b&gt;fair&lt;/b&gt;." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/10/Article247_3386.anc" start="3405" end="3409" sStart="null" offset="0" sid="null" wn="1" wnkey="fair%3:00:03::" annotator="carichter" text="Comment : The part about no inheritance taxes for farmers sounds especially &lt;b&gt;fair&lt;/b&gt;." />
-  </sentences>
-</list>

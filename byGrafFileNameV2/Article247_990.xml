@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_990.anc" start="2807" end="2816" sStart="-1" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="veweser" text="One generation has already clearly &lt;b&gt;forgotten&lt;/b&gt;." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_990.anc" start="2807" end="2816" sStart="null" offset="0" sid="null" wn="" wnkey="null" annotator="chisom" text="One generation has already clearly &lt;b&gt;forgotten&lt;/b&gt;." />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/8/Article247_990.anc" start="2807" end="2816" sStart="null" offset="0" sid="null" wn="1" wnkey="forget%2:31:01::" annotator="carichter" text="One generation has already clearly &lt;b&gt;forgotten&lt;/b&gt;." />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3706.anc" start="6059" end="6065" sStart="6027" offset="32" sid="r10.wait.v.0176" wn="2" wnkey="wait%2:42:01::" annotator="brubin" text="It seems odd not to have merely waited until tomorrow to report rather than wonder." />
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3706.anc" start="3456" end="3462" sStart="null" offset="80" sid="r11.severe.j.0016" wn="1" wnkey="severe%5:00:00:intense:00" annotator="anfahmy" text="The NYT is more firm about saying that if this is indeed the case it could be a severe setback for gene therapy." />
-    <s path="[OANC]/data/written_1/journal/slate/14/Article247_3706.anc" start="3456" end="3462" sStart="null" offset="80" sid="r11.severe.j.0016" wn="1" wnkey="severe%5:00:00:intense:00" annotator="adelpriore" text="The NYT is more firm about saying that if this is indeed the case it could be a severe setback for gene therapy." />
-    <s path="file:/c:/OANC/data/written_1/journal/slate/14/Article247_3706.anc" start="5067" end="5071" sStart="null" offset="0" sid="null" wn="1" wnkey="say%2:32:00::" annotator="rstandig" text="The WSJ &quot;Tax Report&quot; &lt;b&gt;says&lt;/b&gt; the Treasury Department is reiterating its opposition to the repeal of the estate tax, pointing out that fewer than 2 percent of those who die each year leave estates large enough to be subject to it." />
-  </sentences>
-</list>

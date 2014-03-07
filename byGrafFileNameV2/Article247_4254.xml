@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4254.anc" start="2208" end="2214" sStart="2080" offset="128" sid="r8.number.n.0803" wn="1" wnkey="number%1:07:00::" annotator="brubin" text="As evidence for this nationwide hysteria, the story quotes a gun shop owner in Las Vegas who's been unloading an unusually high number of gas masks and bulletproof vests (if ammo shops in Las Vegas are a reliable indicator of the country's mood, then Today's Papers is moving to Denmark)." />
-    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4254.anc" start="1235" end="1241" sStart="null" offset="28" sid="r9.kill.v.0825" wn="1" wnkey="kill%2:35:00::" annotator="veweser" text="The hijackers claim to have killed four passengers, but so far they've released only one corpse, along with three men, nine women, and 13 children." />
-    <s path="[OANC]/data/written_1/journal/slate/19/Article247_4254.anc" start="3636" end="3642" sStart="null" offset="91" sid="r9.kill.v.0386" wn="1" wnkey="kill%2:35:00::" annotator="anfahmy" text="They were foiled when French anti-terrorist commandos stormed the jet as it was parked and killed the terrorists." />
-  </sentences>
-</list>

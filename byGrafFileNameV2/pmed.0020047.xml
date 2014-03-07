@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020047.anc" start="2190" end="2196" sStart="2164" offset="26" sid="r7.strike.v.0484" wn="12" wnkey="strike%2:40:00::" annotator="cgozo" text="Many universities hope to strike it rich with patents, but this is as foolish as playing the lottery, since most Òtechnology licensing officesÓ don't even cover their operating costs." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/plos/pmed.0020047.anc" start="2017" end="2021" sStart="null" offset="0" sid="null" wn="11" wnkey="read%2:31:04::" annotator="cgozo" text="Moreover, research carried out using software cannot be checked or evaluated properly by other scientists unless they can &lt;b&gt;read&lt;/b&gt; the source code that was used." />
-    <s path="[OANC]/data/written_2/technical/plos/pmed.0020047.anc" start="3602" end="3606" sStart="null" offset="10" sid="r7.1.face.n.0632" wn="2147483645" wnkey="null" annotator="cgozo" text="All three face opposition from those who would like to privatize knowledge and charge tolls for its use." />
-  </sentences>
-</list>

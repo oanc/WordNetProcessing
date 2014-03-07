@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="[MASC]/data/written/111369.anc" start="400" end="404" sStart="333" offset="67" sid="null" wn="1" wnkey="use%2:34:01::" annotator="anfahmy" text="So really you have nothing to lose since that $200 is going to be used to buying groceries anyway." />
-    <s path="[MASC]/data/written/111369.anc" start="364" end="368" sStart="null" offset="31" sid="null" wn="2147483646" wnkey="null" annotator="vebatchelder" text="So really you have nothing to lose since that $200 is going to be used to buying groceries anyway." />
-    <s path="[MASC]/data/written/111369.anc" start="121" end="125" sStart="null" offset="134" sid="null" wn="1" wnkey="date%1:28:00::" annotator="vebatchelder" text="From: &quot;Gregory Bodkins&quot; &lt;members@work-at-home-robot.net&gt; To: xxx@xxx.xxx Subject: Totally ELIMINATE Your Grocery Bill Date: Wed, 17 Nov 2010 05:20:15 +0000 (UTC)" />
-  </sentences>
-</list>

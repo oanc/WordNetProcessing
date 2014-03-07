@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2149-ms98-a-trans.anc" start="4296" end="4301" sStart="-1" offset="0" sid="null" wn="9" wnkey="power%1:19:01::" annotator="carichter" text="you know it was and you know and and they and we didn't have &lt;b&gt;power&lt;/b&gt; for a week and there are still &lt;b&gt;people&lt;/b&gt; who don't have &lt;b&gt;power&lt;/b&gt; it's it's oh yeah it's been over it's been ten days already and there are still something like" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2149-ms98-a-trans.anc" start="4355" end="4360" sStart="null" offset="0" sid="null" wn="9" wnkey="power%1:19:01::" annotator="carichter" text="you know it was and you know and and they and we didn't have &lt;b&gt;power&lt;/b&gt; for a week and there are still &lt;b&gt;people&lt;/b&gt; who don't have &lt;b&gt;power&lt;/b&gt; it's it's oh yeah it's been over it's been ten days already and there are still something like" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2149-ms98-a-trans.anc" start="9561" end="9567" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="veweser" text="i mean i'm grateful for &lt;b&gt;people&lt;/b&gt; like that but i don't see how they can just" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/21/sw2149-ms98-a-trans.anc" start="9561" end="9567" sStart="null" offset="0" sid="null" wn="1" wnkey="people%1:14:00::" annotator="tofox" text="i mean i'm grateful for &lt;b&gt;people&lt;/b&gt; like that but i don't see how they can just" />
-  </sentences>
-</list>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3497-ms98-a-trans.anc" start="4154" end="4158" sStart="-1" offset="0" sid="null" wn="3" wnkey="rate%1:07:00::" annotator="cgozo" text="at this &lt;b&gt;rate&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3497-ms98-a-trans.anc" start="4154" end="4158" sStart="null" offset="0" sid="null" wn="3" wnkey="rate%1:07:00::" annotator="brubin" text="at this &lt;b&gt;rate&lt;/b&gt;" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3497-ms98-a-trans.anc" start="3723" end="3729" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="veweser" text="um not tons but i like to when i get a &lt;b&gt;chance&lt;/b&gt; i've only been once so far but had the opportunity a couple times since then" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/34/sw3497-ms98-a-trans.anc" start="3723" end="3729" sStart="null" offset="0" sid="null" wn="1" wnkey="chance%1:26:00::" annotator="carichter" text="um not tons but i like to when i get a &lt;b&gt;chance&lt;/b&gt; i've only been once so far but had the opportunity a couple times since then" />
-  </sentences>
-</list>

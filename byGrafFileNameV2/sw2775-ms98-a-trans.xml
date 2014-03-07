@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2775-ms98-a-trans.anc" start="6090" end="6094" sStart="-1" offset="0" sid="null" wn="1" wnkey="part%1:24:00::" annotator="carichter" text="i don't want to be a &lt;b&gt;part&lt;/b&gt; of the rat race i want to be" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2775-ms98-a-trans.anc" start="8298" end="8304" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="cgozo" text="i've talked well i've talked about &lt;b&gt;adding&lt;/b&gt; at least one more room and definitely &lt;b&gt;adding&lt;/b&gt; another bath on" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2775-ms98-a-trans.anc" start="8173" end="8179" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="brubin" text="do you plan on uh like &lt;b&gt;adding&lt;/b&gt; any rooms or you have enough space you could probably do that" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/27/sw2775-ms98-a-trans.anc" start="8343" end="8349" sStart="null" offset="0" sid="null" wn="1" wnkey="add%2:30:00::" annotator="brubin" text="i've talked well i've talked about &lt;b&gt;adding&lt;/b&gt; at least one more room and definitely &lt;b&gt;adding&lt;/b&gt; another bath on" />
-  </sentences>
-</list>

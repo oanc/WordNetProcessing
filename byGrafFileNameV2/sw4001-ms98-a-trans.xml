@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4001-ms98-a-trans.anc" start="5728" end="5733" sStart="-1" offset="0" sid="null" wn="7" wnkey="power%1:07:02::" annotator="carichter" text="yeah that's got a little little &lt;b&gt;power&lt;/b&gt; more powerful engine and a lot more uh little more options on it so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4001-ms98-a-trans.anc" start="123" end="127" sStart="null" offset="0" sid="null" wn="6" wnkey="meet%2:41:03::" annotator="veweser" text="nice to &lt;b&gt;meet&lt;/b&gt; you where are you" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/40/sw4001-ms98-a-trans.anc" start="97" end="101" sStart="null" offset="0" sid="null" wn="1" wnkey="meet%2:38:01::" annotator="brubin" text="nice to &lt;b&gt;meet&lt;/b&gt; you" />
-  </sentences>
-</list>

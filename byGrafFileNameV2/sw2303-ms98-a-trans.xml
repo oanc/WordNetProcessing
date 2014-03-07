@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2303-ms98-a-trans.anc" start="6809" end="6812" sStart="6723" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="when you've got an underdog candidate who represents something and even if he doesn't &lt;b&gt;win&lt;/b&gt; a large number of people voting for that particular candidate does i think make a statement to everyone else" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2303-ms98-a-trans.anc" start="821" end="824" sStart="null" offset="0" sid="null" wn="1" wnkey="win%2:33:00::" annotator="brubin" text="that's right i think that's and and the other side of the coin is um people saying well if i really like the underdog candidate i still think they're not going to &lt;b&gt;win&lt;/b&gt; so some are saying Dukakis is certainly not going to &lt;b&gt;win&lt;/b&gt; why bother voting for him so" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/23/sw2303-ms98-a-trans.anc" start="6981" end="6985" sStart="null" offset="0" sid="null" wn="2" wnkey="lose%2:33:00::" annotator="veweser" text="oh certainly there's a message there even if they &lt;b&gt;lose&lt;/b&gt;" />
-  </sentences>
-</list>

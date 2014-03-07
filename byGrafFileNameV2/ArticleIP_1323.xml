@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/25/ArticleIP_1323.anc" start="5486" end="5492" sStart="-1" offset="0" sid="null" wn="1" wnkey="island%1:17:00::" annotator="veweser" text="Movie -- Love and Death on Long &lt;b&gt;Island&lt;/b&gt; ;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/25/ArticleIP_1323.anc" start="5486" end="5492" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="tofox" text="Movie -- Love and Death on Long &lt;b&gt;Island&lt;/b&gt; ;" />
-    <s path="file:/D:/Corpora/oanc/data/written_1/journal/slate/25/ArticleIP_1323.anc" start="1664" end="1670" sStart="null" offset="0" sid="null" wn="2147483645" wnkey="null" annotator="brubin" text="Primary &lt;b&gt;Colors&lt;/b&gt;" />
-    <s path="[OANC]/data/written_1/journal/slate/25/ArticleIP_1323.anc" start="7237" end="7241" sStart="null" offset="0" sid="r10.book.n.0236" wn="1" wnkey="book%1:10:00::" annotator="brubin" text="Book -- Cloudsplitter , by Russell Banks;" />
-  </sentences>
-</list>

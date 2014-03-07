@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3858-ms98-a-trans.anc" start="2605" end="2611" sStart="-1" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="veweser" text="i'm &lt;b&gt;trying&lt;/b&gt; to think well uh what about City Slickers since you watch um" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3858-ms98-a-trans.anc" start="2605" end="2611" sStart="null" offset="0" sid="null" wn="1" wnkey="try%2:41:00::" annotator="tofox" text="i'm &lt;b&gt;trying&lt;/b&gt; to think well uh what about City Slickers since you watch um" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3858-ms98-a-trans.anc" start="3192" end="3196" sStart="null" offset="0" sid="null" wn="2" wnkey="date%1:18:00::" annotator="cgozo" text="well i want to go see that one but i'll probably wait for it till it comes out on video because i don't think i can get any my &lt;b&gt;date&lt;/b&gt; to take me" />
-    <s path="file:/D:/Corpora/oanc/data/spoken/telephone/switchboard/38/sw3858-ms98-a-trans.anc" start="910" end="915" sStart="null" offset="0" sid="null" wn="2147483647" wnkey="null" annotator="brubin" text="um it's the guy that's from In Living &lt;b&gt;Color&lt;/b&gt;" />
-  </sentences>
-</list>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list>
-  <sentences>
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-213X-3-4.anc" start="42856" end="42867" sStart="-1" offset="0" sid="null" wn="2 3" wnkey="null" annotator="tofox" text="The supernatant was &lt;b&gt;transferred&lt;/b&gt; to fresh tubes, 20% of volume of chloroform was added, and the sample was vortexed for 20 seconds, followed by centrifugation at 12000 rpm for 5 minutes at 4¡C." />
-    <s path="file:/D:/Corpora/oanc/data/written_2/technical/biomed/1471-213X-3-4.anc" start="29793" end="29804" sStart="null" offset="0" sid="null" wn="3" wnkey="transfer%2:38:05::" annotator="tofox" text="Rib cages were &lt;b&gt;transferred&lt;/b&gt; to phosphate buffered saline (PBS) and washed extensively." />
-  </sentences>
-</list>
