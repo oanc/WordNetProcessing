@@ -522,6 +522,7 @@ class CreateWordNetStandOffFiles {
         if(!go.root.exists())
         {
             println "Input directory not found: ${go.root.path}";
+            return;
         }
         //if output dir doest no exist
         if(!go.outDir.exists())

@@ -125,4 +125,13 @@ keep in mind there are certain annotators that are excluded, and the files that 
 \f2\fs30 \cf0 \'a0 \'a0</keys>\
 \'a0\
 This means the data was manually annotated and churned through.\'a0\
+\
+\
+6.\
+Now that all the sentences are tied together in files based on the original graph file, now make a 'word net' stand off graph using the original masc graph.\
+~/anc/sense-tagging/bin>\'a0groovy CreateWordNetStandOffFiles.groovy ../byGrafFileName ../wordNetStandOffFiles\
+\
+This opens each 'byGraphName' file and searches locally to find the original .hdr file and loads the original graph, searches all the regions and find the one region with the\
+start and end values that match the start and end value in the word net annotation sentence info. Once found, it saves the info to a map, once finished cycling through all the these sentences and the map is complete, it creates a new graph file. The new graph contains the nodes and regions that pertain to only those words annotated in the 'rounds' . The annotation with the word net sense key as the value is added to each node.\'a0\
+\
 }

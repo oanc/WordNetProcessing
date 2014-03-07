@@ -13,7 +13,7 @@ import org.slf4j.*
 /**
  *
  */
-class adjustHeaders {
+class adjustStandOffHeaders {
 
     File inputDir;
     File outputDir;
@@ -181,7 +181,7 @@ class adjustHeaders {
         return mascList;
     }
 
-}
+
 
 
 public static void main(args) {
@@ -192,7 +192,7 @@ public static void main(args) {
     }
 
 
-    def tweaker = new adjustHeaders();
+    def tweaker = new adjustStandOffHeaders();
 
 
     tweaker.inputDir = new File(args[0]);
@@ -221,6 +221,8 @@ public static void main(args) {
 
 }
 
+
+}
 
 class Masc {
     static final String rootString = '/Users/frankcascio/anc/corpora/masc/MASC-3.0.0';
