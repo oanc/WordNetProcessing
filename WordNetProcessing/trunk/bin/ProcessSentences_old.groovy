@@ -40,7 +40,7 @@ import groovy.io.FileType
 /**
  * dont forget to increase heap space on this one..export JAVA_OPTS="$JAVA_OPTS -Xmx1G"
  */
-class ProcessSentences {
+class ProcessSentences_old {
    IAnnotationSpace space = Factory.newAnnotationSpace("wn","http://wordnet.princeton.edu/");
    File root
    File outDir;
@@ -581,7 +581,28 @@ class ProcessSentences {
       return newOffset;
    }
 
-   static void usage()
+    class Masc {
+        static final String rootString = '/Users/frankcascio/anc/corpora/masc/MASC-3.0.0';
+        static final File root = new File(rootString)
+        static final File header = new File(root, 'resource-header.xml')
+        static final File data = new File(root, 'data')
+    }
+
+    class Oanc {
+        static final String rootString = '/Users/frankcascio/anc/corpora/OANC-1.2b1'
+        //static final String rootString = '/Users/frankcascio/anc/corpora/OANC-GrAF'
+        static final File root = new File(rootString)
+        static final File header = new File(root, 'resource-header.xml')
+        static final File data = new File(root, 'data')
+    }
+
+
+
+
+
+
+
+    static void usage()
    {
       println()
       println "USAGE"
@@ -596,7 +617,7 @@ class ProcessSentences {
          usage()
          return
       }
-      def proc = new ProcessSentences()
+      def proc = new ProcessSentences_old()
       //set input dir
       proc.root = new File(args[0])
       //set output dir
@@ -632,20 +653,6 @@ class ProcessSentences {
 
 
 
-class Masc {
-   static final String rootString = '/Users/frankcascio/anc/corpora/masc/MASC-3.0.0';
-   static final File root = new File(rootString)
-   static final File header = new File(root, 'resource-header.xml')
-   static final File data = new File(root, 'data')
-}
-
-class Oanc {
-   static final String rootString = '/Users/frankcascio/anc/corpora/OANC-1.2b1'
-   //static final String rootString = '/Users/frankcascio/anc/corpora/OANC-GrAF'
-   static final File root = new File(rootString)
-   static final File header = new File(root, 'resource-header.xml')
-   static final File data = new File(root, 'data')
-}
 
 
 

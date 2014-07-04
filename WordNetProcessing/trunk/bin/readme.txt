@@ -9,6 +9,7 @@ The original manually annotated sentences using the wordnet annotations can be f
 
 
 1. Run AllPaths.groovy
+     Lists all files that have at least one sentence tagged.
       /sense-tagging/bin>groovy AllPaths.groovy ../data all-paths.txt
 
 2. Delete ( or rename ) masc-index.txt if running on another machine or with old Masc dir structure. This needs to be re-created only as locations of Masc change
