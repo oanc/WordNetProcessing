@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="s" occurs="77"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="s-r0" anchors="0 174"/>
+    <region xml:id="s-r1" anchors="163 413"/>
+    <region xml:id="s-r2" anchors="414 505"/>
+    <region xml:id="s-r3" anchors="506 656"/>
+    <region xml:id="s-r4" anchors="657 763"/>
+    <region xml:id="s-r5" anchors="764 1180"/>
+    <region xml:id="s-r6" anchors="1181 1340"/>
+    <region xml:id="s-r7" anchors="1325 1505"/>
+    <region xml:id="s-r8" anchors="1506 1610"/>
+    <region xml:id="s-r9" anchors="1611 1889"/>
+    <region xml:id="s-r10" anchors="1890 1914"/>
+    <region xml:id="s-r11" anchors="1915 1940"/>
+    <region xml:id="s-r12" anchors="1940 1994"/>
+    <region xml:id="s-r13" anchors="1995 2110"/>
+    <region xml:id="s-r14" anchors="2214 2290"/>
+    <region xml:id="s-r15" anchors="2291 2414"/>
+    <region xml:id="s-r16" anchors="2415 2775"/>
+    <region xml:id="s-r17" anchors="2776 2797"/>
+    <region xml:id="s-r18" anchors="2798 2993"/>
+    <region xml:id="s-r19" anchors="2994 3063"/>
+    <region xml:id="s-r20" anchors="3064 3279"/>
+    <region xml:id="s-r21" anchors="3280 3409"/>
+    <region xml:id="s-r22" anchors="3410 3530"/>
+    <region xml:id="s-r23" anchors="3531 3684"/>
+    <region xml:id="s-r24" anchors="3685 3963"/>
+    <region xml:id="s-r25" anchors="3964 3977"/>
+    <region xml:id="s-r26" anchors="3978 4048"/>
+    <region xml:id="s-r27" anchors="4049 4056"/>
+    <region xml:id="s-r28" anchors="4057 4088"/>
+    <region xml:id="s-r29" anchors="4089 4095"/>
+    <region xml:id="s-r30" anchors="4096 4216"/>
+    <region xml:id="s-r31" anchors="4217 4284"/>
+    <region xml:id="s-r32" anchors="4285 4317"/>
+    <region xml:id="s-r33" anchors="4318 4481"/>
+    <region xml:id="s-r34" anchors="4466 4574"/>
+    <region xml:id="s-r35" anchors="4567 4714"/>
+    <region xml:id="s-r36" anchors="4685 4728"/>
+    <region xml:id="s-r37" anchors="4728 4796"/>
+    <region xml:id="s-r38" anchors="4797 4915"/>
+    <region xml:id="s-r39" anchors="4914 5000"/>
+    <region xml:id="s-r40" anchors="5001 5094"/>
+    <region xml:id="s-r41" anchors="5093 5116"/>
+    <region xml:id="s-r42" anchors="5117 5205"/>
+    <region xml:id="s-r43" anchors="5206 5274"/>
+    <region xml:id="s-r44" anchors="5275 5359"/>
+    <region xml:id="s-r45" anchors="5348 5480"/>
+    <region xml:id="s-r46" anchors="5481 5491"/>
+    <region xml:id="s-r47" anchors="5524 5733"/>
+    <region xml:id="s-r48" anchors="5734 5880"/>
+    <region xml:id="s-r49" anchors="5881 5941"/>
+    <region xml:id="s-r50" anchors="5939 6032"/>
+    <region xml:id="s-r51" anchors="6028 6113"/>
+    <region xml:id="s-r52" anchors="6114 6379"/>
+    <region xml:id="s-r53" anchors="6350 6362"/>
+    <region xml:id="s-r54" anchors="6363 6375"/>
+    <region xml:id="s-r55" anchors="6376 6426"/>
+    <region xml:id="s-r56" anchors="6437 6449"/>
+    <region xml:id="s-r57" anchors="6464 6638"/>
+    <region xml:id="s-r58" anchors="6639 6793"/>
+    <region xml:id="s-r59" anchors="6794 6966"/>
+    <region xml:id="s-r60" anchors="6967 7028"/>
+    <region xml:id="s-r61" anchors="7029 7218"/>
+    <region xml:id="s-r62" anchors="7219 7308"/>
+    <region xml:id="s-r63" anchors="7309 7326"/>
+    <region xml:id="s-r64" anchors="7316 7360"/>
+    <region xml:id="s-r65" anchors="7361 7433"/>
+    <region xml:id="s-r66" anchors="7433 7502"/>
+    <region xml:id="s-r67" anchors="7502 7658"/>
+    <region xml:id="s-r68" anchors="7643 7899"/>
+    <region xml:id="s-r69" anchors="7860 8425"/>
+    <region xml:id="s-r70" anchors="8336 8446"/>
+    <region xml:id="s-r71" anchors="8431 8444"/>
+    <region xml:id="s-r72" anchors="8445 8524"/>
+    <region xml:id="s-r73" anchors="8525 8695"/>
+    <region xml:id="s-r74" anchors="8696 8864"/>
+    <region xml:id="s-r75" anchors="8834 8997"/>
+    <region xml:id="s-r76" anchors="8978 9188"/>
+    <node xml:id="s-n0">
+        <link targets="s-r0"/>
+    </node>
+    <a xml:id="a0" label="s" ref="s-n0" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/110CYL069.anc"/>
+            <f name="orig-start" value="971"/>
+            <f name="orig-end" value="1145"/>
+            <f name="orig-docId" value="MASC1-00002"/>
+        </fs>
+    </a>
+    <node xml:id="s-n1">
+        <link targets="s-r1"/>
+    </node>
+    <a xml:id="a2" label="s" ref="s-n1" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Article247_500.anc"/>
+            <f name="orig-start" value="4172"/>
+            <f name="orig-end" value="4422"/>
+            <f name="orig-docId" value="MASC1-00041"/>
+        </fs>
+    </a>
+    <node xml:id="s-n10">
+        <link targets="s-r10"/>
+    </node>
+    <a xml:id="a20" label="s" ref="s-n10" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/114450.anc"/>
+            <f name="orig-start" value="412"/>
+            <f name="orig-end" value="436"/>
+            <f name="orig-docId" value="MASC3-0164"/>
+        </fs>
+    </a>
+    <node xml:id="s-n11">
+        <link targets="s-r11"/>
+    </node>
+    <a xml:id="a22" label="s" ref="s-n11" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/1400.anc"/>
+            <f name="orig-start" value="12533"/>
+            <f name="orig-end" value="12558"/>
+            <f name="orig-docId" value="MASC3-0119"/>
+        </fs>
+    </a>
+    <node xml:id="s-n12">
+        <link targets="s-r12"/>
+    </node>
+    <a xml:id="a24" label="s" ref="s-n12" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/1400.anc"/>
+            <f name="orig-start" value="24996"/>
+            <f name="orig-end" value="25050"/>
+            <f name="orig-docId" value="MASC3-0119"/>
+        </fs>
+    </a>
+    <node xml:id="s-n13">
+        <link targets="s-r13"/>
+    </node>
+    <a xml:id="a26" label="s" ref="s-n13" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/1471-230X-2-21.anc"/>
+            <f name="orig-start" value="7973"/>
+            <f name="orig-end" value="8088"/>
+            <f name="orig-docId" value="OANC-53313"/>
+        </fs>
+    </a>
+    <node xml:id="s-n14">
+        <link targets="s-r14"/>
+    </node>
+    <a xml:id="a28" label="s" ref="s-n14" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/20020731-nyt.anc"/>
+            <f name="orig-start" value="41272"/>
+            <f name="orig-end" value="41348"/>
+            <f name="orig-docId" value="MASC3-0059"/>
+        </fs>
+    </a>
+    <node xml:id="s-n15">
+        <link targets="s-r15"/>
+    </node>
+    <a xml:id="a30" label="s" ref="s-n15" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/A_defense_of_Michael_Moore.anc"/>
+            <f name="orig-start" value="4926"/>
+            <f name="orig-end" value="5049"/>
+            <f name="orig-docId" value="MASC2-0041"/>
+        </fs>
+    </a>
+    <node xml:id="s-n16">
+        <link targets="s-r16"/>
+    </node>
+    <a xml:id="a32" label="s" ref="s-n16" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/A_defense_of_Michael_Moore.anc"/>
+            <f name="orig-start" value="18038"/>
+            <f name="orig-end" value="18398"/>
+            <f name="orig-docId" value="MASC2-0041"/>
+        </fs>
+    </a>
+    <node xml:id="s-n17">
+        <link targets="s-r17"/>
+    </node>
+    <a xml:id="a34" label="s" ref="s-n17" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/A_defense_of_Michael_Moore.anc"/>
+            <f name="orig-start" value="26960"/>
+            <f name="orig-end" value="26981"/>
+            <f name="orig-docId" value="MASC2-0041"/>
+        </fs>
+    </a>
+    <node xml:id="s-n18">
+        <link targets="s-r18"/>
+    </node>
+    <a xml:id="a36" label="s" ref="s-n18" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/A_defense_of_Michael_Moore.anc"/>
+            <f name="orig-start" value="26982"/>
+            <f name="orig-end" value="27177"/>
+            <f name="orig-docId" value="MASC2-0041"/>
+        </fs>
+    </a>
+    <node xml:id="s-n19">
+        <link targets="s-r19"/>
+    </node>
+    <a xml:id="a38" label="s" ref="s-n19" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Acephalous-Internet.anc"/>
+            <f name="orig-start" value="319"/>
+            <f name="orig-end" value="388"/>
+            <f name="orig-docId" value="MASC3-0098"/>
+        </fs>
+    </a>
+    <node xml:id="s-n2">
+        <link targets="s-r2"/>
+    </node>
+    <a xml:id="a4" label="s" ref="s-n2" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Article247_66.anc"/>
+            <f name="orig-start" value="484"/>
+            <f name="orig-end" value="575"/>
+            <f name="orig-docId" value="MASC1-00042"/>
+        </fs>
+    </a>
+    <node xml:id="s-n20">
+        <link targets="s-r20"/>
+    </node>
+    <a xml:id="a40" label="s" ref="s-n20" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Acephalous-Internet.anc"/>
+            <f name="orig-start" value="3983"/>
+            <f name="orig-end" value="4198"/>
+            <f name="orig-docId" value="MASC3-0098"/>
+        </fs>
+    </a>
+    <node xml:id="s-n21">
+        <link targets="s-r21"/>
+    </node>
+    <a xml:id="a42" label="s" ref="s-n21" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Bartok.anc"/>
+            <f name="orig-start" value="432"/>
+            <f name="orig-end" value="561"/>
+            <f name="orig-docId" value="MASC2-0047"/>
+        </fs>
+    </a>
+    <node xml:id="s-n22">
+        <link targets="s-r22"/>
+    </node>
+    <a xml:id="a44" label="s" ref="s-n22" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Bartok.anc"/>
+            <f name="orig-start" value="7330"/>
+            <f name="orig-end" value="7450"/>
+            <f name="orig-docId" value="MASC2-0047"/>
+        </fs>
+    </a>
+    <node xml:id="s-n23">
+        <link targets="s-r23"/>
+    </node>
+    <a xml:id="a46" label="s" ref="s-n23" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Bartok.anc"/>
+            <f name="orig-start" value="14996"/>
+            <f name="orig-end" value="15149"/>
+            <f name="orig-docId" value="MASC2-0047"/>
+        </fs>
+    </a>
+    <node xml:id="s-n24">
+        <link targets="s-r24"/>
+    </node>
+    <a xml:id="a48" label="s" ref="s-n24" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Bartok.anc"/>
+            <f name="orig-start" value="19549"/>
+            <f name="orig-end" value="19827"/>
+            <f name="orig-docId" value="MASC2-0047"/>
+        </fs>
+    </a>
+    <node xml:id="s-n25">
+        <link targets="s-r25"/>
+    </node>
+    <a xml:id="a50" label="s" ref="s-n25" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/blog-varsity-athletics.anc"/>
+            <f name="orig-start" value="5215"/>
+            <f name="orig-end" value="5228"/>
+            <f name="orig-docId" value="MASC3-0113"/>
+        </fs>
+    </a>
+    <node xml:id="s-n26">
+        <link targets="s-r26"/>
+    </node>
+    <a xml:id="a52" label="s" ref="s-n26" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/captured_moments.anc"/>
+            <f name="orig-start" value="21300"/>
+            <f name="orig-end" value="21370"/>
+            <f name="orig-docId" value="MASC2-0042"/>
+        </fs>
+    </a>
+    <node xml:id="s-n27">
+        <link targets="s-r27"/>
+    </node>
+    <a xml:id="a54" label="s" ref="s-n27" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/captured_moments.anc"/>
+            <f name="orig-start" value="22297"/>
+            <f name="orig-end" value="22304"/>
+            <f name="orig-docId" value="MASC2-0042"/>
+        </fs>
+    </a>
+    <node xml:id="s-n28">
+        <link targets="s-r28"/>
+    </node>
+    <a xml:id="a56" label="s" ref="s-n28" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/captured_moments.anc"/>
+            <f name="orig-start" value="23613"/>
+            <f name="orig-end" value="23644"/>
+            <f name="orig-docId" value="MASC2-0042"/>
+        </fs>
+    </a>
+    <node xml:id="s-n29">
+        <link targets="s-r29"/>
+    </node>
+    <a xml:id="a58" label="s" ref="s-n29" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/captured_moments.anc"/>
+            <f name="orig-start" value="33323"/>
+            <f name="orig-end" value="33329"/>
+            <f name="orig-docId" value="MASC2-0042"/>
+        </fs>
+    </a>
+    <node xml:id="s-n3">
+        <link targets="s-r3"/>
+    </node>
+    <a xml:id="a6" label="s" ref="s-n3" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ch5.anc"/>
+            <f name="orig-start" value="2147"/>
+            <f name="orig-end" value="2297"/>
+            <f name="orig-docId" value="MASC1-00043"/>
+        </fs>
+    </a>
+    <node xml:id="s-n30">
+        <link targets="s-r30"/>
+    </node>
+    <a xml:id="a60" label="s" ref="s-n30" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/CUP1.anc"/>
+            <f name="orig-start" value="25752"/>
+            <f name="orig-end" value="25872"/>
+            <f name="orig-docId" value="MASC2-0037"/>
+        </fs>
+    </a>
+    <node xml:id="s-n31">
+        <link targets="s-r31"/>
+    </node>
+    <a xml:id="a62" label="s" ref="s-n31" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/detroit.anc"/>
+            <f name="orig-start" value="5664"/>
+            <f name="orig-end" value="5731"/>
+            <f name="orig-docId" value="MASC3-0114"/>
+        </fs>
+    </a>
+    <node xml:id="s-n32">
+        <link targets="s-r32"/>
+    </node>
+    <a xml:id="a64" label="s" ref="s-n32" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/detroit.anc"/>
+            <f name="orig-start" value="16815"/>
+            <f name="orig-end" value="16847"/>
+            <f name="orig-docId" value="MASC3-0114"/>
+        </fs>
+    </a>
+    <node xml:id="s-n33">
+        <link targets="s-r33"/>
+    </node>
+    <a xml:id="a66" label="s" ref="s-n33" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/HistoryLasVegas.anc"/>
+            <f name="orig-start" value="4885"/>
+            <f name="orig-end" value="5048"/>
+            <f name="orig-docId" value="OANC-60958"/>
+        </fs>
+    </a>
+    <node xml:id="s-n34">
+        <link targets="s-r34"/>
+    </node>
+    <a xml:id="a68" label="s" ref="s-n34" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/HistoryLasVegas.anc"/>
+            <f name="orig-start" value="13872"/>
+            <f name="orig-end" value="13980"/>
+            <f name="orig-docId" value="OANC-60958"/>
+        </fs>
+    </a>
+    <node xml:id="s-n35">
+        <link targets="s-r35"/>
+    </node>
+    <a xml:id="a70" label="s" ref="s-n35" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Homosexuality.anc"/>
+            <f name="orig-start" value="1747"/>
+            <f name="orig-end" value="1894"/>
+            <f name="orig-docId" value="MASC3-0092"/>
+        </fs>
+    </a>
+    <node xml:id="s-n36">
+        <link targets="s-r36"/>
+    </node>
+    <a xml:id="a72" label="s" ref="s-n36" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/hotel-california.anc"/>
+            <f name="orig-start" value="26163"/>
+            <f name="orig-end" value="26206"/>
+            <f name="orig-docId" value="MASC3-0096"/>
+        </fs>
+    </a>
+    <node xml:id="s-n37">
+        <link targets="s-r37"/>
+    </node>
+    <a xml:id="a74" label="s" ref="s-n37" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/How_soon-Fans.anc"/>
+            <f name="orig-start" value="3632"/>
+            <f name="orig-end" value="3700"/>
+            <f name="orig-docId" value="MASC3-0103"/>
+        </fs>
+    </a>
+    <node xml:id="s-n38">
+        <link targets="s-r38"/>
+    </node>
+    <a xml:id="a76" label="s" ref="s-n38" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Italy.anc"/>
+            <f name="orig-start" value="3333"/>
+            <f name="orig-end" value="3451"/>
+            <f name="orig-docId" value="MASC3-0105"/>
+        </fs>
+    </a>
+    <node xml:id="s-n39">
+        <link targets="s-r39"/>
+    </node>
+    <a xml:id="a78" label="s" ref="s-n39" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/jokes1.anc"/>
+            <f name="orig-start" value="4068"/>
+            <f name="orig-end" value="4154"/>
+            <f name="orig-docId" value="MASC3-0263"/>
+        </fs>
+    </a>
+    <node xml:id="s-n4">
+        <link targets="s-r4"/>
+    </node>
+    <a xml:id="a8" label="s" ref="s-n4" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ch5.anc"/>
+            <f name="orig-start" value="10615"/>
+            <f name="orig-end" value="10721"/>
+            <f name="orig-docId" value="MASC1-00043"/>
+        </fs>
+    </a>
+    <node xml:id="s-n40">
+        <link targets="s-r40"/>
+    </node>
+    <a xml:id="a80" label="s" ref="s-n40" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/jokes1.anc"/>
+            <f name="orig-start" value="6408"/>
+            <f name="orig-end" value="6501"/>
+            <f name="orig-docId" value="MASC3-0263"/>
+        </fs>
+    </a>
+    <node xml:id="s-n41">
+        <link targets="s-r41"/>
+    </node>
+    <a xml:id="a82" label="s" ref="s-n41" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/jokes1.anc"/>
+            <f name="orig-start" value="12287"/>
+            <f name="orig-end" value="12310"/>
+            <f name="orig-docId" value="MASC3-0263"/>
+        </fs>
+    </a>
+    <node xml:id="s-n42">
+        <link targets="s-r42"/>
+    </node>
+    <a xml:id="a84" label="s" ref="s-n42" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/jokes1.anc"/>
+            <f name="orig-start" value="16112"/>
+            <f name="orig-end" value="16200"/>
+            <f name="orig-docId" value="MASC3-0263"/>
+        </fs>
+    </a>
+    <node xml:id="s-n43">
+        <link targets="s-r43"/>
+    </node>
+    <a xml:id="a86" label="s" ref="s-n43" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/jokes1.anc"/>
+            <f name="orig-start" value="16710"/>
+            <f name="orig-end" value="16778"/>
+            <f name="orig-docId" value="MASC3-0263"/>
+        </fs>
+    </a>
+    <node xml:id="s-n44">
+        <link targets="s-r44"/>
+    </node>
+    <a xml:id="a88" label="s" ref="s-n44" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/jokes4.anc"/>
+            <f name="orig-start" value="4767"/>
+            <f name="orig-end" value="4851"/>
+            <f name="orig-docId" value="MASC3-0273"/>
+        </fs>
+    </a>
+    <node xml:id="s-n45">
+        <link targets="s-r45"/>
+    </node>
+    <a xml:id="a90" label="s" ref="s-n45" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/jokes5.anc"/>
+            <f name="orig-start" value="8084"/>
+            <f name="orig-end" value="8216"/>
+            <f name="orig-docId" value="MASC3-0274"/>
+        </fs>
+    </a>
+    <node xml:id="s-n46">
+        <link targets="s-r46"/>
+    </node>
+    <a xml:id="a92" label="s" ref="s-n46" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/JurassicParkIV-INT.anc"/>
+            <f name="orig-start" value="3628"/>
+            <f name="orig-end" value="3638"/>
+            <f name="orig-docId" value="MASC3-0085"/>
+        </fs>
+    </a>
+    <node xml:id="s-n47">
+        <link targets="s-r47"/>
+    </node>
+    <a xml:id="a94" label="s" ref="s-n47" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Lessig-court-transcript.anc"/>
+            <f name="orig-start" value="2939"/>
+            <f name="orig-end" value="3148"/>
+            <f name="orig-docId" value="MASC3-0049"/>
+        </fs>
+    </a>
+    <node xml:id="s-n48">
+        <link targets="s-r48"/>
+    </node>
+    <a xml:id="a96" label="s" ref="s-n48" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/lessig_blog-carbon.anc"/>
+            <f name="orig-start" value="4402"/>
+            <f name="orig-end" value="4548"/>
+            <f name="orig-docId" value="MASC3-0115"/>
+        </fs>
+    </a>
+    <node xml:id="s-n49">
+        <link targets="s-r49"/>
+    </node>
+    <a xml:id="a98" label="s" ref="s-n49" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/lists-003-2137010.anc"/>
+            <f name="orig-start" value="4159"/>
+            <f name="orig-end" value="4219"/>
+            <f name="orig-docId" value="MASC3-0284"/>
+        </fs>
+    </a>
+    <node xml:id="s-n5">
+        <link targets="s-r5"/>
+    </node>
+    <a xml:id="a10" label="s" ref="s-n5" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ch5.anc"/>
+            <f name="orig-start" value="21749"/>
+            <f name="orig-end" value="22165"/>
+            <f name="orig-docId" value="MASC1-00043"/>
+        </fs>
+    </a>
+    <node xml:id="s-n50">
+        <link targets="s-r50"/>
+    </node>
+    <a xml:id="a100" label="s" ref="s-n50" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/lists-003-2137010.anc"/>
+            <f name="orig-start" value="4448"/>
+            <f name="orig-end" value="4541"/>
+            <f name="orig-docId" value="MASC3-0284"/>
+        </fs>
+    </a>
+    <node xml:id="s-n51">
+        <link targets="s-r51"/>
+    </node>
+    <a xml:id="a102" label="s" ref="s-n51" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/lists-034-10082707.anc"/>
+            <f name="orig-start" value="1685"/>
+            <f name="orig-end" value="1770"/>
+            <f name="orig-docId" value="MASC3-0298"/>
+        </fs>
+    </a>
+    <node xml:id="s-n52">
+        <link targets="s-r52"/>
+    </node>
+    <a xml:id="a104" label="s" ref="s-n52" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Madame_White_Snake.anc"/>
+            <f name="orig-start" value="837"/>
+            <f name="orig-end" value="1102"/>
+            <f name="orig-docId" value="MASC3-0091"/>
+        </fs>
+    </a>
+    <node xml:id="s-n53">
+        <link targets="s-r53"/>
+    </node>
+    <a xml:id="a106" label="s" ref="s-n53" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Nathans_Bylichka.anc"/>
+            <f name="orig-start" value="21625"/>
+            <f name="orig-end" value="21637"/>
+            <f name="orig-docId" value="MASC2-0043"/>
+        </fs>
+    </a>
+    <node xml:id="s-n54">
+        <link targets="s-r54"/>
+    </node>
+    <a xml:id="a108" label="s" ref="s-n54" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Nathans_Bylichka.anc"/>
+            <f name="orig-start" value="21625"/>
+            <f name="orig-end" value="21637"/>
+            <f name="orig-docId" value="MASC2-0043"/>
+        </fs>
+    </a>
+    <node xml:id="s-n55">
+        <link targets="s-r55"/>
+    </node>
+    <a xml:id="a110" label="s" ref="s-n55" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/pirates.anc"/>
+            <f name="orig-start" value="38989"/>
+            <f name="orig-end" value="39039"/>
+            <f name="orig-docId" value="MASC3-0084"/>
+        </fs>
+    </a>
+    <node xml:id="s-n56">
+        <link targets="s-r56"/>
+    </node>
+    <a xml:id="a112" label="s" ref="s-n56" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/pirates.anc"/>
+            <f name="orig-start" value="58556"/>
+            <f name="orig-end" value="58568"/>
+            <f name="orig-docId" value="MASC3-0084"/>
+        </fs>
+    </a>
+    <node xml:id="s-n57">
+        <link targets="s-r57"/>
+    </node>
+    <a xml:id="a114" label="s" ref="s-n57" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/The_Black_Willow.anc"/>
+            <f name="orig-start" value="2779"/>
+            <f name="orig-end" value="2953"/>
+            <f name="orig-docId" value="MASC2-0044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n58">
+        <link targets="s-r58"/>
+    </node>
+    <a xml:id="a116" label="s" ref="s-n58" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/The_Black_Willow.anc"/>
+            <f name="orig-start" value="6845"/>
+            <f name="orig-end" value="6999"/>
+            <f name="orig-docId" value="MASC2-0044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n59">
+        <link targets="s-r59"/>
+    </node>
+    <a xml:id="a118" label="s" ref="s-n59" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/The_Black_Willow.anc"/>
+            <f name="orig-start" value="12151"/>
+            <f name="orig-end" value="12323"/>
+            <f name="orig-docId" value="MASC2-0044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n6">
+        <link targets="s-r6"/>
+    </node>
+    <a xml:id="a12" label="s" ref="s-n6" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/HistoryJerusalem.anc"/>
+            <f name="orig-start" value="826"/>
+            <f name="orig-end" value="985"/>
+            <f name="orig-docId" value="MASC1-00050"/>
+        </fs>
+    </a>
+    <node xml:id="s-n60">
+        <link targets="s-r60"/>
+    </node>
+    <a xml:id="a120" label="s" ref="s-n60" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/The_Black_Willow.anc"/>
+            <f name="orig-start" value="15120"/>
+            <f name="orig-end" value="15181"/>
+            <f name="orig-docId" value="MASC2-0044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n61">
+        <link targets="s-r61"/>
+    </node>
+    <a xml:id="a122" label="s" ref="s-n61" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/The_Black_Willow.anc"/>
+            <f name="orig-start" value="16716"/>
+            <f name="orig-end" value="16905"/>
+            <f name="orig-docId" value="MASC2-0044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n62">
+        <link targets="s-r62"/>
+    </node>
+    <a xml:id="a124" label="s" ref="s-n62" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/tweets1.anc"/>
+            <f name="orig-start" value="19433"/>
+            <f name="orig-end" value="19522"/>
+            <f name="orig-docId" value="MASC3-0060"/>
+        </fs>
+    </a>
+    <node xml:id="s-n63">
+        <link targets="s-r63"/>
+    </node>
+    <a xml:id="a126" label="s" ref="s-n63" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/tweets2.anc"/>
+            <f name="orig-start" value="23418"/>
+            <f name="orig-end" value="23435"/>
+            <f name="orig-docId" value="MASC3-0061"/>
+        </fs>
+    </a>
+    <node xml:id="s-n64">
+        <link targets="s-r64"/>
+    </node>
+    <a xml:id="a128" label="s" ref="s-n64" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ucb1.anc"/>
+            <f name="orig-start" value="292"/>
+            <f name="orig-end" value="336"/>
+            <f name="orig-docId" value="MASC3-0224"/>
+        </fs>
+    </a>
+    <node xml:id="s-n65">
+        <link targets="s-r65"/>
+    </node>
+    <a xml:id="a130" label="s" ref="s-n65" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ucb2.anc"/>
+            <f name="orig-start" value="523"/>
+            <f name="orig-end" value="595"/>
+            <f name="orig-docId" value="MASC3-0230"/>
+        </fs>
+    </a>
+    <node xml:id="s-n66">
+        <link targets="s-r66"/>
+    </node>
+    <a xml:id="a132" label="s" ref="s-n66" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ucb3.anc"/>
+            <f name="orig-start" value="435"/>
+            <f name="orig-end" value="504"/>
+            <f name="orig-docId" value="MASC3-0241"/>
+        </fs>
+    </a>
+    <node xml:id="s-n67">
+        <link targets="s-r67"/>
+    </node>
+    <a xml:id="a134" label="s" ref="s-n67" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/WhatToHongKong.anc"/>
+            <f name="orig-start" value="12321"/>
+            <f name="orig-end" value="12477"/>
+            <f name="orig-docId" value="OANC-61200"/>
+        </fs>
+    </a>
+    <node xml:id="s-n68">
+        <link targets="s-r68"/>
+    </node>
+    <a xml:id="a136" label="s" ref="s-n68" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1472-6904-3-1.anc"/>
+            <f name="orig-start" value="29196"/>
+            <f name="orig-end" value="29452"/>
+            <f name="orig-docId" value="oanc-00699"/>
+        </fs>
+    </a>
+    <node xml:id="s-n69">
+        <link targets="s-r69"/>
+    </node>
+    <a xml:id="a138" label="s" ref="s-n69" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2180-1-31.anc"/>
+            <f name="orig-start" value="13980"/>
+            <f name="orig-end" value="14545"/>
+            <f name="orig-docId" value="oanc-00272"/>
+        </fs>
+    </a>
+    <node xml:id="s-n7">
+        <link targets="s-r7"/>
+    </node>
+    <a xml:id="a14" label="s" ref="s-n7" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="54380"/>
+            <f name="orig-end" value="54560"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+    <node xml:id="s-n70">
+        <link targets="s-r70"/>
+    </node>
+    <a xml:id="a140" label="s" ref="s-n70" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/911report/chapter-3.anc"/>
+            <f name="orig-start" value="249228"/>
+            <f name="orig-end" value="249338"/>
+            <f name="orig-docId" value="oanc-00010"/>
+        </fs>
+    </a>
+    <node xml:id="s-n71">
+        <link targets="s-r71"/>
+    </node>
+    <a xml:id="a142" label="s" ref="s-n71" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/38/ArticleIP_2699.anc"/>
+            <f name="orig-start" value="9354"/>
+            <f name="orig-end" value="9367"/>
+            <f name="orig-docId" value="oanc-02552"/>
+        </fs>
+    </a>
+    <node xml:id="s-n72">
+        <link targets="s-r72"/>
+    </node>
+    <a xml:id="a144" label="s" ref="s-n72" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/14/Article247_3788.anc"/>
+            <f name="orig-start" value="2462"/>
+            <f name="orig-end" value="2541"/>
+            <f name="orig-docId" value="oanc-00716"/>
+        </fs>
+    </a>
+    <node xml:id="s-n73">
+        <link targets="s-r73"/>
+    </node>
+    <a xml:id="a146" label="s" ref="s-n73" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/43/ArticleIP_3379.anc"/>
+            <f name="orig-start" value="383"/>
+            <f name="orig-end" value="553"/>
+            <f name="orig-docId" value="oanc-02952"/>
+        </fs>
+    </a>
+    <node xml:id="s-n74">
+        <link targets="s-r74"/>
+    </node>
+    <a xml:id="a148" label="s" ref="s-n74" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2003-4-4-r28.anc"/>
+            <f name="orig-start" value="15856"/>
+            <f name="orig-end" value="16024"/>
+            <f name="orig-docId" value="oanc-01078"/>
+        </fs>
+    </a>
+    <node xml:id="s-n75">
+        <link targets="s-r75"/>
+    </node>
+    <a xml:id="a150" label="s" ref="s-n75" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2002-3-12-research0087.anc"/>
+            <f name="orig-start" value="43082"/>
+            <f name="orig-end" value="43245"/>
+            <f name="orig-docId" value="oanc-01031"/>
+        </fs>
+    </a>
+    <node xml:id="s-n76">
+        <link targets="s-r76"/>
+    </node>
+    <a xml:id="a152" label="s" ref="s-n76" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2156-3-11.anc"/>
+            <f name="orig-start" value="12696"/>
+            <f name="orig-end" value="12906"/>
+            <f name="orig-docId" value="oanc-00183"/>
+        </fs>
+    </a>
+    <node xml:id="s-n8">
+        <link targets="s-r8"/>
+    </node>
+    <a xml:id="a16" label="s" ref="s-n8" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="61126"/>
+            <f name="orig-end" value="61230"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+    <node xml:id="s-n9">
+        <link targets="s-r9"/>
+    </node>
+    <a xml:id="a18" label="s" ref="s-n9" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="86353"/>
+            <f name="orig-end" value="86631"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+</graph>

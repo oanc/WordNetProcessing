@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http//www.xces.org/ns/GRAF/1.0/" xmls="http//www.xces.org/ns/GRAF/1.0/" docId="wn.book.v" date.created="2014-03-01" creator="fc" version="1.0.0">
+  <fileDesc>
+    <titleStmt>
+      <title>book-v.txt</title>
+    </titleStmt>
+    <extent unit="word" count="0" />
+    <sourceDesc>
+      <title>book-v.txt</title>
+      <publisher type="org">American National Corpus Project</publisher>
+      <pubDate value="2014-03-01">March 01, 2014</pubDate>
+      <pubPlace>http://www.anc.org</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <primaryData loc="book-v.txt" f.id="f.text" />
+    <annotations>
+      <annotation loc="book-v-wn.xml" f.id="f.wn" />
+      <annotation loc="book-v-s-wn.xml" f.id="f.s" />
+    </annotations>
+  </profileDesc>
+</documentHeader>

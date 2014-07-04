@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="wordnet" occurs="66"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="w-r0" anchors="125 129"/>
+    <region xml:id="w-r1" anchors="191 195"/>
+    <region xml:id="w-r2" anchors="237 241"/>
+    <region xml:id="w-r3" anchors="239 243"/>
+    <region xml:id="w-r4" anchors="294 299"/>
+    <region xml:id="w-r5" anchors="492 496"/>
+    <region xml:id="w-r6" anchors="686 691"/>
+    <region xml:id="w-r7" anchors="741 745"/>
+    <region xml:id="w-r8" anchors="877 881"/>
+    <region xml:id="w-r9" anchors="1045 1049"/>
+    <region xml:id="w-r10" anchors="1095 1099"/>
+    <region xml:id="w-r11" anchors="1331 1335"/>
+    <region xml:id="w-r12" anchors="1571 1575"/>
+    <region xml:id="w-r13" anchors="1745 1749"/>
+    <region xml:id="w-r14" anchors="1809 1813"/>
+    <region xml:id="w-r15" anchors="1932 1936"/>
+    <region xml:id="w-r16" anchors="1965 1969"/>
+    <region xml:id="w-r17" anchors="2028 2032"/>
+    <region xml:id="w-r18" anchors="2139 2143"/>
+    <region xml:id="w-r19" anchors="2295 2299"/>
+    <region xml:id="w-r20" anchors="2305 2310"/>
+    <region xml:id="w-r21" anchors="2554 2558"/>
+    <region xml:id="w-r22" anchors="2570 2574"/>
+    <region xml:id="w-r23" anchors="2671 2675"/>
+    <region xml:id="w-r24" anchors="2800 2804"/>
+    <region xml:id="w-r25" anchors="2902 2906"/>
+    <region xml:id="w-r26" anchors="3001 3005"/>
+    <region xml:id="w-r27" anchors="3285 3289"/>
+    <region xml:id="w-r28" anchors="3460 3464"/>
+    <region xml:id="w-r29" anchors="3759 3763"/>
+    <region xml:id="w-r30" anchors="3947 3952"/>
+    <region xml:id="w-r31" anchors="4119 4123"/>
+    <region xml:id="w-r32" anchors="4406 4410"/>
+    <region xml:id="w-r33" anchors="4495 4500"/>
+    <region xml:id="w-r34" anchors="4622 4626"/>
+    <region xml:id="w-r35" anchors="4848 4852"/>
+    <region xml:id="w-r36" anchors="5025 5029"/>
+    <region xml:id="w-r37" anchors="5128 5132"/>
+    <region xml:id="w-r38" anchors="5300 5304"/>
+    <region xml:id="w-r39" anchors="5335 5339"/>
+    <region xml:id="w-r40" anchors="5472 5476"/>
+    <region xml:id="w-r41" anchors="5583 5587"/>
+    <region xml:id="w-r42" anchors="5812 5816"/>
+    <region xml:id="w-r43" anchors="5944 5948"/>
+    <region xml:id="w-r44" anchors="6019 6023"/>
+    <region xml:id="w-r45" anchors="6117 6121"/>
+    <region xml:id="w-r46" anchors="6141 6146"/>
+    <region xml:id="w-r47" anchors="6260 6264"/>
+    <region xml:id="w-r48" anchors="6426 6430"/>
+    <region xml:id="w-r49" anchors="6541 6546"/>
+    <region xml:id="w-r50" anchors="6720 6725"/>
+    <region xml:id="w-r51" anchors="7517 7521"/>
+    <region xml:id="w-r52" anchors="7795 7799"/>
+    <region xml:id="w-r53" anchors="7929 7933"/>
+    <region xml:id="w-r54" anchors="8098 8102"/>
+    <region xml:id="w-r55" anchors="8476 8480"/>
+    <region xml:id="w-r56" anchors="8738 8742"/>
+    <region xml:id="w-r57" anchors="9175 9179"/>
+    <region xml:id="w-r58" anchors="9230 9234"/>
+    <region xml:id="w-r59" anchors="9262 9266"/>
+    <region xml:id="w-r60" anchors="9384 9388"/>
+    <region xml:id="w-r61" anchors="9680 9684"/>
+    <region xml:id="w-r62" anchors="9861 9865"/>
+    <region xml:id="w-r63" anchors="10057 10061"/>
+    <region xml:id="w-r64" anchors="10247 10251"/>
+    <region xml:id="w-r65" anchors="10559 10563"/>
+    <node xml:id="w-n0">
+        <link targets="w-r0"/>
+    </node>
+    <a xml:id="a1" label="wordnet" ref="w-n0">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:15:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n1">
+        <link targets="w-r1"/>
+    </node>
+    <a xml:id="a3" label="wordnet" ref="w-n1">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n10">
+        <link targets="w-r10"/>
+    </node>
+    <a xml:id="a21" label="wordnet" ref="w-n10">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n11">
+        <link targets="w-r11"/>
+    </node>
+    <a xml:id="a23" label="wordnet" ref="w-n11">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:06:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n12">
+        <link targets="w-r12"/>
+    </node>
+    <a xml:id="a25" label="wordnet" ref="w-n12">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n13">
+        <link targets="w-r13"/>
+    </node>
+    <a xml:id="a27" label="wordnet" ref="w-n13">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n14">
+        <link targets="w-r14"/>
+    </node>
+    <a xml:id="a29" label="wordnet" ref="w-n14">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:15:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n15">
+        <link targets="w-r15"/>
+    </node>
+    <a xml:id="a31" label="wordnet" ref="w-n15">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n16">
+        <link targets="w-r16"/>
+    </node>
+    <a xml:id="a33" label="wordnet" ref="w-n16">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n17">
+        <link targets="w-r17"/>
+    </node>
+    <a xml:id="a35" label="wordnet" ref="w-n17">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="typeface%1:10:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n18">
+        <link targets="w-r18"/>
+    </node>
+    <a xml:id="a37" label="wordnet" ref="w-n18">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n19">
+        <link targets="w-r19"/>
+    </node>
+    <a xml:id="a39" label="wordnet" ref="w-n19">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n2">
+        <link targets="w-r2"/>
+    </node>
+    <a xml:id="a5" label="wordnet" ref="w-n2">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n20">
+        <link targets="w-r20"/>
+    </node>
+    <a xml:id="a41" label="wordnet" ref="w-n20">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n21">
+        <link targets="w-r21"/>
+    </node>
+    <a xml:id="a43" label="wordnet" ref="w-n21">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n22">
+        <link targets="w-r22"/>
+    </node>
+    <a xml:id="a45" label="wordnet" ref="w-n22">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="null"/>
+        </fs>
+    </a>
+    <node xml:id="w-n23">
+        <link targets="w-r23"/>
+    </node>
+    <a xml:id="a47" label="wordnet" ref="w-n23">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n24">
+        <link targets="w-r24"/>
+    </node>
+    <a xml:id="a49" label="wordnet" ref="w-n24">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n25">
+        <link targets="w-r25"/>
+    </node>
+    <a xml:id="a51" label="wordnet" ref="w-n25">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n26">
+        <link targets="w-r26"/>
+    </node>
+    <a xml:id="a53" label="wordnet" ref="w-n26">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n27">
+        <link targets="w-r27"/>
+    </node>
+    <a xml:id="a55" label="wordnet" ref="w-n27">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n28">
+        <link targets="w-r28"/>
+    </node>
+    <a xml:id="a57" label="wordnet" ref="w-n28">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n29">
+        <link targets="w-r29"/>
+    </node>
+    <a xml:id="a59" label="wordnet" ref="w-n29">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n3">
+        <link targets="w-r3"/>
+    </node>
+    <a xml:id="a7" label="wordnet" ref="w-n3">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n30">
+        <link targets="w-r30"/>
+    </node>
+    <a xml:id="a61" label="wordnet" ref="w-n30">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n31">
+        <link targets="w-r31"/>
+    </node>
+    <a xml:id="a63" label="wordnet" ref="w-n31">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n32">
+        <link targets="w-r32"/>
+    </node>
+    <a xml:id="a65" label="wordnet" ref="w-n32">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n33">
+        <link targets="w-r33"/>
+    </node>
+    <a xml:id="a67" label="wordnet" ref="w-n33">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n34">
+        <link targets="w-r34"/>
+    </node>
+    <a xml:id="a69" label="wordnet" ref="w-n34">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n35">
+        <link targets="w-r35"/>
+    </node>
+    <a xml:id="a71" label="wordnet" ref="w-n35">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n36">
+        <link targets="w-r36"/>
+    </node>
+    <a xml:id="a73" label="wordnet" ref="w-n36">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n37">
+        <link targets="w-r37"/>
+    </node>
+    <a xml:id="a75" label="wordnet" ref="w-n37">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n38">
+        <link targets="w-r38"/>
+    </node>
+    <a xml:id="a77" label="wordnet" ref="w-n38">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n39">
+        <link targets="w-r39"/>
+    </node>
+    <a xml:id="a79" label="wordnet" ref="w-n39">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n4">
+        <link targets="w-r4"/>
+    </node>
+    <a xml:id="a9" label="wordnet" ref="w-n4">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n40">
+        <link targets="w-r40"/>
+    </node>
+    <a xml:id="a81" label="wordnet" ref="w-n40">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n41">
+        <link targets="w-r41"/>
+    </node>
+    <a xml:id="a83" label="wordnet" ref="w-n41">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n42">
+        <link targets="w-r42"/>
+    </node>
+    <a xml:id="a85" label="wordnet" ref="w-n42">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n43">
+        <link targets="w-r43"/>
+    </node>
+    <a xml:id="a87" label="wordnet" ref="w-n43">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n44">
+        <link targets="w-r44"/>
+    </node>
+    <a xml:id="a89" label="wordnet" ref="w-n44">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n45">
+        <link targets="w-r45"/>
+    </node>
+    <a xml:id="a91" label="wordnet" ref="w-n45">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n46">
+        <link targets="w-r46"/>
+    </node>
+    <a xml:id="a93" label="wordnet" ref="w-n46">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n47">
+        <link targets="w-r47"/>
+    </node>
+    <a xml:id="a95" label="wordnet" ref="w-n47">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n48">
+        <link targets="w-r48"/>
+    </node>
+    <a xml:id="a97" label="wordnet" ref="w-n48">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n49">
+        <link targets="w-r49"/>
+    </node>
+    <a xml:id="a99" label="wordnet" ref="w-n49">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:18:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n5">
+        <link targets="w-r5"/>
+    </node>
+    <a xml:id="a11" label="wordnet" ref="w-n5">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n50">
+        <link targets="w-r50"/>
+    </node>
+    <a xml:id="a101" label="wordnet" ref="w-n50">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n51">
+        <link targets="w-r51"/>
+    </node>
+    <a xml:id="a103" label="wordnet" ref="w-n51">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:15:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n52">
+        <link targets="w-r52"/>
+    </node>
+    <a xml:id="a105" label="wordnet" ref="w-n52">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n53">
+        <link targets="w-r53"/>
+    </node>
+    <a xml:id="a107" label="wordnet" ref="w-n53">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:03::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n54">
+        <link targets="w-r54"/>
+    </node>
+    <a xml:id="a109" label="wordnet" ref="w-n54">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n55">
+        <link targets="w-r55"/>
+    </node>
+    <a xml:id="a111" label="wordnet" ref="w-n55">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:15:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n56">
+        <link targets="w-r56"/>
+    </node>
+    <a xml:id="a113" label="wordnet" ref="w-n56">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:15:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n57">
+        <link targets="w-r57"/>
+    </node>
+    <a xml:id="a115" label="wordnet" ref="w-n57">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n58">
+        <link targets="w-r58"/>
+    </node>
+    <a xml:id="a117" label="wordnet" ref="w-n58">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n59">
+        <link targets="w-r59"/>
+    </node>
+    <a xml:id="a119" label="wordnet" ref="w-n59">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n6">
+        <link targets="w-r6"/>
+    </node>
+    <a xml:id="a13" label="wordnet" ref="w-n6">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:10:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n60">
+        <link targets="w-r60"/>
+    </node>
+    <a xml:id="a121" label="wordnet" ref="w-n60">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n61">
+        <link targets="w-r61"/>
+    </node>
+    <a xml:id="a123" label="wordnet" ref="w-n61">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n62">
+        <link targets="w-r62"/>
+    </node>
+    <a xml:id="a125" label="wordnet" ref="w-n62">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n63">
+        <link targets="w-r63"/>
+    </node>
+    <a xml:id="a127" label="wordnet" ref="w-n63">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n64">
+        <link targets="w-r64"/>
+    </node>
+    <a xml:id="a129" label="wordnet" ref="w-n64">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:15:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n65">
+        <link targets="w-r65"/>
+    </node>
+    <a xml:id="a131" label="wordnet" ref="w-n65">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n7">
+        <link targets="w-r7"/>
+    </node>
+    <a xml:id="a15" label="wordnet" ref="w-n7">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:15:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n8">
+        <link targets="w-r8"/>
+    </node>
+    <a xml:id="a17" label="wordnet" ref="w-n8">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="human_face%1:08:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n9">
+        <link targets="w-r9"/>
+    </node>
+    <a xml:id="a19" label="wordnet" ref="w-n9">
+        <fs>
+            <f name="annotator" value="111"/>
+            <f name="round" value="round-7.1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="sample-cv"/>
+            <f name="sense" value="face%1:07:03::"/>
+        </fs>
+    </a>
+</graph>

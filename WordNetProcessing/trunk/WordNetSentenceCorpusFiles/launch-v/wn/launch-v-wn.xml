@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="wordnet" occurs="11"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="w-r0" anchors="116 122"/>
+    <region xml:id="w-r1" anchors="189 197"/>
+    <region xml:id="w-r2" anchors="502 508"/>
+    <region xml:id="w-r3" anchors="575 581"/>
+    <region xml:id="w-r4" anchors="709 718"/>
+    <region xml:id="w-r5" anchors="886 892"/>
+    <region xml:id="w-r6" anchors="971 977"/>
+    <region xml:id="w-r7" anchors="1108 1116"/>
+    <region xml:id="w-r8" anchors="1237 1243"/>
+    <region xml:id="w-r9" anchors="1345 1353"/>
+    <region xml:id="w-r10" anchors="1462 1470"/>
+    <node xml:id="w-n0">
+        <link targets="w-r0"/>
+    </node>
+    <a xml:id="a1" label="wordnet" ref="w-n0">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:35:04::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n1">
+        <link targets="w-r1"/>
+    </node>
+    <a xml:id="a3" label="wordnet" ref="w-n1">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:35:04::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n10">
+        <link targets="w-r10"/>
+    </node>
+    <a xml:id="a21" label="wordnet" ref="w-n10">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:35:04::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n2">
+        <link targets="w-r2"/>
+    </node>
+    <a xml:id="a5" label="wordnet" ref="w-n2">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:41:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n3">
+        <link targets="w-r3"/>
+    </node>
+    <a xml:id="a7" label="wordnet" ref="w-n3">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:35:04::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n4">
+        <link targets="w-r4"/>
+    </node>
+    <a xml:id="a9" label="wordnet" ref="w-n4">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:35:04::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n5">
+        <link targets="w-r5"/>
+    </node>
+    <a xml:id="a11" label="wordnet" ref="w-n5">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="null"/>
+        </fs>
+    </a>
+    <node xml:id="w-n6">
+        <link targets="w-r6"/>
+    </node>
+    <a xml:id="a13" label="wordnet" ref="w-n6">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:41:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n7">
+        <link targets="w-r7"/>
+    </node>
+    <a xml:id="a15" label="wordnet" ref="w-n7">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:41:01::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n8">
+        <link targets="w-r8"/>
+    </node>
+    <a xml:id="a17" label="wordnet" ref="w-n8">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:35:04::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n9">
+        <link targets="w-r9"/>
+    </node>
+    <a xml:id="a19" label="wordnet" ref="w-n9">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="launch%2:41:01::"/>
+        </fs>
+    </a>
+</graph>

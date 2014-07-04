@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="s" occurs="92"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="s-r0" anchors="0 40"/>
+    <region xml:id="s-r1" anchors="41 353"/>
+    <region xml:id="s-r2" anchors="330 414"/>
+    <region xml:id="s-r3" anchors="409 500"/>
+    <region xml:id="s-r4" anchors="501 640"/>
+    <region xml:id="s-r5" anchors="609 779"/>
+    <region xml:id="s-r6" anchors="748 903"/>
+    <region xml:id="s-r7" anchors="888 1044"/>
+    <region xml:id="s-r8" anchors="1045 1263"/>
+    <region xml:id="s-r9" anchors="1264 1837"/>
+    <region xml:id="s-r10" anchors="1838 2045"/>
+    <region xml:id="s-r11" anchors="2046 2221"/>
+    <region xml:id="s-r12" anchors="2222 2401"/>
+    <region xml:id="s-r13" anchors="2402 2538"/>
+    <region xml:id="s-r14" anchors="2539 2699"/>
+    <region xml:id="s-r15" anchors="2684 3270"/>
+    <region xml:id="s-r16" anchors="3171 3352"/>
+    <region xml:id="s-r17" anchors="3353 3763"/>
+    <region xml:id="s-r18" anchors="3494 3625"/>
+    <region xml:id="s-r19" anchors="3610 3915"/>
+    <region xml:id="s-r20" anchors="3876 4053"/>
+    <region xml:id="s-r21" anchors="4030 4086"/>
+    <region xml:id="s-r22" anchors="4077 4267"/>
+    <region xml:id="s-r23" anchors="4244 4395"/>
+    <region xml:id="s-r24" anchors="4380 4557"/>
+    <region xml:id="s-r25" anchors="4558 4626"/>
+    <region xml:id="s-r26" anchors="4627 4837"/>
+    <region xml:id="s-r27" anchors="4814 4938"/>
+    <region xml:id="s-r28" anchors="4939 5179"/>
+    <region xml:id="s-r29" anchors="5148 6057"/>
+    <region xml:id="s-r30" anchors="5900 6073"/>
+    <region xml:id="s-r31" anchors="6054 6386"/>
+    <region xml:id="s-r32" anchors="6337 6494"/>
+    <region xml:id="s-r33" anchors="6471 6799"/>
+    <region xml:id="s-r34" anchors="6750 6938"/>
+    <region xml:id="s-r35" anchors="6909 7159"/>
+    <region xml:id="s-r36" anchors="7128 7544"/>
+    <region xml:id="s-r37" anchors="7489 8089"/>
+    <region xml:id="s-r38" anchors="7994 8055"/>
+    <region xml:id="s-r39" anchors="8048 8129"/>
+    <region xml:id="s-r40" anchors="8130 8387"/>
+    <region xml:id="s-r41" anchors="8388 8530"/>
+    <region xml:id="s-r42" anchors="8511 8819"/>
+    <region xml:id="s-r43" anchors="8820 9191"/>
+    <region xml:id="s-r44" anchors="9132 9248"/>
+    <region xml:id="s-r45" anchors="9249 9480"/>
+    <region xml:id="s-r46" anchors="9441 9687"/>
+    <region xml:id="s-r47" anchors="9664 9819"/>
+    <region xml:id="s-r48" anchors="9820 10214"/>
+    <region xml:id="s-r49" anchors="10167 10312"/>
+    <region xml:id="s-r50" anchors="10293 10360"/>
+    <region xml:id="s-r51" anchors="10351 10509"/>
+    <region xml:id="s-r52" anchors="10510 10697"/>
+    <region xml:id="s-r53" anchors="10698 10961"/>
+    <region xml:id="s-r54" anchors="10922 11096"/>
+    <region xml:id="s-r55" anchors="11097 11282"/>
+    <region xml:id="s-r56" anchors="11259 12120"/>
+    <region xml:id="s-r57" anchors="11980 12172"/>
+    <region xml:id="s-r58" anchors="12173 12439"/>
+    <region xml:id="s-r59" anchors="12408 12482"/>
+    <region xml:id="s-r60" anchors="12473 12599"/>
+    <region xml:id="s-r61" anchors="12580 12788"/>
+    <region xml:id="s-r62" anchors="12759 12869"/>
+    <region xml:id="s-r63" anchors="12850 13064"/>
+    <region xml:id="s-r64" anchors="13033 13168"/>
+    <region xml:id="s-r65" anchors="13149 13861"/>
+    <region xml:id="s-r66" anchors="13774 13816"/>
+    <region xml:id="s-r67" anchors="13817 14060"/>
+    <region xml:id="s-r68" anchors="14037 14254"/>
+    <region xml:id="s-r69" anchors="14225 14441"/>
+    <region xml:id="s-r70" anchors="14418 14724"/>
+    <region xml:id="s-r71" anchors="14685 14789"/>
+    <region xml:id="s-r72" anchors="14790 14928"/>
+    <region xml:id="s-r73" anchors="14909 15145"/>
+    <region xml:id="s-r74" anchors="15146 15408"/>
+    <region xml:id="s-r75" anchors="15368 15469"/>
+    <region xml:id="s-r76" anchors="15460 15701"/>
+    <region xml:id="s-r77" anchors="15672 15794"/>
+    <region xml:id="s-r78" anchors="15779 15980"/>
+    <region xml:id="s-r79" anchors="15951 16294"/>
+    <region xml:id="s-r80" anchors="16295 17173"/>
+    <region xml:id="s-r81" anchors="17070 17202"/>
+    <region xml:id="s-r82" anchors="17183 17381"/>
+    <region xml:id="s-r83" anchors="17358 17619"/>
+    <region xml:id="s-r84" anchors="17588 17921"/>
+    <region xml:id="s-r85" anchors="17873 17933"/>
+    <region xml:id="s-r86" anchors="17926 18086"/>
+    <region xml:id="s-r87" anchors="18063 18208"/>
+    <region xml:id="s-r88" anchors="18209 18409"/>
+    <region xml:id="s-r89" anchors="18410 18689"/>
+    <region xml:id="s-r90" anchors="18658 19103"/>
+    <region xml:id="s-r91" anchors="19048 19140"/>
+    <node xml:id="s-n0">
+        <link targets="s-r0"/>
+    </node>
+    <a xml:id="a0" label="s" ref="s-n0" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/110CYL070.anc"/>
+            <f name="orig-start" value="378"/>
+            <f name="orig-end" value="418"/>
+            <f name="orig-docId" value="MASC1-00003"/>
+        </fs>
+    </a>
+    <node xml:id="s-n1">
+        <link targets="s-r1"/>
+    </node>
+    <a xml:id="a2" label="s" ref="s-n1" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/116CUL032.anc"/>
+            <f name="orig-start" value="776"/>
+            <f name="orig-end" value="1088"/>
+            <f name="orig-docId" value="MASC1-00021"/>
+        </fs>
+    </a>
+    <node xml:id="s-n10">
+        <link targets="s-r10"/>
+    </node>
+    <a xml:id="a20" label="s" ref="s-n10" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="74873"/>
+            <f name="orig-end" value="75080"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+    <node xml:id="s-n11">
+        <link targets="s-r11"/>
+    </node>
+    <a xml:id="a22" label="s" ref="s-n11" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="85037"/>
+            <f name="orig-end" value="85212"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+    <node xml:id="s-n12">
+        <link targets="s-r12"/>
+    </node>
+    <a xml:id="a24" label="s" ref="s-n12" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="86147"/>
+            <f name="orig-end" value="86326"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+    <node xml:id="s-n13">
+        <link targets="s-r13"/>
+    </node>
+    <a xml:id="a26" label="s" ref="s-n13" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="88433"/>
+            <f name="orig-end" value="88569"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+    <node xml:id="s-n14">
+        <link targets="s-r14"/>
+    </node>
+    <a xml:id="a28" label="s" ref="s-n14" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2466-1-1.anc"/>
+            <f name="orig-start" value="3517"/>
+            <f name="orig-end" value="3677"/>
+            <f name="orig-docId" value="oanc-00575"/>
+        </fs>
+    </a>
+    <node xml:id="s-n15">
+        <link targets="s-r15"/>
+    </node>
+    <a xml:id="a30" label="s" ref="s-n15" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2164-3-33.anc"/>
+            <f name="orig-start" value="19438"/>
+            <f name="orig-end" value="20024"/>
+            <f name="orig-docId" value="oanc-00225"/>
+        </fs>
+    </a>
+    <node xml:id="s-n16">
+        <link targets="s-r16"/>
+    </node>
+    <a xml:id="a32" label="s" ref="s-n16" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/52/ArticleIP_45483.anc"/>
+            <f name="orig-start" value="1109"/>
+            <f name="orig-end" value="1290"/>
+            <f name="orig-docId" value="oanc-04304"/>
+        </fs>
+    </a>
+    <node xml:id="s-n17">
+        <link targets="s-r17"/>
+    </node>
+    <a xml:id="a34" label="s" ref="s-n17" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1468-6708-3-1.anc"/>
+            <f name="orig-start" value="13055"/>
+            <f name="orig-end" value="13465"/>
+            <f name="orig-docId" value="OANC-50897"/>
+        </fs>
+    </a>
+    <node xml:id="s-n18">
+        <link targets="s-r18"/>
+    </node>
+    <a xml:id="a36" label="s" ref="s-n18" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2210-1-8.anc"/>
+            <f name="orig-start" value="9127"/>
+            <f name="orig-end" value="9258"/>
+            <f name="orig-docId" value="oanc-00371"/>
+        </fs>
+    </a>
+    <node xml:id="s-n19">
+        <link targets="s-r19"/>
+    </node>
+    <a xml:id="a38" label="s" ref="s-n19" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2407-2-23.anc"/>
+            <f name="orig-start" value="1226"/>
+            <f name="orig-end" value="1531"/>
+            <f name="orig-docId" value="oanc-00518"/>
+        </fs>
+    </a>
+    <node xml:id="s-n2">
+        <link targets="s-r2"/>
+    </node>
+    <a xml:id="a4" label="s" ref="s-n2" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/119CWL041.anc"/>
+            <f name="orig-start" value="600"/>
+            <f name="orig-end" value="684"/>
+            <f name="orig-docId" value="MASC1-00029"/>
+        </fs>
+    </a>
+    <node xml:id="s-n20">
+        <link targets="s-r20"/>
+    </node>
+    <a xml:id="a40" label="s" ref="s-n20" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2253-2-5.anc"/>
+            <f name="orig-start" value="1485"/>
+            <f name="orig-end" value="1662"/>
+            <f name="orig-docId" value="oanc-00391"/>
+        </fs>
+    </a>
+    <node xml:id="s-n21">
+        <link targets="s-r21"/>
+    </node>
+    <a xml:id="a42" label="s" ref="s-n21" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2002-3-12-research0083.anc"/>
+            <f name="orig-start" value="8847"/>
+            <f name="orig-end" value="8903"/>
+            <f name="orig-docId" value="oanc-01028"/>
+        </fs>
+    </a>
+    <node xml:id="s-n22">
+        <link targets="s-r22"/>
+    </node>
+    <a xml:id="a44" label="s" ref="s-n22" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2002-4-1-r1.anc"/>
+            <f name="orig-start" value="438"/>
+            <f name="orig-end" value="628"/>
+            <f name="orig-docId" value="oanc-01063"/>
+        </fs>
+    </a>
+    <node xml:id="s-n23">
+        <link targets="s-r23"/>
+    </node>
+    <a xml:id="a46" label="s" ref="s-n23" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2091-4-1.anc"/>
+            <f name="orig-start" value="16005"/>
+            <f name="orig-end" value="16156"/>
+            <f name="orig-docId" value="oanc-00044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n24">
+        <link targets="s-r24"/>
+    </node>
+    <a xml:id="a48" label="s" ref="s-n24" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/government/Env_Prot_Agen/jeffordslieberm.anc"/>
+            <f name="orig-start" value="37536"/>
+            <f name="orig-end" value="37713"/>
+            <f name="orig-docId" value="oanc-01608"/>
+        </fs>
+    </a>
+    <node xml:id="s-n25">
+        <link targets="s-r25"/>
+    </node>
+    <a xml:id="a50" label="s" ref="s-n25" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/51/ArticleIP_32708.anc"/>
+            <f name="orig-start" value="6634"/>
+            <f name="orig-end" value="6702"/>
+            <f name="orig-docId" value="oanc-04038"/>
+        </fs>
+    </a>
+    <node xml:id="s-n26">
+        <link targets="s-r26"/>
+    </node>
+    <a xml:id="a52" label="s" ref="s-n26" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2148-2-12.anc"/>
+            <f name="orig-start" value="25429"/>
+            <f name="orig-end" value="25639"/>
+            <f name="orig-docId" value="oanc-00154"/>
+        </fs>
+    </a>
+    <node xml:id="s-n27">
+        <link targets="s-r27"/>
+    </node>
+    <a xml:id="a54" label="s" ref="s-n27" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/government/Alcohol_Problems/DraftRecom-PDF.anc"/>
+            <f name="orig-start" value="17377"/>
+            <f name="orig-end" value="17501"/>
+            <f name="orig-docId" value="oanc-01597"/>
+        </fs>
+    </a>
+    <node xml:id="s-n28">
+        <link targets="s-r28"/>
+    </node>
+    <a xml:id="a56" label="s" ref="s-n28" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-244X-2-9.anc"/>
+            <f name="orig-start" value="14741"/>
+            <f name="orig-end" value="14981"/>
+            <f name="orig-docId" value="oanc-00552"/>
+        </fs>
+    </a>
+    <node xml:id="s-n29">
+        <link targets="s-r29"/>
+    </node>
+    <a xml:id="a58" label="s" ref="s-n29" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2121-3-13.anc"/>
+            <f name="orig-start" value="17623"/>
+            <f name="orig-end" value="18532"/>
+            <f name="orig-docId" value="oanc-00103"/>
+        </fs>
+    </a>
+    <node xml:id="s-n3">
+        <link targets="s-r3"/>
+    </node>
+    <a xml:id="a6" label="s" ref="s-n3" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Article247_3500.anc"/>
+            <f name="orig-start" value="170"/>
+            <f name="orig-end" value="261"/>
+            <f name="orig-docId" value="MASC1-00039"/>
+        </fs>
+    </a>
+    <node xml:id="s-n30">
+        <link targets="s-r30"/>
+    </node>
+    <a xml:id="a60" label="s" ref="s-n30" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2001-2-12-research0055.anc"/>
+            <f name="orig-start" value="21733"/>
+            <f name="orig-end" value="21906"/>
+            <f name="orig-docId" value="oanc-00982"/>
+        </fs>
+    </a>
+    <node xml:id="s-n31">
+        <link targets="s-r31"/>
+    </node>
+    <a xml:id="a62" label="s" ref="s-n31" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2001-2-12-research0054.anc"/>
+            <f name="orig-start" value="19819"/>
+            <f name="orig-end" value="20151"/>
+            <f name="orig-docId" value="oanc-00981"/>
+        </fs>
+    </a>
+    <node xml:id="s-n32">
+        <link targets="s-r32"/>
+    </node>
+    <a xml:id="a64" label="s" ref="s-n32" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2164-4-22.anc"/>
+            <f name="orig-start" value="405"/>
+            <f name="orig-end" value="562"/>
+            <f name="orig-docId" value="oanc-00240"/>
+        </fs>
+    </a>
+    <node xml:id="s-n33">
+        <link targets="s-r33"/>
+    </node>
+    <a xml:id="a66" label="s" ref="s-n33" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2164-3-31.anc"/>
+            <f name="orig-start" value="27865"/>
+            <f name="orig-end" value="28193"/>
+            <f name="orig-docId" value="oanc-00223"/>
+        </fs>
+    </a>
+    <node xml:id="s-n34">
+        <link targets="s-r34"/>
+    </node>
+    <a xml:id="a68" label="s" ref="s-n34" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2003-4-5-r34.anc"/>
+            <f name="orig-start" value="27144"/>
+            <f name="orig-end" value="27332"/>
+            <f name="orig-docId" value="oanc-01081"/>
+        </fs>
+    </a>
+    <node xml:id="s-n35">
+        <link targets="s-r35"/>
+    </node>
+    <a xml:id="a70" label="s" ref="s-n35" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2105-3-38.anc"/>
+            <f name="orig-start" value="24594"/>
+            <f name="orig-end" value="24844"/>
+            <f name="orig-docId" value="oanc-00069"/>
+        </fs>
+    </a>
+    <node xml:id="s-n36">
+        <link targets="s-r36"/>
+    </node>
+    <a xml:id="a72" label="s" ref="s-n36" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2105-3-37.anc"/>
+            <f name="orig-start" value="21993"/>
+            <f name="orig-end" value="22409"/>
+            <f name="orig-docId" value="oanc-00068"/>
+        </fs>
+    </a>
+    <node xml:id="s-n37">
+        <link targets="s-r37"/>
+    </node>
+    <a xml:id="a74" label="s" ref="s-n37" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/911report/chapter-11.anc"/>
+            <f name="orig-start" value="48258"/>
+            <f name="orig-end" value="48858"/>
+            <f name="orig-docId" value="oanc-00002"/>
+        </fs>
+    </a>
+    <node xml:id="s-n38">
+        <link targets="s-r38"/>
+    </node>
+    <a xml:id="a76" label="s" ref="s-n38" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1472-6750-3-6.anc"/>
+            <f name="orig-start" value="18179"/>
+            <f name="orig-end" value="18240"/>
+            <f name="orig-docId" value="oanc-00620"/>
+        </fs>
+    </a>
+    <node xml:id="s-n39">
+        <link targets="s-r39"/>
+    </node>
+    <a xml:id="a78" label="s" ref="s-n39" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/50/ArticleIP_20543.anc"/>
+            <f name="orig-start" value="4744"/>
+            <f name="orig-end" value="4825"/>
+            <f name="orig-docId" value="oanc-03587"/>
+        </fs>
+    </a>
+    <node xml:id="s-n4">
+        <link targets="s-r4"/>
+    </node>
+    <a xml:id="a8" label="s" ref="s-n4" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/chapter-10.anc"/>
+            <f name="orig-start" value="18553"/>
+            <f name="orig-end" value="18692"/>
+            <f name="orig-docId" value="MASC1-00044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n40">
+        <link targets="s-r40"/>
+    </node>
+    <a xml:id="a80" label="s" ref="s-n40" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/18/Article247_4182.anc"/>
+            <f name="orig-start" value="572"/>
+            <f name="orig-end" value="829"/>
+            <f name="orig-docId" value="oanc-01060"/>
+        </fs>
+    </a>
+    <node xml:id="s-n41">
+        <link targets="s-r41"/>
+    </node>
+    <a xml:id="a82" label="s" ref="s-n41" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2003-4-4-r24.anc"/>
+            <f name="orig-start" value="4145"/>
+            <f name="orig-end" value="4287"/>
+            <f name="orig-docId" value="oanc-01075"/>
+        </fs>
+    </a>
+    <node xml:id="s-n42">
+        <link targets="s-r42"/>
+    </node>
+    <a xml:id="a84" label="s" ref="s-n42" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/12/Article247_3579.anc"/>
+            <f name="orig-start" value="3803"/>
+            <f name="orig-end" value="4111"/>
+            <f name="orig-docId" value="oanc-00543"/>
+        </fs>
+    </a>
+    <node xml:id="s-n43">
+        <link targets="s-r43"/>
+    </node>
+    <a xml:id="a86" label="s" ref="s-n43" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1472-6793-2-4.anc"/>
+            <f name="orig-start" value="11441"/>
+            <f name="orig-end" value="11812"/>
+            <f name="orig-docId" value="oanc-00646"/>
+        </fs>
+    </a>
+    <node xml:id="s-n44">
+        <link targets="s-r44"/>
+    </node>
+    <a xml:id="a88" label="s" ref="s-n44" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/verbatim/VOL18_1.anc"/>
+            <f name="orig-start" value="72736"/>
+            <f name="orig-end" value="72852"/>
+            <f name="orig-docId" value="oanc-00013"/>
+        </fs>
+    </a>
+    <node xml:id="s-n45">
+        <link targets="s-r45"/>
+    </node>
+    <a xml:id="a90" label="s" ref="s-n45" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2003-4-2-r14.anc"/>
+            <f name="orig-start" value="42836"/>
+            <f name="orig-end" value="43067"/>
+            <f name="orig-docId" value="oanc-01068"/>
+        </fs>
+    </a>
+    <node xml:id="s-n46">
+        <link targets="s-r46"/>
+    </node>
+    <a xml:id="a92" label="s" ref="s-n46" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2350-3-12.anc"/>
+            <f name="orig-start" value="40127"/>
+            <f name="orig-end" value="40373"/>
+            <f name="orig-docId" value="oanc-00472"/>
+        </fs>
+    </a>
+    <node xml:id="s-n47">
+        <link targets="s-r47"/>
+    </node>
+    <a xml:id="a94" label="s" ref="s-n47" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/travel_guides/berlitz2/Portugal-WhereToGo.anc"/>
+            <f name="orig-start" value="94280"/>
+            <f name="orig-end" value="94435"/>
+            <f name="orig-docId" value="oanc-01528"/>
+        </fs>
+    </a>
+    <node xml:id="s-n48">
+        <link targets="s-r48"/>
+    </node>
+    <a xml:id="a96" label="s" ref="s-n48" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2164-3-30.anc"/>
+            <f name="orig-start" value="12688"/>
+            <f name="orig-end" value="13082"/>
+            <f name="orig-docId" value="oanc-00222"/>
+        </fs>
+    </a>
+    <node xml:id="s-n49">
+        <link targets="s-r49"/>
+    </node>
+    <a xml:id="a98" label="s" ref="s-n49" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2091-4-5.anc"/>
+            <f name="orig-start" value="11724"/>
+            <f name="orig-end" value="11869"/>
+            <f name="orig-docId" value="oanc-00045"/>
+        </fs>
+    </a>
+    <node xml:id="s-n5">
+        <link targets="s-r5"/>
+    </node>
+    <a xml:id="a10" label="s" ref="s-n5" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/chapter-10.anc"/>
+            <f name="orig-start" value="39906"/>
+            <f name="orig-end" value="40076"/>
+            <f name="orig-docId" value="MASC1-00044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n50">
+        <link targets="s-r50"/>
+    </node>
+    <a xml:id="a100" label="s" ref="s-n50" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1478-1336-1-3.anc"/>
+            <f name="orig-start" value="13139"/>
+            <f name="orig-end" value="13206"/>
+            <f name="orig-docId" value="oanc-00829"/>
+        </fs>
+    </a>
+    <node xml:id="s-n51">
+        <link targets="s-r51"/>
+    </node>
+    <a xml:id="a102" label="s" ref="s-n51" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/government/Env_Prot_Agen/tech_adden.anc"/>
+            <f name="orig-start" value="16686"/>
+            <f name="orig-end" value="16844"/>
+            <f name="orig-docId" value="oanc-01613"/>
+        </fs>
+    </a>
+    <node xml:id="s-n52">
+        <link targets="s-r52"/>
+    </node>
+    <a xml:id="a104" label="s" ref="s-n52" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/28/ArticleIP_1616.anc"/>
+            <f name="orig-start" value="1189"/>
+            <f name="orig-end" value="1376"/>
+            <f name="orig-docId" value="oanc-01718"/>
+        </fs>
+    </a>
+    <node xml:id="s-n53">
+        <link targets="s-r53"/>
+    </node>
+    <a xml:id="a106" label="s" ref="s-n53" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1478-1336-1-3.anc"/>
+            <f name="orig-start" value="9855"/>
+            <f name="orig-end" value="10118"/>
+            <f name="orig-docId" value="oanc-00829"/>
+        </fs>
+    </a>
+    <node xml:id="s-n54">
+        <link targets="s-r54"/>
+    </node>
+    <a xml:id="a108" label="s" ref="s-n54" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/government/Gen_Account_Office/pe1019.anc"/>
+            <f name="orig-start" value="197595"/>
+            <f name="orig-end" value="197769"/>
+            <f name="orig-docId" value="oanc-01698"/>
+        </fs>
+    </a>
+    <node xml:id="s-n55">
+        <link targets="s-r55"/>
+    </node>
+    <a xml:id="a110" label="s" ref="s-n55" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2105-4-28.anc"/>
+            <f name="orig-start" value="13299"/>
+            <f name="orig-end" value="13484"/>
+            <f name="orig-docId" value="oanc-00083"/>
+        </fs>
+    </a>
+    <node xml:id="s-n56">
+        <link targets="s-r56"/>
+    </node>
+    <a xml:id="a112" label="s" ref="s-n56" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2105-3-34.anc"/>
+            <f name="orig-start" value="9852"/>
+            <f name="orig-end" value="10713"/>
+            <f name="orig-docId" value="oanc-00067"/>
+        </fs>
+    </a>
+    <node xml:id="s-n57">
+        <link targets="s-r57"/>
+    </node>
+    <a xml:id="a114" label="s" ref="s-n57" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/30/ArticleIP_1815.anc"/>
+            <f name="orig-start" value="2748"/>
+            <f name="orig-end" value="2940"/>
+            <f name="orig-docId" value="oanc-01974"/>
+        </fs>
+    </a>
+    <node xml:id="s-n58">
+        <link targets="s-r58"/>
+    </node>
+    <a xml:id="a116" label="s" ref="s-n58" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2164-2-2.anc"/>
+            <f name="orig-start" value="34134"/>
+            <f name="orig-end" value="34400"/>
+            <f name="orig-docId" value="oanc-00197"/>
+        </fs>
+    </a>
+    <node xml:id="s-n59">
+        <link targets="s-r59"/>
+    </node>
+    <a xml:id="a118" label="s" ref="s-n59" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2164-3-13.anc"/>
+            <f name="orig-start" value="21346"/>
+            <f name="orig-end" value="21420"/>
+            <f name="orig-docId" value="oanc-00208"/>
+        </fs>
+    </a>
+    <node xml:id="s-n6">
+        <link targets="s-r6"/>
+    </node>
+    <a xml:id="a12" label="s" ref="s-n6" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/chapter-10.anc"/>
+            <f name="orig-start" value="47135"/>
+            <f name="orig-end" value="47290"/>
+            <f name="orig-docId" value="MASC1-00044"/>
+        </fs>
+    </a>
+    <node xml:id="s-n60">
+        <link targets="s-r60"/>
+    </node>
+    <a xml:id="a120" label="s" ref="s-n60" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2164-2-4.anc"/>
+            <f name="orig-start" value="16461"/>
+            <f name="orig-end" value="16587"/>
+            <f name="orig-docId" value="oanc-00198"/>
+        </fs>
+    </a>
+    <node xml:id="s-n61">
+        <link targets="s-r61"/>
+    </node>
+    <a xml:id="a122" label="s" ref="s-n61" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/ar319.anc"/>
+            <f name="orig-start" value="6528"/>
+            <f name="orig-end" value="6736"/>
+            <f name="orig-docId" value="oanc-00841"/>
+        </fs>
+    </a>
+    <node xml:id="s-n62">
+        <link targets="s-r62"/>
+    </node>
+    <a xml:id="a124" label="s" ref="s-n62" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-213X-1-15.anc"/>
+            <f name="orig-start" value="40506"/>
+            <f name="orig-end" value="40616"/>
+            <f name="orig-docId" value="oanc-00129"/>
+        </fs>
+    </a>
+    <node xml:id="s-n63">
+        <link targets="s-r63"/>
+    </node>
+    <a xml:id="a126" label="s" ref="s-n63" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2001-2-6-research0020.anc"/>
+            <f name="orig-start" value="25347"/>
+            <f name="orig-end" value="25561"/>
+            <f name="orig-docId" value="oanc-00992"/>
+        </fs>
+    </a>
+    <node xml:id="s-n64">
+        <link targets="s-r64"/>
+    </node>
+    <a xml:id="a128" label="s" ref="s-n64" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2105-3-4.anc"/>
+            <f name="orig-start" value="32357"/>
+            <f name="orig-end" value="32492"/>
+            <f name="orig-docId" value="oanc-00070"/>
+        </fs>
+    </a>
+    <node xml:id="s-n65">
+        <link targets="s-r65"/>
+    </node>
+    <a xml:id="a130" label="s" ref="s-n65" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2407-2-15.anc"/>
+            <f name="orig-start" value="3126"/>
+            <f name="orig-end" value="3838"/>
+            <f name="orig-docId" value="oanc-00511"/>
+        </fs>
+    </a>
+    <node xml:id="s-n66">
+        <link targets="s-r66"/>
+    </node>
+    <a xml:id="a132" label="s" ref="s-n66" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/13/Article247_3698.anc"/>
+            <f name="orig-start" value="240"/>
+            <f name="orig-end" value="282"/>
+            <f name="orig-docId" value="oanc-00643"/>
+        </fs>
+    </a>
+    <node xml:id="s-n67">
+        <link targets="s-r67"/>
+    </node>
+    <a xml:id="a134" label="s" ref="s-n67" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/travel_guides/berlitz1/IntroJerusalem.anc"/>
+            <f name="orig-start" value="9469"/>
+            <f name="orig-end" value="9712"/>
+            <f name="orig-docId" value="oanc-01406"/>
+        </fs>
+    </a>
+    <node xml:id="s-n68">
+        <link targets="s-r68"/>
+    </node>
+    <a xml:id="a136" label="s" ref="s-n68" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2288-2-10.anc"/>
+            <f name="orig-start" value="23633"/>
+            <f name="orig-end" value="23850"/>
+            <f name="orig-docId" value="oanc-00407"/>
+        </fs>
+    </a>
+    <node xml:id="s-n69">
+        <link targets="s-r69"/>
+    </node>
+    <a xml:id="a138" label="s" ref="s-n69" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2199-2-10.anc"/>
+            <f name="orig-start" value="19973"/>
+            <f name="orig-end" value="20189"/>
+            <f name="orig-docId" value="oanc-00304"/>
+        </fs>
+    </a>
+    <node xml:id="s-n7">
+        <link targets="s-r7"/>
+    </node>
+    <a xml:id="a14" label="s" ref="s-n7" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/chZ.anc"/>
+            <f name="orig-start" value="2320"/>
+            <f name="orig-end" value="2476"/>
+            <f name="orig-docId" value="MASC1-00045"/>
+        </fs>
+    </a>
+    <node xml:id="s-n70">
+        <link targets="s-r70"/>
+    </node>
+    <a xml:id="a140" label="s" ref="s-n70" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2002-3-8-research0040.anc"/>
+            <f name="orig-start" value="24078"/>
+            <f name="orig-end" value="24384"/>
+            <f name="orig-docId" value="oanc-01055"/>
+        </fs>
+    </a>
+    <node xml:id="s-n71">
+        <link targets="s-r71"/>
+    </node>
+    <a xml:id="a142" label="s" ref="s-n71" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/52/ArticleIP_43803.anc"/>
+            <f name="orig-start" value="7688"/>
+            <f name="orig-end" value="7792"/>
+            <f name="orig-docId" value="oanc-04289"/>
+        </fs>
+    </a>
+    <node xml:id="s-n72">
+        <link targets="s-r72"/>
+    </node>
+    <a xml:id="a144" label="s" ref="s-n72" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/ar297.anc"/>
+            <f name="orig-start" value="11698"/>
+            <f name="orig-end" value="11836"/>
+            <f name="orig-docId" value="oanc-00838"/>
+        </fs>
+    </a>
+    <node xml:id="s-n73">
+        <link targets="s-r73"/>
+    </node>
+    <a xml:id="a146" label="s" ref="s-n73" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/government/Gen_Account_Office/Testimony_cg00010t.anc"/>
+            <f name="orig-start" value="52926"/>
+            <f name="orig-end" value="53162"/>
+            <f name="orig-docId" value="oanc-01702"/>
+        </fs>
+    </a>
+    <node xml:id="s-n74">
+        <link targets="s-r74"/>
+    </node>
+    <a xml:id="a148" label="s" ref="s-n74" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/gb-2003-4-3-r17.anc"/>
+            <f name="orig-start" value="39119"/>
+            <f name="orig-end" value="39381"/>
+            <f name="orig-docId" value="oanc-01072"/>
+        </fs>
+    </a>
+    <node xml:id="s-n75">
+        <link targets="s-r75"/>
+    </node>
+    <a xml:id="a150" label="s" ref="s-n75" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1472-6890-2-5.anc"/>
+            <f name="orig-start" value="11340"/>
+            <f name="orig-end" value="11441"/>
+            <f name="orig-docId" value="oanc-00693"/>
+        </fs>
+    </a>
+    <node xml:id="s-n76">
+        <link targets="s-r76"/>
+    </node>
+    <a xml:id="a152" label="s" ref="s-n76" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1475-925X-2-11.anc"/>
+            <f name="orig-start" value="4518"/>
+            <f name="orig-end" value="4759"/>
+            <f name="orig-docId" value="oanc-00762"/>
+        </fs>
+    </a>
+    <node xml:id="s-n77">
+        <link targets="s-r77"/>
+    </node>
+    <a xml:id="a154" label="s" ref="s-n77" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2105-4-26.anc"/>
+            <f name="orig-start" value="14446"/>
+            <f name="orig-end" value="14568"/>
+            <f name="orig-docId" value="oanc-00081"/>
+        </fs>
+    </a>
+    <node xml:id="s-n78">
+        <link targets="s-r78"/>
+    </node>
+    <a xml:id="a156" label="s" ref="s-n78" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1477-7827-1-13.anc"/>
+            <f name="orig-start" value="6734"/>
+            <f name="orig-end" value="6935"/>
+            <f name="orig-docId" value="oanc-00812"/>
+        </fs>
+    </a>
+    <node xml:id="s-n79">
+        <link targets="s-r79"/>
+    </node>
+    <a xml:id="a158" label="s" ref="s-n79" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/20/Article247_4300.anc"/>
+            <f name="orig-start" value="1313"/>
+            <f name="orig-end" value="1656"/>
+            <f name="orig-docId" value="oanc-01236"/>
+        </fs>
+    </a>
+    <node xml:id="s-n8">
+        <link targets="s-r8"/>
+    </node>
+    <a xml:id="a16" label="s" ref="s-n8" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="50209"/>
+            <f name="orig-end" value="50427"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+    <node xml:id="s-n80">
+        <link targets="s-r80"/>
+    </node>
+    <a xml:id="a160" label="s" ref="s-n80" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1475-2891-1-2.anc"/>
+            <f name="orig-start" value="1443"/>
+            <f name="orig-end" value="2321"/>
+            <f name="orig-docId" value="oanc-00752"/>
+        </fs>
+    </a>
+    <node xml:id="s-n81">
+        <link targets="s-r81"/>
+    </node>
+    <a xml:id="a162" label="s" ref="s-n81" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2091-2-9.anc"/>
+            <f name="orig-start" value="16207"/>
+            <f name="orig-end" value="16339"/>
+            <f name="orig-docId" value="OANC-50983"/>
+        </fs>
+    </a>
+    <node xml:id="s-n82">
+        <link targets="s-r82"/>
+    </node>
+    <a xml:id="a164" label="s" ref="s-n82" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2431-2-1.anc"/>
+            <f name="orig-start" value="29017"/>
+            <f name="orig-end" value="29215"/>
+            <f name="orig-docId" value="oanc-00541"/>
+        </fs>
+    </a>
+    <node xml:id="s-n83">
+        <link targets="s-r83"/>
+    </node>
+    <a xml:id="a166" label="s" ref="s-n83" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2180-2-22.anc"/>
+            <f name="orig-start" value="11134"/>
+            <f name="orig-end" value="11395"/>
+            <f name="orig-docId" value="oanc-00284"/>
+        </fs>
+    </a>
+    <node xml:id="s-n84">
+        <link targets="s-r84"/>
+    </node>
+    <a xml:id="a168" label="s" ref="s-n84" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2334-1-21.anc"/>
+            <f name="orig-start" value="1657"/>
+            <f name="orig-end" value="1990"/>
+            <f name="orig-docId" value="oanc-00448"/>
+        </fs>
+    </a>
+    <node xml:id="s-n85">
+        <link targets="s-r85"/>
+    </node>
+    <a xml:id="a170" label="s" ref="s-n85" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1476-4598-2-2.anc"/>
+            <f name="orig-start" value="7738"/>
+            <f name="orig-end" value="7798"/>
+            <f name="orig-docId" value="oanc-00786"/>
+        </fs>
+    </a>
+    <node xml:id="s-n86">
+        <link targets="s-r86"/>
+    </node>
+    <a xml:id="a172" label="s" ref="s-n86" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2148-1-8.anc"/>
+            <f name="orig-start" value="44615"/>
+            <f name="orig-end" value="44775"/>
+            <f name="orig-docId" value="oanc-00152"/>
+        </fs>
+    </a>
+    <node xml:id="s-n87">
+        <link targets="s-r87"/>
+    </node>
+    <a xml:id="a174" label="s" ref="s-n87" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/41/ArticleIP_3065.anc"/>
+            <f name="orig-start" value="5557"/>
+            <f name="orig-end" value="5702"/>
+            <f name="orig-docId" value="oanc-02818"/>
+        </fs>
+    </a>
+    <node xml:id="s-n88">
+        <link targets="s-r88"/>
+    </node>
+    <a xml:id="a176" label="s" ref="s-n88" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/51/ArticleIP_35836.anc"/>
+            <f name="orig-start" value="6588"/>
+            <f name="orig-end" value="6788"/>
+            <f name="orig-docId" value="oanc-04192"/>
+        </fs>
+    </a>
+    <node xml:id="s-n89">
+        <link targets="s-r89"/>
+    </node>
+    <a xml:id="a178" label="s" ref="s-n89" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2334-2-7.anc"/>
+            <f name="orig-start" value="24748"/>
+            <f name="orig-end" value="25027"/>
+            <f name="orig-docId" value="oanc-00459"/>
+        </fs>
+    </a>
+    <node xml:id="s-n9">
+        <link targets="s-r9"/>
+    </node>
+    <a xml:id="a18" label="s" ref="s-n9" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/VOL15_3.anc"/>
+            <f name="orig-start" value="51963"/>
+            <f name="orig-end" value="52536"/>
+            <f name="orig-docId" value="MASC1-00062"/>
+        </fs>
+    </a>
+    <node xml:id="s-n90">
+        <link targets="s-r90"/>
+    </node>
+    <a xml:id="a180" label="s" ref="s-n90" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/ar615.anc"/>
+            <f name="orig-start" value="30550"/>
+            <f name="orig-end" value="30995"/>
+            <f name="orig-docId" value="oanc-00858"/>
+        </fs>
+    </a>
+    <node xml:id="s-n91">
+        <link targets="s-r91"/>
+    </node>
+    <a xml:id="a182" label="s" ref="s-n91" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/technical/biomed/1471-2148-2-2.anc"/>
+            <f name="orig-start" value="13585"/>
+            <f name="orig-end" value="13677"/>
+            <f name="orig-docId" value="oanc-00160"/>
+        </fs>
+    </a>
+</graph>
