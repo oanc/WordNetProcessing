@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http//www.xces.org/ns/GRAF/1.0/" xmls="http//www.xces.org/ns/GRAF/1.0/" docId="wn.juice.n" date.created="2014-03-01" creator="fc" version="1.0.0">
+  <fileDesc>
+    <titleStmt>
+      <title>juice-n.txt</title>
+    </titleStmt>
+    <extent unit="word" count="2573" />
+    <sourceDesc>
+      <title>juice-n.txt</title>
+      <publisher type="org">American National Corpus Project</publisher>
+      <pubDate value="2014-03-01">March 01, 2014</pubDate>
+      <pubPlace>http://www.anc.org</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <primaryData loc="juice-n.txt" f.id="f.text" />
+    <annotations>
+      <annotation loc="juice-n-wn.xml" f.id="f.wn" />
+      <annotation loc="juice-n-s-wn.xml" f.id="f.s" />
+    </annotations>
+  </profileDesc>
+</documentHeader>

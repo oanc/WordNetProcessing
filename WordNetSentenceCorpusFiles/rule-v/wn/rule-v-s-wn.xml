@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="s" occurs="8"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="s-r0" anchors="0 237"/>
+    <region xml:id="s-r1" anchors="238 314"/>
+    <region xml:id="s-r2" anchors="315 429"/>
+    <region xml:id="s-r3" anchors="430 580"/>
+    <region xml:id="s-r4" anchors="581 764"/>
+    <region xml:id="s-r5" anchors="765 910"/>
+    <region xml:id="s-r6" anchors="911 1038"/>
+    <region xml:id="s-r7" anchors="1039 1135"/>
+    <node xml:id="s-n0">
+        <link targets="s-r0"/>
+    </node>
+    <a xml:id="a0" label="s" ref="s-n0" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/20020731-nyt.anc"/>
+            <f name="orig-start" value="36844"/>
+            <f name="orig-end" value="37081"/>
+            <f name="orig-docId" value="MASC3-0059"/>
+        </fs>
+    </a>
+    <node xml:id="s-n1">
+        <link targets="s-r1"/>
+    </node>
+    <a xml:id="a2" label="s" ref="s-n1" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/20020731-nyt.anc"/>
+            <f name="orig-start" value="41272"/>
+            <f name="orig-end" value="41348"/>
+            <f name="orig-docId" value="MASC3-0059"/>
+        </fs>
+    </a>
+    <node xml:id="s-n2">
+        <link targets="s-r2"/>
+    </node>
+    <a xml:id="a4" label="s" ref="s-n2" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/anth_essay_4.anc"/>
+            <f name="orig-start" value="9169"/>
+            <f name="orig-end" value="9283"/>
+            <f name="orig-docId" value="MASC2-0048"/>
+        </fs>
+    </a>
+    <node xml:id="s-n3">
+        <link targets="s-r3"/>
+    </node>
+    <a xml:id="a6" label="s" ref="s-n3" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/anth_essay_4.anc"/>
+            <f name="orig-start" value="9365"/>
+            <f name="orig-end" value="9515"/>
+            <f name="orig-docId" value="MASC2-0048"/>
+        </fs>
+    </a>
+    <node xml:id="s-n4">
+        <link targets="s-r4"/>
+    </node>
+    <a xml:id="a8" label="s" ref="s-n4" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ArticleIP_1059.anc"/>
+            <f name="orig-start" value="4851"/>
+            <f name="orig-end" value="5034"/>
+            <f name="orig-docId" value="OANC-24820"/>
+        </fs>
+    </a>
+    <node xml:id="s-n5">
+        <link targets="s-r5"/>
+    </node>
+    <a xml:id="a10" label="s" ref="s-n5" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ArticleIP_1060.anc"/>
+            <f name="orig-start" value="685"/>
+            <f name="orig-end" value="830"/>
+            <f name="orig-docId" value="OANC-24827"/>
+        </fs>
+    </a>
+    <node xml:id="s-n6">
+        <link targets="s-r6"/>
+    </node>
+    <a xml:id="a12" label="s" ref="s-n6" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/ArticleIP_1060.anc"/>
+            <f name="orig-start" value="1228"/>
+            <f name="orig-end" value="1355"/>
+            <f name="orig-docId" value="OANC-24827"/>
+        </fs>
+    </a>
+    <node xml:id="s-n7">
+        <link targets="s-r7"/>
+    </node>
+    <a xml:id="a14" label="s" ref="s-n7" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/Fermentation_HR5034.anc"/>
+            <f name="orig-start" value="9325"/>
+            <f name="orig-end" value="9421"/>
+            <f name="orig-docId" value="MASC3-0102"/>
+        </fs>
+    </a>
+</graph>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="s" occurs="16"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="s-r0" anchors="0 360"/>
+    <region xml:id="s-r1" anchors="361 411"/>
+    <region xml:id="s-r2" anchors="412 541"/>
+    <region xml:id="s-r3" anchors="542 759"/>
+    <region xml:id="s-r4" anchors="760 1007"/>
+    <region xml:id="s-r5" anchors="1008 1133"/>
+    <region xml:id="s-r6" anchors="1134 1333"/>
+    <region xml:id="s-r7" anchors="1334 1660"/>
+    <region xml:id="s-r8" anchors="1661 1835"/>
+    <region xml:id="s-r9" anchors="1836 2031"/>
+    <region xml:id="s-r10" anchors="2032 2177"/>
+    <region xml:id="s-r11" anchors="2178 2238"/>
+    <region xml:id="s-r12" anchors="2239 2304"/>
+    <region xml:id="s-r13" anchors="2305 2403"/>
+    <region xml:id="s-r14" anchors="2404 2568"/>
+    <region xml:id="s-r15" anchors="2569 2724"/>
+    <node xml:id="s-n0">
+        <link targets="s-r0"/>
+    </node>
+    <a xml:id="a0" label="s" ref="s-n0" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/29/ArticleIP_1720.anc"/>
+            <f name="orig-start" value="2024"/>
+            <f name="orig-end" value="2384"/>
+            <f name="orig-docId" value="oanc-01800"/>
+        </fs>
+    </a>
+    <node xml:id="s-n1">
+        <link targets="s-r1"/>
+    </node>
+    <a xml:id="a2" label="s" ref="s-n1" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/30/ArticleIP_1863.anc"/>
+            <f name="orig-start" value="9427"/>
+            <f name="orig-end" value="9477"/>
+            <f name="orig-docId" value="oanc-02020"/>
+        </fs>
+    </a>
+    <node xml:id="s-n10">
+        <link targets="s-r10"/>
+    </node>
+    <a xml:id="a20" label="s" ref="s-n10" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/27/ArticleIP_1596.anc"/>
+            <f name="orig-start" value="619"/>
+            <f name="orig-end" value="764"/>
+            <f name="orig-docId" value="oanc-01698"/>
+        </fs>
+    </a>
+    <node xml:id="s-n11">
+        <link targets="s-r11"/>
+    </node>
+    <a xml:id="a22" label="s" ref="s-n11" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/32/ArticleIP_2070.anc"/>
+            <f name="orig-start" value="8328"/>
+            <f name="orig-end" value="8388"/>
+            <f name="orig-docId" value="oanc-02132"/>
+        </fs>
+    </a>
+    <node xml:id="s-n12">
+        <link targets="s-r12"/>
+    </node>
+    <a xml:id="a24" label="s" ref="s-n12" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/36/ArticleIP_2417.anc"/>
+            <f name="orig-start" value="8929"/>
+            <f name="orig-end" value="8994"/>
+            <f name="orig-docId" value="oanc-02359"/>
+        </fs>
+    </a>
+    <node xml:id="s-n13">
+        <link targets="s-r13"/>
+    </node>
+    <a xml:id="a26" label="s" ref="s-n13" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/41/ArticleIP_3039.anc"/>
+            <f name="orig-start" value="6350"/>
+            <f name="orig-end" value="6448"/>
+            <f name="orig-docId" value="oanc-02795"/>
+        </fs>
+    </a>
+    <node xml:id="s-n14">
+        <link targets="s-r14"/>
+    </node>
+    <a xml:id="a28" label="s" ref="s-n14" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/6/Article247_708.anc"/>
+            <f name="orig-start" value="2690"/>
+            <f name="orig-end" value="2854"/>
+            <f name="orig-docId" value="oanc-04520"/>
+        </fs>
+    </a>
+    <node xml:id="s-n15">
+        <link targets="s-r15"/>
+    </node>
+    <a xml:id="a30" label="s" ref="s-n15" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_2/travel_guides/berlitz1/WhereToEdinburgh.anc"/>
+            <f name="orig-start" value="40660"/>
+            <f name="orig-end" value="40815"/>
+            <f name="orig-docId" value="oanc-01437"/>
+        </fs>
+    </a>
+    <node xml:id="s-n2">
+        <link targets="s-r2"/>
+    </node>
+    <a xml:id="a4" label="s" ref="s-n2" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/34/ArticleIP_2252.anc"/>
+            <f name="orig-start" value="577"/>
+            <f name="orig-end" value="706"/>
+            <f name="orig-docId" value="oanc-02241"/>
+        </fs>
+    </a>
+    <node xml:id="s-n3">
+        <link targets="s-r3"/>
+    </node>
+    <a xml:id="a6" label="s" ref="s-n3" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/39/ArticleIP_2730.anc"/>
+            <f name="orig-start" value="8861"/>
+            <f name="orig-end" value="9078"/>
+            <f name="orig-docId" value="oanc-02563"/>
+        </fs>
+    </a>
+    <node xml:id="s-n4">
+        <link targets="s-r4"/>
+    </node>
+    <a xml:id="a8" label="s" ref="s-n4" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/43/ArticleIP_3388.anc"/>
+            <f name="orig-start" value="1253"/>
+            <f name="orig-end" value="1500"/>
+            <f name="orig-docId" value="oanc-02955"/>
+        </fs>
+    </a>
+    <node xml:id="s-n5">
+        <link targets="s-r5"/>
+    </node>
+    <a xml:id="a10" label="s" ref="s-n5" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/51/ArticleIP_31503.anc"/>
+            <f name="orig-start" value="4056"/>
+            <f name="orig-end" value="4181"/>
+            <f name="orig-docId" value="oanc-03958"/>
+        </fs>
+    </a>
+    <node xml:id="s-n6">
+        <link targets="s-r6"/>
+    </node>
+    <a xml:id="a12" label="s" ref="s-n6" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/51/ArticleIP_36164.anc"/>
+            <f name="orig-start" value="2442"/>
+            <f name="orig-end" value="2641"/>
+            <f name="orig-docId" value="oanc-04227"/>
+        </fs>
+    </a>
+    <node xml:id="s-n7">
+        <link targets="s-r7"/>
+    </node>
+    <a xml:id="a14" label="s" ref="s-n7" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/51/ArticleIP_36428.anc"/>
+            <f name="orig-start" value="5350"/>
+            <f name="orig-end" value="5676"/>
+            <f name="orig-docId" value="oanc-04232"/>
+        </fs>
+    </a>
+    <node xml:id="s-n8">
+        <link targets="s-r8"/>
+    </node>
+    <a xml:id="a16" label="s" ref="s-n8" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/53/ArticleIP_55682.anc"/>
+            <f name="orig-start" value="3945"/>
+            <f name="orig-end" value="4119"/>
+            <f name="orig-docId" value="oanc-04328"/>
+        </fs>
+    </a>
+    <node xml:id="s-n9">
+        <link targets="s-r9"/>
+    </node>
+    <a xml:id="a18" label="s" ref="s-n9" as="wn">
+        <fs>
+            <f name="path" value="[OANC]/data/written_1/journal/slate/53/ArticleIP_56271.anc"/>
+            <f name="orig-start" value="380"/>
+            <f name="orig-end" value="575"/>
+            <f name="orig-docId" value="oanc-04350"/>
+        </fs>
+    </a>
+</graph>

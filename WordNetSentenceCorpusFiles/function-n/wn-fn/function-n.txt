@@ -1,0 +1,78 @@
+We will meet a similar problem in the next chapter when we attempt to distinguish between the function of a part of an organism and the other causal consequences of that part of the organism.
+The work in question offers nothing regarding language, so its review here is ancillary to the main function of VERBATIM.
+The main functions of money are distinguished as: a medium of exchange; a unit of account; a store of value; and, occasionally, a standard of deferred payment.
+Despite being intangible, bank money still performs the basic functions of money, being generally accepted as a form of payment.
+Understanding the enzymatic mechanisms of the NTPDases will help description of their physiological functions, and development of strategies to regulate the functions of the enzymes.
+Understanding the enzymatic mechanisms of the NTPDases will help description of their physiological functions, and development of strategies to regulate the functions of the enzymes.
+E174 in ACR3 and S218 in ACR4 are required for catalytic function [ 12 ] .
+In addition to these functions in the developing CNS, GABA signaling is also required for the normal development of non-neural tissues.
+The association of liver disease and 1°SS was suggested more than 40 years ago [ 1 ] . While liver involvement in 1°SS has been considered "rare" [ 2 ] only a few clinical studies specifically address this complication and evaluate the association of liver function tests abnormalities with the severity of 1°SS [ 3 4 5 6 ] .
+We report the results of a review of cases undertaken to determine the prevalence of abnormal liver function tests (LFTs) and liver disease in patients with 1°SS referred to a tertiary care center and the association of abnormal LFTs with other systemic features and autoimmunity markers of 1°SS.
+Liver function tests had been determined in 59 patients (80.
+8 %) and abnormal liver function tests were found in 29 of the 59 patients (49.
+3%), all of whom had abnormal liver function tests.
+Risk factors for liver disease were identified in 40% of the patients with abnormal liver function tests and are described in Table 4. No association with tobacco use was found.
+We found no significant differences in risk factors for abnormal liver function tests among patients with or without hepatic involvement.
+5%) there was only one determination of liver function tests.
+The pattern of liver enzyme abnormalities is shown in Figure 1. None of the patients with abnormal liver function tests had clinical evidence of muscle involvement that could explain the high levels of amino-transferases.
+Activity of CPK or aldolase was not elevated when measured in 15 of the 29 patients with abnormal liver function tests.
+The association of abnormal liver function tests with other non-exocrine features of 1°SS is shown in Figure 2. Patients with abnormal liver function tests were more likely to have lung, kidney or hematological manifestations, when compared to Sjögren's patients without liver disease.
+The association of abnormal liver function tests with other non-exocrine features of 1°SS is shown in Figure 2. Patients with abnormal liver function tests were more likely to have lung, kidney or hematological manifestations, when compared to Sjögren's patients without liver disease.
+A positive anti-ENA (anti-Ro, anti-Ro/La, and/or anti-RNP) was also associated with an increased prevalence of abnormal liver function tests (Figure 3).
+In this group of Sjögren's patients seen at a tertiary care center, abnormal liver function tests were found to be a common non-exocrine feature of 1°SS.
+Although the prevalence of viral hepatitis markers in our group of patients with liver disease was very low and did not account for most of the cases with abnormal liver function tests, these markers were not sought in a small percentage of these patients.
+The co-existence of liver disease and the presence of circulating AMAs in Sjögren's patients sera has been pointed as an indicator that liver pathology might be autoimmune and similar to that of primary biliary cirrhosis [ 4 7 8 10 ] . In previous studies, a pericholangial lymphocytic infiltration similar to that found in stage I of primary biliary cirrhosis, has been reported in 1°SS with abnormal liver function tests or positivity for AMA [ 4 7 ] . In our review of cases, we found predominance in hepatocellular liver damage rather than cholestatic disease, which would argue against a PBC-type of liver damage.
+While we could not find an association between use of NSAIDS or other medications and prevalence of liver function tests abnormalities, the study design did not allow us to exclude the possibility of over-the-counter (OTC) medication use that could have affected LFT's measurement.
+immunosuppressants for autoimmune hepatitis, interferon-alpha for viral hepatitis, ursodeoxycolic acid for primary biliary cirrhosis) warrant a diligent search in all cases of 1°SS with abnormal liver function.
+But if they didn't, one of their functions was to continue the racism of the KKK.
+The locations of the rest of these sensors will depend on their function.
+The sonar will constantly be detecting nearby objects and initiate an escape maneuver when their inputs pass a certain threshold of stimulation, and the bump sensors will, when depressed, also initiate the escape function.
+The e-vector (heading) returned from the two polarization-sensitive photodiodes (1, 2) follows a cos2-function.
+Almost all motor output will be a direct function of sensory input as indicated in the following section.
+Common behaviors will include a forward cruise and turning mechanism, procedures to determine the orientation towards nest and the distance from the nest when outside, in-nest navigation, an escape function for when objects are detected or bumped into, object identification and gripping, a generic algorithm for pheromone plume and chemical trail following, and the identification of other ants.
+For a simple start, the forward cruise function will merely take in a double integer representing a speed and cause Antie to move forward at this speed.
+These behaviors will often be used in other subroutines running on a schema basis, and when combined with the forward cruise function, should cause the robot to move at an angle.
+Antie will therefore have a polarization function that will return a compass direction toward which it should orient in order to return home to the nest, and a distance function that will return the shortest direct distance.
+Antie will therefore have a polarization function that will return a compass direction toward which it should orient in order to return home to the nest, and a distance function that will return the shortest direct distance.
+We may assume that this first function will return a direction in degrees, positive or negative, and that the second function will return a distance in centimeters.
+We may assume that this first function will return a direction in degrees, positive or negative, and that the second function will return a distance in centimeters.
+The first function might look something like this:
+In-nest navigation will be a function of the temperature, read by Antie’s thermometer and a light source.
+To enter the nest, such as at the end of a task, Antie will perform the same function, except it will seek a lower temperature instead of a higher temperature, it will avoid light, and it will only activate while Antie is less than 10cm from the nest entrance.
+This void function will be called nestEnter(), and will take in no inputs.
+To avoid bumping into things (including other ants), Antie be provided with an escape function.
+Regardless, this will be a very simple function.
+Because this function responds to the sensors on Antie’s around the sides and only its sonar detectors will be able to detect objects in front of it, this escape function will not prevent Antie from being able to locate and pick up objects such as seeds.
+Because this function responds to the sensors on Antie’s around the sides and only its sonar detectors will be able to detect objects in front of it, this escape function will not prevent Antie from being able to locate and pick up objects such as seeds.
+A simple void function grip() taking in no inputs will tighten the grippers until a certain threshold of pressure is reached, at which point the grippers will be lifted for carrying.
+A void function release() will perform this same action in reverse.
+As a partial control for the problem of imprecise sensing, a function will perform an analysis of the array information coming on from Antie’s four sensors on each stalk.
+Research has shown that red harvester ants switch tasks partially as a function of age (ex., Ingram, et al, 2005) and partially as a function of interactions with other workers (ex., Schafer et al, 2006; Gordon, 2002; Greene & Gordon, 2007).
+Research has shown that red harvester ants switch tasks partially as a function of age (ex., Ingram, et al, 2005) and partially as a function of interactions with other workers (ex., Schafer et al, 2006; Gordon, 2002; Greene & Gordon, 2007).
+Workers probably switch to patrolling based on their perceived life expectancy and as a function of a gene whose expression changes between young and old ants, and this is easily emulated using a clock pulse counter in Antie’s CPU that will count its “age” since last boot.
+The switch from patrolling to foraging has been modeled as a function of successful foragers’ returns with great accuracy by Schafer, et al (2006), and evidence from experiments in which successful foragers were removed before reentry to the nest does support the theory that returning successful foragers have an effect on the activation of new foragers (Gordon, 2002).
+For the purposes of modeling Antie, I will assume that the switches between these behaviors are permanent, irreversible and partly a function of age, with new foragers being activated by returning successful foragers.
+While the strong V-I motion from measures 90-91 does carry a tonal implication of dominant-tonic, such cadential bass motion does not imply anything about structural function in this context.
+The passage from measures 85-89 is centered on E♭ (and the pentatonic set from the opening of the exposition is transposed down a whole step), but its mere presence as local tonic does not signify any sort of dominant function.
+E and F♯ are both active throughout the entire transition from second theme back to first theme (measures 456-487) which brings out their functions as upper and lower chromatic neighbors to F, which returns triumphantly in measure 488 with the much-anticipated recapitulation of the first theme.
+During the day, the homeostatic system slowly accumulates a 'sleep drive,' a desire to sleep that increases as a function of time spent awake.
+Their letter claims that you owe them money, which they will take and use to pay for the operation of essential functions of the government.
+ Prostanoids are important regulators of fibroblast function [ 5 6 7 8 9 ] .
+When an architectural competition was announced for the New York Public Library on May 21, 1897, Dr. John Shaw Billings, the library’s executive director, was determined that in his building, design would not triumph over function.
+It was not a question of function.
+The function of a baseboard is to cover the joint between the wall and the floor, and secondarily to protect the wall from scuffing.
+This implies that he shoehorns functions into the building, which is not the case.
+just dropped off nikita to her hostel Thinking about TapTCP NAT traversal for kerjodando p2p l_a:groups like "s.asians for obama" capitalize on affinity groups' desire for bus/soc networking:multi function event->more particip ...
+A spokeswoman for Crum & Forster said employees were told early this week that numerous staff functions for the personal insurance lines were going to be centralized as a cost-cutting move.
+Lumican expression has previously been correlated with higher tumor grade, lower estrogen levels in the tumor and younger age of patients in human breast cancer [ 21 ] . In addition, lumican is structurally related to both biglycan which is among the top IL-8-tumor related genes and the human embryonal carcinoma marker antigen TRA-1-60 [ 22 ] . These relationships support the hypothesis that lumican may be a tumor related protein involved with IL-8's tumorigenic function.
+If specific binding to PIP 2 (and/or to some other phosphatidylinositide, such as PI4P) is critical for Boi1 function, then how could fusion to a myristoyl group-accepting sequence (i.e.
+Like other folklore genres, riddles serve a function, helping children learn to interpret facts and form an opinion.
+The focus of such research represents a departure from the classical reductionist approach in the biological sciences, and moves toward the integrated approach to understanding the interrelatedness of gene function and the role of each gene in the context of multi genetic cellular functions or genetic circuits [ 8, 9, 10].
+Further study has revealed that CT is produced extrathyroidally by NE cells throughout the body, and may have multiple functions [ 15, 16].
+Consequently, FDR for Welch-SAM is not a smooth function of Δ, as is the case of t -SAM.
+These findings suggest that TNFR2 has multiple biological functions.
+For each model, unaffected individuals and individuals with serology or biopsy based diagnosis were given a penetrance function based on disease prevalence.
+Note also that Steve Kean reminded me that we've got to continue to push to get the utilities out of the merchant function.
+In addition, California will only achieve a competitive retail market when the utility is removed completely from the procurement function.
+California should therefore begin immediately to phase the utility out of the procurement function entirely, with the goal of having all customers served by a non-utility provider within 36 months.
+In order to perform both of these functions, Antie will need a subroutine to explore in a zig-zag fashion, as harvester ants do (Gordon, 34).

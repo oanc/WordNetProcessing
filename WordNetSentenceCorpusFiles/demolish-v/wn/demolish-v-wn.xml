@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="wordnet" occurs="3"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="w-r0" anchors="87 97"/>
+    <region xml:id="w-r1" anchors="297 307"/>
+    <region xml:id="w-r2" anchors="425 435"/>
+    <node xml:id="w-n0">
+        <link targets="w-r0"/>
+    </node>
+    <a xml:id="a1" label="wordnet" ref="w-n0">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="demolish%2:36:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n1">
+        <link targets="w-r1"/>
+    </node>
+    <a xml:id="a3" label="wordnet" ref="w-n1">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="demolish%2:36:00::"/>
+        </fs>
+    </a>
+    <node xml:id="w-n2">
+        <link targets="w-r2"/>
+    </node>
+    <a xml:id="a5" label="wordnet" ref="w-n2">
+        <fs>
+            <f name="annotator" value="115"/>
+            <f name="round" value="round-1"/>
+            <f name="set" value="wn"/>
+            <f name="part" value="masc-instances"/>
+            <f name="sense" value="demolish%2:36:00::"/>
+        </fs>
+    </a>
+</graph>

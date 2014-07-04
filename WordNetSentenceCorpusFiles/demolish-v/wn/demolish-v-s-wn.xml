@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="s" occurs="3"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="s-r0" anchors="0 208"/>
+    <region xml:id="s-r1" anchors="184 356"/>
+    <region xml:id="s-r2" anchors="341 503"/>
+    <node xml:id="s-n0">
+        <link targets="s-r0"/>
+    </node>
+    <a xml:id="a0" label="s" ref="s-n0" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/HistoryLasVegas.anc"/>
+            <f name="orig-start" value="15575"/>
+            <f name="orig-end" value="15783"/>
+            <f name="orig-docId" value="OANC-60958"/>
+        </fs>
+    </a>
+    <node xml:id="s-n1">
+        <link targets="s-r1"/>
+    </node>
+    <a xml:id="a2" label="s" ref="s-n1" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/WhereToHongKong.anc"/>
+            <f name="orig-start" value="2311"/>
+            <f name="orig-end" value="2483"/>
+            <f name="orig-docId" value="OANC-61339"/>
+        </fs>
+    </a>
+    <node xml:id="s-n2">
+        <link targets="s-r2"/>
+    </node>
+    <a xml:id="a4" label="s" ref="s-n2" as="wn">
+        <fs>
+            <f name="path" value="[MASC]/data/written/WhereToHongKong.anc"/>
+            <f name="orig-start" value="6928"/>
+            <f name="orig-end" value="7090"/>
+            <f name="orig-docId" value="OANC-61339"/>
+        </fs>
+    </a>
+</graph>
