@@ -13,6 +13,7 @@ class AssignedSense
    String annotator
    String round
    String part
+   String set;
    String sense
 
    String toString()
@@ -25,6 +26,7 @@ class AssignedSense
          IAnnotation a = Factory.newAnnotation(id, 'wordnet')
          addFeature(a, 'annotator', annotator)
          addFeature(a, 'round', round)
+         addFeature(a, 'set', set)
          addFeature(a, 'part', part)
          addFeature(a, 'sense', sense)
          return a
