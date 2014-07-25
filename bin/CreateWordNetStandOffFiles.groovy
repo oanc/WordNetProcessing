@@ -361,14 +361,17 @@ class CreateWordNetStandOffFiles {
             //wordAnnotation.addFeature('path',pair.getSentenceDesc().path);
 
             String originalMascPath = pair.getSentenceDesc().path;
-            String dependency = getFileNameFromPath(originalMascPath);
+            //String dependency = getFileNameFromPath(originalMascPath);
 
-            //println "dependency is ${dependency}" ;
 
-            dependency = dependency.replaceAll(".anc","-hepple.xml");
-            dependency = dependency.replaceAll(".hdr","-penn.xml") ;
+           // dependency = dependency.replaceAll(".anc","-hepple.xml");
+           // dependency = dependency.replaceAll(".hdr","-penn.xml") ;
 
            // println "dependency is now ${dependency}" ;
+
+            String dependency = "f.penn";
+
+            //println "dependency is ${dependency}" ;
 
             List<String> dependsOn = header.getDependsOn();
 

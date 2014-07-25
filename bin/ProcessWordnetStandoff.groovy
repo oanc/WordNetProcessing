@@ -194,9 +194,9 @@ class ProcessSentences
                     String round = parts[1];
                     String part = parts[2];
                     if  ((annotatorsToIgnore.contains(annotator))     ||
-                         (partsToIgnore.contains(part))               ||
-                         (  cv && !part.contains('cv') )           ||
-                         ( !cv &&  part.contains('cv')) )
+                         (partsToIgnore.contains(part))   )//            ||
+//                         (  cv && !part.contains('cv') )           ||
+//                         ( !cv &&  part.contains('cv')) )
                     {
                         logger.info "skipping: annotator: ${annotator}   round: ${round}   part:  ${part}";
                     }
@@ -721,15 +721,15 @@ class ProcessSentences
                     }
                     else
                     {
-                        println("${sentence.start.toInteger()} to ${sentence.end.toInteger()} offset is ${sentence.offset.toInteger()} text is ${sentence.text}");
-                        println("text in sentence at offset is ${text.substring(offset, offset + 1)}, but the first character of the word: ${word} is ${word.substring(0, 1)}");
+                       // println("${sentence.start.toInteger()} to ${sentence.end.toInteger()} offset is ${sentence.offset.toInteger()} text is ${sentence.text}");
+                       // println("text in sentence at offset is ${text.substring(offset, offset + 1)}, but the first character of the word: ${word} is ${word.substring(0, 1)}");
                         result = false;
                     }
                 }
                 else
                 {
-                    println("${sentence.start.toInteger()} to ${sentence.end.toInteger()} offset is ${sentence.offset.toInteger()} text is ${sentence.text}");
-                    println("offsets greater than sentence length, the word is ${word}");
+                   // println("${sentence.start.toInteger()} to ${sentence.end.toInteger()} offset is ${sentence.offset.toInteger()} text is ${sentence.text}");
+                   // println("offsets greater than sentence length, the word is ${word}");
 
 
                     result = false;

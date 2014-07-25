@@ -118,7 +118,7 @@ class OrganizeToFiles {
                         //load from the file first
                         //get all the sentences in a SentenceList and Sense Keys ( that area on the top of the file )
 
-                        println " outputFile ${outputFile.toString()} already exists";
+                        //println " outputFile ${outputFile.toString()} already exists";
 
                         // def i = 0;
                         try {
