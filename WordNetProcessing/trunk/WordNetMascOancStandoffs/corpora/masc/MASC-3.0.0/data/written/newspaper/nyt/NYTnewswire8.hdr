@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC2-0057" date.created="2013-01-24">
+  <fileDesc>
+    <titleStmt>
+      <title>New York Times newswire</title>
+    </titleStmt>
+    <extent unit="words" count="805"/>
+    <sourceDesc>
+      <title>NYTnewswire8</title>
+      <source type="Contributed">Linguistic Data Consortium</source>
+      <publisher>New York Times Inc.</publisher>
+      <pubDate value="July 31, 2002"/>
+      <pubName>The New York Times</pubName>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR NP">
+      <domain>World Affairs</domain>
+    </textClass>
+    <primaryData loc="NYTnewswire8.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="NYTnewswire8-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="NYTnewswire8-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="NYTnewswire8-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="NYTnewswire8-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="NYTnewswire8-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="NYTnewswire8-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="NYTnewswire8-seg.xml" f.id="f.seg">Base segmentation</annotation>
+      <annotation loc="NYTnewswire8-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+</documentHeader>

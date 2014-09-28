@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0195" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Enron Email Dataset - 175816</title>
+    </titleStmt>
+    <extent unit="words" count="214"/>
+    <sourceDesc>
+      <title>175816</title>
+      <source type="Web">http://www.cs.cmu.edu/~enron/</source>
+      <publisher>Federal Energy Regulatory Commission</publisher>
+      <pubDate value="2001"/>
+      <documentation>http://www.cs.cmu.edu/~enron/</documentation>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR EM">
+      <domain>Letters</domain>
+      <subdomain>Email</subdomain>
+    </textClass>
+    <primaryData loc="175816.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="175816-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="175816-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="175816-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="175816-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="175816-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="175816-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="175816-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="175816-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+</documentHeader>

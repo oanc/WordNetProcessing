@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0099" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>The Anti-Terrorist: Undermining The Motivation For Terrorism</title>
+    </titleStmt>
+    <extent unit="words" count="857"/>
+    <sourceDesc>
+      <title>Anti-Terrorist</title>
+      <author>Rev. Bill McGinnis</author>
+      <source type="Web">http://www.loveallpeople.org/antiterrorist.html</source>
+      <pubDate value="2004"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR BL">
+      <domain>Leisure</domain>
+    </textClass>
+    <primaryData loc="Anti-Terrorist.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="Anti-Terrorist-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="Anti-Terrorist-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="Anti-Terrorist-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="Anti-Terrorist-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="Anti-Terrorist-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="Anti-Terrorist-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="Anti-Terrorist-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="Anti-Terrorist-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+</documentHeader>

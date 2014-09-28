@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01438" date.created="2005-9-5" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>ArticleIP_1077</title>
+    </titleStmt>
+    <extent unit="word" count="894"/>
+    <sourceDesc>
+      <title>Stock-Market Circuit Breakers</title>
+      <author>Franklin Foer</author>
+      <publisher type="org">Microsoft Corporation</publisher>
+      <pubDate value="1997-11-01">11/1/97 4:30:00 PM</pubDate>
+      <pubName>Slate Magazine</pubName>
+      <pubPlace>http://www.slate.com</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR JO">
+      <domain>Periodicals</domain>
+      <subdomain>Specialized Magazine</subdomain>
+      <subject>Media Coverage</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <primaryData loc="ArticleIP_1077.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="ArticleIP_1077-logical.xml" f.id="f.logical"/>
+      <annotation loc="ArticleIP_1077-s.xml" f.id="f.s"/>
+      <annotation loc="ArticleIP_1077-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="ArticleIP_1077-np.xml" f.id="f.np"/>
+      <annotation loc="ArticleIP_1077-vp.xml" f.id="f.vp"/>
+      <annotation loc="ArticleIP_1077-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <changeDate>2004-11-10</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Converted to 2nd release standoff off</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

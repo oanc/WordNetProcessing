@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="OANC-56926" date.created="2005-03-26" creator="KBS">
+  <fileDesc>
+    <titleStmt>
+      <title>rr166</title>
+    </titleStmt>
+    <extent unit="word" count="2909"/>
+    <sourceDesc>
+      <title>Altered prostanoid production by fibroblasts cultured from the lungs
+           of human subjects with idiopathic pulmonary fibrosis</title>
+      <author>Roberto Cruz-Gervis</author>
+      <author>Arlene Stecenko</author>
+      <author>Ryszard Dworski</author>
+      <author>Kirk Lane</author>
+      <author>James Loyd</author>
+      <author>Richard Pierson</author>
+      <author>Gayle King</author>
+      <author>Kenneth Brigham</author>
+      <idno type="issn">1465-9921</idno>
+      <publisher>Respir Res</publisher>
+      <eAddress type="url"/>
+      <pubDate>2002</pubDate>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TC">
+      <subject>Respir Res</subject>
+      <domain>natural science</domain>
+      <subdomain>biology</subdomain>
+      <audience>adult</audience>
+    </textClass>
+    <primaryData loc="rr166.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="rr166-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="rr166-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="rr166-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="rr166-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="rr166-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="rr166-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="rr166-seg.xml" f.id="f.seg">Base segmentation</annotation>
+      <annotation loc="rr166-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+</documentHeader>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="sense" occurs="3"/>
+        </labelsDecl>
+        <dependencies>
+            <dependsOn type="sw3043-ms98-a-trans-penn.xml"/>
+        </dependencies>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <node xml:id="wn-n0"/>
+    <a xml:id="a0" label="sense" ref="wn-n0" as="wn">
+        <fs>
+            <f name="sense-key" value="null"/>
+            <f name="annotator" value="veweser"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n1"/>
+    <a xml:id="a1" label="sense" ref="wn-n1" as="wn">
+        <fs>
+            <f name="sense-key" value="island%1:17:00::"/>
+            <f name="annotator" value="jeneale"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n2"/>
+    <a xml:id="a2" label="sense" ref="wn-n2" as="wn">
+        <fs>
+            <f name="sense-key" value="null"/>
+            <f name="annotator" value="carichter"/>
+        </fs>
+    </a>
+    <edge xml:id="e1" from="wn-n1" to="penn-n1332"/>
+    <edge xml:id="e2" from="wn-n2" to="penn-n1332"/>
+    <edge xml:id="e0" from="wn-n0" to="penn-n1332"/>
+</graph>
