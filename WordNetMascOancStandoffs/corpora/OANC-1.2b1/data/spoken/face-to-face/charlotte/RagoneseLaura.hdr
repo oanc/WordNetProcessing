@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-00067" date.created="2005-04-18" creator="KBS" version="1.0.4">
+  <fileDesc xmlns:xlink="http://www.w3.org/1999/xlink">
+    <titleStmt>
+      <title>RagoneseLaura</title>
+    </titleStmt>
+    <extent unit="word" count="1253"/>
+    <sourceDesc>
+      <publisher type="org">Project MORE : Charlotte</publisher>
+      <pubDate value="1998-00-0"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc xmlns:xlink="http://www.w3.org/1999/xlink">
+    <textClass catRef="SP FF">
+      <subject>Personal Narrative</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <particDesc>
+      <person sex="f" age="Unknown" xml:id="SP"/>
+      <person sex="f" age="18-24" xml:id="LR"/>
+    </particDesc>
+    <settingDesc>
+      <setting>
+        <locale>North Carolina</locale>
+        <activity>Face to face conversation.</activity>
+      </setting>
+    </settingDesc>
+    <primaryData loc="RagoneseLaura.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="RagoneseLaura-logical.xml" f.id="f.logical"/>
+      <annotation loc="RagoneseLaura-s.xml" f.id="f.s"/>
+      <annotation loc="RagoneseLaura-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="RagoneseLaura-np.xml" f.id="f.np"/>
+      <annotation loc="RagoneseLaura-vp.xml" f.id="f.vp"/>
+      <annotation loc="RagoneseLaura-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+  <revisionDesc xmlns:xlink="http://www.w3.org/1999/xlink">
+    <change>
+      <changeDate>2005-04-18</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Updated to v1.0.4 with complete standoff markup</item>
+      <item>Added Hepple part of speech tags</item>
+      <item>Fixed sentence boundaries</item>
+    </change>
+    <change>
+      <changeDate>2007-11-02</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Added validated sentence annotations</item>
+    </change>
+    <change>
+      <changeDate>2007-11-02</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Added validated sentence annotations</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

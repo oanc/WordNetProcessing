@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0097" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>I can't believe I wrote all that last year</title>
+    </titleStmt>
+    <extent unit="words" count="651"/>
+    <sourceDesc>
+      <title>Acephalous-Cant-believe</title>
+      <author>Scott Eric Kaufman</author>
+      <source type="Web">http://acephalous.typepad.com/.m/acephalous/2010/05/i-cant-believe-i-wrote-all-that-last-year.html</source>
+      <pubDate value="May 7, 2010"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR BL">
+      <domain>Leisure</domain>
+    </textClass>
+    <primaryData loc="Acephalous-Cant-believe.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="Acephalous-Cant-believe-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="Acephalous-Cant-believe-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="Acephalous-Cant-believe-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="Acephalous-Cant-believe-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="Acephalous-Cant-believe-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="Acephalous-Cant-believe-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="Acephalous-Cant-believe-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="Acephalous-Cant-believe-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+</documentHeader>

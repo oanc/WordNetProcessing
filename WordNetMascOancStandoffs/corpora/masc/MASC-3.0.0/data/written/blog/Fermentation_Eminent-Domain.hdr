@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0101" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Eminent Domain Used To Usurp Wine Label Real Estate</title>
+    </titleStmt>
+    <extent unit="words" count="2338"/>
+    <sourceDesc>
+      <title>Fermentation_Eminent-Domain</title>
+      <author>Tom Wark</author>
+      <source type="Web">http://fermentation.typepad.com/fermentation/2010/08/emminent-domain-used-to-usurp-wine-label-real-estate.html</source>
+      <pubDate value="August 30, 2010"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR BL">
+      <domain>Leisure</domain>
+    </textClass>
+    <primaryData loc="Fermentation_Eminent-Domain.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="Fermentation_Eminent-Domain-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="Fermentation_Eminent-Domain-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="Fermentation_Eminent-Domain-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="Fermentation_Eminent-Domain-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="Fermentation_Eminent-Domain-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="Fermentation_Eminent-Domain-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="Fermentation_Eminent-Domain-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="Fermentation_Eminent-Domain-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+</documentHeader>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC3-0122" date.created="2013-02-08">
+  <fileDesc>
+    <titleStmt>
+      <title>Arrival and others</title>
+    </titleStmt>
+    <extent unit="words" count="5423"/>
+    <sourceDesc>
+      <title>1403</title>
+      <author>anonymous</author>
+      <source type="Contributed">Kevin Lawver</source>
+      <pubDate value="2008"/>
+      <pubName>Ficly. A Better, Shorter Story</pubName>
+      <documentation>http://ficly.com/</documentation>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR FT">
+      <domain>General Fiction</domain>
+    </textClass>
+    <primaryData loc="1403.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="1403-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="1403-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="1403-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="1403-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="1403-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="1403-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="1403-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="1403-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+</documentHeader>

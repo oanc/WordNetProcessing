@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="OANC-61200" date.created="2005-08-29" creator="KBS">
+  <fileDesc>
+    <titleStmt>
+      <title>Hong Kong</title>
+    </titleStmt>
+    <extent unit="word" count="3604"/>
+    <sourceDesc>
+      <title>Hong Kong</title>
+      <publisher>Langenscheidt</publisher>
+      <pubPlace>USA</pubPlace>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR TG">
+      <subject>What to do</subject>
+      <domain>Leisure</domain>
+      <subdomain>Travel</subdomain>
+      <audience>Adult</audience>
+    </textClass>
+    <primaryData loc="WhatToHongKong.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="WhatToHongKong-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="WhatToHongKong-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="WhatToHongKong-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="WhatToHongKong-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="WhatToHongKong-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="WhatToHongKong-seg.xml" f.id="f.seg">Segmentation into minimal token components ("quarks")</annotation>
+      <annotation loc="WhatToHongKong-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="WhatToHongKong-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <changeDate>2005-08-29</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Updated to v1.0.4 with complete standoff markup</item>
+      <item>Added Brill part of speech tags</item>
+      <item>Fixed sentence boundaries</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="sense" occurs="15"/>
+        </labelsDecl>
+        <dependencies>
+            <dependsOn type="sw2864-ms98-a-trans-penn.xml"/>
+        </dependencies>
+        <annotationSpaces>
+            <annotationSpace name="wn" type="http://wordnet.princeton.edu/"/>
+        </annotationSpaces>
+    </graphHeader>
+    <node xml:id="wn-n0"/>
+    <a xml:id="a0" label="sense" ref="wn-n0" as="wn">
+        <fs>
+            <f name="sense-key" value="null"/>
+            <f name="annotator" value="veweser"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n1"/>
+    <a xml:id="a1" label="sense" ref="wn-n1" as="wn">
+        <fs>
+            <f name="sense-key" value="null"/>
+            <f name="annotator" value="veweser"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n10"/>
+    <a xml:id="a10" label="sense" ref="wn-n10" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="jeneale"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n11"/>
+    <a xml:id="a11" label="sense" ref="wn-n11" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="comcgeetubb"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n12"/>
+    <a xml:id="a12" label="sense" ref="wn-n12" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="comcgeetubb"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n13"/>
+    <a xml:id="a13" label="sense" ref="wn-n13" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="carichter"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n14"/>
+    <a xml:id="a14" label="sense" ref="wn-n14" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="carichter"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n2"/>
+    <a xml:id="a2" label="sense" ref="wn-n2" as="wn">
+        <fs>
+            <f name="sense-key" value="null"/>
+            <f name="annotator" value="tofox"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n3"/>
+    <a xml:id="a3" label="sense" ref="wn-n3" as="wn">
+        <fs>
+            <f name="sense-key" value="island%1:17:00::"/>
+            <f name="annotator" value="jeneale"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n4"/>
+    <a xml:id="a4" label="sense" ref="wn-n4" as="wn">
+        <fs>
+            <f name="sense-key" value="null"/>
+            <f name="annotator" value="carichter"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n5"/>
+    <a xml:id="a5" label="sense" ref="wn-n5" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="veweser"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n6"/>
+    <a xml:id="a6" label="sense" ref="wn-n6" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="veweser"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n7"/>
+    <a xml:id="a7" label="sense" ref="wn-n7" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="tofox"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n8"/>
+    <a xml:id="a8" label="sense" ref="wn-n8" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="tofox"/>
+        </fs>
+    </a>
+    <node xml:id="wn-n9"/>
+    <a xml:id="a9" label="sense" ref="wn-n9" as="wn">
+        <fs>
+            <f name="sense-key" value="chance%1:26:00::"/>
+            <f name="annotator" value="jeneale"/>
+        </fs>
+    </a>
+    <edge xml:id="e14" from="wn-n14" to="penn-n493"/>
+    <edge xml:id="e13" from="wn-n13" to="penn-n493"/>
+    <edge xml:id="e12" from="wn-n12" to="penn-n493"/>
+    <edge xml:id="e11" from="wn-n11" to="penn-n493"/>
+    <edge xml:id="e9" from="wn-n9" to="penn-n493"/>
+    <edge xml:id="e10" from="wn-n10" to="penn-n493"/>
+    <edge xml:id="e8" from="wn-n8" to="penn-n493"/>
+    <edge xml:id="e7" from="wn-n7" to="penn-n493"/>
+    <edge xml:id="e6" from="wn-n6" to="penn-n493"/>
+    <edge xml:id="e5" from="wn-n5" to="penn-n493"/>
+    <edge xml:id="e3" from="wn-n3" to="penn-n324"/>
+    <edge xml:id="e4" from="wn-n4" to="penn-n324"/>
+    <edge xml:id="e1" from="wn-n1" to="penn-n343"/>
+    <edge xml:id="e2" from="wn-n2" to="penn-n343"/>
+    <edge xml:id="e0" from="wn-n0" to="penn-n324"/>
+</graph>

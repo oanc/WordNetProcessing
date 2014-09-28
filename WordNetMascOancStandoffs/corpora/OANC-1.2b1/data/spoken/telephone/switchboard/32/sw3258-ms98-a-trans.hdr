@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:graf="http://www.xces.org/ns/GrAF/1.0/" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="oanc-01146" date.created="2005-03-29" creator="KBS" version="1.0.4">
+  <fileDesc>
+    <titleStmt>
+      <title>sw3258-ms98-a-trans</title>
+    </titleStmt>
+    <extent unit="word" count="986"/>
+    <sourceDesc>
+      <title>Switchboard Corpus: CLOTHING AND DRESS</title>
+      <distributor type="org">Linguistic Data Consortium</distributor>
+      <pubPlace>USA</pubPlace>
+      <pubDate>1992</pubDate>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="SP TP">
+      <subject>CLOTHING AND DRESS</subject>
+      <audience>Adult</audience>
+    </textClass>
+    <particDesc>
+      <person sex="F" age="1968" xml:id="spkr1404"/>
+      <person sex="F" age="1958" xml:id="spkr1386"/>
+    </particDesc>
+    <settingDesc>
+      <setting who="spkr1404 spkr1386">
+        <time>911015 2210</time>
+        <activity>THE TOPIC IS CLOTHING. PLEASE FIND OUT HOW THE OTHER CALLER TYPICALLY DRESSES FOR WORK. HOW MUCH VARIATION IS THERE FROM DAY TO DAY? HOW MUCH VARIATION IS THERE FROM SEASON TO SEASON?</activity>
+      </setting>
+    </settingDesc>
+    <primaryData loc="sw3258-ms98-a-trans.txt" f.id="text"/>
+    <annotations>
+      <annotation loc="sw3258-ms98-a-trans-logical.xml" f.id="f.logical"/>
+      <annotation loc="sw3258-ms98-a-trans-s.xml" f.id="f.s"/>
+      <annotation loc="sw3258-ms98-a-trans-hepple.xml" f.id="f.hepple"/>
+      <annotation loc="sw3258-ms98-a-trans-vp.xml" f.id="f.vp"/>
+      <annotation loc="sw3258-ms98-a-trans-np.xml" f.id="f.np"/>
+      <annotation loc="sw3258-ms98-a-trans-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <changeDate>2005-03-29   </changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Updated to v1.0.4 with complete standoff markup</item>
+      <item>Added Hepple part of speech tags</item>
+      <item>Fixed sentence boundaries</item>
+      <item>Added noun and verb chunks</item>
+    </change>
+    <change>
+      <changeDate>2007-11-02</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Added validated sentence annotations</item>
+    </change>
+    <change>
+      <changeDate>2007-11-02</changeDate>
+      <respName>Keith Suderman</respName>
+      <item>Added validated sentence annotations</item>
+    </change>
+  </revisionDesc>
+</documentHeader>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentHeader xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.xces.org/ns/GrAF/1.0/" docId="MASC2-0046" date.created="2013-01-24">
+  <fileDesc>
+    <titleStmt>
+      <title>The Decline of the Northeastern Ohio Steel Market: Why Did Attempts by Union Leaders and Concerned Citizens to Revive the Steel Industry Ultimately Fail?</title>
+    </titleStmt>
+    <extent unit="words" count="3269"/>
+    <sourceDesc>
+      <title>Ohio_Steel</title>
+      <author sex="Female" age="&lt;30">Philosophy E. Walker</author>
+      <source type="Contributed">ANC contribution upload</source>
+      <pubDate value="2008"/>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <textClass catRef="WR ES">
+      <domain>World Affairs</domain>
+      <subdomain>History</subdomain>
+    </textClass>
+    <primaryData loc="Ohio_Steel.txt" f.id="f.text"/>
+    <annotations>
+      <annotation loc="Ohio_Steel-logical.xml" f.id="f.logical">Logical markup</annotation>
+      <annotation loc="Ohio_Steel-nc.xml" f.id="f.nc">Noun chunks</annotation>
+      <annotation loc="Ohio_Steel-ne.xml" f.id="f.ne">Named entities</annotation>
+      <annotation loc="Ohio_Steel-penn.xml" f.id="f.penn">Tokens with Penn POS tags</annotation>
+      <annotation loc="Ohio_Steel-s.xml" f.id="f.s">Sentence boundaries</annotation>
+      <annotation loc="Ohio_Steel-vc.xml" f.id="f.vc">Verb chunks</annotation>
+      <annotation loc="Ohio_Steel-seg.xml" f.id="f.seg">Base segmentation</annotation>
+      <annotation loc="Ohio_Steel-wn.xml" f.id="f.wn">Wordnet senses</annotation>
+    </annotations>
+  </profileDesc>
+</documentHeader>
